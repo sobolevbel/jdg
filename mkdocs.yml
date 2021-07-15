@@ -5,7 +5,8 @@ theme:
 
 nav:
   - Главная: index.md
-  - PESEL и Profil Zaufany: pesel_pz.md
+  - PESEL: pesel.md
+  - Profil Zaufany: pz.md
   - Регистрация: registration.md
   - ZUS: zus.md
   - Налоги: taxes.md
