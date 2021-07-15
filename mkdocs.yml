@@ -1,0 +1,12 @@
+site_name: "JDG — ИП в Польше"
+site_url: https://sobolevbel.githun.io
+theme:
+  name: readthedocs
+
+nav:
+  - Главная: index.md
+  - Регистрация: registration.md
+  - ZUS: zus.md
+  - Налоги: taxes.md
+  - Декларации: declarations.md
+  - Легализация: legalization.md
