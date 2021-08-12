@@ -1,5 +1,8 @@
 site_name: "JDG — ИП в Польше"
-site_url: https://sobolevbel.github.io
+site_description: "Гайд по регистрации и ведению JDG (ИП) в Польше"
+site_url: https://sobolevbel.github.io/jdg/
+repo_url: https://github.com/sobolevbel/jdg
+
 theme:
   name: readthedocs
 

@@ -34,7 +34,7 @@ Urząd Dzielnicy + свой район. Прийти можно в любой у
 
 ## PESEL по трудовому договору
 
-Приходим в ужонд мяста, берем с собой трудовой договор, паспорт, заявление и делаем PESEL. Образец заявления по трудовому договору:
+Приходим в ужонд, берем с собой трудовой договор, паспорт, заявление и делаем PESEL. Образец заявления по трудовому договору:
 [раз](https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/1.png?attachauth=ANoY7coUCiJhfOVEmulG0HRWepsrklVZ8V0dRPn8EWgPMFhCbWRUlDhT5MnhKtJCMgTMy94_avAxxxkb7dkUGd3J8J3GrWov_PvZqGPIaz98fBr3xkkbz9otU9Mpt7FotFj4RyPl2oMxcwXD5YCDLCQsRywibaOVSuUgV9xDj6wlynbG3HOwVS1H7-7lgnEX88fGAERGLw22QFHROziNOlUajl-HN1uGHTHMUgavdy3r4nhH-_LvOvM%3D&attredirects=0),
 [два](https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/2.png?attachauth=ANoY7cpTazc53PJLkisnqkv98T1bremUkfAMnw8Svkjafr4jWnEWmVC7coIjWOcLilxzB1eBlFS4aR2fEIK_5-GdRNBAgVmJSeFYZx26Vb-d-u_jKmkZfl4-HzbqfJKxNeOth4ANsMV8_ZrACFu6OZ7XnqPelDXqNV2Wp5cdtvGxcXr0J_EsVgJa4Mb0xCSOJM8fD_M_4Zp4e7gFYst0huLat0lVNNOazbPibR82ohLt4V7bmNtlZfg%3D&attredirects=0), 
 [три](https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/3.png?attachauth=ANoY7cr1P_lwnuy4MVqu_229zDZ8F-gC3wpHTEsnLriQ6XqrL2b6QdtVrPqorT4e74CZWHMf5OezD-TQBzFpom76uzqNfSaElfUgL9oTcZnTrQySyP0LwoioiRvFYWD9asYfqwbLP-y3EXcqZf6XWJLBzBsSmkzFnaPoVN9eODOfX7SQQqLHIq6c-fyK-cCYAlQuGyn3D-PpaVTAU7iZR5Oe-RFcm2Ze44LAe_1mUN5khcuOY5jmJcs%3D&attredirects=0), 
