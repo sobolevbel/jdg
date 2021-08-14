@@ -2,8 +2,9 @@ name: JDG CI
 
 on:
   push:
-    branches: 
-      - master
+    branches: [ master ]
+    tags: [ v* ]
+  pull_request:
 
 jobs:
   deploy:
@@ -14,4 +15,6 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs
-      - run: mkdocs gh-deploy --force
+      - run: mkdocs build --verbose
+      - if: github.ref == 'refs/heads/master'
+        run: mkdocs gh-deploy --force
