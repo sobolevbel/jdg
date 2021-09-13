@@ -19,7 +19,7 @@
 
 ## Как узнать свой счет для оплаты ZUS
 
-Сделать это можно на сайте [esladka.pl][3]. Необходимо ввести два индентификатора NIP и REGION (или NIP и PESEL)
+Сделать это можно на сайте [esladka.pl][3]. Необходимо ввести два индентификатора NIP и REGON (или NIP и PESEL)
 
 [1]: https://www.zus.pl
 [2]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/ulga-na-start-6-miesiecy-bez-skladek-na-ubezpieczenie-spoleczne
