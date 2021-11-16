@@ -260,7 +260,11 @@
 
 ### 6. Переводы документов на польский язык.
 
+## Видео про ВНЖ по ИП от Центра Беларуской Солидарности
 
+[![ВНЖ для ИП в Польше. Poland Business Harbour](https://res.cloudinary.com/marcomontalbano/image/upload/v1637072137/video_to_markdown/images/youtube--rDP1isgb4-s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rDP1isgb4-s "ВНЖ для ИП в Польше. Poland Business Harbour")
+
+<!-- resources -->
 
 [1]: https://t.me/iryna_ihrpro
 [2]: https://docs.google.com/document/d/1JIjog1ZHP9-ZqX3Z9MQQQhZrBHFAGjtL/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
