@@ -43,10 +43,10 @@
 
 Найти отправленные декларации можно на странице Dokumenty -> Dokumenty wysłane.
 
-[1]: images/zus-dra-1.png
-[2]: images/zus-dra-2.png
-[3]: images/zus-dra-3.png
-[6]: images/zus-dra-6.png
-[7]: images/zus-dra-7.png
-[8]: images/zus-dra-8.png
-[10]: images/zus-dra-10.png
+[1]: images/zus_dra/zus-dra-1.png
+[2]: images/zus_dra/zus-dra-2.png
+[3]: images/zus_dra/zus-dra-3.png
+[6]: images/zus_dra/zus-dra-6.png
+[7]: images/zus_dra/zus-dra-7.png
+[8]: images/zus_dra/zus-dra-8.png
+[10]: images/zus_dra/zus-dra-10.png
