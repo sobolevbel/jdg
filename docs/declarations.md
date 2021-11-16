@@ -6,16 +6,16 @@
 
 1. Перейти на вкладку ePłatnik.
 
-![Choose ePłatnik tab][1]
+    ![Choose ePłatnik tab][1]
 
 2. В меню **Dokumenty** выбрать пункт **Dodaj dokument**
 
-![Dodaj dokument][2]
+    ![Dodaj dokument][2]
 
 3. В открывшемся окне из большого списка
 деклараций выбрать ZUS DRA и нажать Wybierz -> Przejdz do kreatora.
 
-![Choose ZUS DRA][3]
+    ![Choose ZUS DRA][3]
 
 4. Любуемся своими данными и жмем Dalej.
 5. Nowy komplet rozliczeniowy -> Dalej.
@@ -23,23 +23,23 @@
 и в выпадаюшем списке выбираем тип декларации 2 - до 10 числа. Остальное оставляем как есть.
 Соглашаемся с сообщением о том, что мы не указали процентную ставку на ubezpieczenie wypadkowe. Нам это не нужно.
 
-![basic declaration options][6]
+    ![basic declaration options][6]
 
 7. Ставим галочку Podstawy minimalne. Страница автоматически подставляет нужную сумму как основу для расчета zus.
 
-![Podstawy minimalne][7]
+    ![Podstawy minimalne][7]
 
 8. На следующем экране менять ничего не нужно, даже
 если в ваш ZUS вписаны члены вашей семьи. Dalej.
 
-![Nothing to change][8]
+    ![Nothing to change][8]
 
 9. Теперь можно посмотреть что получилось с помощью кнопки Podgląd.
 Сумма к выплате указана на второй странице. Убедитесь что она верная.
 
 10. Подписать декларацию профилем зауфаным и отправить с помощью кнопочек Weryfikuj и Wyślij i zakończ.
 
-![Weryfikuj и Wyślij i zakończ][10]
+    ![Weryfikuj и Wyślij i zakończ][10]
 
 Найти отправленные декларации можно на странице Dokumenty -> Dokumenty wysłane.
 
