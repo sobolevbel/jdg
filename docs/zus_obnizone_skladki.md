@@ -121,17 +121,17 @@
 
 Проверить, верифицировать и выслать документ в ZUS.
 
-[1]: images/zus_obnizone/zus_obn_01.png
-[2]: images/zus_obnizone/zus_obn_02.png
-[3]: images/zus_obnizone/zus_obn_03.png
-[4]: images/zus_obnizone/zus_obn_04.png
-[5]: images/zus_obnizone/zus_obn_05.png
-[6]: images/zus_obnizone/zus_obn_06.png
-[7]: images/zus_obnizone/zus_obn_07.png
-[8]: images/zus_obnizone/zus_obn_08.png
-[9]: images/zus_obnizone/zus_obn_09.png
-[10]: images/zus_obnizone/zus_obn_10.png
-[11]: images/zus_obnizone/zus_obn_11.png
-[12]: images/zus_obnizone/zus_obn_12.png
-[13]: images/zus_obnizone/zus_obn_13.png
+[1]: images/zus_obnizone/zus_obnizone_01.png
+[2]: images/zus_obnizone/zus_obnizone_02.png
+[3]: images/zus_obnizone/zus_obnizone_03.png
+[4]: images/zus_obnizone/zus_obnizone_04.png
+[5]: images/zus_obnizone/zus_obnizone_05.png
+[6]: images/zus_obnizone/zus_obnizone_06.png
+[7]: images/zus_obnizone/zus_obnizone_07.png
+[8]: images/zus_obnizone/zus_obnizone_08.png
+[9]: images/zus_obnizone/zus_obnizone_09.png
+[10]: images/zus_obnizone/zus_obnizone_10.png
+[11]: images/zus_obnizone/zus_obnizone_11.png
+[12]: images/zus_obnizone/zus_obnizone_12.png
+[13]: images/zus_obnizone/zus_obnizone_13.png
 [14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
