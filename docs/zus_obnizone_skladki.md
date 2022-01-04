@@ -97,9 +97,9 @@
 
 Проверить, верифицировать и выслать документ в ZUS.
 
-[1]: images/zus_obnizone/zus_obn_01.jpeg
-[2]: images/zus_obnizone/zus_obn_02.jpeg
-[3]: images/zus_obnizone/zus_obn_03.jpeg
+[1]: images/zus_obnizone/zus_obn_01.png
+[2]: images/zus_obnizone/zus_obn_02.png
+[3]: images/zus_obnizone/zus_obn_03.png
 [4]: images/zus_obnizone/zus_obn_04.png
 [5]: images/zus_obnizone/zus_obn_05.png
 [6]: images/zus_obnizone/zus_obn_06.png
