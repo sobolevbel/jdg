@@ -65,7 +65,7 @@
 
 #### 3.1. Cтрахование
 
-* ZUS ZNCA + ZUS ZUA/ ZUS ZLL + ZUS RCA/DRA основного заявителя
+* ZUS ZCNA + ZUS ZUA/ ZUS ZLL + ZUS RCA/DRA основного заявителя
 
     **ИЛИ**
 
