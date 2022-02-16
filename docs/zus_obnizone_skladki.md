@@ -88,7 +88,8 @@
 
 Выбрать *Kod tytułu ubezpieczenia* **05 70** и указать дату первым числом месяца (то же число, что и для **ZUS ZWUA**).
 
-Выбрать нужные пункты в секциях *Obowiązkowe ubezpieczenia spoleczne* и *Dobrowolne ubezpieczenia spoleczne*.
+Выбрать нужные пункты в секциях *Obowiązkowe ubezpieczenia spoleczne* и *Dobrowolne ubezpieczenia spoleczne*. Chorobowa складка (на больничные в случае болезни) - опциональна.
+Можно снизить зус на 20+ злотых в месяц если отказаться от этой складки, но тогда вы не сможете получить компенсацию больничных в случае болезни.
 
 ![zus_obn_9][9]
 
