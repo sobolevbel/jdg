@@ -1,4 +1,4 @@
-# JDG  — ИП в Польше
+# JDG (Jednoosobowa działalność gospodarcza)  — ИП в Польше
 
 [Перейти на сайт](https://sobolevbel.github.io/jdg/)
 
