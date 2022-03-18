@@ -93,7 +93,7 @@
 [https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
 
 ## Словарь терминов
-- PIT-28 - отчёт за год по доходам JDG при выбранной налоговой системе - rychalt(рычальт)
+- PIT-28 - отчёт за год по доходам JDG при выбранной налоговой системе - ryczałt (рычалт)
 - PIT-37 - отчёт за год по доходам
 - Blue Card - ВНЖ для высококвалифицированных наёмных рабочих
 - КЧП - карта часового побыту - ВНЖ по бизнес деятельности для JDG
