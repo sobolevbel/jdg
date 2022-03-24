@@ -18,7 +18,7 @@
 - python 3+
 - mkdocs
 
-Для установки `mkdocs` используйте команду `pip install mkdocs`
+Для установки зависимостей проекта используйте команду `pip install -r requirements.txt`
 
 Запустить проект:
 
