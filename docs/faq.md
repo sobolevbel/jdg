@@ -119,6 +119,3 @@
 
 ## Как можно узнать имя отца для подачи PIT-37?
 Если есть бумага, когда выдавали песель, то там прописаны имена родителей. Так же на сайте [gov.pl](https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna) после логина, на главной странице в блоке `Powiązane usługi` нужно выбрать `Sprawdź swoje dane w Rejestrze PESEL`. Там же будут данные о супруге, детях и матери.
-
-## Можно ли иметь ИП в Польше на гуманитарной визе?
-Нет.
