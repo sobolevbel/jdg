@@ -1,6 +1,7 @@
 # Процесс легализации предпринимателя и его семьи по ИП
 
-За документ благодарны миграционному консультанту [Ирине][1].
+За документ благодарны миграционному консультанту [Ирине][1]. Документ описывает процесс подачи на karta pobytu (ВНЖ)  на основе 
+działalność gospodarcza (хозяйственной деятельности).
 
 Актуальность - октябрь 2021.
 
@@ -275,6 +276,9 @@
 ## Видео про ВНЖ по ИП от Центра Беларуской Солидарности
 
 [![ВНЖ для ИП в Польше. Poland Business Harbour](https://res.cloudinary.com/marcomontalbano/image/upload/v1637072137/video_to_markdown/images/youtube--rDP1isgb4-s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rDP1isgb4-s "ВНЖ для ИП в Польше. Poland Business Harbour")
+
+## Заметки
+- 
 
 <!-- resources -->
 
