@@ -72,7 +72,7 @@ działalność gospodarcza (хозяйственной деятельности)
 
 #### 3.1. Cтрахование
 
-* ZUS ZCNA + ZUS ZUA/ ZUS ZLL + ZUS RCA/DRA основного заявителя. 
+* ZUS ZCNA + ZUS ZUA/ZUS ZZA + ZUS RCA/DRA основного заявителя. 
 
   Пояснения:
 
@@ -202,7 +202,7 @@ działalność gospodarcza (хозяйственной деятельности)
 
 #### 3.1. Cтрахование
 
-* ZUS ZCNA + ZUS ZUA/ ZUS ZLL + ZUS RCA/DRA основного заявителя. 
+* ZUS ZCNA + ZUS ZUA/ZUS ZZA + ZUS RCA/DRA основного заявителя. 
 
   Пояснения:
 
