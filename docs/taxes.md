@@ -39,3 +39,4 @@
 - После подачи заявления проверить зарегистрировали ли вас можно на [podatki.gov.pl](https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka)
 - VAT составляет 23%
 - Если работаешь с польской фирмой - то возникает внутрипольский ват, если с другой страной EU - то VAT EU, а если со страной вне EU зоны - то VAT нет вообще
+- Отдельная страничка на [biznes.gov.pl](https://www.biznes.gov.pl/pl/portal/00248)
