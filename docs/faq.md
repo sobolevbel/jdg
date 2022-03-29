@@ -3,14 +3,16 @@
 ## Можно ли податься на BlueCard как JDG?
 **НЕТ**. BlueCard подразумевается только для наёмных рабочих, как JDG вы самостоятельная сущность ведущая бизнес. Для легализации надо идти по треку [ВНЖ по JDG](../legalization)
 
-## Какие коды PKWiU подходят для 12% налога на ryczałt (рычалт)?
+## PKWiU коды
+
+### Какие коды PKWiU подходят для 12% налога на ryczałt (рычалт)?
 - 62.01.1 - Usługi programowania
 - 62.02 - Doradztwo w zakresie oprogramowania
 - 62.02.10.0 - Doradztwo w zakresie sprzętu komputerowego
 - 62.09.20.0 - Usługi w zakresie instalowania oprogramowania
 - 62.03.1 - Usługi związane z zarządzaniem siecią i systemami informatycznymi
 
-## Какие коды PKWiU подходят для 8,5% налога на ryczałt (рычалт)?
+### Какие коды PKWiU подходят для 8,5% налога на ryczałt (рычалт)?
 - 62.01.12.0 – Usługi związane z projektowaniem i rozwojem technologii informatycznych dla sieci i systemów komputerowych
 - 62.02.30.0 – Usługi pomocy technicznej w zakresie technologii informatycznych i sprzętu komputerowego
 - 63.11.12.0 – Usługi zarządzania stronami internetowymi z zapewnieniem infrastruktury (hosting)
@@ -19,6 +21,9 @@
 - 62.01.12.0 – Projektowanie i wdrażanie infrastruktury w chmurze, tworzenie dokumentacji technicznej systemów komputerowych
 - 62.01.12.0 – Konfigurację narzędzi monitorujących dane systemy informatyczne
 - 62.01.12.0 – Automatyzacja procesów wdrożeń systemów informatycznych
+
+### Lifehack в поиске PKWiU кодов
+Небольшой lifehack как не прогадать с кодами PKD: находите фирму которая работает в вашей сфере и проверяете её по CEIDG или KRS: так будет сложно ошибиться и можно подсмотреть идеи что ещё вписать
 
 ## Я хочу переехать в другой город или на другой адрес - что надо поменять и где?
 Заходите на сайте biznes.gov.pl и меняете
