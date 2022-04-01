@@ -42,3 +42,12 @@
 - VAT составляет 23%
 - Если работаешь с польской фирмой - то возникает внутрипольский ват, если с другой страной EU - то VAT EU, а если со страной вне EU зоны - то VAT нет вообще
 - Отдельная страничка на [biznes.gov.pl](https://www.biznes.gov.pl/pl/portal/00248)
+
+## ZUS
+
+![skladka_zdrowotna_dla_rychaltu.jpeg][1]
+Оплата налога ZUS в месяц, в зависимости от прихода. При привышении порога, пересчет идет и на прошлые месяцы. Пример - в марте у вас сумма стала больше 60_000, а в декабре больше 300_000, это значит что за все 12 месяцев вы платите по `1007.81 zł`.
+
+Больше деталей на [https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/](https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/)
+
+[1]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
