@@ -286,7 +286,7 @@ działalność gospodarcza (хозяйственной деятельности)
 [![ВНЖ для ИП в Польше. Poland Business Harbour](https://res.cloudinary.com/marcomontalbano/image/upload/v1637072137/video_to_markdown/images/youtube--rDP1isgb4-s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=rDP1isgb4-s "ВНЖ для ИП в Польше. Poland Business Harbour")
 
 ## Заметки
-- 
+- При распечатке документов на ВНЖ нужно в двухстороннем виде печатать и степлером одинаковый тип доков скреплять.
 
 <!-- resources -->
 
