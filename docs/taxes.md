@@ -12,7 +12,7 @@
 - [https://www.podatki.wtf/](https://www.podatki.wtf/)
 - [https://calculla.com/polish_net_gross_earnings_calculator](https://calculla.com/polish_net_gross_earnings_calculator)
 - [https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen](https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen)
-- Калькулятор от участника чата. Скачивайте [таблицу](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx), импортируйте в Google Drive и подставляете свои данные.
+- Калькулятор от участника чата. Скачивайте [таблицу](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvvRbOb_aFz2rHsZgV8ENbekciy6hq-ggwiGyrTylAAIXoUIXjpQNtMsp6v-kmj5s_TS0pYjnuaxqY/pub?output=xlsx), импортируйте в Google Drive и подставляете свои данные.
 
 ## VAT
 
@@ -46,8 +46,15 @@
 ## ZUS
 
 ![skladka_zdrowotna_dla_rychaltu.jpeg][1]
+
 Оплата налога ZUS в месяц, в зависимости от прихода. При привышении порога, пересчет идет и на прошлые месяцы. Пример - в марте у вас сумма стала больше 60_000, а в декабре больше 300_000, это значит что за все 12 месяцев вы платите по `1007.81 zł`.
 
 Больше деталей на [https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/](https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/)
+
+## FAQ
+
+### Оплата налогов на ryczałt
+Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
+
 
 [1]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg

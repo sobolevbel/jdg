@@ -136,3 +136,9 @@
 - Профиль зауфаны 1 день
 - ИП 7-10 дней
 - Счета фирмовые 1 день
+
+## Список виртуальных офисов (wirtualne biuro)
+[https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml)
+
+## Как ликвидировать ИП
+[https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
