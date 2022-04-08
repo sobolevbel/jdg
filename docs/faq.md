@@ -154,3 +154,9 @@
 
 ## Как ликвидировать ИП
 [https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
+
+## Сервисы по созданию фактур
+
+- [https://www.infakt.pl/](https://www.infakt.pl/)
+- [http://siiami.pl/](http://siiami.pl/)
+- [FakturaXL](https://fakturaxl.pl)
