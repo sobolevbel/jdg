@@ -1,0 +1,16 @@
+version: "3.5"
+
+services:
+  jdg:
+    build: ./
+    ports:
+      - "8000:8000"
+    network_mode: "host"
+    volumes:
+    - type: bind
+      source: ./docs
+      target: /docs
+    - type: bind
+      source: ./mkdocs.yml
+      target: /mkdocs.yml
+    command: ["mkdocs", "serve"]
