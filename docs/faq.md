@@ -157,6 +157,8 @@
 
 ## Сервисы по созданию фактур
 
-- [https://www.infakt.pl/](https://www.infakt.pl/)
-- [http://siiami.pl/](http://siiami.pl/)
+- [Infakt](https://www.infakt.pl/)
 - [FakturaXL](https://fakturaxl.pl)
+- [Wfirma](https://wfirma.pl/)
+- [Fakturowo](https://www.fakturowo.pl/)
+- [Siiami](http://siiami.pl/)
