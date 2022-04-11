@@ -168,3 +168,11 @@
 - [Wfirma](https://wfirma.pl/)
 - [Fakturowo](https://www.fakturowo.pl/)
 - [Siiami](http://siiami.pl/)
+
+## Влияет ли ведение ИП в квартире на налог на недвижимость?
+TL;DR Нет.
+Был слух что будет налог выше на недвижимость если вписать ее как место `prowadzenia działalności`.
+У вас налог не вырастет пока вы специально не пойдете с хозяином квартиры в urząd gminy, что бы выделить конкретное место в квартире как офис.
+Если то место, где вы работаете по прежнему используется для личных целей, то никакого налога сверху арендодателям не возникает.
+
+Более детально [https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci](https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci)
