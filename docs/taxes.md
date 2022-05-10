@@ -6,8 +6,6 @@
 
 Сгенерировать счет для оплаты подоходного налога можно на сайте [налоговой][1] на основе своего индентификатора NIP.
 
-[1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
-
 ## Налоговые калькуляторы
 - [https://www.podatki.wtf/](https://www.podatki.wtf/)
 - [https://calculla.com/polish_net_gross_earnings_calculator](https://calculla.com/polish_net_gross_earnings_calculator)
@@ -47,7 +45,7 @@
 
 ## ZUS
 
-![skladka_zdrowotna_dla_rychaltu.jpeg][1]
+![skladka_zdrowotna_dla_rychaltu.jpeg][2]
 
 Оплата налога ZUS в месяц, в зависимости от прихода. При привышении порога, пересчет идет и на прошлые месяцы. Пример - в марте у вас сумма стала больше 60_000, а в декабре больше 300_000, это значит что за все 12 месяцев вы платите по `1007.81 zł`.
 
@@ -73,4 +71,5 @@ ZUS состоит из 2 основных частей: медицинский 
 Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
 
 
-[1]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
+[1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
+[2]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
