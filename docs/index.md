@@ -50,5 +50,5 @@ Spólka, sp.z.o.o - аналог ООО, общества с ограничен�
 Открыть компанию может любой человек. Больше информации можно узнать в [чате Telegram про спулки][3].
 
 [1]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
-[2]: https://t.me/joinchat/p47wWwYdO6llOTBi
+[2]: https://t.me/+Xadb61hycxMxNjA6
 [3]: http://t.me/llc_poland
