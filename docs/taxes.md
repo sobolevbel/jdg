@@ -13,6 +13,13 @@
 - [https://jakipit.pl/](https://jakipit.pl/)
 - Калькулятор от участника чата. Скачивайте [таблицу](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvvRbOb_aFz2rHsZgV8ENbekciy6hq-ggwiGyrTylAAIXoUIXjpQNtMsp6v-kmj5s_TS0pYjnuaxqY/pub?output=xlsx), импортируйте в Google Drive и подставляете свои данные.
 
+## Podatek dochodowy справка о незадолженности
+
+Заказать на [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
+
+Выбираем все пункты
+![podatek_dochodowy.jpeg](images/taxes/podatek_dochodowy.jpeg)
+
 ## VAT
 
 **VAT (Value-added tax)** aka **НДС (Налог на добавленную стоимость)** — косвенный налог, который взимается с большинства продаж товаров и услуг.
