@@ -11,6 +11,10 @@
 2. Когда работа будет готова — проверьте локально что сайт собирается и запушьте ветку в репозиторий.
 3. Создайте Pull Request в master.
 
+Пошаговые инструкции:
+1. От GitHub, на английском: [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+2. На русском [GitHub - Внесение собственного вклада в проекты](https://git-scm.com/book/ru/v2/GitHub-%D0%92%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+
 ## Процесс работы
 
 ### Нормальный способ
