@@ -127,7 +127,8 @@ BEN - получатель, SHA - отправитель платит за от�
 ## VAT
 
 ### С каких товаров можно списать VAT
-[128 kosztów uzyskania przychodu każdego programisty](https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/)
+- [128 kosztów uzyskania przychodu każdego programisty](https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/)
+- [73 pomysły na koszty firmowe dla programisty](https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/)
 
 ### Как списать VAT (НДС) с покупки на фирму
 Просите у продавца фактуру и даете свой NIP. Покупка должна быть по фактуре с вашим NIP. При этом, не обязательно оплачивать со счета фирмового - можно с индивидуального.
