@@ -120,10 +120,18 @@
 
 Вам не нужен банковский счет, если вы являетесь микропредпринимателем. Вам потребуется банковский счет для получения возмещения VAT (НДС) из налоговой инспекции.
 
+### Комиссии SWIFT при переводах
+
+Cуществуют разные методы перевода SWIFT, определяющие кто и какие комиссии платит:
+- **BEN** - (BENefeciary) все комиссии платит получатель,
+- **SHA** - (SHAred) отправитель платит за отправку, получатель за промежуточные.
+- **OUR** - все комиссии платит отправитель.
+
 ## VAT
 
 ### С каких товаров можно списать VAT
-[128 kosztów uzyskania przychodu każdego programisty](https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/)
+- [128 kosztów uzyskania przychodu każdego programisty](https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/)
+- [73 pomysły na koszty firmowe dla programisty](https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/)
 
 ### Как списать VAT (НДС) с покупки на фирму
 Просите у продавца фактуру и даете свой NIP. Покупка должна быть по фактуре с вашим NIP. При этом, не обязательно оплачивать со счета фирмового - можно с индивидуального.
