@@ -112,7 +112,7 @@
 
 Вы должны иметь корпоративный счет, если:
 
-- сумма одной сделки с другим предпринимателем превышает 15 000 злотых (даже если вы разделите эту сумму на несколько частей, например, будете оплачивать счет частями) 
+- сумма одной сделки с другим предпринимателем превышает 15 000 злотых (даже если вы разделите эту сумму на несколько частей, например, будете оплачивать счет частями). Статья на [poradnikprzedsiebiorcy.pl Obowiązkowy rachunek firmowy dla wszystkich przedsiębiorców](https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow). [Ссылка на закон](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19)
 - вы хотите использовать дробный платеж (MPP)
 - вы будете осуществлять операции, подлежащие обязательному раздельному платежу (MPP).
 
