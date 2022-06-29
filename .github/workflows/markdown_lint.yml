@@ -6,6 +6,11 @@ on:
       - "**.md"
       - ".github/workflows/markdown_lint.yml"
       - ".github/workflows/markdown_link_check_config.json"
+  pull_request:
+    paths:
+      - "**.md"
+      - ".github/workflows/markdown_lint.yml"
+      - ".github/workflows/markdown_link_check_config.json"
 
 jobs:
   markdown-link-check:
