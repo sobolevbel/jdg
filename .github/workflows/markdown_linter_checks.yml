@@ -2,9 +2,11 @@ name: markdown-linter
 
 on:
   push:
-    branches:
-      - master
-      - main
+    paths:
+      - "**.md"
+      - ".github/workflows/markdown_linter_rules.yml"
+      - ".github/workflows/markdown_linter_checks.yml"
+  pull_request:
     paths:
       - "**.md"
       - ".github/workflows/markdown_linter_rules.yml"
