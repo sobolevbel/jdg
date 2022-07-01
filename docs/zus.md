@@ -25,77 +25,74 @@
 
 ## Справка о незадолженности в ZUS
 
-Сделать это можно на сайте [biznes.gov.pl][4] пункт **Zaświadczenie o niezaleganiu w opłacaniu składek ZUS**.
+- Можно пойти физически в отделение ZUS (любое, не обязательно вашего района) и получить все справки с мокрыми печатями
+- Можно на портале ZUS [https://www.zus.pl/portal/](https://www.zus.pl/portal/)
 
-1. Выбираем **ZAŁATW ONLINE**.
+1. Переходим на сайт [https://www.zus.pl/portal/obszar-ogolny.npi#KUS0001](https://www.zus.pl/portal/obszar-ogolny.npi#KUS0001), в окно фильтра вписываем `RWN`.
 
-    ![zus_zaswiadczenie_1.png][5]
+    ![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
 
-2. Далее **POZPOCZNIJ**.
-    
-    ![zus_zaswiadczenie_1.1.png][6]
-
-3. Нас перекидывает в **ZUS** на форму заполнения wniosek RWN. Проверяем данные в форме.
+2. Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
 
    ![zus_zaswiadczenie_2.png][7]
 
-4. Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
+3. Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
 
    ![zus_zaswiadczenie_2.1.png][8] 
 
-5. Закрываем документ.
+4. Закрываем документ.
 
    ![zus_zaswiadczenie_2.2.png][9]
 
-6. Соглашаемся.
+5. Соглашаемся.
 
     ![zus_zaswiadczenie_2.3.png][10]
 
-7. Проверяем документ и нажимаем **Wyślij**.
+6. Проверяем документ и нажимаем **Wyślij**.
 
    ![zus_zaswiadczenie_2.4.png][11]
 
-8. Подписываем через Profil Zaufany
+7. Подписываем через Profil Zaufany
 
    ![zus_zaswiadczenie_2.5.png][12]
 
-9. Нажимаем **Ok**
+8. Нажимаем **Ok**
 
    ![zus_zaswiadczenie_2.6.png][13]
 
-10. Нажимаем **Ok**
+9. Нажимаем **Ok**
 
    ![zus_zaswiadczenie_2.7.png][14]
 
-11. На почту придет (если на www.biznes.gov.pl настроена почта) сообщение, что заявление принято.
+10. На почту придет (если на www.biznes.gov.pl настроена почта) сообщение, что заявление принято.
     
     ![zus_zaswiadczenie_3.png][15]
 
-12. В разделе **Konto Przedsiębiorcy**. В пункте **Moje sprawy** появится запись.
+11. В разделе **Konto Przedsiębiorcy**. В пункте **Moje sprawy** появится запись.
 
     ![zus_zaswiadczenie_3.1.png][16]
 
-13. Если кликнуть на **Zaświadczenie o niezaleganiu w opłacaniu składek ZUS** увидим статус заявки.
+12. Если кликнуть на **Zaświadczenie o niezaleganiu w opłacaniu składek ZUS** увидим статус заявки.
 
     ![zus_zaswiadczenie_3.2.png][17]
 
-14. Позднее придет сообщение на почту о получении нового документа в ZUS (Serwis Biznes.gov.pl - Nowy dokument z ZUS) 
+13. Позднее придет сообщение на почту о получении нового документа в ZUS (Serwis Biznes.gov.pl - Nowy dokument z ZUS) 
 
     ![zus_zaswiadczenie_3.3.png][18]
 
-15. Далее заходим в [ZUS][1]. В меню выбираем Płatnik. Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany. 
+14. Далее заходим в [ZUS][1]. В меню выбираем Płatnik. Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany. 
 
     ![zus_zaswiadczenie_4.png][19]
 
-16. После подтверждения появится пункт **Szczegóły**
+15. После подтверждения появится пункт **Szczegóły**
 
     ![zus_zaswiadczenie_4.1.png][20]
 
-17. Открываем документ **Przeglądaj dokument**.
+16. Открываем документ **Przeglądaj dokument**.
 
     ![zus_zaswiadczenie_4.2.png][21]
 
-18. Печатаем **Drukuj**.
+17. Печатаем **Drukuj**.
 
     ![zus_zaswiadczenie_4.3.png][22]
 
