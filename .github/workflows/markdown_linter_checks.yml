@@ -1,0 +1,27 @@
+name: markdown-linter
+
+on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - "**.md"
+      - ".github/workflows/markdown_linter_rules.yml"
+      - ".github/workflows/markdown_linter_checks.yml"
+permissions:
+  contents: read
+jobs:
+  markdown-lint:
+    name: Lint repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"
+      - name: Install mdl
+        run: gem install mdl
+      - name: Run markdown-linter
+        run: mdl -s .github/workflows/markdown_linter_rules.rb docs/.

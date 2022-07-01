@@ -16,7 +16,7 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: checkout
       uses: actions/checkout@v3
       with:
         submodules: recursive
