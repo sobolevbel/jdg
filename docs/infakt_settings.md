@@ -43,6 +43,9 @@
 * Preferencyjna stawka ZUS przez 24 miesiące działalności **Tak**
 * Sposob wyliczania składki zdrowotnej **Na podstawie bieżącego przychodu**
 
+Если планируете оплачивать складки через infakt, имеет смысл добавить так же номер счета ZUS. Для этого введите номер своего счета в поле *Indywidualny rachunek składkowy*. Номер счета можно узнать из письма ZUS, которое приходит после регистрации, либо на самом портале [ZUS -> Panel Płatnika -> Moje dane -> Numery rachunków składkowych][22]
+
+![21]
 
 ## Настройки фактур
 
@@ -50,7 +53,7 @@
 
 Основные настройки, влияющие на содержимое фактур, это *Domyślna waluta* (выбираем ту, что чаще используется), *Domyślny sposób płatności* (чаще всего это Przelew - банковский перевод).
 
-*TODO: добавить настройки специфичные для VAT*
+> TODO: добавить настройки специфичные для VAT
 
 ## Настройка услуг
 
@@ -127,3 +130,5 @@
 [18]: https://app.infakt.pl/app/program_do_ksiegowosci/deklaracja_zus
 [19]: https://app.infakt.pl/app/ustawienia/ksiegowosc/zus
 [20]: images/infakt_settings/ksiegovosc_zus.png
+[21]: images/infakt_settings/ustawienia_zus.png
+[22]: https://www.zus.pl/portal/obszar-platnika.npi#KPL0001
