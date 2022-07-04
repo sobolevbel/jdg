@@ -4,19 +4,19 @@ on:
   push:
     paths:
       - "**.md"
-      - ".github/workflows/markdown_lint.yml"
+      - ".github/workflows/markdown_link_check.yml"
       - ".github/workflows/markdown_link_check_config.json"
   pull_request:
     paths:
       - "**.md"
-      - ".github/workflows/markdown_lint.yml"
+      - ".github/workflows/markdown_link_check.yml"
       - ".github/workflows/markdown_link_check_config.json"
 
 jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
+    - name: checkout
       uses: actions/checkout@v3
       with:
         submodules: recursive
