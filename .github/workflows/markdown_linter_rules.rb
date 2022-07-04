@@ -1,5 +1,4 @@
 all
-exclude_rule 'MD001'
 exclude_rule 'MD004'
 exclude_rule 'MD007'
 exclude_rule 'MD009'
