@@ -17,8 +17,29 @@
 
 Заказать на [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
 
-Выбираем все пункты
-![podatek_dochodowy.jpeg](images/taxes/podatek_dochodowy.jpeg)
+Детально, что выбирать в визарде:
+
+1. Tryb składania wniosku -> We własnym imieniu
+2. Rodzaj wnioskodawcy -> firma (Важно!)
+3. Dane wnioskodawcy -> поля заполнятся автоматом на основании профиля
+4. Adres siedziby -> выбираем из списка или добавляем новый, если нет в списке
+5. Adres korespondencyjny -> то же самое
+6. Przeznaczenie zaświadczenia
+    * Cel w jakim chcesz otrzymać zaświadczenie -> цель - подача на побыт (ZEZWOLENIE NA POBYT CZASOWY)
+    * Zwolnienie z opłaty skarbowej -> Nie
+    * Gdzie złożysz otrzymane zaświadczenie -> Ужонд, где будете подаваться на побыт (например, Pomorski Urząd Wojewódzki w Gdańsku)
+    * Liczba egzemplarzy, które chcesz otrzymać -> 1
+7. Treść zaświadczenia -> выбираем все пункты
+8. Urząd odbierający wniosek
+    * Выбираем Ужонд Скарбовы по месту жительства
+    * Dodatkowa informacja -> платили ли налоги в другие Ужонды Скарбовы
+    * Sposób odpowiedzi urzędu -> elektronicznie w Biznes.gov.pl
+9. Opłata skarbowa
+    * Online должно быть проще, но Ужонд может не поддерживать этот вид, тогда надо платить через банковский перевод. Детали по банковскому переводу:
+         * Odbiorca -> urzęd miasta lub gminy (то есть НЕ Ужонд Скарбовы). Пример: URZĄD MIEJSKI W GDAŃSKU
+         * Tytuł -> Opłata skarbowa za wydanie zaświadczenia o niezaleganiu w podatkach
+         * номер счета нужно гуглить (пример для [Варшавы](https://warszawa19115.pl/-/oplata-skarbowa), [Гданьска](https://www.gdansk.pl/urzad-miejski/wykaz-kont-urzedu-miejskiego,a,28871))
+10. Sposób odbioru zaświadczenia -> elektroniczne w Biznes.gov.pl (можно выбрать и другие варианты, и ожидать\забирать справку соответствующим образом)
 
 ## VAT
 
