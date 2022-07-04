@@ -109,6 +109,5 @@ ZUS состоит из 2 основных частей: медицинский 
 
 Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
 
-
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
 [2]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
