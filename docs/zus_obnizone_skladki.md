@@ -36,6 +36,7 @@
 ![zus_obn_02][2]
 
 #### Шаг 2
+
 Далее нужно указать причину и дату снятия с учета.
 
 В поле *Przyczyna wyrejestrowania* нужно выбрать *600 - inna przyczyna wyrejestrowania*,
