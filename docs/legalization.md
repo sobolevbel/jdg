@@ -5,8 +5,8 @@
 Актуальность - октябрь 2021.
 
 Где регистрироваться на подачу:
-- https://inpol.mazowieckie.pl/login Варшав
-- https://infoopt.pl/ Краков
+- [https://inpol.mazowieckie.pl/login](https://inpol.mazowieckie.pl/login) Варшава
+- [https://infoopt.pl/](https://infoopt.pl/) Краков
 
 Несколько рекомендуемых условий для легализации:
 
