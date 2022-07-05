@@ -20,3 +20,6 @@ nav:
   - Рабочий процесс: workflow.md
   - F.A.Q.: faq.md
 
+markdown_extensions:
+    - toc:
+        permalink: 
