@@ -16,11 +16,9 @@ nav:
   - Налоги: taxes.md
   - Декларации: declarations.md
   - Легализация: legalization.md
-  - Польский лад: polski_lad.md
   - Рабочий процесс: workflow.md
-  - F.A.Q.: faq.md
   - Рутинные операции (на примере infakt.pl): infakt_routine.md
+  - F.A.Q.: faq.md
 
 markdown_extensions:
-    - toc:
-        permalink: 
+  - toc(permalink=true)
