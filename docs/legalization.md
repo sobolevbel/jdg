@@ -8,6 +8,7 @@
 
 - [https://inpol.mazowieckie.pl/login](https://inpol.mazowieckie.pl/login) Варшава
 - [https://infoopt.pl/](https://infoopt.pl/) Краков
+- [https://www.bezkolejki.eu/luwlodz/Reservation](https://www.bezkolejki.eu/luwlodz/Reservation) Лодзь
 
 Несколько рекомендуемых условий для легализации:
 
