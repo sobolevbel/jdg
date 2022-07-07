@@ -1,7 +1,12 @@
 {
   "httpHeaders": [
     {
-      "urls": ["https://docs.github.com/", "https://siiami.pl/", "https://aplikacja.ceidg.gov.pl/"],
+      "urls": [
+        "https://docs.github.com/",
+        "https://siiami.pl/",
+        "https://aplikacja.ceidg.gov.pl/",
+        "https://www.podatki.gov.pl/"
+      ],
       "headers": {
         "Accept-Encoding": "zstd, br, gzip, deflate"
       }
