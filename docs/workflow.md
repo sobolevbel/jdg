@@ -24,6 +24,8 @@
   - ZUS
   - VAT: при необходимости и возможности вычитаем VAT с покупок из общего VAT. [Детальнее](faq.md#vat)
 
+Более детальное описание конкретных операций на примере сервиса `infakt.pl` можно найти [тут](infakt_routine.md).
+
 ## Учет курсовых разниц
 
 1. [https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe](https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe)
