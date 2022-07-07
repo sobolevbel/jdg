@@ -21,3 +21,6 @@ nav:
   - F.A.Q.: faq.md
   - Рутинные операции (на примере infakt.pl): infakt_routine.md
 
+markdown_extensions:
+    - toc:
+        permalink: 
