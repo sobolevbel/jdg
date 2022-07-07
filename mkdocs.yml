@@ -10,7 +10,7 @@ nav:
   - Главная: index.md
   - PESEL: pesel.md
   - Profil Zaufany: pz.md
-  - Регистрация JDG: registration.md
+  - Регистрация JDG и VAT: registration.md
   - ZUS: zus.md
   - Переход на Obniżone składki ZUS: zus_obnizone_skladki.md
   - Налоги: taxes.md
@@ -21,4 +21,5 @@ nav:
   - F.A.Q.: faq.md
 
 markdown_extensions:
-  - toc(permalink=true)
+  - toc:
+        permalink: 
