@@ -96,6 +96,21 @@
 
     ![zus_zaswiadczenie_4.3.png][22]
 
+## Добавление ePUAP к профилю ZUS
+
+1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
+
+    ![zus_epuap_1.png][23]
+
+2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
+
+    ![zus_epuap_2.png][24]
+    ![zus_epuap_3.png][25]
+
+3. в итоге профиль ZUS будет связан с profilem zaufanym.
+
+    ![zus_epuap_4.png][26]
+
 [1]: https://www.zus.pl
 [2]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/ulga-na-start-6-miesiecy-bez-skladek-na-ubezpieczenie-spoleczne
 [3]: https://eskladka.pl/Home
@@ -118,3 +133,7 @@
 [20]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
 [21]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
 [22]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
+[23]: images/zus_epuap/zus_epuap_1.png
+[24]: images/zus_epuap/zus_epuap_2.png
+[25]: images/zus_epuap/zus_epuap_3.png
+[26]: images/zus_epuap/zus_epuap_4.png
