@@ -28,7 +28,7 @@
 - Можно пойти физически в отделение ZUS (любое, не обязательно вашего района) и получить все справки с мокрыми печатями
 - Можно на портале ZUS [https://www.zus.pl/portal/](https://www.zus.pl/portal/)
 
-1. Переходим на сайт [https://www.zus.pl/portal/obszar-ogolny.npi#KUS0001](https://www.zus.pl/portal/obszar-ogolny.npi#KUS0001), в окно фильтра вписываем `RWN`.
+1. Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
 
     ![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
 
