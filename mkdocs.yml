@@ -19,6 +19,7 @@ nav:
   - Рабочий процесс: workflow.md
   - Рутинные операции (на примере infakt.pl): infakt_routine.md
   - F.A.Q.: faq.md
+  - Что нового: whatsnew.md
 
 markdown_extensions:
   - toc:
