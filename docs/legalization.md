@@ -6,7 +6,7 @@
 
 Где регистрироваться на подачу:
 
-- [https://inpol.mazowieckie.pl/login](https://inpol.mazowieckie.pl/login) Варшава
+- [https://inpol.mazowieckie.pl/login][10] Варшава
 - [https://infoopt.pl/](https://infoopt.pl/) Краков
 - [https://www.bezkolejki.eu/luwlodz/Reservation](https://www.bezkolejki.eu/luwlodz/Reservation) Лодзь
 
@@ -269,6 +269,7 @@
 
 - При распечатке документов на ВНЖ нужно в двухстороннем виде печатать и степлером одинаковый тип доков скреплять.
 - При подаче документов на карту побыта нужны и копии и оригиналы следующих документов: песель, договор аренды. Копии отдадите, а оригиналы нужны только, чтобы смогли заверить копии. Поэтому приносите копии и оригиналы, отдаёте только копии.
+- **Варшава**: перед подачей документов проверьте номер своей регистрации в личном кабинете [https://inpol.mazowieckie.pl/login][10]. Номер доступен на стартовой странице кабинета (не на странице вашего дела!) в секции *ZAPLANOWANE WIZYTY W URZĘDZIE*. Обычно номер состоит из буквы X и нескольких цифр (например X123). Этот номер нужен для электронной очереди, по нему вас будут вызывать к специалисту.
 
 <!-- resources -->
 
@@ -281,3 +282,4 @@
 [7]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
+[10]: https://inpol.mazowieckie.pl/login
