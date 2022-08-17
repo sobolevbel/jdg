@@ -38,6 +38,8 @@
 
 Во втором случае используются три метода — FIFO, LIFO и по средним, где в очередь попадают поступления на счёт. Метод расчёта нельзя менять в течение налогового года.
 
+Курс считается по [Narodowy Bank Polski](https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx)
+
 ## Подача декларации VAT-UE
 
 Подача e-декларации VAT-UE происходит через интерактивную PDF-форму с сайта [podatki.gov.pl](https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE)
