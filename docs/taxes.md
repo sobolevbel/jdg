@@ -2,6 +2,8 @@
 
 Информация по налогам ИП в Польше.
 
+Помощь в ведении вашей бухгалтерии можно получить у [:telegram: siiami][0].
+
 ## PIT - подоходный налог
 
 Доступные системы налогообложения физических лиц (PIT - Personal Income Tax) для JDG по состоянию на 2022 год:
@@ -113,5 +115,6 @@
 
 Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
 
+[0]: https://t.me/siiami_ippbh_bot?start=62dff8ece0e63320f226bb4c
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
 [2]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx
