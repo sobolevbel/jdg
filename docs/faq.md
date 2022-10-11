@@ -186,7 +186,11 @@ Cуществуют разные методы перевода SWIFT, опред
 
 ## Как ликвидировать ИП
 
-[https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
+[Terminating your activity - what should you know? (biznes.gov.pl)](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
+
+[Jak zakończyć jednoosobową działalność gospodarczą (biznes.gov.pl)](https://www.biznes.gov.pl/pl/portal/0077#5)
+
+[Как закрыть бизнес в Польше? Ликвидация, банкротство и реорганизация (Польский консультат)](https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content)
 
 ## Сервисы по созданию фактур
 
