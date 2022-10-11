@@ -21,6 +21,7 @@ nav:
 
 theme:
   name: material
+  custom_dir: overrides
   accent: indigo
   icon:
     repo: fontawesome/brands/github
@@ -47,6 +48,12 @@ plugins:
   - git-revision-date-localized
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - toc:
       permalink: 
 
