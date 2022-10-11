@@ -40,7 +40,10 @@ theme:
         name: Switch to light mode
 
 plugins:
-  - search
+  - search:
+      lang:
+      - ru
+      - en
   - git-revision-date-localized
 
 markdown_extensions:
@@ -48,9 +51,14 @@ markdown_extensions:
       permalink: 
 
 extra:
+  homepage: https://sobolevbel.github.io/jdg/
+  features:
+    - header.autohide
+
   analytics:
     provider: google
     property: G-65Z83YVGT1
+
   consent:
     title: Cookie consent
     description: >-
