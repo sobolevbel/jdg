@@ -76,7 +76,6 @@ extra:
     actions:
       - accept
       - manage
-      - reject
 
 copyright: >
   Copyright &copy; 2021 - 2022 Yauheni Sobaleu –
