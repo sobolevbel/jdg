@@ -55,7 +55,7 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - toc:
-      permalink: 🔗
+      permalink: ¶
 
 extra:
   homepage: https://sobolevbel.github.io/jdg/
