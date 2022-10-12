@@ -1,18 +1,15 @@
-name: markdown-linter
+name: Lint markdown
 
 on:
-  push:
-    paths:
-      - "**.md"
-      - ".github/workflows/markdown_linter_rules.yml"
-      - ".github/workflows/markdown_linter_checks.yml"
   pull_request:
     paths:
       - "**.md"
       - ".github/workflows/markdown_linter_rules.yml"
       - ".github/workflows/markdown_linter_checks.yml"
+
 permissions:
   contents: read
+
 jobs:
   markdown-lint:
     name: Lint repository
