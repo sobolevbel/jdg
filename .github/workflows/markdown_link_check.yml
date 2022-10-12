@@ -1,11 +1,6 @@
 name: Check Markdown links
 
 on:
-  push:
-    paths:
-      - "**.md"
-      - ".github/workflows/markdown_link_check.yml"
-      - ".github/workflows/markdown_link_check_config.json"
   pull_request:
     paths:
       - "**.md"
