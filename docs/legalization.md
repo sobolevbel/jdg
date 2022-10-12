@@ -73,7 +73,8 @@
     паспорта латинкой и фотографией), в Дальношлёнском – три копии.
 
 * Opłata skarbowa - пошлина за выдачу решения (в данном случае – 340 zł) - оплачиваем и распечатываем подтверждение оплаты (на польском).
-    > [прайс и реквизиты для Мазовецкого в-ва](https://www.gov.pl/web/uw-mazowiecki/numer-konta-do-oplat).
+
+    [Прайс и реквизиты для Мазовецкого в-ва][17].
 
 ### 2. Подтверждение цели пребывания
 
@@ -388,3 +389,4 @@
 [14]: karta-pobytu-docs/business-plan-guide.pdf
 [15]: https://pomoc.wfirma.pl/-kpir-w-systemie-wfirma-pl
 [16]: https://www.pit.pl/formy-opodatkowania/nowy-wzor-ewidencji-przychodow-2021-1002791
+[17]: https://www.gov.pl/web/uw-mazowiecki/numer-konta-do-oplat
