@@ -23,6 +23,8 @@ theme:
   name: material
   custom_dir: overrides
   accent: indigo
+  features:
+    - navigation.top
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
