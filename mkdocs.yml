@@ -62,8 +62,6 @@ markdown_extensions:
 
 extra:
   homepage: https://sobolevbel.github.io/jdg/
-  features:
-    - header.autohide
 
   analytics:
     provider: google
@@ -80,6 +78,4 @@ extra:
       - accept
       - manage
 
-copyright: >
-  Copyright &copy; 2021 - 2022 Yauheni Sobaleu –
-  <a href="#__consent">Change cookie settings</a>
+copyright: <a href="#__consent">Change cookie settings</a>
