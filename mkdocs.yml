@@ -18,6 +18,7 @@ nav:
   - Рутинные операции (на примере infakt.pl): infakt_routine.md
   - F.A.Q.: faq.md
   - Что нового: whatsnew.md
+  - ♥ ️Поддержать: support.md
 
 theme:
   name: material
