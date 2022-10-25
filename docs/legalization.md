@@ -14,7 +14,7 @@
 
 - [https://inpol.mazowieckie.pl/login][10] Варшава (также доступна опция записи на семейную подачу посредством электронной почты)
 - [https://infoopt.pl/](https://infoopt.pl/) Краков
-- [https://www.bezkolejki.eu/luwlodz/Reservation](https://www.bezkolejki.eu/luwlodz/Reservation) Лодзь
+- [https://www.bezkolejki.eu/luwlodz/Reservation](https://www.bezkolejki.eu/luwlodz/Reservation) Лодзь(с 1.11.2022 на 3 месяца отменили электронную запись на часовы побыт по работе)
 
 ### Перечень некоторых критериев получения ВНЖ по хозяйственной деятельности согласно законодательству
 
