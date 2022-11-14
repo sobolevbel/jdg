@@ -1,0 +1,28 @@
+# Defining attributes per path.
+#
+# For more see: https://git-scm.com/docs/gitattributes
+
+#
+# Auto-detect text files, ensure they use LF.
+#
+
+* text=auto eol=lf
+
+#
+# Setting up linguist
+#
+
+*.md       linguist-detectable=true linguist-documentation=false
+
+LICENSE    linguist-detectable=false linguist-documentation=true
+README.md  linguist-detectable=false linguist-documentation=true
+
+#
+# Exclude files from exporting
+# (used by the "download ZIP archive" option, for example).
+#
+
+/.github        export-ignore
+.gitattributes  export-ignore
+.gitignore      export-ignore
+.imgbotconfig   export-ignore
