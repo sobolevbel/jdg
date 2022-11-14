@@ -6,7 +6,7 @@
         "https://siiami.pl/",
         "https://aplikacja.ceidg.gov.pl/",
         "https://www.podatki.gov.pl/",
-        "https://www.zus.pl"
+        "https://www.zus.pl/"
       ],
       "headers": {
         "Accept-Encoding": "zstd, br, gzip, deflate"
