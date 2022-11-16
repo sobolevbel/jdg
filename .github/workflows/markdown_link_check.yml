@@ -26,9 +26,3 @@ jobs:
         -not -path './node_modules/*'
         -exec markdown-link-check '{}'
         --config .github/workflows/markdown_link_check_config.json -v ';'
-
-    # - uses: gaurav-nelson/github-action-markdown-link-check@v1
-    #   with:
-    #     use-quiet-mode: 'no'
-    #     use-verbose-mode: 'yes'
-    #     config-file: '.github/workflows/markdown_link_check_config.json'
