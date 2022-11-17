@@ -52,23 +52,7 @@
 
 ### Lifehack в поиске PKWiU кодов
 
-Небольшой lifehack как не прогадать с кодами PKD: находите фирму которая работает в вашей сфере и проверяете её по CEIDG или KRS: так будет сложно ошибиться и можно подсмотреть идеи что ещё вписать
-
-## Я хочу переехать в другой город или на другой адрес - что надо поменять и где
-
-Заходите на сайте biznes.gov.pl и меняете
-
-- адрес проживания - [Adres zamieszkania](registration.md#5)
-- адрес для корреспонденции - [Adres do doreczen](registration.md#8)
-- адрес налогового офиса - [Urząd skarbowy](registration.md#11)
-
-## Можно ли оформить ИП без постоянного места регистрации
-
-Да, можно, если деятельность не подразумевает обязательного физического места работы. Налоговая (Urząd Skarbowy) может попросить аргументировать желание работать без фактического места.
-
-## Можно ли оформить ИП без договора о съеме жилья
-
-Да, можно. Когда (если) будете регистрироваться как VAT-плательщик, налоговая (Urząd Skarbowy) может запросить у вас документально подтверждение адреса вашего проживания. В этом случае вам придется договориться с владельцами жилья о том, чтобы они написали и подписали oświadczenie о том, что вы действительно у них поживаете и они не против, чтобы адрес их квартиры появился в CEIDG.
+Небольшой lifehack как не прогадать с кодами PKD: находите фирму которая работает в вашей сфере и проверяете её по CEIDG или KRS: так будет сложно ошибиться и можно подсмотреть идеи что ещё вписать.
 
 ## Как продлить PBH визу
 
@@ -184,10 +168,6 @@ Cуществуют разные методы перевода SWIFT, опред
 - ИП 7-10 дней
 - Счета фирмовые 1 день
 
-## Список виртуальных офисов (wirtualne biuro)
-
-[https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml)
-
 ## Как ликвидировать ИП
 
 [Terminating your activity - what should you know? (biznes.gov.pl)](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
@@ -204,7 +184,9 @@ Cуществуют разные методы перевода SWIFT, опред
 - [Fakturowo](https://www.fakturowo.pl/)
 - [Siiami](https://siiami.pl/)
 
-## Влияет ли ведение ИП в квартире на налог на недвижимость
+## Адреса деятельности/корреспонденции/жилья
+
+### Влияет ли ведение ИП в квартире на налог на недвижимость
 
 TL;DR Нет.
 Был слух что будет налог выше на недвижимость если вписать ее как место `prowadzenia działalności`.
@@ -212,3 +194,23 @@ TL;DR Нет.
 Если то место, где вы работаете по прежнему используется для личных целей, то никакого налога сверху арендодателям не возникает.
 
 Более детально [https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci](https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci)
+
+### Я хочу переехать в другой город или на другой адрес - что надо поменять и где
+
+Заходите на сайте biznes.gov.pl и меняете
+
+- адрес проживания - [Adres zamieszkania](registration.md#5)
+- адрес для корреспонденции - [Adres do doreczen](registration.md#8)
+- адрес налогового офиса - [Urząd skarbowy](registration.md#11)
+
+### Можно ли оформить ИП без постоянного места регистрации
+
+Да, можно, если деятельность не подразумевает обязательного физического места работы. Налоговая (Urząd Skarbowy) может попросить аргументировать желание работать без фактического места.
+
+### Можно ли оформить ИП без договора о съеме жилья
+
+Да, можно. Когда (если) будете регистрироваться как VAT-плательщик, налоговая (Urząd Skarbowy) может запросить у вас документально подтверждение адреса вашего проживания. В этом случае вам придется договориться с владельцами жилья о том, чтобы они написали и подписали oświadczenie о том, что вы действительно у них поживаете и они не против, чтобы адрес их квартиры появился в CEIDG.
+
+## Список виртуальных офисов (wirtualne biuro)
+
+[https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml)
