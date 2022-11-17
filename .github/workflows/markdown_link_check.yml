@@ -15,8 +15,14 @@ jobs:
       uses: actions/checkout@v3
       with:
         submodules: recursive
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        use-quiet-mode: 'no'
-        use-verbose-mode: 'yes'
-        config-file: '.github/workflows/markdown_link_check_config.json'
+
+    - name: install markdown-link-check
+      run: npm i -g markdown-link-check
+
+    - name: run link check
+      run: >-
+        find .
+        -name '*.md'
+        -not -path './node_modules/*'
+        -exec markdown-link-check '{}'
+        --config .github/workflows/markdown_link_check_config.json -v ';'

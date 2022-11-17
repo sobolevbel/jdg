@@ -11,5 +11,6 @@
         "Accept-Encoding": "zstd, br, gzip, deflate"
       }
     }
-  ]
+  ],
+  "aliveStatusCodes": [200, 204]
 }
