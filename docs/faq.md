@@ -26,16 +26,18 @@
 
 Если недостаточно условий для подачи на ВНЖ, то выезжать из ЕС в другие страны и заново получать через посольства.
 
-## PKWiU коды
+## JDG
 
-### Профессия и её код PKWiU
+### PKWiU коды
+
+#### Профессия и её код PKWiU
 
 - 3D художник - 74.10z
 - моушн художник - 59.12.z
 - программист - 62.01.01
 - иллюстратор - 74.10.Z
 
-### Какие коды PKWiU подходят для 12% налога на ryczałt (рычалт)
+#### Какие коды PKWiU подходят для 12% налога на ryczałt (рычалт)
 
 - 62.01.1 - Usługi programowania
 - 62.02 - Doradztwo w zakresie oprogramowania
@@ -43,7 +45,7 @@
 - 62.09.20.0 - Usługi w zakresie instalowania oprogramowania
 - 62.03.1 - Usługi związane z zarządzaniem siecią i systemami informatycznymi
 
-### Какие коды PKWiU подходят для 8,5% налога на ryczałt (рычалт)
+#### Какие коды PKWiU подходят для 8,5% налога на ryczałt (рычалт)
 
 - 62.01.12.0 – Usługi związane z projektowaniem i rozwojem technologii informatycznych dla sieci i systemów komputerowych
 - 62.02.30.0 – Usługi pomocy technicznej w zakresie technologii informatycznych i sprzętu komputerowego
@@ -54,11 +56,9 @@
 - 62.01.12.0 – Konfigurację narzędzi monitorujących dane systemy informatyczne
 - 62.01.12.0 – Automatyzacja procesów wdrożeń systemów informatycznych
 
-### Lifehack в поиске PKWiU кодов
+#### Lifehack в поиске PKWiU кодов
 
 Небольшой lifehack как не прогадать с кодами PKD: находите фирму которая работает в вашей сфере и проверяете её по CEIDG или KRS: так будет сложно ошибиться и можно подсмотреть идеи что ещё вписать.
-
-## JDG
 
 ### Можно ли одновременно работать через инкубатор и JDG
 
@@ -177,7 +177,9 @@ Cуществуют разные методы перевода SWIFT, опред
 
 Если есть бумага, когда выдавали песель, то там прописаны имена родителей. Так же на сайте [gov.pl](https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna) после логина, на главной странице в блоке `Powiązane usługi` нужно выбрать `Sprawdź swoje dane w Rejestrze PESEL`. Там же будут данные о супруге, детях и матери.
 
-## Сервисы по созданию фактур
+## Фактуры
+
+### Сервисы по созданию фактур
 
 - [Infakt](https://www.infakt.pl/)
 - [FakturaXL](https://fakturaxl.pl)
