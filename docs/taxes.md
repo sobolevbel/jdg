@@ -111,9 +111,7 @@
 
 ## FAQ
 
-### Оплата налогов на ryczałt
-
-Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
+Также смотрите [список вопросов и ответов в разделе FAQ](faq.md#_9).
 
 [0]: https://t.me/siiami_ippbh_bot?start=62dff8ece0e63320f226bb4c
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
