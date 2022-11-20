@@ -1,6 +1,7 @@
 {
-    "schedule": "weekly", // daily|weekly|monthly
+    "schedule": "weekly",
     "ignoredFiles": [
-        "overrides/icons/*",
+        "overrides/icons/*"
     ],
+    "aggressiveCompression": "true"
 }

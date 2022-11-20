@@ -12,8 +12,11 @@
 # Setting up linguist
 #
 
-*.md       linguist-detectable=true linguist-documentation=false
+.imgbotconfig linguist-language=JSON
 
+# Documentation
+
+*.md       linguist-detectable=true linguist-documentation=false
 LICENSE    linguist-detectable=false linguist-documentation=true
 README.md  linguist-detectable=false linguist-documentation=true
 
