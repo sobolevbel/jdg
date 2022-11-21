@@ -101,10 +101,10 @@ ZUS состоит из 2 основных частей: медицинский 
 
 Первые 6 месяцев можно пользоваться льготой "Ulga na start" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][28] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
+[перейти][27] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
-Больше деталей на [e-pity][29]
+Больше деталей на [e-pity][28]
 
 ## Ulga na start
 
@@ -248,6 +248,5 @@ ZUS состоит из 2 основных частей: медицинский 
 [24]: images/zus_epuap/zus_epuap_2.png
 [25]: images/zus_epuap/zus_epuap_3.png
 [26]: images/zus_epuap/zus_epuap_4.png
-[27]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
-[28]: zus_obnizone_skladki.md
-[29]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[27]: zus_obnizone_skladki.md
+[28]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
