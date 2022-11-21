@@ -14,11 +14,87 @@ ZUS состоит из 2 основных частей: медицинский 
 Пример: в марте c начала года вы заработали больше 60_000, а в декабре
 больше 300_000, это значит что за все 12 месяцев вы платите по `1007.81 zł`.
 
-Картинка расчета медицинской складки зуса:
+Таблица расчета взносов социального и медицинского страхования на системе налогообложения Ryczałt в 2022 году:
 
-![skladka_zdrowotna_dla_rychaltu.jpeg][27]
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;border-right:.05rem solid var(--md-typeset-table-color);">
+        Składki ZUS 2022<br>
+        Ryczałt<br>
+        <span style="color:blue">A</span> +
+        <span style="color:red">B</span> +
+        <span style="color:grey">C</span>
+      </th>
+      <th style="border-right:.05rem solid var(--md-typeset-table-color);">Годовой доход</th>
+      <th style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#dbead1;">Ulga na start</th>
+      <th style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#fef3d1;">Składki preferencyjne</th>
+      <th style="background-color:#eececc;">Duży zus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color:#ccd9f5">
+      <th rowspan="3" style="vertical-align: middle;color:blue;font-weight: bold;border-top:.05rem solid var(--md-typeset-table-color);border-right:.05rem solid var(--md-typeset-table-color);">
+        A: zdrowotna
+      </th>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);">0 - 60 000</td>
+      <td colspan="3" style="text-align:center;color:blue;font-weight: bold;">335.94</td>
+    </tr>
+    <tr style="background-color:#ccd9f5">
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);">60 000.01 - 300 000</td>
+      <td colspan="3" style="text-align:center;color:blue;font-weight: bold;">559.89</td>
+    </tr>
+    <tr style="background-color:#ccd9f5">
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);">&gt; 300 000</td>
+      <td colspan="3" style="text-align:center;color:blue;font-weight: bold;">1007.81</td>
+    </tr>
+    
+    <tr>
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);">Emerytalna</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#fef3d1;">176.27</td>
+      <td style="background-color:#eececc;">693.58</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);">Rentowa</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#fef3d1;">72.24</td>
+      <td style="background-color:#eececc;">284.26</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);">Wypadkowa</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#fef3d1;">15.08</td>
+      <td style="background-color:#eececc;">59.34</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);">Na Fundusz Pracy</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);background-color:#fef3d1;">0</td>
+      <td style="background-color:#eececc;">87.05</td>
+    </tr>
+    <tr style="color:red;">
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;">
+        B: вместе
+      </td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;background-color:#fef3d1;">263.59</td>
+      <td style="font-weight: bold;background-color:#eececc;">1124.23</td>
+    </tr>
 
-Медицинскую часть нужно платить всегда, даже если параллельно есть
+    <tr style="color:grey;">
+      <td colspan="2" style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;">
+        C: Chorobowa<br>
+        (не обязательная, для гос. больничных)
+      </td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;background-color:#dbead1;">0</td>
+      <td style="border-right:.05rem solid var(--md-typeset-table-color);font-weight: bold;background-color:#fef3d1;">22.12</td>
+      <td style="font-weight: bold;background-color:#eececc;">87.05</td>
+    </tr>
+  </tbody>
+</table>
+
+Медицинскую часть (zdrowotna) нужно платить всегда, даже если параллельно есть
 еще страховка по трудовому договору. Медицинская складка даёт доступ
 к медицинскому обслуживанию для предпринимателя и членов его семьи.
 
@@ -27,7 +103,7 @@ ZUS состоит из 2 основных частей: медицинский 
 
 Первые 6 месяцев можно пользоваться льготой "Ulga na start" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][28] на следующую льготу — **ZUS preferencyjny** и пользоваться ею в
+[перейти][28] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
 Больше деталей на [e-pity][29]
