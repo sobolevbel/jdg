@@ -14,11 +14,85 @@ ZUS состоит из 2 основных частей: медицинский 
 Пример: в марте c начала года вы заработали больше 60_000, а в декабре
 больше 300_000, это значит что за все 12 месяцев вы платите по `1007.81 zł`.
 
-Картинка расчета медицинской складки зуса:
+Таблица расчета взносов социального и медицинского страхования на системе налогообложения Ryczałt в 2022 году:
 
-![skladka_zdrowotna_dla_rychaltu.jpeg][27]
+<table>
+    <thead>
+        <tr>
+            <th class="border-r text-center">
+                Składki ZUS 2022<br>
+                Ryczałt<br>
+                <span class="text-bl">A</span> +
+                <span class="text-rd">B</span> +
+                <span class="text-gr">C</span>
+            </th>
+            <th class="border-r">Годовой доход</th>
+            <th class="border-r ulga">Ulga na start</th>
+            <th class="border-r preferencyjne">Składki preferencyjne</th>
+            <th class="duzy">Duży zus</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="ulga-bg">
+            <th rowspan="3" class="border-r border-t text-bl text-bold valign-center">
+                A: zdrowotna
+            </th>
+            <td class="border-r">0 - 60 000</td>
+            <td colspan="3" class="text-bl text-center text-bold">335.94</td>
+        </tr>
+        <tr class="ulga-bg">
+            <td class="border-r">60 000.01 - 300 000</td>
+            <td colspan="3" class="text-bl text-center text-bold">559.89</td>
+        </tr>
+        <tr class="ulga-bg">
+            <td class="border-r">&gt; 300 000</td>
+            <td colspan="3" class="text-bl text-center text-bold">1007.81</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="border-r">Emerytalna</td>
+            <td class="border-r ulga">0</td>
+            <td class="border-r preferencyjne">176.27</td>
+            <td class="duzy">693.58</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="border-r">Rentowa</td>
+            <td class="border-r ulga">0</td>
+            <td class="border-r preferencyjne">72.24</td>
+            <td class="duzy">284.26</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="border-r">Wypadkowa</td>
+            <td class="border-r ulga">0</td>
+            <td class="border-r preferencyjne">15.08</td>
+            <td class="duzy">59.34</td>
+        </tr>
+        <tr>
+            <td colspan="2" class="border-r">Na Fundusz Pracy</td>
+            <td class="border-r ulga">0</td>
+            <td class="border-r preferencyjne">0</td>
+            <td class="duzy">87.05</td>
+        </tr>
+        <tr class="text-rd">
+            <td colspan="2" class="border-r text-bold">
+                B: вместе
+            </td>
+            <td class="border-r ulga text-bold">0</td>
+            <td class="border-r preferencyjne text-bold">263.59</td>
+            <td class="duzy text-bold">1124.23</td>
+        </tr>
+        <tr class="text-gr">
+            <td colspan="2" class="border-r text-bold">
+                C: Chorobowa<br>
+                (не обязательная, для гос. больничных)
+            </td>
+            <td class="border-r ulga text-bold">0</td>
+            <td class="border-r preferencyjne text-bold">22.12</td>
+            <td class="duzy text-bold">87.05</td>
+        </tr>
+    </tbody>
+</table>
 
-Медицинскую часть нужно платить всегда, даже если параллельно есть
+Медицинскую часть (zdrowotna) нужно платить всегда, даже если параллельно есть
 еще страховка по трудовому договору. Медицинская складка даёт доступ
 к медицинскому обслуживанию для предпринимателя и членов его семьи.
 
@@ -27,10 +101,10 @@ ZUS состоит из 2 основных частей: медицинский 
 
 Первые 6 месяцев можно пользоваться льготой "Ulga na start" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][28] на следующую льготу — **ZUS preferencyjny** и пользоваться ею в
+[перейти][27] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
-Больше деталей на [e-pity][29]
+Больше деталей на [e-pity][28]
 
 ## Ulga na start
 
@@ -174,6 +248,5 @@ ZUS состоит из 2 основных частей: медицинский 
 [24]: images/zus_epuap/zus_epuap_2.png
 [25]: images/zus_epuap/zus_epuap_3.png
 [26]: images/zus_epuap/zus_epuap_4.png
-[27]: images/taxes/skladka_zdrowotna_dla_rychaltu.jpeg
-[28]: zus_obnizone_skladki.md
-[29]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[27]: zus_obnizone_skladki.md
+[28]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/

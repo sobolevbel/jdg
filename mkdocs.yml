@@ -79,3 +79,6 @@ extra:
       - manage
 
 copyright: <a href="#__consent">Change cookie settings</a>
+
+extra_css:
+  - css/extra.css
