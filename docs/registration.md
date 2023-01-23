@@ -488,7 +488,7 @@ czynnym плательщиком мы не станем.
 
 ### 6. Причина регистрации VAT-овцем
 
-Выбираем `Tytul obowiązku podmiotowego`: 32.
+Выбираем `Tytuł obowiązku podatkowego`: 33.
 
 ![step-6][62]
 
