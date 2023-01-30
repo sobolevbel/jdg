@@ -37,9 +37,14 @@
 
 ## Podatek dochodowy справка об отсутствии задолженности
 
-Заказать на [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
+Заказать справку об отсутствии долгов по налогам, можно как минимум двумя способами:
 
-Детально, что выбирать в визарде:
+1. На сайте [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
+2. На сайте [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Справка бесплатная. Эта возможность [появилась в августе 2022 года](https://www.podatki.gov.pl/wyjasnienia/zaswiadczenia-o-niezaleganiu-w-podatkach-bez-wizyty-w-urzedzie-skarbowym/). Справка выдается очень быстро, в автоматическом режиме. Похоже, за этим методом будущее.
+
+### Справка `biznes.gov.pl`
+
+Переходим по ссылке [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751) и жмем `Złóż wniosek elektronicznie`, далее выбираем левый вариант где написано `Złóż wniosek na Biznes.gov.pl.`. Нажимаем кнопку `Rozpocznij`. Далее логинимся, например с помощью `Profil Zaufany` и в визарде делаем следующие:
 
 1. Tryb składania wniosku -> We własnym imieniu
 2. Rodzaj wnioskodawcy -> firma (Важно!)
@@ -62,6 +67,20 @@
         * Tytuł -> Opłata skarbowa za wydanie zaświadczenia o niezaleganiu w podatkach
         * номер счета нужно гуглить (пример для [Варшавы](https://warszawa19115.pl/-/oplata-skarbowa), [Гданьска](https://www.gdansk.pl/urzad-miejski/wykaz-kont-urzedu-miejskiego,a,28871))
 10. Sposób odbioru zaświadczenia -> elektroniczne w Biznes.gov.pl (можно выбрать и другие варианты, и ожидать\забирать справку соответствующим образом)
+
+### Справка `urzadskarbowy.gov.pl`
+
+Переходим по ссылке [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Логинимся в свой онлайн кабинет налоговой, например через `Profil zaufany`
+и далее делаем следующее:
+
+- **Шаг 0.** В боковом меню выбираем `Dokumenty` > `Złóż dokument`. И в списке документов находим `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![create_document][3]
+- **Шаг 1.** Выбираем тип справки - `o niezaleganiu w podatkach`, то есть справку о том что долгов нет. ![document_details][4]
+- **Шаг 2.** Выбираем для кого будет выдана справка - `za siebie`, то-есть для себя. ![who_concerns][5]
+- **Шаг 3.** Выбираем какой идентификатор будет напечатан на справке - `PESEL` если вам справка нужна как для физического лица, или `NIP` соответственно как для юридического лица. От этого будет справке меняется одна строчка _Dane identyfikacyjne podatnika_ на выбранный вариант. Данные с адресом заполняются автоматически из того что вы подали в налоговую при регистрации JDG. ![identification_data][6]
+- **Шаг 4.** В свободной форме пишем, для чего берем справку, например - `w celu uzyskania karty pobytu`. Справа можно посмотреть примеры, если нажать на `Więcej`. Похоже, что на конечный результат это не влияет. ![certificate_purpose][7]
+- **Шаг 5.** Не обязательно, но можно оставить свой телефон и почту для связи. Похоже, этот пункт тоже не влияет на результат. ![contact_details][8]
+- **Шаг 6.** Проверяем, что все данные вписаны верно и жмем кнопку `Akceptuj i wyślij` для отправки. В появившемся всплывающем окне еще раз подтверждаем нажатием кнопки `Wyślij wniosek`, что хотим отправить запрос. ![summary][9] ![submit_confirmation][10]
+- **Шаг 7.** После отправки запроса, будет написано, что рассмотрение произойдет в течение семи дней. Но похоже, что все полностью автоматизировано, и ответ приходит в течение пары минут, даже ночью и в выходные. Сообщение о готовности справки приходит на почту, а также в самом e-Urząd аккаунте. Чтобы скачать саму справку, справа в меню выбираем `Dokumenty` > `Dokumenty otrzymane`. Там будет список всех полученных документов, жмем на кнопку `Odbierz` и скачиваем pdf со справкой. Справка будет на двух страницах, ниже пример как она выглядит. ![received_documents][11] ![certificate_example][12]
 
 ## VAT
 
@@ -116,3 +135,13 @@
 [0]: https://t.me/siiami_ippbh_bot?start=62dff8ece0e63320f226bb4c
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
 [2]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx
+[3]: images/pit_zaswiadczenie_etax/00_create_document.jpg
+[4]: images/pit_zaswiadczenie_etax/01_document_details.jpg
+[5]: images/pit_zaswiadczenie_etax/02_who_concerns.jpg
+[6]: images/pit_zaswiadczenie_etax/03_identification_data.jpg
+[7]: images/pit_zaswiadczenie_etax/04_certificate_purpose.jpg
+[8]: images/pit_zaswiadczenie_etax/05_contact_details.jpg
+[9]: images/pit_zaswiadczenie_etax/06_summary.jpg
+[10]: images/pit_zaswiadczenie_etax/07_submit_confirmation.jpg
+[11]: images/pit_zaswiadczenie_etax/08_received_documents.jpg
+[12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
