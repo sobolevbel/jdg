@@ -37,7 +37,7 @@
 
 ## Podatek dochodowy справка об отсутствии задолженности
 
-Заказать на справку об отсутствии долгов по налогам, можно как минимум двумя способами:
+Заказать справку об отсутствии долгов по налогам, можно как минимум двумя способами:
 
 1. На сайте [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
 2. На сайте [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Справка бесплатная. Эта возможность [появилась в августе 2022 года](https://www.podatki.gov.pl/wyjasnienia/zaswiadczenia-o-niezaleganiu-w-podatkach-bez-wizyty-w-urzedzie-skarbowym/). Справка выдается очень быстро, в автоматическом режиме. Похоже, за этим методом будущее.
