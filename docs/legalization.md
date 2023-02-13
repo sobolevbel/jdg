@@ -4,8 +4,6 @@
 
 Документ описывает процесс подачи на karta pobytu (ВНЖ)  на основе działalność gospodarcza (хозяйственной деятельности).
 
-За помощью с легализацией можно обратиться в [:telegram: siiami][11].
-
 ## Общая информация
 
 Актуальность - август 2022.
@@ -383,7 +381,6 @@
 [8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
 [10]: https://inpol.mazowieckie.pl/login
-[11]: https://t.me/siiami_ippbh_bot?start=62dff8ece0e63320f226bb4c
 [12]: https://wynagrodzenia.pl/gus/dane-wojewodzkie
 [13]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
 [14]: karta-pobytu-docs/business-plan-guide.pdf

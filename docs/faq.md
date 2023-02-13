@@ -199,7 +199,6 @@ Cуществуют разные методы перевода SWIFT, опред
 - [FakturaXL](https://fakturaxl.pl)
 - [Wfirma](https://wfirma.pl/)
 - [Fakturowo](https://www.fakturowo.pl/)
-- [Siiami](https://siiami.pl/)
 
 ## Адреса деятельности/корреспонденции/проживания
 
