@@ -256,10 +256,12 @@ Coming soon...
 
 Список фондов, которые могут вас заинтересовать:
 
+- 0000030279 - Фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
+- 0000270261 - Беларускі Моладзевы [Хаб][43].
 - 0000272075 - [Фонд][33], помогающий мигрантам, в т.ч. беларусам.
-- 0000190607 - [TOWARZYSTWO][34] PRZYJACIÓŁ UKRAINY
+- 0000190607 - [TOWARZYSTWO][34] PRZYJACIÓŁ UKRAINY.
 - 0000017257 - [Фонд][35] помощи приютам для животных "Fundacja św. Franciszka".
-- 0000429382 - [STOWARZYSZENIE][36] NA RZECZ OSÓB LGBT "TOLERADO"
+- 0000429382 - [STOWARZYSZENIE][36] NA RZECZ OSÓB LGBT "TOLERADO".
 
 ### 13. Итоги
 
@@ -351,3 +353,5 @@ podatek?".
 [39]: images/pit/pit17.jpg
 [40]: images/pit/pit8-1.jpg
 [41]: images/pit/pit18.jpg
+[42]: https://en.ocalenie.org.pl
+[43]: https://byhub.org
