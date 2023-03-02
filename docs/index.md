@@ -56,5 +56,5 @@ Spólka, sp.z.o.o - аналог ООО, общества с ограничен�
 
 [0]: https://t.me/JDG_PBH
 [1]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
-[2]: https://t.me/+Xadb61hycxMxNjA6
+[2]: https://t.me/+Lu-5LydDmcdhYjNi
 [3]: http://t.me/llc_poland
