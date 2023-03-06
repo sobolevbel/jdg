@@ -71,6 +71,7 @@
 Переходим по ссылке [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Логинимся в свой онлайн кабинет налоговой, например через `Profil zaufany`
 и далее делаем следующее:
 
+
 - **Шаг -1.** Нужно разрешить e‑Correspondence, иначе в конце шага 6 вас ждет неприятный сюрприз - цикл без возможности продолжить отправку: ![e_сorrespondence_error][13] ![11_stop_process][14] Идем в `Ustawienia` > `Zgody i powiadomienia`, и привязываем email и/или телефон.
 - **Шаг 0.** В боковом меню выбираем `Dokumenty` > `Złóż dokument`. И в списке документов находим `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![create_document][3]
 - **Шаг 1.** Выбираем тип справки - `o niezaleganiu w podatkach`, то есть справку о том что долгов нет. ![document_details][4]
@@ -145,3 +146,4 @@
 [12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
 [13]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
 [14]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
+
