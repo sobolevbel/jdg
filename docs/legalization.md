@@ -10,7 +10,7 @@
 
 ### Где регистрироваться на подачу
 
-- [https://inpol.mazowieckie.pl/login][10] Варшава (также доступна опция записи на семейную подачу посредством электронной почты)
+- [https://inpol.mazowieckie.pl/login][10] Варшава (также доступна опция записи на семейную подачу посредством электронной почты). Помощь с записью: [:telegram: mr_dmi](https://t.me/mr_dmi).
 - [https://infoopt.pl/](https://infoopt.pl/) Краков
 - [https://www.bezkolejki.eu/luwlodz/Reservation](https://www.bezkolejki.eu/luwlodz/Reservation) Лодзь(с 1.11.2022 на 3 месяца отменили электронную запись на часовы побыт по работе)
 
