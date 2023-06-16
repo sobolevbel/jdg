@@ -2,9 +2,7 @@ site_name: "JDG — ИП в Польше"
 site_description: "Гайд по регистрации и ведению JDG (ИП) в Польше"
 site_url: https://sobolevbel.github.io/jdg/
 repo_url: https://github.com/sobolevbel/jdg
-
-theme:
-  name: readthedocs
+repo_name: sobolevbel/jdg
 
 nav:
   - Главная: index.md
@@ -20,7 +18,67 @@ nav:
   - Рутинные операции (на примере infakt.pl): infakt_routine.md
   - F.A.Q.: faq.md
   - Что нового: whatsnew.md
+  - ♥&nbsp;Поддержать: support.md
+
+theme:
+  name: material
+  custom_dir: overrides
+  accent: indigo
+  features:
+    - navigation.top
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+  edit_uri: edit/master/docs/
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+plugins:
+  - search:
+      lang:
+      - ru
+      - en
+  - git-revision-date-localized
 
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - toc:
-        permalink: 
+      permalink: ¶
+
+extra:
+  homepage: https://sobolevbel.github.io/jdg/
+
+  analytics:
+    provider: google
+    property: G-65Z83YVGT1
+
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+    actions:
+      - accept
+      - manage
+
+copyright: <a href="#__consent">Change cookie settings</a>
+
+extra_css:
+  - css/extra.css

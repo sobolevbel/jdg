@@ -2,3 +2,6 @@ site/
 **/.DS_Store
 .idea
 .history
+venv/
+.venv/
+
