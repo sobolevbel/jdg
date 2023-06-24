@@ -58,6 +58,8 @@
 
 Найти отправленные декларации можно на странице Dokumenty -> Dokumenty wysłane.
 
+[Поддержите наш гайд чашкой кофе ♥][45]
+
 ## VAT (польский)
 
 Плательщики польского VAT (czynny płatnik VAT) имеют обязательство ежемесячной (JPK_V7M) или ежеквартальной (JPK_V7K)
@@ -337,6 +339,8 @@ podatek?".
 
 Для подачи на ВНЖ скачивайте декларацию вместе с UPO.
 
+[Поддержите наш гайд чашкой кофе ♥][45]
+
 [1]: images/zus_dra/zus-dra-1.png
 [2]: images/zus_dra/zus-dra-2.png
 [3]: images/zus_dra/zus-dra-3.png
@@ -381,3 +385,4 @@ podatek?".
 [42]: https://en.ocalenie.org.pl
 [43]: https://byhub.org
 [44]: images/pit/pit19.jpg
+[45]: https://buymeacoffee.com/devsobolev
