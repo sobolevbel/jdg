@@ -155,8 +155,8 @@
     [Инструкция как получить справку](taxes.md#podatek-dochodowy).
 * PIT-37, PIT-36, PIT-36L, PIT-38, PIT-28 – за прошлый календарный год, если был.
 * Документы по вашему бизнесу (другие документы не перечисленные выше).
-* Oswiadczenie ob utrzymaniu. Можно скачать [здесь](karta-pobytu-docs/oswiadczenie-utrzymanie.doc)
-* Zalącznik #1.
+* Oświadczenie ob utrzymaniu. Можно скачать [здесь](karta-pobytu-docs/oswiadczenie-utrzymanie.doc)
+* Załącznik #1.
 
     Не обязателен для ИП (в Кракове и Варшаве точно не нужен), но могут попросить в других воеводствах.
     Заполните сами на себя. Пример заполнения и информации по [ссылке][4]. Пустой бланк в [pdf][5].

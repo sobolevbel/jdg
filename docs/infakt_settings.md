@@ -42,7 +42,7 @@
 
 * Czy korzystasz z ulgi na start? **Tak**
 * Preferencyjna stawka ZUS przez 24 miesiące działalności **Tak**
-* Sposob wyliczania składki zdrowotnej **Na podstawie bieżącego przychodu**
+* Sposób wyliczania składki zdrowotnej **Na podstawie bieżącego przychodu**
 
 Если планируете оплачивать складки через infakt, имеет смысл добавить так же номер счета ZUS. Для этого введите номер своего счета в поле *Indywidualny rachunek składkowy*. Номер счета можно узнать из письма ZUS, которое приходит после регистрации, либо на самом портале [ZUS -> Panel Płatnika -> Moje dane -> Numery rachunków składkowych][22]
 
@@ -50,7 +50,7 @@
 
 ## Настройки фактур
 
-Пройдите в [Ustawienia -> Faktury -> Ogólne][4] чтобы настройить некоторые значения для фактур.
+Пройдите в [Ustawienia -> Faktury -> Ogólne][4], чтобы настроить некоторые значения для фактур.
 
 Основные настройки, влияющие на содержимое фактур, это *Domyślna waluta* (выбираем ту, что чаще используется), *Domyślny sposób płatności* (чаще всего это Przelew - банковский перевод).
 
@@ -98,7 +98,7 @@
 
 ## Подпись на фактуре
 
-Переходим в настройку шаблонов фактур на странице [Ustawienia -> Faktury -> Shablony][9]
+Переходим в настройку шаблонов фактур на странице [Ustawienia -> Faktury -> Szablony][9]
 
 ![10]
 
