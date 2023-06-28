@@ -22,42 +22,28 @@
 4. Оплачиваете все необходимые налоги и сохраняете чеки
     - podatek dochodowy
     - ZUS
-    - VAT: при необходимости и возможности вычитаем VAT с покупок из общего VAT. [Детальнее][1]
+    - VAT: при необходимости и возможности вычитаем VAT с покупок из общего VAT. [Детальнее](faq.md#vat)
 
-Более детальное описание конкретных операций на примере сервиса `infakt.pl` можно найти [тут][2].
+Более детальное описание конкретных операций на примере сервиса `infakt.pl` можно найти [тут](infakt_routine.md).
 
 ## Учет курсовых разниц
 
-1. [Статья от inFakt][3]
-2. [Статья от Poradnik Przedsiębiorcy][4]
-3. [Гайд как учесть КР в inFakt][5]
+1. [https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe](https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe)
+2. [https://poradnikprzedsiebiorcy.pl/-ryczalt-a-roznice-kursowe](https://poradnikprzedsiebiorcy.pl/-ryczalt-a-roznice-kursowe)
 
 Для JDG курсовые разницы появляются в двух случаях:
 
-1. [Transakcyjne różnice kursowe][6]
-2. [Różnice kursowe od środków własnych][7]
+1. Transakcyjne różnice kursowe [https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca](https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca)
+2. Różnice kursowe od środków własnych [https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html](https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html)
 
-Во втором случае используются три метода — FIFO, LIFO и по средним, где в очередь попадают поступления на счёт.
-Метод расчёта нельзя менять в течение налогового года.
+Во втором случае используются три метода — FIFO, LIFO и по средним, где в очередь попадают поступления на счёт. Метод расчёта нельзя менять в течение налогового года.
 
-Курс считается по [Narodowy Bank Polski][8]
+Курс считается по [Narodowy Bank Polski](https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx)
 
 ## Подача декларации VAT-UE
 
-Подача e-декларации VAT-UE происходит на сайте налоговой с помощью [интерактивной PDF-формы][9]
+Подача e-декларации VAT-UE происходит через интерактивную PDF-форму с сайта [podatki.gov.pl](https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE)
 
-- Сперва нужно установить Adobe Reader и расширение к нему [отсюда][10].
-- На этой же странице внизу есть инструкция. Вкратце: скачать pdf-ку с формой, открыть в Adobe Reader с установленным
-    расширением, заполнить форму, и через визард расширения подписать личными данными и отправить.
-- В конце визарда будет ссылка на скачивание UPO.
-
-[1]: faq.md#vat
-[2]: infakt_routine.md
-[3]: https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe
-[4]: https://poradnikprzedsiebiorcy.pl/-ryczalt-a-roznice-kursowe
-[5]: infakt_routine.md#получение-оплаты-и-учет-курсовых-разниц
-[6]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
-[7]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
-[8]: https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx
-[9]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
-[10]: https://www.podatki.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+- Надо поставить Adobe Reader и расширение к нему [отсюда](https://www.podatki.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/)
+- На этой же странице внизу есть инструкция. Вкратце: скачать pdf-ку с формой, открыть в Adobe Reader с установленным расширением, заполнить форму, и через визард расширения подписать личными данными и отправить
+- В конце визарда будет ссылка на побрание UPO
