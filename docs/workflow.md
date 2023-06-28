@@ -55,7 +55,7 @@
 [2]: infakt_routine.md
 [3]: https://www.infakt.pl/blog/jak-zaksiegowac-roznice-kursowe
 [4]: https://poradnikprzedsiebiorcy.pl/-ryczalt-a-roznice-kursowe
-[5]: infakt_routine.md#получение-оплаты-и-учет-курсовых-разниц
+[5]: infakt_routine.md#poluchenie-oplaty-i-uchet-kursovykh-raznits
 [6]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
 [7]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
 [8]: https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx

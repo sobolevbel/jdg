@@ -4,4 +4,5 @@ site/
 .history
 venv/
 .venv/
+**.py[cod]
 

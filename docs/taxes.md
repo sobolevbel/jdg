@@ -152,7 +152,7 @@ EU VAT number.
 [12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
 [13]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
 [14]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
-[15]: faq.md#подоходный-налог
+[15]: faq.md#podokhodnyi-nalog
 [16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [17]: https://www.biznes.gov.pl/pl/portal/00248
 [18]: https://ec.europa.eu/taxation_customs/vies/

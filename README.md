@@ -27,7 +27,7 @@
 
 Запустить проект:
 
-`mkdocs serve`
+`python -m mkdocs serve`
 
 ### Docker-way 🙃
 

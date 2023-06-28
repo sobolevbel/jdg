@@ -242,9 +242,9 @@ TL;DR Нет.
 
 Заходите на сайте biznes.gov.pl и меняете
 
-- адрес проживания - [Adres zamieszkania](registration.md#5-адрес-проживания)
-- адрес для корреспонденции - [Adres do doręczeń](registration.md##8-почтовый-адрес)
-- адрес налогового офиса - [Urząd skarbowy](registration.md#11-скарбовы-ужонд)
+- адрес проживания - [Adres zamieszkania](registration.md#5-adres-prozhivaniia)
+- адрес для корреспонденции - [Adres do doręczeń](registration.md#8-pochtovyi-adres)
+- адрес налогового офиса - [Urząd skarbowy](registration.md#11-skarbovy-uzhond)
 
 ### Можно ли оформить ИП без постоянного места регистрации
 
@@ -284,7 +284,7 @@ TL;DR Нет.
 [11]: https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001771/O/D20221771.pdf
 [12]: https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/
 [13]: https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/
-[14]: infakt_routine.md#отправка-декларации-vat-jpk_v7m
+[14]: infakt_routine.md#otpravka-deklaratsii-vat-jpk-v7m
 [15]: https://ksiegowosc.infor.pl/abc/93424,W-jaki-sposob-nalezy-zaokraglac-kwoty-podatku-od-towarow-i-uslug.html
 [16]: https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna
 [17]: https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci
