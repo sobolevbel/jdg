@@ -4,10 +4,11 @@
 
 ### Можно ли податься на BlueCard как JDG
 
-**НЕТ**. BlueCard подразумевается только для наёмных рабочих, как JDG вы самостоятельная сущность ведущая бизнес. Для легализации надо идти по треку [ВНЖ по JDG](legalization.md)
+**НЕТ**. BlueCard подразумевается только для наёмных рабочих, как JDG вы самостоятельная сущность ведущая бизнес.
+Для легализации надо идти по треку [ВНЖ по JDG][3].
 
 Но ваш супруг может получить BlueCard и вы сможете вести деятельность, получив ВНЖ
-по воссоединению семьи. Если вы подходите под эту категорию [читайте подробнее в справочнике](https://pani-alenka.notion.site/a6a34efa29564a48b597f6e1a61b412e).
+по воссоединению семьи. Если вы подходите под эту категорию [читайте подробнее в справочнике][2].
 
 ### Что делать если подались на ВНЖ, а PBH виза заканчивается
 
@@ -74,7 +75,7 @@
 
 ### Где найти всю публично доступную информацию о моей фирме, включая NIP, REGON, официальное название фирмы
 
-[https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
+[https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx][4]
 
 ### По опыту, какие сроки по открытию ИП? - начиная с момента как пошли в ужонд за песелем
 
@@ -87,11 +88,11 @@
 
 ### Как ликвидировать ИП
 
-[Terminating your activity - what should you know? (biznes.gov.pl)](https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know)
+[Terminating your activity - what should you know? (biznes.gov.pl)][5]
 
-[Jak zakończyć jednoosobową działalność gospodarczą (biznes.gov.pl)](https://www.biznes.gov.pl/pl/portal/0077#5)
+[Jak zakończyć jednoosobową działalność gospodarczą (biznes.gov.pl)][6]
 
-[Как закрыть бизнес в Польше? Ликвидация, банкротство и реорганизация](https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content)
+[Как закрыть бизнес в Польше? Ликвидация, банкротство и реорганизация][7]
 
 ### JDG vs бизнес-инкубатор
 
@@ -122,26 +123,28 @@
 - тормоза в работе (операции в инкубаторе идут через куратора, часто между запросом и ответом неделя проходит)
 - для госорганов вы работаете по мутному договору с прицепом из кучи договоров (по 1-2 доп договора в месяц)
 - с ZUS-ом беда, платят минимальную зарплату по другому договору, чтобы был ZUS - взносы используются минимально возможные
-- главная беда - куча работодателей, особенно крупных европейских, не хотят работать через инкубатор. При этом договор получается не между вами и работодателем, а между ним и инкубатором, где вы фигурируете как сотрудник.
+- главная беда - куча работодателей, особенно крупных европейских, не хотят работать через инкубатор. При этом договор
+    получается не между вами и работодателем, а между ним и инкубатором, где вы фигурируете как сотрудник.
 
 ## Банки
 
 ### Как выбрать банк
 
-Отличная сравнительная [гугл док табличка](https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview)
+Отличная сравнительная [гугл док табличка][10].
 
-Последнее время участились проблемы с открытием банковских счетов для беларусов. Используйте поиск по телеграм чату [https://t.me/JDG_PBH](https://t.me/JDG_PBH)
+Последнее время участились проблемы с открытием банковских счетов для беларусов. Используйте поиск по телеграм чату [:telegram: ИП в Польше][1].
 
 ### Нужен ли REGON банкам для открытия фирмового счета
 
 В основном нужен и NIP и REGON, но иногда хватает только NIP. Последнее время, при открытии конто фирмового просят (требуют) b2b контракт, в некоторых случаях и мельдунек (зависит от отделения банка - человеческий фактор).
 
-### Конто фирмове vs индивидуальне
+### Конто firmowe vs osobiste
 
 Вы должны иметь корпоративный счет, если:
 
 - сумма одной сделки с другим предпринимателем превышает 15 000 злотых (даже если вы разделите эту сумму на несколько
-    частей, например, будете оплачивать счет частями). Статья на [poradnikprzedsiebiorcy.pl Obowiązkowy rachunek firmowy dla wszystkich przedsiębiorców](https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow). [Ссылка на закон](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19)
+    частей, например, будете оплачивать счет частями). Статья от poradnikprzedsiebiorcy.pl:
+    [Obowiązkowy rachunek firmowy dla wszystkich przedsiębiorców][8]. [Ссылка на закон][9].
 - вы хотите использовать дробный платеж (MPP)
 - вы будете осуществлять операции, подлежащие обязательному раздельному платежу (MPP).
 
@@ -158,15 +161,16 @@
 
 Существуют различные методы перевода SWIFT, определяющие кто и какие комиссии платит:
 
-- **BEN** - (BENefeciary) все комиссии платит получатель
-- **SHA** - (SHAred) отправитель платит за отправку, получатель за промежуточные
+- **BEN** - BENefeciary: все комиссии платит получатель
+- **SHA** - SHAred: отправитель платит за отправку, получатель за промежуточные
 - **OUR** - все комиссии платит отправитель
 
 ## Подоходный налог
 
 ### Оплата налогов на ryczałt
 
-Какие взносы/оплаты на ryczałt я должен делать, не имея дохода? Ryczałt - это налог от дохода. Если дохода не будет в какой-то период\месяц, то ничего не платим. Но складки в ZUS мы обязаны оплачивать.
+Какие взносы/оплаты на ryczałt я должен делать, не имея дохода? Ryczałt - это налог от дохода. Если дохода не будет в
+какой-то период\месяц, то подоходный налог платить не нужно. Но складки в ZUS мы обязаны оплачивать.
 
 ## ZUS
 
@@ -174,14 +178,14 @@
 
 Суммы причитающихся взносов социального страхования и медицинского страхования округляются до ближайшего гроша, при этом суммы менее 0,5 гроша опускаются, а суммы 0,5 гроша и выше округляются до 1 гроша.
 
-Источник: [Постановления совета министров о деталях и порядке рассмотрения случаев уплаты страховых взносов](https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001771/O/D20221771.pdf).
+Источник: [Постановления совета министров о деталях и порядке рассмотрения случаев уплаты страховых взносов][11].
 
 ## VAT
 
 ### С каких товаров можно списать VAT
 
-- [128 kosztów uzyskania przychodu każdego programisty](https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/)
-- [73 pomysły na koszty firmowe dla programisty](https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/)
+- [128 kosztów uzyskania przychodu każdego programisty][12].
+- [73 pomysły na koszty firmowe dla programisty][13].
 
 ### Как списать VAT (НДС) с покупки на фирму
 
@@ -190,11 +194,16 @@
 
 Далее нужно отправить фактуру бухгалтеру для списания.
 
+Процесс списания VAT В infakt описан [тут][14].
+
 ### Как округляется VAT-налог
 
-Правила округления сумм, указанных в счете-фактуре, содержатся в § 9(6) Положения о счетах-фактурах. Согласно ему, эти суммы округляются до ближайшего гроша, при этом суммы менее 0,5 гроша опускаются, а суммы 0,5 гроша и выше округляются до 1 гроша. Суммы налога, указанные в счете-фактуре с точностью до гроша, являются основанием для включения в налоговый учет по НДС.
+Правила округления сумм, указанных в счете-фактуре, содержатся в § 9(6) Положения о счетах-фактурах. Согласно ему, эти
+суммы округляются до ближайшего гроша, при этом суммы менее 0,5 гроша опускаются, а суммы 0,5 гроша и выше округляются
+до 1 гроша. Суммы налога, указанные в счете-фактуре с точностью до гроша, являются основанием для включения в налоговый
+учет по НДС.
 
-Источник: [ksiegowosc.infor.pl](https://ksiegowosc.infor.pl/abc/93424,W-jaki-sposob-nalezy-zaokraglac-kwoty-podatku-od-towarow-i-uslug.html).
+Источник: [W jaki sposób należy zaokrąglać kwoty podatku od towarów i usług][15].
 
 ## Декларации
 
@@ -204,7 +213,9 @@
 
 ### Как можно узнать имя отца для подачи PIT-37
 
-Если есть бумага, когда выдавали песель, то там прописаны имена родителей. Так же на сайте [gov.pl](https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna) после логина, на главной странице в блоке `Powiązane usługi` нужно выбрать `Sprawdź swoje dane w Rejestrze PESEL`. Там же будут данные о супруге, детях и матери.
+Если есть бумага, когда выдавали песель, то там прописаны имена родителей. Так же [этой странице gov.pl][16]
+после логина, на главной странице в блоке `Powiązane usługi` нужно выбрать `Sprawdź swoje dane w Rejestrze PESEL`.
+Там же будут данные о супруге, детях и матери.
 
 ## Фактуры
 
@@ -221,18 +232,19 @@
 
 TL;DR Нет.
 Был слух что будет налог выше на недвижимость если вписать ее как место `prowadzenia działalności`.
-У вас налог не вырастет пока вы специально не пойдете с хозяином квартиры в urząd gminy, что бы выделить конкретное место в квартире как офис.
-Если то место, где вы работаете по прежнему используется для личных целей, то никакого налога сверху арендодателям не возникает.
+У вас налог не вырастет пока вы специально не пойдете с хозяином квартиры в urząd gminy, что бы выделить конкретное
+место в квартире как офис. Если то место, где вы работаете по прежнему используется для личных целей, то никакого налога
+сверху арендодателям не возникает.
 
-Более детально [https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci](https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci)
+Более детально [Czy siedziba firmy w mieszkaniu to wyższy podatek od nieruchomości?][17].
 
 ### Я хочу переехать в другой город или на другой адрес - что надо поменять и где
 
 Заходите на сайте biznes.gov.pl и меняете
 
-- адрес проживания - [Adres zamieszkania](registration.md#5)
-- адрес для корреспонденции - [Adres do doręczeń](registration.md#8)
-- адрес налогового офиса - [Urząd skarbowy](registration.md#11)
+- адрес проживания - [Adres zamieszkania](registration.md#5-адрес-проживания)
+- адрес для корреспонденции - [Adres do doręczeń](registration.md##8-почтовый-адрес)
+- адрес налогового офиса - [Urząd skarbowy](registration.md#11-скарбовы-ужонд)
 
 ### Можно ли оформить ИП без постоянного места регистрации
 
@@ -248,7 +260,7 @@ TL;DR Нет.
 
 ### Список виртуальных офисов (wirtualne biuro)
 
-[https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml)
+[В google docs][18].
 
 ## Словарь терминов
 
@@ -258,3 +270,22 @@ TL;DR Нет.
 - КЧП - карта часового побыту - ВНЖ по бизнес деятельности для JDG
 - КСП - карта сталого побыту - ВНЖ по бизнес деятельности для JDG - нужна КП
 - КП - карта поляка
+
+[1]: https://t.me/JDG_PBH
+[2]: https://pani-alenka.notion.site/a6a34efa29564a48b597f6e1a61b412e
+[3]: legalization.md
+[4]: https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx
+[5]: https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know
+[6]: https://www.biznes.gov.pl/pl/portal/0077#5
+[7]: https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content
+[8]: https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow
+[9]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19
+[10]: https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview
+[11]: https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001771/O/D20221771.pdf
+[12]: https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/
+[13]: https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/
+[14]: infakt_routine.md#отправка-декларации-vat-jpk_v7m
+[15]: https://ksiegowosc.infor.pl/abc/93424,W-jaki-sposob-nalezy-zaokraglac-kwoty-podatku-od-towarow-i-uslug.html
+[16]: https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna
+[17]: https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci
+[18]: https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml
