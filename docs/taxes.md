@@ -2,7 +2,7 @@
 
 Информация по налогам ИП в Польше.
 
-## PIT - подоходный налог
+## PIT: подоходный налог
 
 Доступные системы налогообложения физических лиц (PIT - Personal Income Tax) для JDG по состоянию на 2022 год:
 
@@ -102,7 +102,7 @@
 Вы обязаны зарегистрироваться как плательщик VAT в следующих случаях:
 
 1. Ваш облагаемый доход превышает 200_000 злотых / год и фирма, с которой вы сотрудничаете, находится в Польше (польские заказчики).
-2. Один из кодов [PKD](https://www.biznes.gov.pl/pl/tabela-pkd) вашей деятельности является консалтингом - 62.02.Z.
+2. Один из кодов [PKD][19] вашей деятельности является консалтингом - 62.02.Z.
 3. Вы хотите списывать VAT с покупок на фирму (прим. Ноутбук, телефон, мебель и прочие вещи очень нужные для работы ИП).
 
 Отследить, что вы были зарегистрированы можно на [сайте](https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka).
@@ -117,10 +117,10 @@ VAT, соответственно, вы в своем инвойсе не доб
 Примечание: VAT платит заказчик в своей стране и по своим правилам. Но в месяцы, когда выставляли фактуры этим
 заказчикам, нужно подавать декларацию VAT как отчет.
 
-После регистрации в базе плательщиков VAT EU (внёсек VAT-R) добавьте префикс PL к цифрам вашего NIP - это и будет ваш EU VAT number.
+После регистрации в базе плательщиков VAT EU (внёсек VAT-R) добавьте префикс PL к цифрам вашего NIP - это и будет ваш
+EU VAT number.
 
-Проверить, что ваш контрагент является VAT-EU плательщиком можно здесь
-[https://ec.europa.eu/taxation_customs/vies/](https://ec.europa.eu/taxation_customs/vies/)
+Проверить, что ваш контрагент является VAT-EU плательщиком можно [здесь][18].
 
 ### VAT в другие страны
 
@@ -130,14 +130,13 @@ VAT, соответственно, вы в своем инвойсе не доб
 
 ### VAT заметки
 
-- После подачи заявления проверить зарегистрировали ли вас можно на [podatki.gov.pl](https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka)
+- После подачи заявления проверить зарегистрировали ли вас можно в [поисковике налоговой][16]
 - VAT составляет 23%
-- Если работаешь с польской фирмой - то возникает внутрипольский ват, если с другой страной EU - то VAT EU, а если со страной вне EU зоны - то VAT нет вообще.
-- Есть отдельная страничка про VAT на [biznes.gov.pl](https://www.biznes.gov.pl/pl/portal/00248)
+- На biznes.gov.pl есть отдельная [страничка про VAT][17].
 
 ## FAQ
 
-Также смотрите [список вопросов и ответов в разделе FAQ](faq.md#_9).
+Также смотрите [список вопросов и ответов в разделе FAQ][15].
 
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
 [2]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx
@@ -153,3 +152,8 @@ VAT, соответственно, вы в своем инвойсе не доб
 [12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
 [13]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
 [14]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
+[15]: faq.md#podokhodnyi-nalog
+[16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
+[17]: https://www.biznes.gov.pl/pl/portal/00248
+[18]: https://ec.europa.eu/taxation_customs/vies/
+[19]: https://www.biznes.gov.pl/pl/tabela-pkd

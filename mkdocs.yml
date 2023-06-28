@@ -58,6 +58,7 @@ markdown_extensions:
         custom_icons:
           - overrides/.icons
   - toc:
+      slugify: !!python/name:slugify_headers.slugify
       permalink: ¶
 
 extra:

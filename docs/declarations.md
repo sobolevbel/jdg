@@ -363,7 +363,7 @@ podatek?".
 [20]: images/pit/pit5.jpg
 [21]: images/pit/pit6.jpg
 [22]: images/pit/pit7.jpg
-[23]: declarations.md#4
+[23]: declarations.md#4-tip-dokhodov
 [24]: images/pit/pit8.jpg
 [25]: images/pit/pit9.jpg
 [26]: https://www.pitax.pl/wiedza/mniejsze-podatki/ulga-internetowa
