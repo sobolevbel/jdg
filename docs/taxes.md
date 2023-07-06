@@ -126,7 +126,10 @@ EU VAT number.
 
 Экспорт за пределы EU не облагается VAT, регистрироваться нигде
 не нужно. На инвойсах в поле "ставка VAT" указывайте `np.`, и
-обязательно напишите `Reverse Charge` где-нибудь в комментариях.
+обязательно напишите в комментариях:
+
+> Reverse charge - VAT is charged to the buyer.
+> Do rozliczenia podatku VAT zobowiązany jest nabywca usługi (odwrotne obciążenie).
 
 ### VAT заметки
 
