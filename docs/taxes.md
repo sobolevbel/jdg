@@ -27,8 +27,8 @@
 
 ## Налоговые калькуляторы
 
-- [Таблица-калькулятор][2] от участника чата ИП. Скачивайте, импортируйте в Google Drive и подставляйте свои данные.
 - [https://www.podatki.wtf/](https://www.podatki.wtf/)
+- [https://ladnepodatki.pl/](https://ladnepodatki.pl/)
 - [https://calculla.com/polish_net_gross_earnings_calculator](https://calculla.com/polish_net_gross_earnings_calculator)
 - [https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen](https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen)
 - [https://jakipit.pl/](https://jakipit.pl/)
