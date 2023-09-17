@@ -4,7 +4,7 @@
 
 С 2022 года в связи с переходом на Polski Ład предприниматели обязаны отправлять декларацию ZUS DRA каждый месяц.
 
-1. Перейти на вкладку ePłatnik.
+1. Перейти на вкладку ePłatnik. (если вкладка отсутствует - нужно активировать согласно [руководству](https://www.zus.pl/portal/pomoc/index.html?aktywacja_p3atnika.html))
 
     ![Choose ePłatnik tab][1]
 
