@@ -248,8 +248,8 @@ infakt. Также, убедитесь что все ваши фактуры у�
 [17]: images/infakt_routine/zus_import_kedu_3.png
 [18]: images/infakt_routine/zus_import_kedu_4.png
 [19]: https://www.infakt.pl/blog/jak-rozliczyc-roznice-kursowe-na-ryczalcie/
-[20]: https://kalkulatory2.gofin.pl/Kalkulator-roznic-kursowych-przychodow,12.html
-[21]: https://kalkulatory2.gofin.pl/Kalkulator-roznic-kursowych-od-srodkow-wlasnych,12.html
+[20]: https://kalkulatory.gofin.pl/Kalkulator-roznic-kursowych-przychodow,12.html
+[21]: https://kalkulatory.gofin.pl/Kalkulator-roznic-kursowych-od-srodkow-wlasnych,12.html
 [22]: images/infakt_routine/dowod_wewnetrzny.png
 [23]: images/infakt_routine/dodatnia_ruznica.png
 [24]: https://www.infakt.pl/polecam/sobolevbel
