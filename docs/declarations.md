@@ -280,10 +280,8 @@ Coming soon...
 Список фондов, которые могут вас заинтересовать:
 
 - 0000030279 - Фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
-- 0000272075 - [Фонд][33], помогающий мигрантам, в т.ч. беларусам.
-- 0000190607 - [TOWARZYSTWO][34] PRZYJACIÓŁ UKRAINY.
+- 0000190607 - [Towarzystwo][34] przyjaciół Ukrainy.
 - 0000017257 - [Фонд][35] помощи приютам для животных "Fundacja św. Franciszka".
-- 0000429382 - [STOWARZYSZENIE][36] NA RZECZ OSÓB LGBT "TOLERADO".
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
@@ -362,10 +360,8 @@ podatek?".
 [30]: https://www.e-pity.pl/wykaz-opp/
 [31]: images/pit/pit13.jpg
 [32]: images/pit/pit14.jpg
-[33]: https://spis.ngo.pl/154060-fundacja-polskie-forum-migracyjne
 [34]: https://tpu.org.pl/
 [35]: https://www.facebook.com/fundacja.sw.franciszka/
-[36]: https://www.e-pity.pl/pity-2022/akcja-e-life-jeden-procent-2023-KRS-0000429382
 [37]: images/pit/pit15.jpg
 [38]: images/pit/pit16.jpg
 [39]: images/pit/pit17.jpg
