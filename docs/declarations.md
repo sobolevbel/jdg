@@ -282,6 +282,13 @@ Coming soon...
 - 0000030279 - Фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
 - 0000190607 - [Towarzystwo][34] przyjaciół Ukrainy.
 - 0000017257 - [Фонд][35] помощи приютам для животных "Fundacja św. Franciszka".
+- 0000348880 - Школа для детей с ограниченными возможностями [Bona Fide][46].
+- 0000602244 - [Цэнтр][36] Беларускай Салідарнасці (указать cel szczególowy: "Pomoc dla Centrum Białoruskiej Solidarności").
+
+Лечение детей беларусов:
+
+- 0000396361 - [Weronika][33] Chyłkowska (cel szczególowy: "0247213 Khylkouskaya").
+- 0000396361 - [Ela][45] Terebowiec (cel szczególowy: "0154781 Ela")
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
@@ -360,8 +367,10 @@ podatek?".
 [30]: https://www.e-pity.pl/wykaz-opp/
 [31]: images/pit/pit13.jpg
 [32]: images/pit/pit14.jpg
+[33]: https://www.siepomaga.pl/walka-veroniki/procent-podatku
 [34]: https://tpu.org.pl/
 [35]: https://www.facebook.com/fundacja.sw.franciszka/
+[36]: https://belaruscenter.eu/by/
 [37]: images/pit/pit15.jpg
 [38]: images/pit/pit16.jpg
 [39]: images/pit/pit17.jpg
@@ -369,3 +378,5 @@ podatek?".
 [41]: images/pit/pit18.jpg
 [42]: https://en.ocalenie.org.pl
 [44]: https://buymeacoffee.com/devsobolev
+[45]: https://www.siepomaga.pl/ela-sma/procent-podatku
+[46]: https://t.me/JDG_PBH/372301
