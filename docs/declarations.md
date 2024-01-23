@@ -288,7 +288,8 @@ Coming soon...
 Лечение детей беларусов:
 
 - 0000396361 - [Weronika][33] Chyłkowska (cel szczególowy: "0247213 Khylkouskaya").
-- 0000396361 - [Ela][45] Terebowiec (cel szczególowy: "0154781 Ela")
+- 0000396361 - [Ela][45] Terebowiec (cel szczególowy: "0154781 Ela").
+- 0000037904 - [Petr][47] Vakhrameyev (cel szczególowy: "42671 Vakhrameyev Petr").
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
@@ -380,3 +381,4 @@ podatek?".
 [44]: https://buymeacoffee.com/devsobolev
 [45]: https://www.siepomaga.pl/ela-sma/procent-podatku
 [46]: https://t.me/JDG_PBH/372301
+[47]: https://dzieciom.pl/podopieczni/42671
