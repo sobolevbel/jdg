@@ -294,6 +294,7 @@ Cel szczególowy не всегда обязателен. Вводить его �
 - 0000396361 - [Weronika][33] Chyłkowska (cel szczególowy: **0247213 Khylkouskaya**).
 - 0000396361 - [Ela][45] Terebowiec (cel szczególowy: **0154781 Ela**).
 - 0000037904 - [Petr][47] Vakhrameyev (cel szczególowy: **42671 Vakhrameyev Petr**).
+- 0000037904 - Dzmitry Kharutski (cel szczegółowy: **43917 Kharutski Dzmitry**)
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
