@@ -285,16 +285,21 @@ Cel szczególowy не всегда обязателен. Вводить его �
 
 - 0000030279 - Фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
 - 0000190607 - [Towarzystwo][34] przyjaciół Ukrainy.
+- 0000507234 - Fundacja [Stand with Ukraine][51] (cel szczegółowy: **83905**). Помощь жертвам войны.
 - 0000017257 - [Фонд][35] помощи приютам для животных Fundacja św. Franciszka.
 - 0000348880 - Школа для детей с ограниченными возможностями [Bona Fide][46].
-- 0000602244 - [Цэнтр][36] Беларускай Салідарнасці (указать cel szczególowy: **Pomoc dla Centrum Białoruskiej Solidarności**).
+- 0000602244 - [Цэнтр][36] Беларускай Салідарнасці (указать cel szczegółowy: **Pomoc dla Centrum Białoruskiej Solidarności**).
+- 0000270261 - [Беларускі Моладзевы Хаб][52] (cel szczegółowy: **HUB Warszawa 11876**).
 
-Лечение детей беларусов:
+Лечение детей:
 
-- 0000396361 - [Weronika][33] Chyłkowska (cel szczególowy: **0247213 Khylkouskaya**).
-- 0000396361 - [Ela][45] Terebowiec (cel szczególowy: **0154781 Ela**).
-- 0000037904 - [Petr][47] Vakhrameyev (cel szczególowy: **42671 Vakhrameyev Petr**).
-- 0000037904 - Dzmitry Kharutski (cel szczegółowy: **43917 Kharutski Dzmitry**)
+- 0000396361 - [Weronika][33] Chyłkowska - cel szczegółowy: **0247213 Khylkouskaya**
+- 0000396361 - [Ela][45] Terebowiec - cel szczegółowy: **0154781 Ela**
+- 0000037904 - [Petr][47] Vakhrameyev - cel szczegółowy: **42671 Vakhrameyev Petr**
+- 0000037904 - [Dzmitry][48] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
+- 0000396361 - [Vasilisa][49] Loban - cel szczegółowy: **0165621 Vasilisa**
+- 0000037904 - [Zlatoslava][50] Mytnik - cel szczegółowy: **40923 Mytnik Zlatoslava**
+
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
@@ -387,3 +392,8 @@ podatek?".
 [45]: https://www.siepomaga.pl/ela-sma/procent-podatku
 [46]: https://t.me/JDG_PBH/372301
 [47]: https://dzieciom.pl/podopieczni/42671
+[48]: https://dzieciom.pl/podopieczni/43917
+[49]: https://www.siepomaga.pl/vasilisa-loban
+[50]: https://dzieciom.pl/podopieczni/40923
+[51]: https://fanimani.pl/standwithukraine/
+[52]: https://www.facebook.com/bmhuborg

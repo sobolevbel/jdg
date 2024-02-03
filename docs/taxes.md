@@ -2,6 +2,8 @@
 
 Информация по налогам ИП в Польше.
 
+Бухгалтерия для JDG: [Legal Tax Level][20]
+
 ## PIT: подоходный налог
 
 Доступные системы налогообложения физических лиц (PIT - Personal Income Tax) для JDG по состоянию на 2022 год:
@@ -160,3 +162,4 @@ EU VAT number.
 [17]: https://www.biznes.gov.pl/pl/portal/00248
 [18]: https://ec.europa.eu/taxation_customs/vies/
 [19]: https://www.biznes.gov.pl/pl/tabela-pkd
+[20]: https://legaltaxlevel.com/ip_pl
