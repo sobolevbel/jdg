@@ -294,7 +294,6 @@ Cel szczególowy не всегда обязателен. Вводить его �
 Лечение детей:
 
 - 0000396361 - [Weronika][33] Chyłkowska - cel szczegółowy: **0247213 Khylkouskaya**
-- 0000396361 - [Ela][45] Terebowiec - cel szczegółowy: **0154781 Ela**
 - 0000037904 - [Petr][47] Vakhrameyev - cel szczegółowy: **42671 Vakhrameyev Petr**
 - 0000037904 - [Dzmitry][48] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
 - 0000396361 - [Vasilisa][49] Loban - cel szczegółowy: **0165621 Vasilisa**
@@ -389,7 +388,6 @@ podatek?".
 [41]: images/pit/pit18.jpg
 [42]: https://en.ocalenie.org.pl
 [44]: https://buymeacoffee.com/devsobolev
-[45]: https://www.siepomaga.pl/ela-sma/procent-podatku
 [46]: https://t.me/JDG_PBH/372301
 [47]: https://dzieciom.pl/podopieczni/42671
 [48]: https://dzieciom.pl/podopieczni/43917
