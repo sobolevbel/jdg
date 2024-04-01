@@ -116,7 +116,7 @@ ZUS состоит из 2 основных частей:
         <tr>
             <td colspan="2" class="border-r">Wypadkowa</td>
             <td class="border-r ulga">0</td>
-            <td class="border-r preferencyjne-01-06">???</td>
+            <td class="border-r preferencyjne-01-06">21,25</td>
             <td class="border-r preferencyjne-07-12">???</td>
             <td class="duzy">???</td>
         </tr>
