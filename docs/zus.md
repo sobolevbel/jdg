@@ -89,47 +89,50 @@ ZUS состоит из 2 основных частей:
                 A: Składka zdrowotna
             </th>
             <td class="border-r">0 - 60 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">419,46</td>
+            <td colspan="4" class="text-bl text-center text-bold">419,46</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">699,11</td>
+            <td colspan="4" class="text-bl text-center text-bold">699,11</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">&gt; 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">1258,39</td>
+            <td colspan="4" class="text-bl text-center text-bold">1258,39</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Emerytalna</td>
+        <th rowspan="5" class="border-r border-t text-bl text-bold valign-center">
+                B: ubezpieczenie społeczne
+            </th>
+            <td class="border-r">Emerytalna</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">248,41</td>
             <td class="border-r preferencyjne-07-12">251,81</td>
             <td class="duzy">916,35</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Rentowa</td>
+            <td class="border-r">Rentowa</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">101,81</td>
             <td class="border-r preferencyjne-07-12">103,20</td>
             <td class="duzy">375,55</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Wypadkowa</td>
+            <td class="border-r">Wypadkowa</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">21,25</td>
             <td class="border-r preferencyjne-07-12">21,54</td>
             <td class="duzy">78,40</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Na Fundusz Pracy</td>
+            <td class="border-r">Na Fundusz Pracy</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">0</td>
             <td class="border-r preferencyjne-07-12">0</td>
-            <td class="duzy">101.97</td>
+            <td class="duzy">101,97</td>
         </tr>
         <tr class="text-rd">
-            <td colspan="2" class="border-r text-bold">
-                B: вместе
+            <td class="border-r text-bold">
+                Вместе
             </td>
             <td class="border-r ulga text-bold">0</td>
             <td class="border-r preferencyjne-01-06 text-bold">371,47</td>
@@ -137,8 +140,8 @@ ZUS состоит из 2 основных частей:
             <td class="duzy text-bold">1472,27</td>
         </tr>
         <tr class="text-gr">
-            <td colspan="2" class="border-r text-bold">
-                C: Chorobowa<br>
+            <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
+                <b>C: Chorobowa</b><br>
                 (не обязательная, для гос. больничных)
             </td>
             <td class="border-r ulga text-bold">0</td>
