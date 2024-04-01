@@ -132,9 +132,9 @@ ZUS состоит из 2 основных частей:
                 B: вместе
             </td>
             <td class="border-r ulga text-bold">0</td>
-            <td class="border-r preferencyjne-01-06 text-bold">???</td>
-            <td class="border-r preferencyjne-07-12 text-bold">???</td>
-            <td class="duzy text-bold">???</td>
+            <td class="border-r preferencyjne-01-06 text-bold">371,47</td>
+            <td class="border-r preferencyjne-07-12 text-bold">376,55</td>
+            <td class="duzy text-bold">1472,27</td>
         </tr>
         <tr class="text-gr">
             <td colspan="2" class="border-r text-bold">
