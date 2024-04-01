@@ -161,7 +161,7 @@ ZUS состоит из 2 основных частей:
 [перейти][27] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
-Больше деталей на [e-pity][28]
+Больше деталей на [biznes.gov.pl][29] и [e-pity][28]
 
 ## Ulga na start
 
@@ -307,3 +307,4 @@ ZUS состоит из 2 основных частей:
 [26]: images/zus_epuap/zus_epuap_4.png
 [27]: zus_obnizone_skladki.md
 [28]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[29]: https://www.biznes.gov.pl/pl/portal/00286#2
