@@ -74,7 +74,8 @@ ZUS состоит из 2 основных частей:
                 Ryczałt<br>
                 <span class="text-bl">A</span> +
                 <span class="text-rd">B</span> +
-                <span class="text-gr">C</span>
+                <span class="text-green">C</span> +
+                <span class="text-gr">D</span>
             </th>
             <th class="border-r">Годовой доход</th>
             <th class="border-r ulga">Ulga na start</th>
@@ -100,7 +101,7 @@ ZUS состоит из 2 основных частей:
             <td colspan="4" class="text-bl text-center text-bold">1258,39</td>
         </tr>
         <tr>
-        <th rowspan="5" class="border-r border-t text-bl text-bold valign-center">
+        <th rowspan="4" class="border-r border-t text-bl text-bold valign-center">
                 B: ubezpieczenie społeczne
             </th>
             <td class="border-r">Emerytalna</td>
@@ -123,13 +124,6 @@ ZUS состоит из 2 основных частей:
             <td class="border-r preferencyjne-07-12">21,54</td>
             <td class="duzy">78,40</td>
         </tr>
-        <tr>
-            <td class="border-r">Na Fundusz Pracy</td>
-            <td class="border-r ulga">0</td>
-            <td class="border-r preferencyjne-01-06">0</td>
-            <td class="border-r preferencyjne-07-12">0</td>
-            <td class="duzy">101,97</td>
-        </tr>
         <tr class="text-rd">
             <td class="border-r text-bold">
                 <b>Вместе</b>
@@ -137,11 +131,20 @@ ZUS состоит из 2 основных частей:
             <td class="border-r ulga text-bold"><b>0</b></td>
             <td class="border-r preferencyjne-01-06 text-bold"><b>371,47</b></td>
             <td class="border-r preferencyjne-07-12 text-bold"><b>376,55</b></td>
-            <td class="duzy text-bold"><b>1472,27</b></td>
+            <td class="duzy text-bold"><b>1370,30</b></td>
         </tr>
-        <tr class="text-gr">
+        <tr class="text-green">
             <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
-                <b>C: Chorobowa</b><br>
+                <b>C: Fundusz Pracy</b>
+            </td>
+            <td class="border-r ulga">0</td>
+            <td class="border-r preferencyjne-01-06">0</td>
+            <td class="border-r preferencyjne-07-12">0</td>
+            <td class="duzy text-bold">115.01</td>
+        </tr>
+        <tr class="text-rd">
+            <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
+                <b>D: Chorobowa</b><br>
                 (не обязательная, для гос. больничных)
             </td>
             <td class="border-r ulga text-bold">0</td>
