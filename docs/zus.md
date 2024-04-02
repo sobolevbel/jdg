@@ -101,7 +101,7 @@ ZUS состоит из 2 основных частей:
             <td colspan="4" class="text-bl text-center text-bold">1258,39</td>
         </tr>
         <tr>
-        <th rowspan="4" class="border-r border-t text-bl text-bold valign-center">
+        <th rowspan="4" class="border-r border-t text-rd text-bold valign-center">
                 B: ubezpieczenie społeczne
             </th>
             <td class="border-r">Emerytalna</td>
