@@ -134,7 +134,7 @@ ZUS состоит из 2 основных частей:
             <td class="duzy text-bold"><b>1370,30</b></td>
         </tr>
         <tr class="text-green">
-            <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
+            <td colspan="2" class="border-r border-t text-green text-bold valign-center">
                 <b>C: Fundusz Pracy</b>
             </td>
             <td class="border-r ulga">0</td>
