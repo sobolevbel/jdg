@@ -89,56 +89,59 @@ ZUS состоит из 2 основных частей:
                 A: Składka zdrowotna
             </th>
             <td class="border-r">0 - 60 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">419,46</td>
+            <td colspan="4" class="text-bl text-center text-bold">419,46</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">699,11</td>
+            <td colspan="4" class="text-bl text-center text-bold">699,11</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">&gt; 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">1258,39</td>
+            <td colspan="4" class="text-bl text-center text-bold">1258,39</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Emerytalna</td>
+        <th rowspan="5" class="border-r border-t text-bl text-bold valign-center">
+                B: ubezpieczenie społeczne
+            </th>
+            <td class="border-r">Emerytalna</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">248,41</td>
             <td class="border-r preferencyjne-07-12">251,81</td>
             <td class="duzy">916,35</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Rentowa</td>
+            <td class="border-r">Rentowa</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">101,81</td>
             <td class="border-r preferencyjne-07-12">103,20</td>
             <td class="duzy">375,55</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Wypadkowa</td>
+            <td class="border-r">Wypadkowa</td>
             <td class="border-r ulga">0</td>
-            <td class="border-r preferencyjne-01-06">???</td>
-            <td class="border-r preferencyjne-07-12">???</td>
-            <td class="duzy">???</td>
+            <td class="border-r preferencyjne-01-06">21,25</td>
+            <td class="border-r preferencyjne-07-12">21,54</td>
+            <td class="duzy">78,40</td>
         </tr>
         <tr>
-            <td colspan="2" class="border-r">Na Fundusz Pracy</td>
+            <td class="border-r">Na Fundusz Pracy</td>
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">0</td>
             <td class="border-r preferencyjne-07-12">0</td>
-            <td class="duzy">101.97</td>
+            <td class="duzy">101,97</td>
         </tr>
         <tr class="text-rd">
-            <td colspan="2" class="border-r text-bold">
-                B: вместе
+            <td class="border-r text-bold">
+                <b>Вместе</b>
             </td>
-            <td class="border-r ulga text-bold">0</td>
-            <td class="border-r preferencyjne-01-06 text-bold">???</td>
-            <td class="border-r preferencyjne-07-12 text-bold">???</td>
-            <td class="duzy text-bold">???</td>
+            <td class="border-r ulga text-bold"><b>0</b></td>
+            <td class="border-r preferencyjne-01-06 text-bold"><b>371,47</b></td>
+            <td class="border-r preferencyjne-07-12 text-bold"><b>376,55</b></td>
+            <td class="duzy text-bold"><b>1472,27</b></td>
         </tr>
         <tr class="text-gr">
-            <td colspan="2" class="border-r text-bold">
-                C: Chorobowa<br>
+            <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
+                <b>C: Chorobowa</b><br>
                 (не обязательная, для гос. больничных)
             </td>
             <td class="border-r ulga text-bold">0</td>
@@ -161,7 +164,7 @@ ZUS состоит из 2 основных частей:
 [перейти][27] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
-Больше деталей на [e-pity][28]
+Больше деталей на [biznes.gov.pl][29] и [e-pity][28]
 
 ## Ulga na start
 
@@ -307,3 +310,4 @@ ZUS состоит из 2 основных частей:
 [26]: images/zus_epuap/zus_epuap_4.png
 [27]: zus_obnizone_skladki.md
 [28]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[29]: https://www.biznes.gov.pl/pl/portal/00286#2
