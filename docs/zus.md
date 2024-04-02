@@ -142,8 +142,8 @@ ZUS состоит из 2 основных частей:
             <td class="border-r preferencyjne-07-12">0</td>
             <td class="duzy text-bold">115.01</td>
         </tr>
-        <tr class="text-rd">
-            <td colspan="2" class="border-r border-t text-bl text-bold valign-center">
+        <tr class="text-gr">
+            <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
                 <b>D: Chorobowa</b><br>
                 (не обязательная, для гос. больничных)
             </td>
