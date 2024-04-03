@@ -293,7 +293,6 @@ Cel szczególowy не всегда обязателен. Вводить его �
 
 Лечение детей:
 
-- 0000396361 - [Weronika][33] Chyłkowska - cel szczegółowy: **0247213 Khylkouskaya**
 - 0000037904 - [Petr][47] Vakhrameyev - cel szczegółowy: **42671 Vakhrameyev Petr**
 - 0000037904 - [Dzmitry][48] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
 - 0000396361 - [Vasilisa][49] Loban - cel szczegółowy: **0165621 Vasilisa**
@@ -376,7 +375,6 @@ podatek?".
 [30]: https://www.e-pity.pl/wykaz-opp/
 [31]: images/pit/pit13.jpg
 [32]: images/pit/pit14.jpg
-[33]: https://www.siepomaga.pl/walka-veroniki/procent-podatku
 [34]: https://tpu.org.pl/
 [35]: https://www.facebook.com/fundacja.sw.franciszka/
 [36]: https://belaruscenter.eu/by/
