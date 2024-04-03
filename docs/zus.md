@@ -1,4 +1,4 @@
-# Zakład Ubezpieczeń Społecznych
+![image](https://github.com/kshychko/jdg/assets/6890602/2f7a27db-310f-4161-8313-8ba5c4fb55ba)# Zakład Ubezpieczeń Społecznych
 
 Все предприниматели, ведущие JDG в Польше обязаны застраховаться в государственной
 [службе социального страхования][1] и оплачивать страховые взносы.
@@ -140,7 +140,31 @@ ZUS состоит из 2 основных частей:
             <td class="border-r ulga">0</td>
             <td class="border-r preferencyjne-01-06">0</td>
             <td class="border-r preferencyjne-07-12">0</td>
-            <td class="duzy text-bold">115.01</td>
+            <td class="duzy text-bold">115,01</td>
+        </tr>
+        <tr class="ulga-bg">
+            <th rowspan="3" class="border-r border-t text-bold valign-center">
+                Вместе (A + B + C):
+            </th>
+            <td class="border-r">0 - 60 000</td>
+            <td class="border-r ulga text-center text-bold">419,46</td>
+            <td class="border-r preferencyjne-01-06 text-center text-bold">790,93</td>
+            <td class="border-r preferencyjne-07-12 text-center text-bold">796,01</td>
+            <td class="duzy text-bold text-center text-bold">1904,77</td>
+        </tr>
+        <tr class="ulga-bg">
+            <td class="border-r">60 000.01 - 300 000</td>
+            <td class="border-r ulga text-center text-bold">699,11</td>
+            <td class="border-r preferencyjne-01-06 text-center text-bold">1070,58</td>
+            <td class="border-r preferencyjne-07-12 text-center text-bold">1075,66</td>
+            <td class="duzy text-bold text-center text-bold">2184,42</td>
+        </tr>
+        <tr class="ulga-bg">
+            <td class="border-r">&gt; 300 000</td>
+            <td class="border-r ulga text-center text-bold">1258,39</td>
+            <td class="border-r preferencyjne-01-06 text-center text-bold">1629,86</td>
+            <td class="border-r preferencyjne-07-12 text-center text-bold">1634,94</td>
+            <td class="duzy text-bold text-center">2743,7</td>
         </tr>
         <tr class="text-gr">
             <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
