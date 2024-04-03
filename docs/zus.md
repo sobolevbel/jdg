@@ -145,7 +145,7 @@ ZUS состоит из 2 основных частей:
         <tr class="text-gr">
             <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
                 <b>D: Chorobowa</b><br>
-                (не обязательная, можно отказаться)
+                (не обязательная)
             </td>
             <td class="border-r ulga text-bold">0</td>
             <td class="border-r preferencyjne-01-06 text-bold">31,18</td>
