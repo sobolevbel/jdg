@@ -1,3 +1,5 @@
 mkdocs-material
 awesome-slugify
 mkdocs-git-revision-date-localized-plugin
+pyyaml>6
+click>8

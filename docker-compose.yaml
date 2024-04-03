@@ -2,13 +2,7 @@ version: "3.5"
 
 services:
   jdg:
-    build: ./
-    network_mode: "host"
-    volumes:
-    - type: bind
-      source: ./docs
-      target: /docs
-    - type: bind
-      source: ./mkdocs.yml
-      target: /mkdocs.yml
-    command: ["python", "-m", "mkdocs", "serve"]
+    build: .
+    ports:
+      - 8000:8000
+    command: ["python", "-m", "mkdocs", "serve", "--dev-addr", "0.0.0.0:8000"]
