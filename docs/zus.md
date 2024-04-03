@@ -1,4 +1,4 @@
-![image](https://github.com/kshychko/jdg/assets/6890602/2f7a27db-310f-4161-8313-8ba5c4fb55ba)# Zakład Ubezpieczeń Społecznych
+# Zakład Ubezpieczeń Społecznych
 
 Все предприниматели, ведущие JDG в Польше обязаны застраховаться в государственной
 [службе социального страхования][1] и оплачивать страховые взносы.
