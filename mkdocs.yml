@@ -10,7 +10,7 @@ nav:
   - Profil Zaufany: pz.md
   - Регистрация JDG и VAT: registration.md
   - ZUS: zus.md
-  - Переход на Obniżone składki ZUS: zus_obnizone_skladki.md
+  - Переход на Składki Preferencyjne и Duży ZUS: zus_obnizone_skladki.md
   - Налоги: taxes.md
   - Декларации: declarations.md
   - Легализация: legalization.md
@@ -52,8 +52,8 @@ plugins:
 
 markdown_extensions:
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
       options:
         custom_icons:
           - overrides/.icons

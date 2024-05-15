@@ -1,0 +1,15 @@
+.venv
+venv
+.github
+.gitattributes
+.gitignore
+.imgbotconfig
+.python-version
+**/LICENSE
+README.md
+requirements.in
+**/.DS_Store
+.idea
+.vscode
+**/__pycache__
+**/*.py[cod]

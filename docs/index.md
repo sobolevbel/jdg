@@ -1,9 +1,11 @@
 # Приветствуем в гайде-путеводителе по JDG
 
 Jednoosobowa działalność gospodarcza — это форма бизнеса в Польше, аналогичная
-ИП в Беларуси и России и ФОП в Украине.
+ИП или ФОП в странах бывшего СНГ.
 
 Присоединяйтесь к [:telegram: чату про JDG][0] в Польше.
+
+Бухгалтерия для JDG: [Legal Tax Level][4]
 
 ## Кто может открыть JDG в Польше
 
@@ -30,6 +32,7 @@ Jednoosobowa działalność gospodarcza — это форма бизнеса в 
 - Иностранцы с гуманитарной визой.
 - Иностранцы с рабочей визой.
 - Иностранцы с КЧП по "иным обстоятельствам".
+- Иностранцы с КЧП по работе.
 - Иностранцы с Blue Card.
 - Беларусы с гуманитарным ВНЖ по гуманитарной визе (ART 186 UST 1 PKT 9).
 - И т.д.
@@ -58,3 +61,4 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
 [1]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
 [2]: https://t.me/+Lu-5LydDmcdhYjNi
 [3]: http://t.me/llc_poland
+[4]: https://legaltaxlevel.com/ip_pl
