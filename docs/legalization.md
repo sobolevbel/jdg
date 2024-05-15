@@ -388,4 +388,4 @@
 [14]: karta-pobytu-docs/business-plan-guide.pdf
 [15]: https://pomoc.wfirma.pl/-kpir-w-systemie-wfirma-pl
 [16]: https://www.pit.pl/formy-opodatkowania/nowy-wzor-ewidencji-przychodow-2021-1002791
-[17]: https://www.gov.pl/web/uw-mazowiecki/numer-konta-do-oplat
+[17]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
