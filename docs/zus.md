@@ -264,35 +264,19 @@ ZUS состоит из 2 основных частей:
 
    ![zus_zaswiadczenie_2.7.png][14]
 
-10. На почту придет (если на www.biznes.gov.pl настроена почта) сообщение, что заявление принято.
-
-    ![zus_zaswiadczenie_3.png][15]
-
-11. В разделе **Konto Przedsiębiorcy**. В пункте **Moje sprawy** появится запись.
-
-    ![zus_zaswiadczenie_3.1.png][16]
-
-12. Если кликнуть на **Zaświadczenie o niezaleganiu w opłacaniu składek ZUS** увидим статус заявки.
-
-    ![zus_zaswiadczenie_3.2.png][17]
-
-13. Позднее придет сообщение на почту о получении нового документа в ZUS (Serwis Biznes.gov.pl - Nowy dokument z ZUS)
-
-    ![zus_zaswiadczenie_3.3.png][18]
-
-14. Далее заходим в [ZUS][1]. В меню выбираем Płatnik. Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
+10. Заходим в [ZUS][1]. В меню выбираем Płatnik. Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
 
     ![zus_zaswiadczenie_4.png][19]
 
-15. После подтверждения появится пункт **Szczegóły**
+11. После подтверждения появится пункт **Szczegóły**
 
     ![zus_zaswiadczenie_4.1.png][20]
 
-16. Открываем документ **Przeglądaj dokument**.
+12. Открываем документ **Przeglądaj dokument**.
 
     ![zus_zaswiadczenie_4.2.png][21]
 
-17. Печатаем **Drukuj**.
+13. Печатаем **Drukuj**.
 
     ![zus_zaswiadczenie_4.3.png][22]
 
