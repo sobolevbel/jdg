@@ -190,10 +190,10 @@ ZUS состоит из 2 основных частей:
 
 Первые 6 месяцев можно пользоваться льготой "Ulga na start" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][27] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
+[перейти][23] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
 течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
 
-Больше деталей на [biznes.gov.pl][29] и [e-pity][28]
+Больше деталей на [biznes.gov.pl][25] и [e-pity][24]
 
 ## Ulga na start
 
@@ -266,34 +266,34 @@ ZUS состоит из 2 основных частей:
 
 10. Заходим в [ZUS][1]. В меню выбираем Płatnik. Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
 
-    ![zus_zaswiadczenie_4.png][19]
+    ![zus_zaswiadczenie_4.png][15]
 
 11. После подтверждения появится пункт **Szczegóły**
 
-    ![zus_zaswiadczenie_4.1.png][20]
+    ![zus_zaswiadczenie_4.1.png][16]
 
 12. Открываем документ **Przeglądaj dokument**.
 
-    ![zus_zaswiadczenie_4.2.png][21]
+    ![zus_zaswiadczenie_4.2.png][17]
 
 13. Печатаем **Drukuj**.
 
-    ![zus_zaswiadczenie_4.3.png][22]
+    ![zus_zaswiadczenie_4.3.png][18]
 
 ## Добавление ePUAP к профилю ZUS
 
 1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
 
-    ![zus_epuap_1.png][23]
+    ![zus_epuap_1.png][19]
 
 2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
 
-    ![zus_epuap_2.png][24]
-    ![zus_epuap_3.png][25]
+    ![zus_epuap_2.png][20]
+    ![zus_epuap_3.png][21]
 
 3. в итоге профиль ZUS будет связан с profilem zaufanym.
 
-    ![zus_epuap_4.png][26]
+    ![zus_epuap_4.png][22]
 
 [1]: https://www.zus.pl
 [2]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/ulga-na-start-6-miesiecy-bez-skladek-na-ubezpieczenie-spoleczne
@@ -309,18 +309,14 @@ ZUS состоит из 2 основных частей:
 [12]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.5.png
 [13]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.6.png
 [14]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.7.png
-[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_3.png
-[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_3.1.png
-[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_3.2.png
-[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_3.3.png
-[19]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
-[20]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
-[21]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
-[22]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
-[23]: images/zus_epuap/zus_epuap_1.png
-[24]: images/zus_epuap/zus_epuap_2.png
-[25]: images/zus_epuap/zus_epuap_3.png
-[26]: images/zus_epuap/zus_epuap_4.png
-[27]: zus_obnizone_skladki.md
-[28]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
-[29]: https://www.biznes.gov.pl/pl/portal/00286#2
+[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
+[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
+[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
+[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
+[19]: images/zus_epuap/zus_epuap_1.png
+[20]: images/zus_epuap/zus_epuap_2.png
+[21]: images/zus_epuap/zus_epuap_3.png
+[22]: images/zus_epuap/zus_epuap_4.png
+[23]: zus_obnizone_skladki.md
+[24]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[25]: https://www.biznes.gov.pl/pl/portal/00286#2
