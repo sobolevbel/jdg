@@ -342,7 +342,7 @@ Białorusi vulica Zmitraka Biaduli 11 :: Mińsk::).
 
 NIP может быть присвоен в течении одно-двух дней. REGON надо ждать больше - может выдаваться до недели. Если в процессе есть какие ошибки, то будет сообщение с просьбой исправить.
 
-Проверить все данные вашей фирмы можно на [ceidg.gov.pl](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
+Проверить все данные вашей фирмы можно на [biznes.gov.pl](https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy)
 
 Если что-то пошло не так, столкнулись с проблемами - можете написать в [чат][391] на biznes.gov.pl и задать
 вопрос.
