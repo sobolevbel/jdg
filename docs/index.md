@@ -7,6 +7,8 @@ Jednoosobowa działalność gospodarcza — это форма бизнеса в 
 
 Бухгалтерия для JDG: [Legal Tax Level][4]
 
+Хотите помочь с редактированием информации на сайте? Присоединяйтесь к [:telegram: чату контрибьюторов][5].
+
 ## Кто может открыть JDG в Польше
 
 - Иностранцы с визой, на которой есть аннотация **POLAND.BUSINESS HARBOR**.
@@ -60,5 +62,6 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
 [0]: https://t.me/JDG_PBH
 [1]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
 [2]: https://t.me/+Lu-5LydDmcdhYjNi
-[3]: http://t.me/llc_poland
+[3]: https://t.me/llc_poland
 [4]: https://legaltaxlevel.com/ip_pl
+[5]: https://t.me/+WK5ppqgHxXA3MjAy
