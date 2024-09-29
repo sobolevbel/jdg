@@ -37,38 +37,7 @@
 
 ## Podatek dochodowy справка об отсутствии задолженности
 
-Заказать справку об отсутствии долгов по налогам, можно как минимум двумя способами:
-
-1. На сайте [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751). Справка платная.
-2. На сайте [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Справка бесплатная. Эта возможность [появилась в августе 2022 года](https://www.podatki.gov.pl/wyjasnienia/zaswiadczenia-o-niezaleganiu-w-podatkach-bez-wizyty-w-urzedzie-skarbowym/). Справка выдается очень быстро, в автоматическом режиме. Похоже, за этим методом будущее.
-
-### Справка `biznes.gov.pl`
-
-Переходим по ссылке [biznes.gov.pl](https://www.biznes.gov.pl/pl/opisy-procedur/-/proc/751) и жмем `Złóż wniosek elektronicznie`, далее выбираем левый вариант где написано `Złóż wniosek na Biznes.gov.pl.`. Нажимаем кнопку `Rozpocznij`. Далее логинимся, например с помощью `Profil Zaufany` и в визарде делаем следующие:
-
-1. Tryb składania wniosku -> We własnym imieniu
-2. Rodzaj wnioskodawcy -> firma (Важно!)
-3. Dane wnioskodawcy -> поля заполнятся автоматом на основании профиля
-4. Adres siedziby -> выбираем из списка или добавляем новый, если нет в списке
-5. Adres korespondencyjny -> то же самое
-6. Przeznaczenie zaświadczenia
-    * Cel w jakim chcesz otrzymać zaświadczenie -> цель - подача на побыт (ZEZWOLENIE NA POBYT CZASOWY)
-    * Zwolnienie z opłaty skarbowej -> Nie
-    * Gdzie złożysz otrzymane zaświadczenie -> Ужонд, где будете подаваться на побыт (например, Pomorski Urząd Wojewódzki w Gdańsku)
-    * Liczba egzemplarzy, które chcesz otrzymać -> 1
-7. Treść zaświadczenia -> выбираем все пункты
-8. Urząd odbierający wniosek
-    * Выбираем Ужонд Скарбовы по месту жительства
-    * Dodatkowa informacja -> платили ли налоги в другие Ужонды Скарбовы
-    * Sposób odpowiedzi urzędu -> elektronicznie w Biznes.gov.pl
-9. Opłata skarbowa
-    * Online должно быть проще, но Ужонд может не поддерживать этот вид, тогда надо платить через банковский перевод. Детали по банковскому переводу:
-        * Odbiorca -> urząd miasta lub gminy (то есть НЕ Ужонд Скарбовы). Пример: URZĄD MIEJSKI W GDAŃSKU
-        * Tytuł -> Opłata skarbowa za wydanie zaświadczenia o niezaleganiu w podatkach
-        * номер счета нужно гуглить (пример для [Варшавы](https://warszawa19115.pl/-/oplata-skarbowa), [Гданьска](https://www.gdansk.pl/urzad-miejski/wykaz-kont-urzedu-miejskiego,a,28871))
-10. Sposób odbioru zaświadczenia -> elektroniczne w Biznes.gov.pl (можно выбрать и другие варианты, и ожидать\забирать справку соответствующим образом)
-
-### Справка `urzadskarbowy.gov.pl`
+Заказать справку об отсутствии долгов по налогам можно на сайте [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Справка бесплатная. Эта возможность [появилась в августе 2022 года](https://www.podatki.gov.pl/wyjasnienia/zaswiadczenia-o-niezaleganiu-w-podatkach-bez-wizyty-w-urzedzie-skarbowym/). Справка выдается очень быстро, в автоматическом режиме.
 
 Переходим по ссылке [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Логинимся в свой онлайн кабинет налоговой, например через `Profil zaufany`
 и далее делаем следующее:
