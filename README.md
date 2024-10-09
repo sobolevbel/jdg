@@ -36,14 +36,13 @@ python -m mkdocs serve
 
 ### Docker-way 🙃
 
-Нужны:
+Нужен:
 - docker
-- docker-compose
 
 А дальше запускаете:
 
 ```shell
-docker-compose up --build
+docker compose up --build
 ```
 
 ### Obsidian
