@@ -1,0 +1,51 @@
+.border-r {
+    border-right: .05rem solid var(--md-typeset-table-color);
+}
+
+.border-t {
+    border-top: .05rem solid var(--md-typeset-table-color);
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.valign-center {
+    vertical-align: middle;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-bl {
+    color: blue;
+}
+
+.text-rd {
+    color: red;
+}
+
+.text-gr {
+    color: grey;
+}
+
+.text-green {
+    color: green;
+}
+
+.ulga {
+    background-color: #dbead1;
+}
+
+.ulga-bg {
+    background-color: #ccd9f5;
+}
+
+.preferencyjne {
+    background-color: #fef3d1;
+}
+
+.duzy {
+    background-color: #eececc;
+}
