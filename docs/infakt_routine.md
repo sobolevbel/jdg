@@ -259,14 +259,8 @@ infakt. Также, убедитесь что все ваши фактуры у�
 [26]: images/infakt_routine/jpk_vat/jpk_vat2.jpg
 [27]: images/infakt_routine/jpk_vat/jpk_vat3.jpg
 [28]: images/infakt_routine/jpk_vat/jpk_vat4.png
-[29]: infakt_routine.md#vystavlenie-faktur
-[30]: infakt_routine.md#oplata-nalogov
-[31]: infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov
-[32]: infakt_routine.md#poluchenie-oplaty-i-uchet-kursovykh-raznits
-[33]: infakt_routine.md#otpravka-deklaratsii-vat-jpk-v7m
 [34]: https://eskladka.pl/Home
 [35]: infakt_settings.md#nastroika-dannykh-zus
 [36]: taxes.md#kak-uznat-svoi-schet-dlia-oplaty-nalogov
 [37]: https://app.infakt.pl/app/ksiegowosc/podatki/vat
-[38]: infakt_routine.md#otpravka-deklaratsii-vat-ue
 [39]: taxes.md/#vat
