@@ -1,5 +1,33 @@
 # Чейнджлог изменений на сайте
 
+## 03.11.2024
+
+- Обновлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md/#kak-podat-zaiavku-na-zus-kanikuly-v-2024-godu).
+
+## 01.11.2024
+
+- Весьма своевременно добавлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md/#kak-podat-zaiavku-na-zus-kanikuly-v-2024-godu).
+
+## 13.10.2024
+
+- Добавлена новость с обзором [каникул от ZUS](zus_vacation.md).
+
+## 23.09.2024
+
+- Появился [:telegram: чат для контрибьюторов](https://t.me/+WK5ppqgHxXA3MjAy).
+
+## 14.09.2024
+
+- Обновлен гайд по [переходу на "Obniżone składki"](zus_obnizone_skladki.md).
+
+## 12.09.2024
+
+- Обновлен гайд по [регистрации плательщиком VAT](registration.md/#registratsiia-platelshchikom-vnutripolskogo-vat).
+
+## 29.07.2024
+
+- Нельзя получить справку об отсутствии задолженности через biznes.gov.pl.
+
 ## 03.04.2024
 
 - Актуализированы цифры в [табличке](zus.md#tablitsa-rascheta-vznosov-zus) складок ZUS.
