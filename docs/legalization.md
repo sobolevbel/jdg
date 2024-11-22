@@ -369,7 +369,7 @@
   Номер доступен на стартовой странице кабинета в секции *ZAPLANOWANE WIZYTY W URZĘDZIE*. Обычно номер состоит из
   буквы X или G и нескольких цифр (например X123). Этот номер нужен для электронной очереди, по нему вас будут вызывать
   к специалисту.
-- Есть отдельный удобный сайт с чек-листом для подачи [http://checklist.mitin.by/](http://checklist.mitin.by/)
+- Есть отдельный удобный сайт с чек-листом для подачи [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/)
 
 <!-- resources -->
 
