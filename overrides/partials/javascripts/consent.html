@@ -1,0 +1,54 @@
+<script>
+    // Retrieve current consent state
+    var consent = __md_get("__consent");
+    if (consent) {
+      // Set checkbox values based on saved consent
+      for (var input of document.forms.consent.elements) {
+        if (input.name) {
+          input.checked = consent[input.name] || false;
+        }
+      }
+    } else if ("file:" !== location.protocol) {
+      // Show the consent banner if no consent has been given
+      setTimeout(function () {
+        document.querySelector("[data-md-component=consent]").hidden = false;
+      }, 250);
+    }
+  
+    // Consent form
+    var form = document.forms.consent;
+  
+    // Handle submit and reset events
+    for (var action of ["submit", "reset"]) {
+      form.addEventListener(action, function (e) {
+        e.preventDefault();
+  
+        if (e.type === "reset") {
+          // Reset all checkbox values
+          for (var input of document.forms.consent.elements) {
+            if (input.name) {
+              input.checked = false;
+            }
+          }
+        }
+  
+        // Save user consent state
+        __md_set(
+          "__consent",
+          Object.fromEntries(
+            Array.from(new FormData(form).keys()).map(function (key) {
+              return [key, true];
+            })
+          )
+        );
+  
+        // Save the current anchor (if any)
+        var currentAnchor = location.hash;
+  
+        // Reload the page with the saved anchor
+        location.hash = currentAnchor;
+        location.reload();
+      });
+    }
+  </script>
+  
