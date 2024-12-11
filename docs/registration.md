@@ -491,8 +491,12 @@ czynnym плательщиком мы не станем. Обратите вни
 > - Załączam oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej.  
 > - Załączam skan umowy najmu jako osoba fizyczna.
 
+| ⚠️ **Обратите внимание**                                                                                     |
+|--------------------------------------------------------------------------------------------------------------|
+| "**oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej**" пишется только в том случае, если фактического адреса "miejsca wykonywania działalności" не указано при регистрации JDG! |
+
+
 К письму следует прикрепить скан договора аренды и собственно освядченне, в котором нужно в нескольких предложениях описать род своей деятельности, основу можно взять из описания кодов PKD которые были выбраны при регистрации JDG плюс немного подробностей что конкретно вы делаете в повседневной работе.  Особых требований к оформлению нет, но прикреплять лучше в виде .pdf, .docx или в виде скана). 
-**Обратите внимание**: "oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej" пишется только в том случае, если фактического адреса "miejsca wykonywania działalności" не указано при регистрации JDG!
 
 > **Imię Nazwisko**  
 > ul. Ulica 123/125  
@@ -513,7 +517,7 @@ czynnym плательщиком мы не станем. Обратите вни
 >Nie mam stałego adresu prowadzenia działalności gospodarczej, mogę pracować wszędzie, gdzie jest dostęp do Internetu.  
 >
 >Dołączam do oświadczenia:  
->- skan umowy z klientem,  
+>- skan umowy z klientem,  **не обязательно, можно не отправлять если US  не запросил этого документа**
 >- skan umowy najmu mieszkania.  
 >
 >Wynajmuję mieszkanie jako osoba fizyczna.  
