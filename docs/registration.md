@@ -491,7 +491,7 @@ czynnym плательщиком мы не станем. Обратите вни
 > - Załączam oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej.  
 > - Załączam skan umowy najmu jako osoba fizyczna.
 
-К письму следует прикрепить скан договора аренды и собственно освядченне (особых требований к оформлению нет, но прикреплять лучше в виде .pdf, .docx или в виде скана):
+К письму следует прикрепить скан договора аренды и собственно освядченне, в котором нужно в нескольких предложениях описать род своей деятельности, основу можно взять из описания кодов PKD которые были выбраны при регистрации JDG плюс немного подробностей что конкретно вы делаете в повседневной работе.  Особых требований к оформлению нет, но прикреплять лучше в виде .pdf, .docx или в виде скана):
 
 > **Imię Nazwisko**  
 > ul. Ulica 123/125  
@@ -527,7 +527,9 @@ czynnym плательщиком мы не станем. Обратите вни
 
 **Куда отправлять письмо?**
 
-Найти e-mail своего Urzędu Skarbowego можно на странице контактов подразделений [министерства финансов](https://www.mf.gov.pl/web/bip/ministerstwo-finansow/kontakt/adresy-jednostek), скачав таблицу `Baza teleadresowa jednostek KAS.xls` или найдя свой уженд вручную на сайте.
+Найти e-mail своего Urzędu Skarbowego можно на странице контактов подразделений [министерства финансов](https://www.mf.gov.pl/web/bip/ministerstwo-finansow/kontakt/adresy-jednostek), скачав таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "TYP") или найдя свой уженд вручную на сайте.
+
+Также вместо традиционного e-mail можно отправить [pismo ogólne через e-Urząd Skarbowy](https://www.podatki.gov.pl/e-urzad-skarbowy/konto-osoby-fizycznej/dokumenty-w-e-urzedzie-skarbowym).
 
 [Поддержите наш гайд чашкой кофе ♥][73]
 
