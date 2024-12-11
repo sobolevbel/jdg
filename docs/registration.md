@@ -502,12 +502,8 @@ czynnym плательщиком мы не станем. Обратите вни
 >  **Oświadczenie**
 >
 >Ja, niżej podpisany, oświadczam, że od dnia **DD.MM.YYYY** prowadzę działalność gospodarczą i wykonuję usługi związane z:  
->- doradztwem w zakresie informatyki,  
->- planowaniem i projektowaniem systemów komputerowych,  
->- badaniem i dokumentowaniem,  
->- wspomaganiem oprogramowania,  
->- rozbudową, tworzeniem i dostarczaniem oprogramowania,  
->- świadczeniem usług doradczych w zakresie zarządzania projektami rozwoju oprogramowania.  
+>
+> **Тут кратко описываем род своей деятельности, 1-3 предложения в свободной форме.**
 >
 >Do wykonywania działalności dysponuję laptopem z zainstalowanymi pakietami niezbędnych programów komputerowych (*MS Office, Skype, Zoom, Jira, Figma, Outlook, Chrome* itp.).  
 >
