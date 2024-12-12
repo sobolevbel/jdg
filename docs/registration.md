@@ -479,6 +479,58 @@ czynnym плательщиком мы не станем. Обратите вни
 появилась ли регистрация в белом списке - она на будет в нем фигурировать до этой даты даже если процесс
 со стороны налоговой был завершен.
 
+### 16. Ускорение регистрации VAT
+
+Этот пункт не обязателен, но может помочь закончить регистрацию немного быстрее.
+
+Если нужно зарегистрироваться плательщиком VAT как можно скорее - будет не лишним сразу после подачи заявления на регистрацию VAT отправить в ужонд электронное письмо примерно такого содержания:
+
+> **Dzień dobry.**  
+>  
+> Uzupełniam zgłoszenie rejestracyjne VAT-R/VAT-UE o dokumenty dotyczące miejsca prowadzenia działalności:  
+> - Załączam oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej.  
+> - Załączam skan umowy najmu jako osoba fizyczna.
+
+| ⚠️ **Обратите внимание**                                                                                     |
+|--------------------------------------------------------------------------------------------------------------|
+| "**oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej**" пишется только в том случае, если фактического адреса "miejsca wykonywania działalności" не указано при регистрации JDG! |
+
+К письму следует прикрепить скан договора аренды и собственно освядченне, в котором нужно в нескольких предложениях описать род своей деятельности, основу можно взять из описания кодов PKD которые были выбраны при регистрации JDG плюс немного подробностей что конкретно вы делаете в повседневной работе.  Особых требований к оформлению нет, но прикреплять лучше в виде .pdf, .docx или в виде скана).
+
+> **Imię Nazwisko**  
+> ul. Ulica 123/125  
+> 00-123 Miasto  
+> NIP: 1234567890  
+> PESEL: 2345678901  
+>
+>  **Oświadczenie**
+>
+>Ja, niżej podpisany, oświadczam, że od dnia **DD.MM.YYYY** prowadzę działalność gospodarczą i wykonuję usługi związane z:  
+>
+> **Тут кратко описываем род своей деятельности, 1-3 предложения в свободной форме.**
+>
+>Do wykonywania działalności dysponuję laptopem z zainstalowanymi pakietami niezbędnych programów komputerowych (*MS Office, Skype, Zoom, Jira, Figma, Outlook, Chrome* itp.).  
+>
+>Samodzielnie wykonuję wszystkie czynności i nie zatrudniam żadnych pracowników.  
+>
+>Nie mam stałego adresu prowadzenia działalności gospodarczej, mogę pracować wszędzie, gdzie jest dostęp do Internetu.  
+>
+>Dołączam do oświadczenia:  
+>- skan umowy z klientem,  **не обязательно, можно не отправлять если US  не запросил этого документа**
+>- skan umowy najmu mieszkania.  
+>
+>Wynajmuję mieszkanie jako osoba fizyczna.  
+>
+>
+>**место подписания**, **дата**, **подпись**
+>
+
+**Куда отправлять письмо?**
+
+Найти e-mail своего Urzędu Skarbowego можно на странице контактов подразделений [министерства финансов](https://www.mf.gov.pl/web/bip/ministerstwo-finansow/kontakt/adresy-jednostek), скачав таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "TYP") или найдя свой уженд вручную на сайте.
+
+Также вместо традиционного e-mail можно отправить [pismo ogólne через e-Urząd Skarbowy](https://www.podatki.gov.pl/e-urzad-skarbowy/konto-osoby-fizycznej/dokumenty-w-e-urzedzie-skarbowym).
+
 [Поддержите наш гайд чашкой кофе ♥][73]
 
 ## Регистрация плательщиком VAT-UE
@@ -629,7 +681,12 @@ czynnym плательщиком мы не станем. Обратите вни
 
 После нехитрой операции подписания, можно отправить документы.
 
-### 21. Итог
+### 21. Ускорение регистрации VAT-UE
+
+Этот пункт не обязателен, но может помочь закончить регистрацию немного быстрее.
+Всё делается аналогично регистрации [внутрипольского VAT](/jdg/registration/#16-uskorenie-protsessa-registratsii-vat)
+
+### 22. Итог
 
 Дальше ждём письмо от CEIDG, что с заявлением всё в порядке, и оно принято и зарегистрировано (или что нужно что-то исправить).
 И потом в течение месяца придёт бумажное письмо из налоговой о присвоении номера VAT-UE (либо требование о предоставлении дополнительных сведений, особенно актуально для тех, у кого нет постоянного места деятельности).
