@@ -168,6 +168,12 @@ _Если вы не меняли вид деятельности и просто
 
 Проверить, верифицировать и выслать документ в ZUS.
 
+#### Шаг 6
+
+Подождать, пока ZUS обработает заявку. Если всё ок, то должно быть вот так:
+
+![zus_obn_84][84]
+
 ## Ошибки
 
 Если вы отправили ZUS ZUA до обработки ZUS ZWUA, то можете видеть ошибку вроде такой:
@@ -194,6 +200,7 @@ Zbliża się koniec okresu ulgi (blok X pole 1). Само поле с кодом
 [81]: images/zus_obnizone/zus_obnizone_081.jpg
 [82]: images/zus_obnizone/zus_obnizone_082.jpg
 [83]: images/zus_obnizone/zus_obnizone_083.png
+[84]: images/zus_obnizone/zus_obnizone_084.png
 [9]: images/zus_obnizone/zus_obnizone_09.png
 [10]: images/zus_obnizone/zus_obnizone_10.png
 [11]: images/zus_obnizone/zus_obnizone_11.png
