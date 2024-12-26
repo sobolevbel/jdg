@@ -285,7 +285,8 @@ Coming soon...
 
 Cel szczególowy не всегда обязателен. Вводить его нужно без кавычек, ровно так, как указано.
 
-- 0000030279 - Фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
+- 0000507234 - Беларуская инициатива [Partyzanka][55] (cel szczegółowy: **85537**). Помощь беженцам Беларуси и Украины.
+- 0000030279 - Польский фонд [Ocalenie][42], активно помогающий беженцам Беларуси, Украины и других стран.
 - 0000190607 - [Towarzystwo][34] przyjaciół Ukrainy.
 - 0000507234 - Fundacja [Stand with Ukraine][51] (cel szczegółowy: **83905**). Помощь жертвам войны.
 - 0000017257 - [Фонд][35] помощи приютам для животных Fundacja św. Franciszka.
@@ -398,3 +399,4 @@ podatek?".
 [52]: https://www.facebook.com/bmhuborg
 [53]: https://news.zerkalo.io/economics/61128.html
 [54]: https://devby.io/news/support-devby24
+[55]: https://t.me/partyzanka_rb_pl
