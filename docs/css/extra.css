@@ -49,3 +49,17 @@
 .duzy {
     background-color: #eececc;
 }
+
+body[data-md-color-scheme=slate] table {
+ & .duzy {
+    background-color: #2c2525;
+ }
+
+ & .ulga-bg {
+    background-color: #4a556d;
+ }
+
+ & .ulga {
+    background-color: #353932;
+ }
+}
