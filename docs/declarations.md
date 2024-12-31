@@ -399,4 +399,4 @@ podatek?".
 [52]: https://www.facebook.com/bmhuborg
 [53]: https://news.zerkalo.io/economics/61128.html
 [54]: https://devby.io/news/support-devby24
-[55]: https://t.me/partyzanka_rb_pl
+[55]: https://t.me/partyzanka_rb_pl/650
