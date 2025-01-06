@@ -45,9 +45,6 @@ python -m mkdocs serve
 docker compose up --build
 ```
 
-### Obsidian
-Или можете просто установить Obsidian и в нём редактировать и сразу видеть отрендеренный Markdown.
-
 ```
   ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
