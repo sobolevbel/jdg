@@ -259,7 +259,7 @@ Nowy komplet rozliczeniowy - Dalej.
 
 ![Ogolne opcji deklaracji][31]
 
-Выскочит информационное сообщение, что будут сгененрированы декларации ZUS RCA - нажимаем Zamknij.
+Выскочит информационное сообщение, что будут сгенерированы декларации ZUS RCA - нажимаем Zamknij.
 
 ![Informacja][32]
 
