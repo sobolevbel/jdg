@@ -264,7 +264,7 @@ ZUS состоит из 2 основных частей:
 
    ![zus_zaswiadczenie_2.7.png][14]
 
-10. Заходим в [ZUS][1]. В меню выбираем Płatnik (иногда приходит во вкладку Ogólny). Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
+10. Заходим в [ZUS][1]. В меню выбираем `Płatnik` (иногда приходит во вкладку `Ogólny`). Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
 
     ![zus_zaswiadczenie_4.png][15]
 
