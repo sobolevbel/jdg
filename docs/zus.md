@@ -228,71 +228,77 @@ ZUS состоит из 2 основных частей:
 - Можно пойти физически в отделение ZUS (любое, не обязательно вашего района) и получить все справки с мокрыми печатями
 - Можно на [портале ZUS](https://www.zus.pl/portal/)
 
-1. Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
+### Выбираем внесек RWN
 
-    ![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
+Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
 
-2. Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
+![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
 
-   ![zus_zaswiadczenie_2.png][7]
+### Проверяем данные в форме
 
-3. Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
+Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
 
-   ![zus_zaswiadczenie_2.1.png][8]
+![zus_zaswiadczenie_2.png][7]
 
-4. Закрываем документ.
+### Количество экземпляров справки
 
-   ![zus_zaswiadczenie_2.2.png][9]
+Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
 
-5. Соглашаемся.
+![zus_zaswiadczenie_2.1.png][8]
 
-    ![zus_zaswiadczenie_2.3.png][10]
+### Закрываем документ и соглашаемся
 
-6. Проверяем документ и нажимаем **Wyślij**.
+![zus_zaswiadczenie_2.2.png][9]
 
-   ![zus_zaswiadczenie_2.4.png][11]
+![zus_zaswiadczenie_2.3.png][10]
 
-7. Подписываем через Profil Zaufany
+### Проверяем документ и нажимаем **Wyślij**
 
-   ![zus_zaswiadczenie_2.5.png][12]
+![zus_zaswiadczenie_2.4.png][11]
 
-8. Нажимаем **Ok**
+### Подписываем через Profil Zaufany
 
-   ![zus_zaswiadczenie_2.6.png][13]
+![zus_zaswiadczenie_2.5.png][12]
 
-9. Нажимаем **Ok**
+Нажимаем **Ok**
 
-   ![zus_zaswiadczenie_2.7.png][14]
+![zus_zaswiadczenie_2.6.png][13]
 
-10. После того как дождались письмо (1-7 дней), заходим в [ZUS][1]. В меню выбираем `Płatnik` (иногда приходит во вкладку `Ogólny`). Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**. Выбираем документ и подтверждаем получение через Profil Zaufany.
+### Документы отправлены, ждем ОК
 
-    ![zus_zaswiadczenie_4.png][15]
+![zus_zaswiadczenie_2.7.png][14]
 
-11. После подтверждения появится пункт **Szczegóły**
+### Получаем справку
 
-    ![zus_zaswiadczenie_4.1.png][16]
+После того как дождались письмо (1-7 дней), заходим в [ZUS][1].
+В меню выбираем `Płatnik` (иногда приходит во вкладку `Ogólny`).
+Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**.
+Выбираем документ и подтверждаем получение через Profil Zaufany.
 
-12. Открываем документ **Przeglądaj dokument**.
+![zus_zaswiadczenie_4.png][15]
 
-    ![zus_zaswiadczenie_4.2.png][17]
+### Скачиваем справку
 
-13. Печатаем **Drukuj**.
+После подтверждения появится пункт **Szczegóły**
 
-    ![zus_zaswiadczenie_4.3.png][18]
+![zus_zaswiadczenie_4.1.png][16]
+
+Открываем документ **Przeglądaj dokument**.
+
+![zus_zaswiadczenie_4.2.png][17]
+
+Печатаем **Drukuj**.
+
+![zus_zaswiadczenie_4.3.png][18]
 
 ## Добавление ePUAP к профилю ZUS
 
 1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
-
     ![zus_epuap_1.png][19]
-
 2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
-
     ![zus_epuap_2.png][20]
     ![zus_epuap_3.png][21]
-
 3. в итоге профиль ZUS будет связан с profilem zaufanym.
-
     ![zus_epuap_4.png][22]
 
 [1]: https://www.zus.pl
