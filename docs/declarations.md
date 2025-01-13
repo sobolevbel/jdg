@@ -302,6 +302,7 @@ Cel szczególowy не всегда обязателен. Вводить его �
 - 0000037904 - [Dzmitry][48] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
 - 0000396361 - [Vasilisa][49] Loban - cel szczegółowy: **0165621 Vasilisa**
 - 0000037904 - [Zlatoslava][50] Mytnik - cel szczegółowy: **40923 Mytnik Zlatoslava**
+- 0000396361 - [Artem][56] Padzialowski - cel szczegółowy: **0568766 Artyom**
 
 Если поставите галочку о передаче фонду ваших данных, то через год пришлют отчет на что потратили ваши деньги.
 
@@ -400,3 +401,5 @@ podatek?".
 [53]: https://news.zerkalo.io/economics/61128.html
 [54]: https://devby.io/news/support-devby24
 [55]: https://t.me/partyzanka_rb_pl/650
+[56]: https://www.siepomaga.pl/artem-padzialowski
+
