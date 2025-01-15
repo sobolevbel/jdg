@@ -251,7 +251,7 @@ NIP других предпринимателей, а также размер п
 
 - **ZUS RCA 1**: именной отчет социального страхования (składka na ubezpieczenie społeczne) **с учётом каникул**. В отчете нужно указать **соответствующий Kod tytułu ubezpieczenia - 0514 для Duży ZUS, 0574 для Składki preferencyjne, 0594 для Mały ZUS Plus.**
 - **ZUS RCA 2**: именной отчет страхования здоровья (składka na ubezpieczenie zdrowotne) и при наличии включающий также добровольные больничные взносы (dobrowolne ubezpieczenie chorobowe) **без учета каникул**. В отчете нужно указать **актуальный Kod tytułu ubezpieczenia - 0510 для Duży ZUS, 0570 для Składki preferencyjne, 0590 для Mały ZUS Plus.**
-- **ZUS DRA**: декларация по взносам **с учётом каникул**. В декларации нужно указать **соответствующий Kod tytułu ubezpieczenia - 0514 для Duży ZUS, 0574 для Składki preferencyjne, 0594 для Mały ZUS Plus.**
+- **ZUS DRA**: декларация по взносам **с учётом каникул**. В декларации в разделе оплаты за категории социального страхования (разделы **Składki finansowane przez**) значения должны быть указаны в полях _budżet państwa_ вместо _ubezpieczonych_.
 
 На наемных работников не распространяется льгота ZUS-каникул.
 Предприниматель в случае наличия наемных работников должен подать за них следующие документы:
