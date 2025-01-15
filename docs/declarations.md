@@ -402,4 +402,3 @@ podatek?".
 [54]: https://devby.io/news/support-devby24
 [55]: https://t.me/partyzanka_rb_pl/650
 [56]: https://www.siepomaga.pl/artem-padzialowski
-
