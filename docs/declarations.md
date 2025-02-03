@@ -302,6 +302,7 @@ Cel szczególowy не всегда обязателен. Вводить его �
 - 0000037904 - [Zlatoslava][50] Mytnik - cel szczegółowy: **40923 Mytnik Zlatoslava**
 - 0000396361 - [Artem][56] Padzialowski - cel szczegółowy: **0568766 Artyom**
 - 0000037904 - [Artur][57] Nikanau - cel szczegółowy: **44133 NIKANAU ARTUR**
+- 0000396361 - [Margarita][58] Datskiewicz - cel szczegółowy: **0104216 Margarita**
 
 [Список фондов][30] от e-pity.pl.
 
@@ -404,3 +405,4 @@ podatek?".
 [55]: https://t.me/partyzanka_rb_pl/650
 [56]: https://www.siepomaga.pl/artem-padzialowski
 [57]: https://dzieciom.pl/podopieczni/44133
+[58]: https://www.siepomaga.pl/margarita
