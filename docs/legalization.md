@@ -20,12 +20,16 @@
 ### Несколько рекомендуемых условий для легализации
 
 1. Активное ведение ИП не менее 3 месяцев
-2. Нужно заработать минимальную годовую зарплату брутто без VAT (около 65 000 злотых) за один, текущий календарный год.
+2. Нужно заработать 12 средних месячьных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воевудстве, в котором подаете заявление на ВНЖ, согласно [Art.  142. закона об иностранцах][12]
 
-Статистику зарплат по воеводствам предоставляет [GUS][12]. Как JDG, мы ориентируемся на среднюю ЗП по воеводству
-в `sektor przedsiębiorstw`.
-
-Выполнение этих условий повышает вероятность получения ВНЖ. Чиновники хотят видеть стабильность работы вашего ИП.
+> Официально опубликованную информацию о средней месячной зарплате по воевоствам можно найти на официальном сайте GUS 
+в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18].
+Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2023 roku`.
+> 
+> Либо воспользоваться [страницой поиска GUS][19] и ввести ключивым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
+> 
+> На момент (03 Фревраля 2025) [актуальный документ][20] содерожит среднюю зарплату по воеводствам за 2023 год, из которого следует, что эквивалент 12 зарплат для воеводства Варминско-Мазурского составляет **73 835** злотых, для Лодзинского **80 327** злотых, а для Мазовецкого **101 600** злотых. 
+> Страница с документом содержит ссылки на подобные документы предыдущих годов, что наводит на мысль, что по этой же ссылке можно будет легко попасть в свежий документ следующего года.
 
 ## Общие советы по подготовке документов
 
@@ -383,9 +387,12 @@
 [8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
 [10]: https://inpol.mazowieckie.pl/login
-[12]: https://wynagrodzenia.pl/gus/dane-wojewodzkie
+[12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
 [13]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
 [14]: karta-pobytu-docs/business-plan-guide.pdf
 [15]: https://pomoc.wfirma.pl/-kpir-w-systemie-wfirma-pl
 [16]: https://www.pit.pl/formy-opodatkowania/nowy-wzor-ewidencji-przychodow-2021-1002791
 [17]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
+[18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
+[19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
+[20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
