@@ -22,7 +22,7 @@
 1. Активное ведение ИП не менее 3 месяцев
 2. Нужно заработать 12 средних месячных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воеводстве, в котором подаете заявление на ВНЖ, согласно [Art.  142. закона об иностранцах][12]
 
-> Официально опубликованную информацию о средней месячной зарплате по воевоствам можно найти на официальном сайте GUS в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2023 roku`.
+> Официально опубликованную информацию о средней месячной зарплате по воеводствам можно найти на официальном сайте GUS в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2023 roku`.
 >
 > Либо воспользоваться [страницой поиска GUS][19] и ввести ключивым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
 >
