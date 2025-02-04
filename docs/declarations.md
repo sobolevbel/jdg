@@ -303,6 +303,7 @@ Cel szczególowy не всегда обязателен. Вводить его �
 - 0000396361 - [Artem][56] Padzialowski - cel szczegółowy: **0568766 Artyom**
 - 0000037904 - [Artur][57] Nikanau - cel szczegółowy: **44133 NIKANAU ARTUR**
 - 0000396361 - [Margarita][58] Datskiewicz - cel szczegółowy: **0104216 Margarita**
+- 0000396361 - [Anastasiya][59] Liaszczewicz - cel szczegółowy: **0491365 Anastasiya**
 
 [Список фондов][30] от e-pity.pl.
 
@@ -406,3 +407,4 @@ podatek?".
 [56]: https://www.siepomaga.pl/artem-padzialowski
 [57]: https://dzieciom.pl/podopieczni/44133
 [58]: https://www.siepomaga.pl/margarita
+[59]: https://www.siepomaga.pl/nastka-liaszczewicz
