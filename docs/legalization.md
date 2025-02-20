@@ -396,5 +396,5 @@
 [18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
-[21]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
-[22]: https://pio-przybysz.duw.pl
+[21]: https://pio-przybysz.duw.pl
+[22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
