@@ -70,7 +70,7 @@ ZUS состоит из 2 основных частей:
     <thead>
         <tr>
             <th class="border-r text-center">
-                Składki ZUS 2024<br>
+                Składki ZUS 2025<br>
                 Ryczałt<br>
                 <span class="text-bl">A</span> +
                 <span class="text-rd">B</span> +
@@ -90,15 +90,15 @@ ZUS состоит из 2 основных частей:
                 A: Składka zdrowotna
             </th>
             <td class="border-r">0 - 60 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">419,46</td>
+            <td colspan="4" class="text-bl text-center text-bold">461,66</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">699,11</td>
+            <td colspan="4" class="text-bl text-center text-bold">769,43</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">&gt; 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">1258,39</td>
+            <td colspan="4" class="text-bl text-center text-bold">1384,97</td>
         </tr>
         <tr>
             <th rowspan="4" class="border-r border-t text-rd text-bold valign-center">
@@ -106,32 +106,32 @@ ZUS состоит из 2 основных частей:
             </th>
             <td class="border-r">Emerytalna</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">248,41</td>
-            <td class="border-r preferencyjne-07-12 text-center">251,81</td>
-            <td class="duzy text-center">916,35</td>
+            <td class="border-r preferencyjne-01-06 text-center">273,24</td>
+            <td class="border-r preferencyjne-07-12 text-center">273,24</td>
+            <td class="duzy text-center">1015,78</td>
         </tr>
         <tr>
             <td class="border-r">Rentowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">101,81</td>
-            <td class="border-r preferencyjne-07-12 text-center">103,20</td>
-            <td class="duzy text-center">375,55</td>
+            <td class="border-r preferencyjne-01-06 text-center">111,98</td>
+            <td class="border-r preferencyjne-07-12 text-center">111,98</td>
+            <td class="duzy text-center">416,30</td>
         </tr>
         <tr>
             <td class="border-r">Wypadkowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">21,25</td>
-            <td class="border-r preferencyjne-07-12 text-center">21,54</td>
-            <td class="duzy text-center">78,40</td>
+            <td class="border-r preferencyjne-01-06 text-center">23,28</td>
+            <td class="border-r preferencyjne-07-12 text-center">23,28</td>
+            <td class="duzy text-center">86,90</td>
         </tr>
         <tr class="text-rd">
             <td class="border-r text-bold">
                 <b>Вместе</b>
             </td>
             <td class="border-r ulga text-bold text-center"><b>0</b></td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center"><b>371,47</b></td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center"><b>376,55</b></td>
-            <td class="duzy text-bold text-center"><b>1370,30</b></td>
+            <td class="border-r preferencyjne-01-06 text-bold text-center"><b>408,5</b></td>
+            <td class="border-r preferencyjne-07-12 text-bold text-center"><b>408,5</b></td>
+            <td class="duzy text-bold text-center"><b>1518,98</b></td>
         </tr>
         <tr class="text-green">
             <td colspan="2" class="border-r border-t text-green text-bold valign-center">
@@ -140,7 +140,7 @@ ZUS состоит из 2 основных частей:
             <td class="border-r ulga text-center">0</td>
             <td class="border-r preferencyjne-01-06 text-center">0</td>
             <td class="border-r preferencyjne-07-12 text-center">0</td>
-            <td class="duzy text-bold text-center">115,01</td>
+            <td class="duzy text-bold text-center">127,49</td>
         </tr>
         <tr class="text-bold">
             <th rowspan="3" class="border-r text-bold">
@@ -148,25 +148,25 @@ ZUS состоит из 2 основных частей:
                 <span class="text-rd">B</span> +
                 <span class="text-green">C</span>):</b>
                 <td class="border-r">0 - 60 000</td>
-                <td class="border-r ulga text-center text-bold">419,46</td>
-                <td class="border-r preferencyjne-01-06 text-center text-bold">790,93</td>
-                <td class="border-r preferencyjne-07-12 text-center text-bold">796,01</td>
-                <td class="duzy text-bold text-center text-bold">1904,77</td>
+                <td class="border-r ulga text-center text-bold">461,66</td>
+                <td class="border-r preferencyjne-01-06 text-center text-bold">870,16</td>
+                <td class="border-r preferencyjne-07-12 text-center text-bold">870,16</td>
+                <td class="duzy text-bold text-center text-bold">2108,13</td>
             </th>
         </tr>
         <tr class="text-bold">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td class="border-r ulga text-center text-bold">699,11</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1070,58</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1075,66</td>
-            <td class="duzy text-bold text-center text-bold">2184,42</td>
+            <td class="border-r ulga text-center text-bold">769,43</td>
+            <td class="border-r preferencyjne-01-06 text-center text-bold">1177,93</td>
+            <td class="border-r preferencyjne-07-12 text-center text-bold">1177,93</td>
+            <td class="duzy text-bold text-center text-bold">2415,90</td>
         </tr>
         <tr class="text-bold">
             <td class="border-r">&gt; 300 000</td>
-            <td class="border-r ulga text-center text-bold">1258,39</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1629,86</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1634,94</td>
-            <td class="duzy text-bold text-center">2743,7</td>
+            <td class="border-r ulga text-center text-bold">1384,97</td>
+            <td class="border-r preferencyjne-01-06 text-center text-bold">1793,47</td>
+            <td class="border-r preferencyjne-07-12 text-center text-bold">1793,47</td>
+            <td class="duzy text-bold text-center">3031,44</td>
         </tr>
         <tr class="text-gr">
             <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
@@ -174,9 +174,9 @@ ZUS состоит из 2 основных частей:
                 (не обязательная)
             </td>
             <td class="border-r ulga text-bold text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center">31,18</td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center">31,61</td>
-            <td class="duzy text-bold text-center">115,01</td>
+            <td class="border-r preferencyjne-01-06 text-bold text-center">34,30</td>
+            <td class="border-r preferencyjne-07-12 text-bold text-center">34,30</td>
+            <td class="duzy text-bold text-center">127,49</td>
         </tr>
     </tbody>
 </table>
