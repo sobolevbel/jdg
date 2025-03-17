@@ -63,3 +63,9 @@ body[data-md-color-scheme=slate] table {
     background-color: #353932;
  }
 }
+
+.md-typeset img {
+   border-radius: 6px;
+   box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+   border: 2px solid #ddd;
+}
