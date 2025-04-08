@@ -539,14 +539,14 @@ NIP может быть присвоен в течении одно-двух д�
 
 ### 16. Ускорение регистрации VAT
 
-Этот пункт не обязателен, но может помочь закончить регистрацию немного быстрее.
+> Этот пункт не обязателен, но может помочь закончить регистрацию немного быстрее.
 
-Если нужно зарегистрироваться плательщиком VAT как можно скорее - будет не лишним сразу после подачи заявления на регистрацию VAT отправить в ужонд электронное письмо примерно такого содержания:
+Если нужно зарегистрироваться плательщиком VAT как можно скорее - будет не лишним сразу после подачи заявления на регистрацию VAT отправить в ужонд электронное письмо.
 
-> **Dzień dobry.**  
->  
-> Uzupełniam zgłoszenie rejestracyjne VAT-R/VAT-UE o dokumenty dotyczące miejsca prowadzenia działalności:  
-> - Załączam oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej.  
+> **Dzień dobry.**
+>
+> Uzupełniam zgłoszenie rejestracyjne VAT-R/VAT-UE o dokumenty dotyczące miejsca prowadzenia działalności:
+> - Załączam oświadczenie o braku stałego miejsca wykonywania działalności gospodarczej.
 > - Załączam skan umowy najmu jako osoba fizyczna.
 
 | ⚠️ **Обратите внимание**                                                                                     |
@@ -559,35 +559,61 @@ NIP может быть присвоен в течении одно-двух д�
 > ul. Ulica 123/125  
 > 00-123 Miasto  
 > NIP: 1234567890  
-> PESEL: 2345678901  
+> PESEL: 2345678901
 >
 >  **Oświadczenie**
 >
->Ja, niżej podpisany, oświadczam, że od dnia **DD.MM.YYYY** prowadzę działalność gospodarczą i wykonuję usługi związane z:  
+>Ja, niżej podpisany, oświadczam, że od dnia **DD.MM.YYYY** prowadzę działalność gospodarczą i wykonuję usługi związane z:
 >
 > **Тут кратко описываем род своей деятельности, 1-3 предложения в свободной форме.**
 >
->Do wykonywania działalności dysponuję laptopem z zainstalowanymi pakietami niezbędnych programów komputerowych (*MS Office, Skype, Zoom, Jira, Figma, Outlook, Chrome* itp.).  
+>Do wykonywania działalności dysponuję laptopem z zainstalowanymi pakietami niezbędnych programów komputerowych (*MS Office, Skype, Zoom, Jira, Figma, Outlook, Chrome* itp.).
 >
->Samodzielnie wykonuję wszystkie czynności i nie zatrudniam żadnych pracowników.  
+>Samodzielnie wykonuję wszystkie czynności i nie zatrudniam żadnych pracowników.
 >
->Nie mam stałego adresu prowadzenia działalności gospodarczej, mogę pracować wszędzie, gdzie jest dostęp do Internetu.  
+>Nie mam stałego adresu prowadzenia działalności gospodarczej, mogę pracować wszędzie, gdzie jest dostęp do Internetu.
 >
->Dołączam do oświadczenia:  
+>Dołączam do oświadczenia:
 >- skan umowy z klientem,  **не обязательно, можно не отправлять если US  не запросил этого документа**
->- skan umowy najmu mieszkania.  
+>- skan umowy najmu mieszkania.
 >
->Wynajmuję mieszkanie jako osoba fizyczna.  
+>Wynajmuję mieszkanie jako osoba fizyczna.
 >
 >
 >**место подписания**, **дата**, **подпись**
 >
 
-**Куда отправлять письмо?**
+**Предпочитаемый способ - pismo ogólne через сайт `e-Urząd Skarbowy`** (специалист из Urząd Skarbowy просили так высылать документы, проверено несколькими пользователями)
 
-Найти e-mail своего Urzędu Skarbowego можно на странице контактов подразделений [министерства финансов](https://www.mf.gov.pl/web/bip/ministerstwo-finansow/kontakt/adresy-jednostek), скачав таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "TYP") или найдя свой уженд вручную на сайте.
+- логин в личный кабинет [e-urzad-skarbowy](https://www.podatki.gov.pl/e-urzad-skarbowy/)  через Profil Zaufany
+- идём в `Dokumenty -> Złóż dokument` и вводим в поиск `pismo` -> выбираем `Pismo ogólne`
+  ![pismo_ogolne_1][78]
+- выбираем что пишем письмо за себя. Далее автоматически открывается секция с уже выбранным urząd skarbowy.
+  (если надо написать в другой орган, выбираем из списка)
+  ![pismo_ogolne_2][79]
+- дальше подтянутся ваши данные. Если мы пишем письмо как ИП то выбираем NIP. Если как физ лицо - выбираем PESEL.
+  ![pismo_ogolne_3][80]
+- `Szczegóły dokumentu`:
+    - выбираем `Rodzaj pisma` из доступных вариантов. В нашем случае, для ускорения регистрации VAT мы хотим подать `Oświadczenie`
+    - `Temat pisma` - *O braku stałego miejsca wykonywania działalności gospodarczej*
+    - `Zakres sprawy` - VAT
+    - текст письма можно взять выше (письмо + освядченне)
+  Разница в том, что тут не надо его прикреплять в виде скана, а просто пишем текст в это окно.
+    - `Pismo dotyczy sprawy, którą już zajmuje się urząd` -> выбираем `Tak` и вписываем номер дела, который мы получили при подаче заявления на регистрацию VAT.
+    - в секцию `Załączniki` прикладываем наши сканы: договор аренды квартиры.
+- на шаге `Podsumowanie` можно увидеть куда отправляется письмо, данные отправителя, детали письма. При необходимости можно нажать отредактировать и поправить что требуется.
+- кликаем `Akceptuj i wyślij` и отправляем письмо
 
-Также вместо традиционного e-mail можно отправить [pismo ogólne через e-Urząd Skarbowy](https://www.podatki.gov.pl/e-urzad-skarbowy/konto-osoby-fizycznej/dokumenty-w-e-urzedzie-skarbowym).
+Если зайти в раздел `Dokumenty -> Wysłane`, то можно увидеть все отправленные письма, а также просмотреть их, кликнув на `Więcej`
+
+![pismo_ogolne_4][81]
+
+тут можно скачать себе письмо и подтверждение о доставке в PDF формате
+![pismo_ogolne_5][82]
+
+**Альтернативный способ - отправить письмо на e-mail.**
+
+Найти e-mail своего Urzędu Skarbowego можно на странице контактов подразделений [министерства финансов](https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas), скачав таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "TYP") или найдя свой уженд вручную на сайте.
 
 [Поддержите наш гайд чашкой кофе ♥][73]
 
@@ -832,3 +858,8 @@ NIP может быть присвоен в течении одно-двух д�
 [75]: images/RegJDG/reg_jdg_16a.png
 [76]: images/RegJDG/reg_jdg_16b.png
 [77]: images/RegJDG/reg_jdg_16c.png
+[78]: images/RegVATUE/pismo_ogolne_1.png
+[79]: images/RegVATUE/pismo_ogolne_2.png
+[80]: images/RegVATUE/pismo_ogolne_3.png
+[81]: images/RegVATUE/pismo_ogolne_4.png
+[82]: images/RegVATUE/pismo_ogolne_5.png
