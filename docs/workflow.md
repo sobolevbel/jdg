@@ -53,6 +53,10 @@
 
 ## Какие документы хранить
 
+Архивируйте эту документацию в облаке для себя на случай проверки.
+
+Срок хранения: до конца текущего календарного года + 5 полных календарных лет.
+
 - главное для рычалта - это ewidencją przychodów. её заполнял бухгалтер.
 
 - дополнительно нужно сохранять документы, подтверждающие продажи (faktury, которые выставляешь ты) и покупки (faktury, которые выставляют тебе, при покупке товаров и услуг на фирму. если нет фактуры, то её может заменить чек или билет).
@@ -63,7 +67,7 @@
 
 - dowody wewnętrzne - такой документ, например, используется, чтобы записать возникшую курсовую разницу, если оплату получаете в иностранной валюте.
 
-- у некоторых ИП может быть ещё [ewidencję środków](https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html) trwałych (здания, автомобили, устройства и др. вещи, такие, например, как дорогой ноутбук на фирму). [Подробнее](https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych).
+- у некоторых ИП может быть ещё [ewidencję środków][11] trwałych (здания, автомобили, устройства и др. вещи, такие, например, как дорогой ноутбук на фирму). [Подробнее][12].
 
 - у некоторых ewidencja przebiegu pojazdów (для автомобиля, записанного на фирму).
 
@@ -85,3 +89,5 @@
 [8]: https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx
 [9]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
 [10]: https://www.podatki.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+[11]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
+[12]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
