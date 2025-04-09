@@ -592,36 +592,7 @@ Office, Skype, Zoom, Jira, Figma, Outlook, Chrome* itp.).
 **Предпочитаемый способ - pismo ogólne через сайт `e-Urząd Skarbowy`** (специалист из Urząd Skarbowy просили так
 высылать документы, проверено несколькими пользователями)
 
-- логин в личный кабинет [e-urzad-skarbowy](https://www.podatki.gov.pl/e-urzad-skarbowy/)  через Profil Zaufany
-- идём в `Dokumenty -> Złóż dokument` и вводим в поиск `pismo` -> выбираем `Pismo ogólne`
-  ![pismo_ogolne_1][78]
-- выбираем что пишем письмо за себя. Далее автоматически открывается секция с уже выбранным urząd skarbowy.
-  (если надо написать в другой орган, выбираем из списка)
-  ![pismo_ogolne_2][79]
-- дальше подтянутся ваши данные. Если мы пишем письмо как ИП, то выбираем NIP. Если как физ лицо - выбираем PESEL.
-  ![pismo_ogolne_3][80]
-
-- `Szczegóły dokumentu`:
-  - выбираем `Rodzaj pisma` из доступных вариантов. В нашем случае, для ускорения регистрации VAT мы хотим
-    подать `Oświadczenie`
-  - `Temat pisma`: *O braku stałego miejsca wykonywania działalności gospodarczej* (как пример)
-  - `Zakres sprawy`: VAT
-  - текст письма можно взять выше (письмо + освядченне)
-    Разница в том, что тут не надо его прикреплять в виде скана, а просто пишем текст в это окно.
-  - `Pismo dotyczy sprawy, którą już zajmuje się urząd` -> выбираем `Tak` и вписываем номер дела, который мы получили
-    при подаче заявления на регистрацию VAT.
-  - в секцию `Załączniki` прикладываем наши сканы: договор аренды квартиры.
-- на шаге `Podsumowanie` можно увидеть куда отправляется письмо, данные отправителя, детали письма. При необходимости
-  можно нажать отредактировать и поправить что требуется.
-- кликаем `Akceptuj i wyślij` и отправляем письмо
-
-Если зайти в раздел `Dokumenty -> Wysłane`, то можно увидеть все отправленные письма, а также просмотреть их, кликнув
-на `Więcej`
-
-![pismo_ogolne_4][81]
-
-тут можно скачать себе письмо и подтверждение о доставке в PDF формате
-![pismo_ogolne_5][82]
+Как это оформить читай [на этой странице][78]
 
 **Альтернативный способ - отправить письмо на e-mail.**
 
@@ -873,8 +844,4 @@ TYP") или найдя свой уженд вручную на сайте.
 [75]: images/RegJDG/reg_jdg_16a.png
 [76]: images/RegJDG/reg_jdg_16b.png
 [77]: images/RegJDG/reg_jdg_16c.png
-[78]: images/RegVATUE/pismo_ogolne_1.png
-[79]: images/RegVATUE/pismo_ogolne_2.png
-[80]: images/RegVATUE/pismo_ogolne_3.png
-[81]: images/RegVATUE/pismo_ogolne_4.png
-[82]: images/RegVATUE/pismo_ogolne_5.png
+[78]: pismo_ogolne.md
