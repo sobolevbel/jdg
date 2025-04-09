@@ -52,8 +52,8 @@ e-Urząd Skarbowy — это безопасный, идентифицирова�
 
 
 [1]: https://www.podatki.gov.pl/e-urzad-skarbowy/
-[2]: images/RegVATUE/pismo_ogolne_1.png
-[3]: images/RegVATUE/pismo_ogolne_2.png
-[4]: images/RegVATUE/pismo_ogolne_3.png
-[5]: images/RegVATUE/pismo_ogolne_4.png
-[6]: images/RegVATUE/pismo_ogolne_5.png
+[2]: images/pismo_ogolne/pismo_ogolne_1.png
+[3]: images/pismo_ogolne/pismo_ogolne_2.png
+[4]: images/pismo_ogolne/pismo_ogolne_3.png
+[5]: images/pismo_ogolne/pismo_ogolne_4.png
+[6]: images/pismo_ogolne/pismo_ogolne_5.png
