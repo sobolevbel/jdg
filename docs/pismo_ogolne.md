@@ -50,7 +50,6 @@ e-Urząd Skarbowy — это безопасный, идентифицирова�
 тут можно скачать себе письмо и подтверждение о доставке в PDF формате
 ![pismo_ogolne_5][6]
 
-
 [1]: https://www.podatki.gov.pl/e-urzad-skarbowy/
 [2]: images/pismo_ogolne/pismo_ogolne_1.png
 [3]: images/pismo_ogolne/pismo_ogolne_2.png
