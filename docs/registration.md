@@ -2,8 +2,8 @@
 
 К этому моменту у вас уже должны быть:
 
-- PESEL
-- доверенный профиль (Profil zaufany)
+- [PESEL][79]
+- доверенный профиль ([Profil zaufany][80])
 - адрес (хотя бы для корреспонденции)
 
 ## Регистрация ИП на портале biznes.gov.pl
@@ -845,3 +845,5 @@ TYP") или найдя свой уженд вручную на сайте.
 [76]: images/RegJDG/reg_jdg_16b.png
 [77]: images/RegJDG/reg_jdg_16c.png
 [78]: pismo_ogolne.md
+[79]: pesel.md
+[80]: pz.md
