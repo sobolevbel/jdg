@@ -5,21 +5,19 @@ Profil Zaufany.
 
 ## Что такое PESEL
 
-PESEL — это личный номер из 11 цифр, который присваивается каждому человеку, легально проживающему в Польше. Дети его
-получают при рождении.
-
-Этот номер нужен практически везде: при общении с государственными структурами, открытии счета в банке, получении
-медицинских услуг и т.д.
+!!! question "Номер PESEL"
+    это личный номер, который присваивается каждому человеку, легально проживающему в Польше.
+    Дети его получают при рождении.
+    Этот номер нужен практически везде: при общении с государственными структурами, открытии счета в банке, получении медицинских услуг и т.д.
 
 ## Что означают цифры в номере
 
 Номер PESEL состоит из 11 цифр:
 
-```markdown
-|910503|014|5|9|
-```
+!!! example "PESEL example"
+    |910503|014|5|9|
 
-- 1-6 цифры — дата рождения, с указанием столетия. Например человек, рожденный 3 мая 1991, имеет начальные номера PESEL 910503
+- 1-6 цифры — дата рождения, с указанием столетия (в формате ГГММДД). Например, человек рожденный 3 мая 1991, имеет начальные номера PESEL 910503
 - 7-9 цифры — номер серии
 - 10-я цифра  обозначает пол: 0, 2, 4, 6, 8 – женщины, 1, 3, 5, 7, 9 – мужчины
 - 11-я цифра — контрольная цифра, для проверки правильности всего номера
@@ -61,38 +59,37 @@ PESEL — это личный номер из 11 цифр, который при
 Приходим в ужонд, с паспортом, и заполненным заявлением, либо заполняем на месте.
 В заявлении пишем следующее правовое основание:
 
-> ZAŁĄCZNIK NR 1. PKT. 1 ROZPORZĄDZENIA MINISTRA CYFRYZACJI Z DNIA 29
-> CZERWCA 2020 ROKU W SPRAWIE PROFILU ZAUFANEGO I PODPISU ZAUFANEGO
-> DZ.U.2020 POZ.1194
+!!! Quote "правовое основание:"
+    ZAŁĄCZNIK NR 1. PKT. 1 ROZPORZĄDZENIA MINISTRA CYFRYZACJI Z DNIA 29
+    CZERWCA 2020 ROKU W SPRAWIE PROFILU ZAUFANEGO I PODPISU ZAUFANEGO
+    DZ.U.2020 POZ.1194
 
 Если вдруг начнут отказываться, есть ещё одно основание:
 
-> DZ.U. 1997 NR 121 POZ. 769; USTAWA Z DNIA 20 SIERPNIA 1997 R. O KRAJOWYM
-> REJESTRZE SĄDOWYM; ART. 35 PKT 1
+!!! Quote "правовое основание:"
+    DZ.U. 1997 NR 121 POZ. 769; USTAWA Z DNIA 20 SIERPNIA 1997 R. O KRAJOWYM
+    REJESTRZE SĄDOWYM; ART. 35 PKT 1
 
-[Ссылка на постановление][7]
+    [Ссылка на постановление][7]
 
-Основание для детей до 3-х лет:
+!!! Quote "Основание для детей до 3-х лет:"
+    Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3
+    POZ. 235 ROZDZIAŁ 1, ART. 3A
 
-> Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3
-> POZ. 235 ROZDZIAŁ 1, ART. 3A
+!!! Quote "Основание для детей от 3-х до 18-ти лет:"
+    USTAWA O SYSTEMIE OŚWIATY Z DNIA 7 WRZEŚNIA 1991 R.
+    (TJ. Z DNIA 31 PAZDZIERNIKA 2016 R. DZ. U. Z 2016 R. POZ.1943)
+    ART. 92K. UST. 2 PKT 2F
 
-Основание для детей от 3-х до 18-ти лет:
+    [Ссылка на постановление][8]
 
-> USTAWA O SYSTEMIE OŚWIATY Z DNIA 7 WRZEŚNIA 1991 R.
-> (TJ. Z DNIA 31 PAZDZIERNIKA 2016 R. DZ. U. Z 2016 R. POZ.1943)
-> ART. 92K. UST. 2 PKT 2F
+!!! Quote "Взрослые от 18-ти лет:"
+    PARAGRAF 5 UST. 3, PARAGRAF 8 UST. 1 — ROZPORZĄDZENIE MINISTRA CYFRYZACJI
+    Z DNIA 5 PAŹDZIERNIKA 2016 R. W SPRAWIE PROFILU ZAUFANEGO ELEKTRONICZNEJ
+    PLATFORMY USŁUG ADMINISTRACJI PUBLICZNEJ, OPUBLIKOWANE W DZIENNIKU USTAW
+    R.P. Z 2016, POZ. 1633.
 
-[Ссылка на постановление][8]
-
-Взрослые от 18-ти лет:
-
-> PARAGRAF 5 UST. 3, PARAGRAF 8 UST. 1 — ROZPORZĄDZENIE MINISTRA CYFRYZACJI
-> Z DNIA 5 PAŹDZIERNIKA 2016 R. W SPRAWIE PROFILU ZAUFANEGO ELEKTRONICZNEJ
-> PLATFORMY USŁUG ADMINISTRACJI PUBLICZNEJ, OPUBLIKOWANE W DZIENNIKU USTAW
-> R.P. Z 2016, POZ. 1633.
-
-[Ссылка на постановление][9]
+    [Ссылка на постановление][9]
 
 Если в каком-то ужонде отказались выдавать PESEL без мельдунка, либо
 сказали ждать 30 дней — пробуйте получить песель в другом ужонде.

@@ -241,9 +241,9 @@ TL;DR Нет.
 
 Заходите на сайте biznes.gov.pl и меняете
 
-- адрес проживания - [Adres zamieszkania](registration.md#5-adres-prozhivaniia)
-- адрес для корреспонденции - [Adres do doręczeń](registration.md#8-pochtovyi-adres)
-- адрес налогового офиса - [Urząd skarbowy](registration.md#11-skarbovy-uzhond)
+- адрес проживания - [Adres zamieszkania](registration_jdg#5-adres-prozhivaniia)
+- адрес для корреспонденции - [Adres do doręczeń](registration_jdg#8-pochtovyi-adres)
+- адрес налогового офиса - [Urząd skarbowy](registration_jdg#11-skarbovy-uzhond)
 
 ### Можно ли оформить ИП без постоянного места регистрации
 
