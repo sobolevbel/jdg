@@ -167,9 +167,9 @@
 [16]: taxes.md#vat
 [17]: taxes.md#vat-eu
 [18]: workflow.md#uchet-kursovykh-raznits
-[19]: registration.md#6-dannye-firmy
-[20]: registration.md#14-detali-zus
-[21]: registration.md#15-vybor-otdela-nfz
-[22]: registration.md#11-skarbovy-uzhond
+[19]: registration_jdg.md#6-dannye-firmy
+[20]: registration_jdg.md#14-detali-zus
+[21]: registration_jdg.md#15-vybor-otdela-nfz
+[22]: registration_jdg.md#11-skarbovy-uzhond
 [23]: images/wfirma_settings/podpis.png
 [24]: images/wfirma_settings/weryfikacja_firmy.png
