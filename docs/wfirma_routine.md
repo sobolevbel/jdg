@@ -187,7 +187,7 @@
 
 1. Нажимаем Przychody.
 2. Нажимаем Inne przychody.
-3. Нажимаем Pozostałe przychody (DW).
+3. Нажимаем Dodaj inny przychód и выбираем Pozostałe przychody (DW).
 4. В окошке Dodawanie nowego dowodu wewnętrznego на вкладке Podstawowe informacje заполняем Nazwa przychodu. Примерный текст для положительной КР:
 
      > Dodatnia różnica kursowa. Rozliczenie różnic kursowych od środków własnych, 100 USD, Data wpływu środków: 2025-05-06, Kurs wpływu środków: 3.775200 (085/A/NBP/2025), Data wypływu środków: 2025-05-12, Kurs wypływu środków: 3.812400 (faktyczny)
