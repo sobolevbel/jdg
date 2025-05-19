@@ -57,6 +57,9 @@ plugins:
       - ru
       - en
   - git-revision-date-localized
+  - redirects:
+      redirect_maps:
+        'registration.md': 'registration_jdg.md'
 
 markdown_extensions:
   - attr_list     # for Buttons

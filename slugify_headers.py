@@ -1,4 +1,4 @@
-from slugify import slugify_url
+from slugify import slugify as slugify_url
 
 
 def slugify(text: str, separator: str):
