@@ -172,7 +172,7 @@
 
      ![25]
 
-2. Нажимаем Zleć do podpisu s wysyłki.
+2. В окошке Wysyłanie deklaracji do ZUS на вкладке "Podpis - wfirma.pl" нажимаем кнопку Zleć do podpisu i wysyłki, чтобы передать ZUS DRA на подпись и отправку.
 
      ![26]
 
