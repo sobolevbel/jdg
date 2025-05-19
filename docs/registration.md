@@ -3,6 +3,7 @@
 <script>
   const redirects = {
     '#registratsiia-platelshchikom-vnutripolskogo-vat': '/jdg/registration_vat/',
+    '#registratsiia-platelshchikom-vnutripolskogo-vat': '/jdg/registration_vat/',
     '#registratsiia-platelshchikom-vat-ue': '/jdg/registration_vat_ue/',
     '#4-vybiraem-punkt-o-registratsii-platelshchikom-vat': '/jdg/registration_vat/#4-vybiraem-punkt-o-registratsii-platelshchikom-vat',
     '#6-prichina-registratsii-vat-ovtsem': '/jdg/registration_vat/',
@@ -26,7 +27,7 @@
   if (redirects[hash]) {
     window.location.href = redirects[hash];
   } else {
-    window.location.href = '/jdg/registration_jdg/'; // fallback
+    window.location.href = '/jdg/registration_jdg/'; // если якоря нет, редиректим на registration_jdg
   }
 </script>
 
