@@ -44,13 +44,13 @@
 
     Укажите корректные данные 5 ваших адресов:
 
-    | **Polski**                                   | **Русский**                                 |
+    | **Polski**                        | **Русский**                                 |
     |-----------------------------------|---------------------------------------------|
-    | adres prowadzenia działalności | адрес ведения деятельности                  |
-    | adres zameldowania                  | адрес регистрации по месту жительства       |
-    | adres zamieszkania                    | адрес проживания                            |
+    | adres prowadzenia działalności    | адрес ведения деятельности                  |
+    | adres zameldowania                | адрес регистрации по месту жительства       |
+    | adres zamieszkania                | адрес проживания                            |
     | adres korespondencyjny            | почтовый адрес / адрес для корреспонденции  |
-    | adres na fakturze sprzedaży       | адрес на фактурах, к-е вы будете выставлять  |
+    | adres na fakturze sprzedaży       | адрес на фактурах, к-е вы будете выставлять |
 
     Если при регистрации JDG указывали "не имею постоянного места ведения деятельности", то можете заполнить адрес замешкания, например, адрес арендованной квартиры. В данном случае это нормально, т.к. данный адрес нам нужен для отображения на фактурах для заказчика.
 
@@ -109,11 +109,11 @@
 1. Выберите [Urząd skarbowy][22] (налоговую инспекцию), которую указывали при регистрации JDG. Если забыли, то проверить можно в своём кабинете предпринимателя с помощью инструмента [CEIDG Viewer](https://justandrei.github.io/jdg-tools/ceidg/viewer.html).
 2. Укажите вид бухучёта (Rodzaj ewidencji):
 
-    | **Polski**                              | **Русский**                               |
+    | **Polski**                             | **Русский**                               |
     |----------------------------------------|-------------------------------------------|
-    | [Ewidencja Przychodów (ryczałt)](https://poradnikprzedsiebiorcy.pl/-ewidencja-przychodow-na-ryczalcie)        | Учёт Доходов (рычалт)                 |
-    | [Księga Przychodów i Rozchodów](https://www.biznes.gov.pl/pl/portal/00233)      | Книга Учёта Доходов и Расходов (PKPiR) |
-    | Księgi rachunkowe﹡                      | Бухгалтерские книги﹡ |
+    | [Ewidencja Przychodów (ryczałt)](https://poradnikprzedsiebiorcy.pl/-ewidencja-przychodow-na-ryczalcie) | Учёт Доходов (рычалт) |
+    | [Księga Przychodów i Rozchodów](https://www.biznes.gov.pl/pl/portal/00233) | Книга Учёта Доходов и Расходов (PKPiR) |
+    | Księgi rachunkowe﹡ | Бухгалтерские книги﹡ |
 
     ﹡ Księgi rachunkowe - это полный учёт. Обязателен для тех, кто зарабатывает свыше 2.000.000 евро. Малые и средние предприниматели могут выбрать добровольно (но зачем?!).
 
