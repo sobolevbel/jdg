@@ -7,9 +7,7 @@
     - [:coffee: @VseBudzeDobra Jaŭhien S.][1]{ .md-button .md-button--primary }
     - [:simple-revolut: @pointless_henry Henry Pointless][2]{ .md-button .md-button--primary }
     - [:coffee: @justandrei79 Андрей][3]{ .md-button .md-button--primary }
-    - [:coffee: @vasareli An.][4]{ .md-button .md-button--primary }
     - [:coffee: @verunko Veronika][5]{ .md-button .md-button--primary }
-    - [:coffee: @Pani_Prawnik Olga Winnik (Alena Prianichnikova)][6]{ .md-button .md-button--primary }
 
 Хотите помочь с редактированием информации на сайте? Присоединяйтесь!
 
