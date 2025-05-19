@@ -193,7 +193,7 @@
      > Dodatnia różnica kursowa. Rozliczenie różnic kursowych od środków własnych, 100 USD, Data wpływu środków: 2025-05-06, Kurs wpływu środków: 3.775200 (085/A/NBP/2025), Data wypływu środków: 2025-05-12, Kurs wypływu środków: 3.812400 (faktyczny)
 
 5. Указываем сумму.
-6. Нажимаем Zapisz i drukuj.
+6. Нажимаем Zapisz i drukuj для сохранения и печати.
 
 ![29]
 
