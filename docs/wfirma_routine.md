@@ -210,7 +210,7 @@
 [9]: workflow.md#kakie-dokumenty-khranit
 [10]: images/wfirma_routine/fakture_oplata.png
 [11]: images/wfirma_routine/fakture_kr.png
-[12]: wfirma_settings.md#podatki---funkcje-księgowe
+[12]: wfirma_settings.md#podatki-funkcje-ksiegowe
 [13]: images/wfirma_routine/pit_wylicz.png
 [14]: images/wfirma_routine/pit_dalej.png
 [15]: images/wfirma_routine/pit_zapisz.png
