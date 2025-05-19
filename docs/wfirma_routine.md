@@ -12,7 +12,7 @@
 
 ![2]
 
-Также это можно сделать на странице **Przychody => Sprzedaż**.
+Также это можно сделать на странице **Przychody => Sprzedaż**. Откроется окошко Wystawianie faktury.
 
 ### Podstawowe informacje
 
