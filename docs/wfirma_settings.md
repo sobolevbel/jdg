@@ -160,7 +160,7 @@
 [9]: images/wfirma_settings/podatki_zus.png
 [10]: images/wfirma_settings/podatki_podatek_dochodowy.png
 [11]: images/wfirma_settings/podatki_podatek_vat.png
-[12]: images/wfirma_settings/podatki_funkcje_księgowe.png
+[12]: images/wfirma_settings/podatki_funkcje_ksiegowe.png
 [13]: images/wfirma_settings/produkt.png
 [14]: images/wfirma_settings/kontrahent.png
 [15]: images/wfirma_settings/kontrahent_faktury.png
