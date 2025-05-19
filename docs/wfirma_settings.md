@@ -103,7 +103,16 @@
 ### Podatki - Podatek dochodowy
 
 1. Выберите [Urząd skarbowy][22] (налоговую инспекцию), которую указывали при регистрации JDG. Если забыли, то проверить можно в своём кабинете предпринимателя с помощью инструмента [CEIDG Viewer](https://justandrei.github.io/jdg-tools/ceidg/viewer.html).
-2. Укажите систему налогообложения - ryczałt.
+2. Укажите вид бухучёта (Rodzaj ewidencji):
+
+    | **Polski**                              | **Русский**                               |
+    |----------------------------------------|-------------------------------------------|
+    | [Ewidencja Przychodów (ryczałt)](https://poradnikprzedsiebiorcy.pl/-ewidencja-przychodow-na-ryczalcie)        | Учёт Доходов (рычалт)                 |
+    | [Księga Przychodów i Rozchodów](https://www.biznes.gov.pl/pl/portal/00233)      | Книга Учёта Доходов и Расходов (PKPiR) |
+    | Księgi rachunkowe﹡                      | Бухгалтерские книги﹡ |
+
+    *﹡ Księgi rachunkowe - это полный учёт. Обязателен для тех, кто зарабатывает свыше 2.000.000 евро. Малые и средние предприниматели могут выбрать добровольно (но зачем?!).
+
 3. Выбираем процента налога, соответствующий вашему коду PKWiU.
 4. Выбираем ежемесячные зачисления PIT.
 
