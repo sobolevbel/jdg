@@ -72,7 +72,7 @@
 
 1. Выберите [дату начала ведения JDG][19] (data rozpoczęcia działalności gospodarczej), которую указали при регистрации.
 2. Выберите с какого месяца хотите начать считать налоги в wFirma (Miesiąc rozpoczęcia prowadzenia księgowości w systemie). Почти всегда совпадает с месяцем начала ведения деятельности.
-3. Номер микросчета, на который будут оплачиваться налоги. Подтягивается автоматически. Рядом с полем может появиться кнопка "Подтвердить", нажмите ее, чтобы подтвердить номер микросчета. Проверить микросчет можно с помощью [Generator mikrorachunku podatkowego](https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego/).
+3. Номер индивидуального счёта - микросчёта, на который будут оплачиваться налоги (Indywidualne konto bankowe - mikrorachunek) - подтягивается автоматически. Рядом с полем может появиться кнопка "Подтвердить", нажмите её, чтобы подтвердить номер микросчёта. Проверить микросчёт можно с помощью [Generator mikrorachunku podatkowego](https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego/) по номеру NIP.
 
 ![8]
 
