@@ -30,4 +30,4 @@ jobs:
           rake install
 
       - name: Run markdown-linter
-        run: mdl -s .github/workflows/markdown_linter_rules.rb docs/.
+        run: mdl -s ../.github/workflows/markdown_linter_rules.rb docs/.
