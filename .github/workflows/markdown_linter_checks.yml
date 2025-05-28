@@ -21,14 +21,7 @@ jobs:
         with:
           ruby-version: "3.3"
           bundler-cache: true
-
-      - name: Clone markdownlint repository
-        run: git clone https://github.com/markdownlint/markdownlint
-
-      - name: Install markdownlint using rake
-        run: |
-          cd markdownlint
-          rake install
-
+      - name: Install markdownlint
+        run: gem install mdl
       - name: Run markdown-linter
         run: mdl -s .github/workflows/markdown_linter_rules.rb docs/.
