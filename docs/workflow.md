@@ -4,17 +4,17 @@
 
 !!! abstract "Налоги платятся каждый месяц"
 
-    !!! abstract "ZUS DRA"
-        до 20 числа каждого месяца
+    !!! abstract "ZUS"
+        Оплата ZUS и отправка [ZUS DRA][14] до 20 числа каждого месяца
 
     !!! abstract "Podatek dochodowy"
-        подоходный налог, процент зависит от вида деятельности - до 20 числа каждого месяца
+        Подоходный налог - до 20 числа каждого месяца
 
     !!! abstract "VAT"
-        если оказываете услугу лицу на территории Польши - до 25 числа каждого месяца
+        Если оказываете услугу лицу на территории Польши - до 25 числа каждого месяца
 
     !!! abstract "VAT-UE"
-        если оказываете услугу лицу на территории ЕС - до 25 числа каждого месяца
+        Если оказываете услугу лицу на территории ЕС - до 25 числа каждого месяца
 
 ## План
 
@@ -108,3 +108,4 @@
 [11]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [12]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
 [13]: https://sobolevbel.github.io/jdg/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul
+[14]: declarations.md#zus-dra
