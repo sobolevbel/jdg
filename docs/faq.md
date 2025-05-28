@@ -220,7 +220,7 @@
 ### Сервисы по созданию фактур
 
 - [Infakt](https://www.infakt.pl/)
-- [Fakturownia](https://fakturownia.pl//)
+- [Fakturownia](https://fakturownia.pl/)
 - [FakturaXL](https://fakturaxl.pl)
 - [Wfirma](https://wfirma.pl/)
 - [Fakturowo](https://www.fakturowo.pl/)
