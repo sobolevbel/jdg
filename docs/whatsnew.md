@@ -29,7 +29,7 @@
 
 ## 12.09.2024
 
-- Обновлен гайд по [регистрации плательщиком VAT](registration_jdg.md/#registratsiia-platelshchikom-vnutripolskogo-vat).
+- Обновлен гайд по [регистрации плательщиком VAT](registration_vat.md).
 
 ## 29.07.2024
 
@@ -50,7 +50,7 @@
 
 ## 20.05.2023
 
-- Обновлен гайд [регистрации JDG](registration_jdg#registratsiia-ip-na-portale-biznes-gov-pl).
+- Обновлен гайд [регистрации JDG](registration_jdg.md#registratsiia-ip-na-portale-biznes-gov-pl).
 
 ## 13.01.2023
 

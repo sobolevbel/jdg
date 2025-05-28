@@ -6,8 +6,6 @@
 !!! tip "Благодарность/Донаты на развитие гайда"
     - [:coffee: @VseBudzeDobra Jaŭhien S.][1]{ .md-button .md-button--primary }
     - [:simple-revolut: @pointless_henry Henry Pointless][2]{ .md-button .md-button--primary }
-    - [:coffee: @justandrei79 Андрей][3]{ .md-button .md-button--primary }
-    - [:coffee: @verunko Veronika][4]{ .md-button .md-button--primary }
 
 Хотите помочь с редактированием информации на сайте? Присоединяйтесь!
 

@@ -247,9 +247,9 @@ NIP других предпринимателей, а также размер п
 
 !!! warning "В случае положительного решения нужно уведомить своего бухгалтера"
 
-Если же вы ведете бухгалтерию самостоятельно, смотрите пункт [Ежемесячные отчёты во время ZUS-каникул][17].
+Если же вы ведете бухгалтерию самостоятельно, смотрите пункт [Ежемесячные отчеты во время ZUS-каникул][17].
 
-## Ежемесячные отчёты во время ZUS-каникул
+## Ежемесячные отчеты во время ZUS-каникул
 
 Предприниматель должен подать следующие документы за себя:
 
@@ -411,7 +411,7 @@ ZUS-каникулы — это хорошая возможность немно
 [14]: images/zus_vacation/zus_vacation_rws_14.png
 [15]: images/zus_vacation/zus_vacation_rws_15.png
 [16]: images/zus_vacation/zus_vacation_rws_16.png
-[17]: zus_vacation.md#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul
+[17]: zus_vacation.md#ezhemesiachnye-otchety-vo-vremia-zus-kanikul
 [18]: https://t.me/KorneVa_OK
 [19]: https://sudop.uokik.gov.pl/search/aidBeneficiary
 [20]: images/zus_vacation/zus_vacation_rws2_1.png
