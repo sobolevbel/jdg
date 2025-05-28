@@ -5,7 +5,7 @@ on:
     paths:
       - "**.md"
       - ".github/workflows/markdown_link_check.yml"
-      - ".github/workflows/markdown_link_check_config.json"
+      - "mlc_config.json"
 
 permissions:
   contents: read
@@ -14,17 +14,9 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v4
-
-    - name: Install markdown-link-check
-      run: npm install -g markdown-link-check
-
-    - name: run link check
-      run: |
-        find . -name '*.md' \
-          -not -path './node_modules/*' \
-          -not -path './.git/*' \
-          -exec markdown-link-check '{}' \
-          --config .github/workflows/markdown_link_check_config.json \
-          --verbose \;
+    - uses: actions/checkout@v4
+    - uses: tcort/github-action-markdown-link-check@v1
+      with:
+        use-quiet-mode: 'yes'
+        folder-path: docs
+        max-depth: 1
