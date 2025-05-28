@@ -37,7 +37,7 @@
 - [https://www.podatki.wtf/](https://www.podatki.wtf/)
 - [https://ladnepodatki.pl/](https://ladnepodatki.pl/)
 - [https://calculla.com/polish_net_gross_earnings_calculator](https://calculla.com/polish_net_gross_earnings_calculator)
-- [https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen](https://zarobki-kalkulator.pracuj.pl/kalkulator-wynagrodzen)
+- [https://zarobki.pracuj.pl/kalkulator-wynagrodzen](https://zarobki.pracuj.pl/kalkulator-wynagrodzen)
 - [https://jakipit.pl/](https://jakipit.pl/)
 
 ## Podatek dochodowy справка об отсутствии задолженности
@@ -78,7 +78,7 @@
 Вы обязаны зарегистрироваться как плательщик VAT в следующих случаях:
 
 1. Ваш облагаемый доход (сумма всех доходов от предпринимательской деятельности, которая фактически поступила на ваш счёт) превышает 200_000 злотых / год и фирма, с которой вы сотрудничаете, находится в Польше (польские заказчики). Если вы единожды превысили данный лимит, то становитесь плательщиком VAT, вне зависимости от дальнейших доходов.
-2. Один из кодов [PKD][19] вашей деятельности является консалтингом - 62.02.Z.
+2. Один из кодов PKD вашей деятельности является консалтингом - 62.02.Z.
 3. Вы хотите списывать VAT с покупок на фирму (прим. Ноутбук, телефон, мебель и прочие вещи очень нужные для работы ИП).
 
 !!! tip "Как проверить регистрацию?"
@@ -135,5 +135,4 @@ EU VAT number.
 [16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [17]: https://www.biznes.gov.pl/pl/portal/00248
 [18]: https://ec.europa.eu/taxation_customs/vies/
-[19]: https://www.biznes.gov.pl/pl/tabela-pkd
 [20]: https://legaltaxlevel.com/ip_pl
