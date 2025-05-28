@@ -20,7 +20,7 @@ jobs:
     - name: Install markdown-link-check
       run: npm install -g markdown-link-check
 
-    - name: Run link check
+    - name: run link check
       run: |
         find . -name '*.md' \
           -not -path './node_modules/*' \
