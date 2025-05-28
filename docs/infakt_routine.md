@@ -293,7 +293,7 @@ infakt. Также, убедитесь что все ваши фактуры у�
 [35]: infakt_settings.md#nastroika-dannykh-zus
 [36]: taxes.md#kak-uznat-svoi-schet-dlia-oplaty-nalogov
 [37]: https://app.infakt.pl/app/ksiegowosc/podatki/vat
-[39]: taxes.md/#vat
+[39]: taxes.md#vat
 [40]: images/infakt_routine/edit_invoice_button.png
 [41]: images/infakt_routine/save_invoice_button.png
 [42]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
