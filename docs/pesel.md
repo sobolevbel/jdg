@@ -48,8 +48,7 @@ Profil Zaufany.
 
 ## PESEL по трудовому договору
 
-Приходим в ужонд, берем с собой трудовой договор, паспорт, заявление и делаем PESEL. Образец заявления по трудовому
-договору: [раз][2], [два][3], [три][4], [четыре][5].
+Приходим в ужонд, берем с собой трудовой договор, паспорт, заявление и делаем PESEL.
 
 ## PESEL для налоговых целей (без мельдунка и трудового договора)
 
@@ -105,10 +104,6 @@ Profil Zaufany.
 <!-- resources -->
 
 [1]: https://www.gov.pl/attachment/5681d5cb-3ce9-4ca0-a325-1db67a7f3c24
-[2]: https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/1.png?attachauth=ANoY7coUCiJhfOVEmulG0HRWepsrklVZ8V0dRPn8EWgPMFhCbWRUlDhT5MnhKtJCMgTMy94_avAxxxkb7dkUGd3J8J3GrWov_PvZqGPIaz98fBr3xkkbz9otU9Mpt7FotFj4RyPl2oMxcwXD5YCDLCQsRywibaOVSuUgV9xDj6wlynbG3HOwVS1H7-7lgnEX88fGAERGLw22QFHROziNOlUajl-HN1uGHTHMUgavdy3r4nhH-_LvOvM%3D&attredirects=0
-[3]: https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/2.png?attachauth=ANoY7cpTazc53PJLkisnqkv98T1bremUkfAMnw8Svkjafr4jWnEWmVC7coIjWOcLilxzB1eBlFS4aR2fEIK_5-GdRNBAgVmJSeFYZx26Vb-d-u_jKmkZfl4-HzbqfJKxNeOth4ANsMV8_ZrACFu6OZ7XnqPelDXqNV2Wp5cdtvGxcXr0J_EsVgJa4Mb0xCSOJM8fD_M_4Zp4e7gFYst0huLat0lVNNOazbPibR82ohLt4V7bmNtlZfg%3D&attredirects=0
-[4]: https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/3.png?attachauth=ANoY7cr1P_lwnuy4MVqu_229zDZ8F-gC3wpHTEsnLriQ6XqrL2b6QdtVrPqorT4e74CZWHMf5OezD-TQBzFpom76uzqNfSaElfUgL9oTcZnTrQySyP0LwoioiRvFYWD9asYfqwbLP-y3EXcqZf6XWJLBzBsSmkzFnaPoVN9eODOfX7SQQqLHIq6c-fyK-cCYAlQuGyn3D-PpaVTAU7iZR5Oe-RFcm2Ze44LAe_1mUN5khcuOY5jmJcs%3D&attredirects=0
-[5]: https://69148b48-a-62cb3a1a-s-sites.googlegroups.com/site/ruum210/pesel/pesel-po-umove-o-prace/4.png?attachauth=ANoY7cpfImZEnPiFv9h3QTQVoGP72LKZJv9kGSA70P1wnCDtXuggcZGbwaeczqBYVDYKV9fCX9nLT1of7NWI9eFVIXPLPx1dbBFtj9PjbdNxGLK5bVGvm_CFiKmHPfzcJUMGiqsHZkgRc66dmNrqhIec9_sB-N_PnbaVYUHvzhqJKKZwlIybvYcx6usrdw6atWM3dsRBgCnOn_nq1VB7zbZVauCTpfWuuDSYwvEsciK2JRhXJUdQceY%3D&attredirects=0
 [6]: https://druki.gofin.pl/elzc1-zgloszenie-pobytu-czasowego,wzor,1472,165.html
 [7]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769
 [8]: https://www.prawo.vulcan.edu.pl/przegdok.asp?qdatprz=akt&qplikid=1

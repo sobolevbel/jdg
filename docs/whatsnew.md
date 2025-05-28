@@ -9,11 +9,11 @@
 
 ## 03.11.2024
 
-- Обновлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md/#kak-podat-zaiavku-na-zus-kanikuly).
+- Обновлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md#kak-podat-zaiavku-na-zus-kanikuly).
 
 ## 01.11.2024
 
-- Весьма своевременно добавлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md/#kak-podat-zaiavku-na-zus-kanikuly).
+- Весьма своевременно добавлен гайд по заполнению RWS для [каникул от ZUS](zus_vacation.md#kak-podat-zaiavku-na-zus-kanikuly).
 
 ## 13.10.2024
 

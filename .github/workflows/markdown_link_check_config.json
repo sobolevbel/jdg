@@ -11,5 +11,25 @@
       }
     }
   ],
-  "aliveStatusCodes": [200, 204]
+  "aliveStatusCodes": [200, 204],
+  "ignorePatterns": [
+    {
+      "pattern": "^https://.*\\.infakt\\.pl"
+    },
+    {
+      "pattern": "^https://inpol.mazowieckie.pl"
+    },
+    {
+      "pattern": "^https://pio-przybysz.duw.pl"
+    },
+    {
+      "pattern": "^https://arch-bip.ms.gov.pl"
+    },
+    {
+      "pattern": "^/jdg/registration_jdg/$"
+    },
+    {
+      "pattern": "^https://buymeacoffee.com"
+    }
+  ]
 }
