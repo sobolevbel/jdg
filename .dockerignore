@@ -13,3 +13,4 @@ requirements.in
 .vscode
 **/__pycache__
 **/*.py[cod]
+mlc_config.json
