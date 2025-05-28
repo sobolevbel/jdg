@@ -247,7 +247,7 @@
 [25]: images/wfirma_routine/zus_dra_wyslij.png
 [26]: images/wfirma_routine/zus_dra_wyslij_confirm.png
 [27]: images/wfirma_routine/zus_dra_status.png
-[28]: workflow.md/#uchet-kursovykh-raznits
+[28]: workflow.md#uchet-kursovykh-raznits
 [29]: images/wfirma_routine/kr_od_wlasnych_srodkow.png
 [30]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
 [31]: wfirma_settings.md#verifikatsiia-firmy
