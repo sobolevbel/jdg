@@ -15,12 +15,13 @@ jobs:
     name: Lint repository
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
-      - name: Install mdl
+          ruby-version: "3.3"
+          bundler-cache: true
+      - name: Install markdownlint
         run: gem install mdl
       - name: Run markdown-linter
         run: mdl -s .github/workflows/markdown_linter_rules.rb docs/.
