@@ -14,6 +14,7 @@ nav:
     - Регистрация VAT-UE: registration_vat_ue.md
   - ZUS:    # section
     - ZUS: zus.md
+    - Переход на следующий режим: zus_next_level.md
     - Переход на Składki Preferencyjne: zus_obnizone_skladki.md
     - Переход на Składki Preferencyjne и Duży ZUS: zus_duzy.md
     - ZUS-Каникулы: zus_vacation.md
