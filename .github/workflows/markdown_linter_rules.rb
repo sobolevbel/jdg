@@ -12,3 +12,4 @@ exclude_rule 'MD036'
 #exclude_rule 'MD041'  # No H1 header required at the top
 rule 'MD046', :style => 'indented'
 # rule 'MD029', :style => 'ordered'
+exclude_rule 'MD057' # It doesn't work properly, so it was even reverted in the lib repo (though not released)
