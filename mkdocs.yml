@@ -15,6 +15,7 @@ nav:
   - ZUS:    # section
     - ZUS: zus.md
     - Переход на следующий режим: zus_next_level.md
+    - Льгота Ulga na Start: zus_ulga_na_start.md
     - Переход на Składki Preferencyjne: zus_obnizone_skladki.md
     - Переход на Składki Preferencyjne и Duży ZUS: zus_duzy.md
     - ZUS-Каникулы: zus_vacation.md
