@@ -21,15 +21,50 @@
 - Переход всегда осуществляется с 1 числа месяца. На подачу документов — 7 дней.
 - Если пропущен срок — можно подать позже, но есть небольшой риск получить штраф.
 
-## Таблица кодов ZUS
+## Таблица кодов страхования ZUS
 
-| Текущий код | Что означает          | Что нужно сделать                        | Новый код |
-|-------------|-----------------------|------------------------------------------|-----------|
-| 054000      | Ulga na start         | Перейти на Składki preferencyjne         | 057000    |
-| 057000      | Składki preferencyjne | Перейти на Mały ZUS+                     | 059000    |
-| 057000      | Składki preferencyjne | Перейти на Duży ZUS                      | 051000    |
-| 059000      | Mały ZUS+             | Перейти на Duży ZUS                      | 051000    |
-| 051000      | Duży ZUS              | —                                        | —         |
+<table>
+  <thead>
+    <tr>
+      <th>Kod tytułu ubezpieczenia<br/>(Текущее значение)</th>
+      <th>Что означает</th>
+      <th>Что нужно сделать</th>
+      <th>Новый код</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="border-r">054000</td>
+      <td class="border-r">Ulga na start</td>
+      <td class="border-r">Перейти на Składki preferencyjne</td>
+      <td >057000</td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="border-r">057000</td>
+      <td rowspan="2" class="border-r valign-center">Składki preferencyjne</td>
+      <td class="border-r">Перейти на Mały ZUS+ <br/>(<a href="#8">см. условия</a>)</td>
+      <td>059000</td>
+    </tr>
+    <tr>
+      <td class="border-r">Либо на Duży ZUS</td>
+      <td>051000</td>
+    </tr>
+    <tr>
+      <td class="border-r">059000</td>
+      <td class="border-r">Mały ZUS+</td>
+      <td class="border-r">Перейти на Duży ZUS</td>
+      <td>051000</td>
+    </tr>
+    <tr>
+      <td class="border-r">051000</td>
+      <td class="border-r">Duży ZUS <br/> Взносы в полном размере, отсутствие льгот</td>
+      <td class="border-r">Ничего</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+Ещё больше кодов см. в таблице [Список страховых кодов ZUS](https://docs.google.com/spreadsheets/d/1XPcCJwR_58Lxe6Q1ATDbAGNuTvxJdLIRSt3M663ZS6M/edit?gid=848701444#gid=848701444) (2025).
 
 ## Типичные ошибки и особенности
 
@@ -66,3 +101,4 @@
 
 [1]: images/zus_next_level/zus_error_68015101.jpg
 [2]: images/zus_next_level/zus_error_69012001.jpg
+[8]: https://www.biznes.gov.pl/pl/portal/00284

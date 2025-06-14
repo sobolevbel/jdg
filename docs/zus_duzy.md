@@ -54,49 +54,6 @@
 - **Obowiązkowe ubezpieczenie zdrowotne** (Обязательная складка здровотная)
 - **Dobrowolne ubezpieczenie zdrowotne** (Добровольная складка здровотная)
 
-Таблица с пояснением кодов:
-
-<table>
-  <thead>
-    <tr>
-      <th>Kod tytułu ubezpieczenia<br/>(Текущее значение)</th>
-      <th>Что означает код</th>
-      <th>Что нужно сделать</th>
-      <th>Новый код</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="border-r">054000</td>
-      <td class="border-r">Ulga na start</td>
-      <td class="border-r">Перейти на Składki preferencyjne</td>
-      <td >057000</td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="border-r">057000</td>
-      <td rowspan="2" class="border-r valign-center">Składki preferencyjne</td>
-      <td class="border-r">Перейти на Mały ZUS+ (<a href="#8">см. условия</a>)</td>
-      <td>059000</td>
-    </tr>
-    <tr>
-      <td class="border-r">Либо на Duży ZUS</td>
-      <td>051000</td>
-    </tr>
-    <tr>
-      <td class="border-r">059000</td>
-      <td class="border-r">Mały ZUS+</td>
-      <td class="border-r">Перейти на Duży ZUS</td>
-      <td>051000</td>
-    </tr>
-    <tr>
-      <td class="border-r">051000</td>
-      <td class="border-r">Duży ZUS</td>
-      <td class="border-r">Ничего</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
 Актуализируем данные
 
 - меняем Kod tytułu ubezpieczenia
@@ -151,7 +108,6 @@
 [5]: images/zus_duzy/duzy_zus_4.png
 [6]: images/zus_duzy/duzy_zus_5.png
 [7]: images/zus_duzy/duzy_zus_6.png
-[8]: https://www.biznes.gov.pl/pl/portal/00284
 [9]: images/zus_duzy/duzy_zus_7.png
 [10]: images/zus_duzy/duzy_zus_8.png
 [11]: images/zus_duzy/duzy_zus_9.png
