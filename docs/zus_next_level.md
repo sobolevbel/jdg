@@ -95,40 +95,15 @@
 - Те из вас, кто уже не пользуется льготой Ulga na Start, могут взять один месяц освобождения от уплаты социальных взносов в году ("каникулы").
 - Подробнее: [ZUS-Каникулы — условия и инструкция](zus_vacation.md)
 
-## Типичные ошибки и особенности
+## Типичные ошибки
 
-| ⚠️ **Что делать если пропустил сроки перехода на składki preferencyjne?**                                                                                   |
-|--------------------------------------------------------------------------------------------------------------|
-| Если предприниматель не уложится в 7-дневный срок, то нет никаких препятствий, чтобы сделать это позже. Сделайте это сейчас, как можно скорее. Следует помнить, что несоблюдение установленного законом срока подачи отчётности является нарушением положений Закона о системе социального страхования (ustawy o systemie ubezpieczeń społecznych) и карается штрафом. ([Источник](https://oficynafk.pl/skladki/preferencyjne-skladki-zus-po-uldze-na-start-obnizone-skladki-zus-krok-po-kroku-19514.html)) |
-
-| ⚠️ **Особенность процедуры для пользователей wFirma**                                                                                   |
-|--------------------------------------------------------------------------------------------------------------|
-| Чтобы избежать проблем с переходом в wFirma, следует сначала отправить ZUS DRA за шестой месяц ulga na start и только после этого выполнять переход. Это соответствует алгоритму в официальном гайде по wFirma на польском. |
-
-### 68015101
-
-Если вы отправили ZUS ZUA до обработки ZUS ZWUA, то можете видеть ошибку вроде такой:
-
-![68015101][1]
-
-Текст ошибки:
-> Nie możesz wysłać zgłoszenia z kodem z grupy 05xx, jeżeli jest jeszcze niewyrejstrowany okres podlegania z kodem 05XX. Jeśli wysłałeś dokument ZWUA, poczekaj z wysłaniem nowego zgłoszenia na przetworzenie dokumentu ZWUA w ZUS. (blok V pole 1) Błąd zwykły
-
-Тут написано, что нужно подождать, пока обработается ZUS ZWUA. Но вообще-то можно не ждать и отправить
-с ошибкой. Декларация всё равно обработается корректно.
-
-### 69012001
-
-![69012001][2]
-
-Вероятно, при верификации декларации ZUS DRA за последний месяц действия Ulgi na Start на вкладке uwagi i błędy вы увидите статус «Informacja» и сообщение «Zbliża się koniec okresu ulgi (blok X pole 1)». Это нормальная ситуация — ZUS просто информирует, что льготный период заканчивается и нужно готовиться к переходу на следующий режим. Это не блокирующая ошибка: ничего исправлять не нужно, декларацию можно спокойно отправлять и оплачивать.
+Если в процессе столкнётесь с проблемой, то в первую очередь загляните в наш [сборник ошибок][1].
 
 ## Ссылки
 
 - Официальный источник по срокам перехода: [Pas startowy dla początkujących firm](https://www.gov.pl/web/rozwoj-technologia/pas-startowy-dla-poczatkujacych-firm)
 - [Поисковик для определения кода профессии и специальности](https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow)
 
-[1]: images/zus_next_level/zus_error_68015101.jpg
-[2]: images/zus_next_level/zus_error_69012001.jpg
+[1]: zus_errors.md
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
 [8]: https://www.biznes.gov.pl/pl/portal/00284
