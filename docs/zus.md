@@ -206,21 +206,12 @@ ZUS состоит из 2 основных частей:
 От уплат социальной складки зависят социальные выплаты. В том числе —
 декретные, больничные, будущая пенсия, но эти выплаты пропорциональны сумме с которой вы оплачиваете взносы.
 
-Первые 6 месяцев можно пользоваться льготой "Ulga na start" и не платить
+Первые 6 месяцев можно пользоваться льготой "[Ulga na start][2]" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][23] на следующую льготу — **ZUS preferencyjne** и пользоваться ею в
-течение 24 месяцев. После 30 месяцев деятельности начинается оплата полного ZUS (duży zus) — минимум 60% от средней заплаты.
+[перейти][23] на следующую льготу — **Składki preferencyjne** и пользоваться ею в
+течение 24 месяцев. После 30 месяцев деятельности нужно [перейти][26] на оплату полного ZUS (**duży ZUS**) — минимум 60% от средней заплаты.
 
 Больше деталей на [biznes.gov.pl][25] и [e-pity][24]
-
-## Ulga na start
-
-Для новых предпринимателей есть возможность получить льготу
-для оплаты ZUS на первые полгода и уменьшенный ZUS на следующие два года.
-
-Для получения льготы нужно во время регистрации в ZUS указать в декларации ZUS ZZA код **05 40**.
-
-[Официальный сайт][2]
 
 ## Регистрация
 
@@ -320,7 +311,7 @@ ZUS состоит из 2 основных частей:
     ![zus_epuap_4.png][22]
 
 [1]: https://www.zus.pl
-[2]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/ulga-na-start-6-miesiecy-bez-skladek-na-ubezpieczenie-spoleczne
+[2]: zus_ulga_na_start.md
 [3]: https://eskladka.pl/Home
 [4]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
 [5]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.png
@@ -344,5 +335,6 @@ ZUS состоит из 2 основных частей:
 [23]: zus_obnizone_skladki.md
 [24]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
 [25]: https://www.biznes.gov.pl/pl/portal/00286#2
+[26]: zus_duzy.md
 [100]: https://youtu.be/FJVhBu-_nyA
 [101]: https://t.me/justandrei79

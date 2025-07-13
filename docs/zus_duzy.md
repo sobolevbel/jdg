@@ -1,12 +1,12 @@
 # Переход на Duży ZUS
 
-После 24 месяцев składek preferencyjnych все льготы заканчиваются и необходимо перейти на **Duży ZUS**.
+Когда все льготы заканчиваются (обычно после 24 месяцев składek preferencyjnych), то необходимо перейти на **Duży ZUS**.
 
-## Когда переходить на duży ZUS
+!!! success "Официальный сайт"
+    [Jakie składki na ubezpieczenia społeczne płaci przedsiębiorca do ZUS][19]
 
-Льгота **Składki preferencyjne** действует до последнего числа 24-го месяца. А Duży ZUS начинается с первого числа месяца. На подачу документов даётся 7 дней.
-
-Таким образом, начинать переход нужно не раньше первого числа месяца, за который уже планируете платить duży ZUS, но и не затягивать с этим, чтобы завершить до 8-го числа.
+!!! question "Когда переходить на duży ZUS"
+    См. [Сроки перехода между режимами][20]
 
 ## Что нужно сделать
 
@@ -16,9 +16,9 @@
 1. Сняться с учёта в ZUS с помощью бланка **ZUS ZWUA**.
 2. Зарегистрироваться для страхования:
 
-   a. Если работаете параллельно на Umowa o Pracę, то с помощью бланка **ZUS ZZA**;
+    a. Если работаете параллельно на Umowa o Pracę, то с помощью бланка **ZUS ZZA**;
 
-   b. Иначе с помощью бланка **ZUS ZUA** с новым кодом 0570 xx. Если вы переходите со składek preferencyjnych на duży ZUS, то ваш старый код: **0570**, а новый: **0510**.
+    b. Иначе с помощью бланка **ZUS ZUA** с новым кодом 0570 xx. Если вы переходите со składek preferencyjnych на duży ZUS, то ваш старый код: **0570**, а новый: **0510**.
 
 3. Переключить в настройках inFakt/wFirma/iFirma на duży ZUS.
 
@@ -138,6 +138,10 @@
 
 Через какое-то время заявки появятся в **Dokumenty w ZUS**.
 
+### UPO - подтверждение отправки
+
+TODO
+
 [Поблагодарить автора :coffee:][12]
 
 [1]: https://www.zus.pl/ezus/logowanie
@@ -152,3 +156,5 @@
 [11]: images/zus_duzy/duzy_zus_9.png
 [12]: https://justandrei.github.io/coffee
 [14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[19]: https://www.biznes.gov.pl/pl/portal/00274
+[20]: zus_next_level/#sroki-perekhoda-mezhdu-rezhimami
