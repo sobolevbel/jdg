@@ -68,7 +68,7 @@
   </tbody>
 </table>
 
-Ещё больше кодов см. в таблице [Список страховых кодов ZUS](https://docs.google.com/spreadsheets/d/1XPcCJwR_58Lxe6Q1ATDbAGNuTvxJdLIRSt3M663ZS6M/edit?gid=848701444#gid=848701444) (2025).
+Ещё больше кодов с их оригинальным описанием см. в таблице [Список страховых кодов ZUS](https://docs.google.com/spreadsheets/d/1XPcCJwR_58Lxe6Q1ATDbAGNuTvxJdLIRSt3M663ZS6M/edit?gid=848701444#gid=848701444) (2025).
 
 ## Как осуществить переход между режимами ZUS?
 
@@ -97,6 +97,38 @@
 - Те из вас, кто уже не пользуется льготой Ulga na Start, могут взять один месяц освобождения от уплаты социальных взносов в году ("каникулы").
 - Подробнее: [ZUS-Каникулы — условия и инструкция](zus_vacation.md)
 
+## UPP - подтверждение отправки
+
+UPP = Urzędowe Poświadczenie Przedłożenia — подтверждение подачи декларации в ZUS, которое генерирует zus.pl. Без UPP нельзя подтвердить подлинность распечатанных форм ZUS ZUA и ZUS ZUA.
+
+В целях подтверждения наличия страховки в ZUS рекомендуется использовать справку Potwierdzenie ubezpieczenia. Подробнее читайте в [чеклисте документов для ВНЖ][2].
+
+При подаче ZZA/ZUA оригинал декларации и UPP к нему запрашивайте у того, кто подавал декларацию.
+
+### Для пользователей eZUS
+
+Чтобы получить Urzędowe Poświadczenie Przedłożenia (UPP) через eZUS (бывший PUE ZUS):
+
+1. Зайдите на сайт [eZUS](https://www.zus.pl/) и авторизуйтесь.
+2. В главном меню выберите раздел **Dokumenty i wiadomości Korespondencja z ZUS**.
+3. Перейдите в подраздел **Dokumenty wysłane**.
+4. Найдите нужную декларацию и нажмите кнопку **Szczegóły**.
+5. В открывшемся окне можно:
+    - Просмотреть документ,
+    - Экспортировать его на диск,
+    - Просмотреть подтверждение отправки (**Poświadczenie przedłożenia**).
+6. Для скачивания UPP выберите **Pokaż poświadczenie przedłożenia** и нажмите кнопку **Eksportuj**.
+
+![ZUS ZZA UPP][4]
+
+Если не удаётся найти UPP на сайте eZUS, обратитесь к инструкции вашего бухгалтерского ПО.
+
+### Для пользователей iFirma
+
+В iFirma этот документ легко найти по следующему пути:
+
+Deklaracji → e-Deklaracji ZUS → таблица Deklaracje zgłoszeniowe → декларация будет в колонке Deklaracja → а UPP скачивается по кнопке PDF в самой правой колонке.
+
 ## Типичные ошибки
 
 Если в процессе столкнётесь с проблемой, то в первую очередь загляните в наш [сборник ошибок][1].
@@ -107,4 +139,6 @@
 - [Поисковик для определения кода профессии и специальности](https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow)
 
 [1]: zus_errors.md
+[2]: https://justandrei.github.io/jdg-tools/checklist/#c-zus-insurance-confirmation
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
+[4]: images/zus_next_level/ZUS_ZZA_UPP.jpg

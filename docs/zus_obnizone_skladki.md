@@ -155,10 +155,6 @@ _Если вы не меняли вид деятельности и просто
 
 ![zus_obn_84][84]
 
-#### UPO - подтверждение отправки
-
-TODO
-
 ### 3. Переключение настроек сервиса для ведения бухгалтерии
 
 !!! question "А очерёдность отправки деклараций имеет значение?"
@@ -200,6 +196,9 @@ Ustawienia => Podatki => ZUS
 
 ![Tylko zdrowotne — 2-letni preferencyjny ZUS][18]
 
+## UPP - подтверждение отправки
+
+См. [UPP][21].
 
 [1]: images/zus_obnizone/zus_obnizone_01.png
 [2]: images/zus_obnizone/zus_obnizone_02.png
@@ -225,3 +224,4 @@ Ustawienia => Podatki => ZUS
 [18]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg
 [19]: https://www.biznes.gov.pl/pl/portal/00286
 [20]: zus_next_level/#sroki-perekhoda-mezhdu-rezhimami
+[21]: zus_next_level/#upp-podtverzhdenie-otpravki

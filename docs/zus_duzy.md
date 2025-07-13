@@ -134,13 +134,15 @@
 
 После обработки данные в картотеке должны обновиться (см. скриншот 3).
 
-Можно еще проверить, что в картотеке в закладке **Członkowie rodziny** остались все ранее приписанные родственники.
+TODO: помогите сделать гайд лучше! добавьте сюда скриншот, на котором виден код 05 10.
+
+Можно ещё проверить, что в картотеке в закладке **Członkowie rodziny** остались все ранее приписанные родственники.
 
 Через какое-то время заявки появятся в **Dokumenty w ZUS**.
 
-### UPO - подтверждение отправки
+## UPP - подтверждение отправки
 
-TODO
+См. [UPP][21].
 
 [Поблагодарить автора :coffee:][12]
 
@@ -158,3 +160,4 @@ TODO
 [14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
 [19]: https://www.biznes.gov.pl/pl/portal/00274
 [20]: zus_next_level/#sroki-perekhoda-mezhdu-rezhimami
+[21]: zus_next_level/#upp-podtverzhdenie-otpravki
