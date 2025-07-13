@@ -144,6 +144,10 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 См. [UPP][21].
 
+## Типичные ошибки
+
+См. [сборник ошибок][22].
+
 [Поблагодарить автора :coffee:][12]
 
 [1]: https://www.zus.pl/ezus/logowanie
@@ -159,5 +163,6 @@ TODO: помогите сделать гайд лучше! добавьте сю
 [12]: https://justandrei.github.io/coffee
 [14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
 [19]: https://www.biznes.gov.pl/pl/portal/00274
-[20]: zus_next_level/#sroki-perekhoda-mezhdu-rezhimami
-[21]: zus_next_level/#upp-podtverzhdenie-otpravki
+[20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
+[21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
+[22]: zus_errors.md

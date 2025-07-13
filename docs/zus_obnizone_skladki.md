@@ -200,6 +200,10 @@ Ustawienia => Podatki => ZUS
 
 См. [UPP][21].
 
+## Типичные ошибки
+
+См. [сборник ошибок][22].
+
 [1]: images/zus_obnizone/zus_obnizone_01.png
 [2]: images/zus_obnizone/zus_obnizone_02.png
 [3]: images/zus_obnizone/zus_obnizone_03.png
@@ -223,5 +227,6 @@ Ustawienia => Podatki => ZUS
 [17]: images/zus_obnizone/wFirma_schemat_2letni_preferencyjny_ZUS.jpg
 [18]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg
 [19]: https://www.biznes.gov.pl/pl/portal/00286
-[20]: zus_next_level/#sroki-perekhoda-mezhdu-rezhimami
-[21]: zus_next_level/#upp-podtverzhdenie-otpravki
+[20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
+[21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
+[22]: zus_errors.md
