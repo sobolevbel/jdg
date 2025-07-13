@@ -116,24 +116,7 @@ Chorobowa складка (на больничные в случае болезн
 
 ![zus_obn_83][83]
 
-Выбрать *Kod wykonywanego zawodu*.
-
-Например:
-
-- **251401** Programista.
-- **251402** Programista aplikacji mobilnych.
-- **251903** Tester oprogramowania komputerowego.
-- **243106** Specjalista do spraw marketingu i handlu.
-
-Все коды можно найти по [ссылке][14].
-
-_Если вы не меняли вид деятельности и просто хотите подать тот же код, который
-использовали раньше, но забыли его, то можно посмотреть код в своей первичной
-заявке ZZA на сайте **zus.pl**: открываете вкладку **e-Płatnik**, выбираете
-**Dokumenty** и **Dokumenty w ZUS**, отмечаете в списке ZUS ZZA и нажимаете
-**Podgląd**. В открытом документе ищите раздел
-**V. TYTUŁ UBEZPIECZENIA I KOD WYKONYWANEGO ZAWODU** и смотрите пункт
-**02. Kod wykonywanego zawodu**._
+Выбрать *Kod wykonywanego zawodu*. Нужно для статистики. Подробнее см. в [таблице кодов профессий][23].
 
 Нажать "Dodaj".
 
@@ -230,3 +213,4 @@ Ustawienia => Podatki => ZUS
 [20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
 [21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
 [22]: zus_errors.md
+[23]: zus_next_level.md/#tablitsa-kodov-professii

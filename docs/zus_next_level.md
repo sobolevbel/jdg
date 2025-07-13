@@ -68,11 +68,29 @@
   </tbody>
 </table>
 
+В таблице перечислены самые популярные коды страхования среди предпринимателей.
 Ещё больше кодов с их оригинальным описанием см. в таблице [Список страховых кодов ZUS](https://docs.google.com/spreadsheets/d/1XPcCJwR_58Lxe6Q1ATDbAGNuTvxJdLIRSt3M663ZS6M/edit?gid=848701444#gid=848701444) (2025).
+
+## Таблица кодов профессий
+
+Вам понадобится указать *Kod wykonywanego zawodu* (Код выполняемой профессии).
+
+| Код    | Профессия (PL) | Профессия (RU) |
+|--------|----------------|----------------|
+| **251401** | Programista                              | Программист                           |
+| **251402** | Programista aplikacji mobilnych          | Программист мобильных приложений      |
+| **251903** | Tester oprogramowania komputerowego      | Тестировщик программного обеспечения  |
+| **243106** | Specjalista do spraw marketingu i handlu | Специалист по маркетингу и торговле   |
+
+!!! success "Официальный сайт"
+    Все коды можно найти в [поисковике описания профессий][5] (Wyszukiwarka opisów zawodów).
+
+_Если вы не меняли вид деятельности и просто хотите подать тот же код, который использовали раньше, но забыли его, то можно посмотреть код в своей первичной заявке ZZA на сайте **zus.pl**: открываете вкладку **e-Płatnik**, выбираете **Dokumenty** и **Dokumenty w ZUS**, отмечаете в списке ZUS ZZA и нажимаете **Podgląd**. В открытом документе ищите раздел **V. TYTUŁ UBEZPIECZENIA I KOD WYKONYWANEGO ZAWODU** и смотрите пункт **02. Kod wykonywanego zawodu**._
 
 ## Как осуществить переход между режимами ZUS?
 
 **1. Активация льготы Ulga na Start**
+
 - Одновременно с регистрацией JDG зарегистрируйтесь в ZUS с использованием ZUS ZZA и выберите соответствующий код (0540 00).
 - Подробнее: [Ulga na Start — условия и нюансы](zus_ulga_na_start.md)
 - Пошаговая инструкция: [Регистрация ИП](registration_jdg.md)
@@ -144,3 +162,4 @@ Deklaracji → e-Deklaracji ZUS → таблица Deklaracje zgłoszeniowe → 
 [2]: https://justandrei.github.io/jdg-tools/checklist/#c-zus-insurance-confirmation
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
 [4]: images/zus_next_level/ZUS_ZZA_UPP.jpg
+[5]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow

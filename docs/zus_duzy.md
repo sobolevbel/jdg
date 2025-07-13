@@ -34,72 +34,69 @@
 
 Если какой-то способ временно не работает, то попробуйте другой.
 
+Никак не получается войти в eZUS? См. [возможные причины и решения][22].
+
 ### Шаг 2
 
-Вверху справа выбираем вкладку **ePłatnik**, в меню слева выбираем **Rejestr ubezpieczonych -> Aktualni ubezpieczeni**
+Вверху справа выбираем вкладку **ePłatnik**, в меню слева выбираем **Rejestr ubezpieczonych -> Aktualni ubezpieczeni**.
 
-Нажимаем кнопку **Podgląd**
+Нажимаем кнопку **Podgląd**.
 
 ![zus_actualni_ubezpieczeni][2]
 
-Открывается картотека
+Открывается картотека  Kartoteka ubezpieczonego
 
 ![zus_kartoteka_ubezpieczonego][3]
 
 ### Шаг 3
 
-Внутри картотеки можем выбрать закладку **Ubezpieczenia**
+Внутри картотеки можем выбрать закладку **Ubezpieczenia**.
 
 Отображается текущий код и дата, начиная с которой он действует.
 На картинке ниже виден пример, когда уже действуют складки преференцийне (Składki preferencyjne) и надо перейти на дужий ZUS (Duży ZUS).
 
 Информацию обо всех кодах для предпринимателей ищите в [таблице](http://127.0.0.1:8000/jdg/zus_next_level/#tablitsa-kodov-strakhovaniia-zus).
 
-Нажимаем **Zmień dane**
+Нажимаем **Zmień dane**.
 
 ![zus_kartoteka_ubezpieczonego_zmien_dane][4]
 
-Появляется пошаговая форма для внесения изменений
+На вкладке Obsługa ubezpieczonego появляется пошаговая форма для внесения изменений.
 
-Ставим галочку в пункте **Dane ubezpieczeń** и нажимаем кнопку **Dalej**
+На шаге "Wybierz dane do zmiany" выбираем галочку в пункте **Dane ubezpieczeń** и нажимаем кнопку **Dalej**.
 
 ![zus_obsluga_ubezpieczonego][5]
 
 ### Шаг 4
 
-Нажимаем кнопку **Edytuj**
+На шаге "Dane ubezpieczeń" нажимаем кнопку **Edytuj**.
 
 ![zus_obsluga_ubezpieczonego_edytuj][6]
 
-Появляется попап с текущими данными
+Появляется попап с названием "Zgłoszenie ubezpieczonego → Tytuły ubezpieczeń" с текущими данными.
 
 ![zus_kod_tytulu_ubezpieczenia][7]
 
-Под кодом типа страховки располагаются четыре секции:
+**Актуализируем данные:**
 
-- **Obowiazkowe ubezpieczenia społeczne** (Обязательные складки сполечные). Если была ульга на старт, чекбоксы будут
-  пустые, в этом случае надо отметить 3 из 4, как на картинке (все, кроме “Chorobowemu”)
-- **Dobrowolne ubezpieczenia społeczne** (Добровольные складки сполечные). Тут можно при желании отметить складку
-  хоробову, чтобы иметь возможность получать больничные
-- **Obowiązkowe ubezpieczenie zdrowotne** (Обязательная складка здровотная)
-- **Dobrowolne ubezpieczenie zdrowotne** (Добровольная складка здровотная)
+- Слева меняем Kod tytułu ubezpieczenia (код типа страховки; напоминаем, что для перехода на duży ZUS ваш новый код: **05 10**).
+- Меняем даты в левой части на первое число того месяца, с которого начинается Duży ZUS (обычно это текущий месяц). В результате в **ZUS ZUA** в поле *Data powstania obowiązku ubezpieczenia* (или *Data zgłoszenia do ubezpieczenia*) будет указан тот же день, что и в **ZUS ZWUA**. Тогда у иностранца нет перерыва в страховании.
 
-Выбираем *Kod wykonywanego zawodu*. Например:
+* Справа выбираем *Kod wykonywanego zawodu*. Нужно для статистики. Подробнее см. в [таблице кодов профессий][13].
 
-- **251401** Programista.
-- **251402** Programista aplikacji mobilnych.
-- **251903** Tester oprogramowania komputerowego.
-- **243106** Specjalista do spraw marketingu i handlu.
+* Под кодом типа страховки располагаются четыре секции:
 
-Все коды можно найти по [ссылке][14].
+    - **Obowiazkowe ubezpieczenia społeczne** (Обязательные взносы на соцстрахование). Если была ульга на старт, чекбоксы будут пустые. В этом случае надо отметить 3 из 4 как на картинке:
+        * [x] Emerytalnemu 
+        * [ ] Chorobowemu
+        * [x] Rentowym
+        * [x] Wypadkowemu
 
-Актуализируем данные
+    - **Dobrowolne ubezpieczenia społeczne** (Добровольные взносы на соцстрахование).
+        * [ ] Chorobowym - тут можно при желании отметить складку хоробову, чтобы иметь возможность получать больничные. Решение остаётся за вами, но по результатам опроса большинство предпринимателей отказывается от неё. Если отметили галочкой, то соответственно поставьте дату — первое число текущего месяца.
+    - **Obowiązkowe ubezpieczenie zdrowotne** (Обязательный взнос на медстрахование)
+    - **Dobrowolne ubezpieczenie zdrowotne** (Добровольный взнос на медстрахование)
 
-- меняем Kod tytułu ubezpieczenia (напоминаем, что если переходите на duży ZUS, то ваш новый код **05 10**)
-- меняем даты в левой части на первое число текущего месяца. Важно, чтобы в *Data zgłoszenia do ubezpieczenia* был указан тот же день, что и для **ZUS ZWUA**. Тогда у иностранца нет перерыва в страховании.
-- также отмечаем галочками складки сполечные, кроме хоробовой
-- при желании платить складку хоробову (для возможности получения больничных) отмечаем её справа, в добровольной части,
-  и соответственно ставим дату — первое число текущего месяца
 - нажимаем **Zapisz**
 
 Попап закрывается и шаг 4 показывает обновленные данные.
@@ -161,7 +158,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 [10]: images/zus_duzy/duzy_zus_8.png
 [11]: images/zus_duzy/duzy_zus_9.png
 [12]: https://justandrei.github.io/coffee
-[14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[13]: zus_next_level.md/#tablitsa-kodov-professii
 [19]: https://www.biznes.gov.pl/pl/portal/00274
 [20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
 [21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
