@@ -115,7 +115,7 @@
 [2]: images/zus_errors/zus_error_69012001.jpg
 [3]: images/zus_errors/zus_error_69004101.jpg
 [4]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
-[5]: zus_obniżone_skladki.md#wFirma
+[5]: zus_obnizone_skladki.md#wFirma
 [6]: images/zus_errors/zus_logout.jpg
 [7]: zus_contact.md
 [8]: https://t.me/JDG_PBH/529911
