@@ -89,6 +89,12 @@ _Если вы не меняли вид деятельности и просто
 
 ## Как осуществить переход между режимами ZUS?
 
+Переход можно совершить онлайн, без необходимости личного посещения отделения ZUS.
+
+Для начала залогиньтесь в eZUS как описано [здесь][6].
+
+Дальше выберите пошаговую инструкцию и следуйте ей.
+
 **1. Активация льготы Ulga na Start**
 
 - Одновременно с регистрацией JDG зарегистрируйтесь в ZUS с использованием ZUS ZZA и выберите соответствующий код (0540 00).
@@ -163,3 +169,4 @@ Deklaracji → e-Deklaracji ZUS → таблица Deklaracje zgłoszeniowe → 
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
 [4]: images/zus_next_level/ZUS_ZZA_UPP.jpg
 [5]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[6]: zus_login.md
