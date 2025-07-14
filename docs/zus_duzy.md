@@ -46,7 +46,7 @@
 Отображается текущий код и дата, начиная с которой он действует.
 На картинке ниже виден пример, когда уже действуют складки преференцийне (Składki preferencyjne) и надо перейти на дужий ZUS (Duży ZUS).
 
-Информацию обо всех кодах для предпринимателей ищите в [таблице](http://127.0.0.1:8000/jdg/zus_next_level/#tablitsa-kodov-strakhovaniia-zus).
+Информацию обо всех кодах для предпринимателей ищите в [таблице][23].
 
 Нажимаем **Zmień dane**.
 
@@ -188,3 +188,4 @@ TODO: помогите сделать гайд лучше! добавьте сю
 [20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
 [21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
 [22]: zus_errors.md
+[23]: zus_next_level.md/#tablitsa-kodov-strakhovaniia-zus
