@@ -182,10 +182,10 @@ TODO: помогите сделать гайд лучше! добавьте сю
 [10]: images/zus_duzy/duzy_zus_8.png
 [11]: images/zus_duzy/duzy_zus_9.png
 [12]: https://justandrei.github.io/coffee
-[13]: zus_next_level.md/#tablitsa-kodov-professii
+[13]: zus_next_level.md#tablitsa-kodov-professii
 [15]: declarations.md#zus-dra
 [19]: https://www.biznes.gov.pl/pl/portal/00274
-[20]: zus_next_level.md/#sroki-perekhoda-mezhdu-rezhimami
-[21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
+[20]: zus_next_level.md#sroki-perekhoda-mezhdu-rezhimami
+[21]: zus_next_level.md#upp-podtverzhdenie-otpravki
 [22]: zus_errors.md
-[23]: zus_next_level.md/#tablitsa-kodov-strakhovaniia-zus
+[23]: zus_next_level.md#tablitsa-kodov-strakhovaniia-zus

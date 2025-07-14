@@ -55,4 +55,4 @@ UPP = Urzędowe Poświadczenie Przedłożenia — подтверждение п�
 [1]: https://www.biznes.gov.pl/pl/portal/00285
 [2]: https://rachunkowosc.com.pl/wspolpraca-przedsiebiorcy-z-bylym-pracodawca-nie-musi-odbierac-ulg-w-zus
 [3]: https://justandrei.github.io/jdg-tools/checklist/#c-zus-insurance-confirmation
-[21]: zus_next_level.md/#upp-podtverzhdenie-otpravki
+[21]: zus_next_level.md#upp-podtverzhdenie-otpravki
