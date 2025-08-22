@@ -74,8 +74,15 @@
 
 * Opłata skarbowa - пошлина за выдачу решения (в данном случае – 340 zł) - оплачиваем и распечатываем подтверждение оплаты (на польском).
 
+!!! warning "Важно"
+    Реквизиты иногда изменяются. Может одновременно быть несколько страниц с реквизитами, старыми и новыми.
+    Так точно уже было в Поморском.
+
     [Прайс и реквизиты для Мазовецкого в-ва][17].
+
     [Реквизиты для Нижнеселезского в-ва][22].
+
+    [Реквизиты для Поморского][23]
 
 ### 2. Подтверждение цели пребывания
 
@@ -399,3 +406,4 @@
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
 [21]: https://pio-przybysz.duw.pl
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
+[23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
