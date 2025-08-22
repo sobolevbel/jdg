@@ -402,7 +402,7 @@ podatek?".
 [50]: https://dzieciom.pl/podopieczni/40923
 [51]: https://fanimani.pl/standwithukraine/
 [52]: https://www.facebook.com/bmhuborg
-[53]: https://news.zerkalo.io/economics/61128.html
+[53]: https://news.zerkalo.io/economics/91472.html
 [54]: https://devby.io/news/support-devby24
 [55]: https://t.me/partyzanka_rb_pl/650
 [56]: https://www.siepomaga.pl/artem-padzialowski
