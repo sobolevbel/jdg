@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 3 root root  37 Aug 26 19:46 .
+drwxr-xr-x 1 root root 101 Aug 26 19:46 ..
+drwxr-xr-x 2 root root  50 Aug 26 19:46 outputs
+-rw-r--r-- 1 root root  11 Aug 26 19:46 test.txt

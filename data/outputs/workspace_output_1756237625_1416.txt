@@ -1,0 +1,16 @@
+total 48
+drwxr-xr-x 6 root root 4096 Aug 26 19:46 .
+drwxr-xr-x 4 root root   63 Aug 26 19:46 ..
+drwxr-xr-x 8 root root  181 Aug 26 19:47 .git
+-rw-r--r-- 1 root root  655 Aug 26 19:46 .gitattributes
+drwxr-xr-x 3 root root   42 Aug 26 19:46 .github
+-rw-r--r-- 1 root root   48 Aug 26 19:46 .gitignore
+-rw-r--r-- 1 root root  123 Aug 26 19:46 .imgbotconfig
+-rw-r--r-- 1 root root  101 Aug 26 19:46 Dockerfile
+-rw-r--r-- 1 root root 7048 Aug 26 19:46 LICENSE
+-rw-r--r-- 1 root root 2590 Aug 26 19:46 README.md
+-rw-r--r-- 1 root root  246 Aug 26 19:46 docker-compose.yaml
+drwxr-xr-x 5 root root 4096 Aug 26 19:46 docs
+-rw-r--r-- 1 root root 2248 Aug 26 19:46 mkdocs.yml
+drwxr-xr-x 3 root root   20 Aug 26 19:46 overrides
+-rw-r--r-- 1 root root  533 Aug 26 19:46 requirements.txt
