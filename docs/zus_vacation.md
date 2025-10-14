@@ -253,6 +253,23 @@ NIP других предпринимателей, а также размер п
 Уведомление о новых сообщениях вы получите на адрес электронной почты или номер телефона,
 указанные вами в PUE/eZUS.
 
+Сначала вы получите Zawiadomienie o możliwości czynnego udziału w sprawie - это информационное письмо от ZUS о том, что ваше заявление принято к рассмотрению. После этого через несколько дней вы получите либо положительное, либо отрицательное решение об участии в каникулах ZUS. В случае положительного решения документ называется Informacja o przyznaniu zwolnienia. В примере показан случай положительного решения по заявке о каникулах.
+
+![Recieved documents][55]
+
+Если вы не платите добровольную складку хоробову (которая для больничных) и подаётесь на каникулы, ZUS может на каком-то этапе прислать такое:
+
+!!!quote "Zawiadomenie"
+    Zakończyliśmy postępowanie w sprawie ustalenia prawa do zwolnienia z obowiązku opłacenia składek za czerwiec 2025 r., wszczętego na Pana wniosek z 29 maja 2025 r.
+
+    W wyniku weryfikacji stwierdziliśmy, że nie spełnia Pan następujących przesłanek ustawowych:
+
+    • nie podlegał Pan dobrowolnemu ubezpieczeniu chorobowemu w miesiącu złożenia wniosku albo w miesiącu go poprzedzającym
+
+    Może Pan wypowiedzieć się o zgromadzonej w Zakładzie dokumentacji w terminie 7 dni od daty doręczenia tego zawiadomienia.
+
+Не стоит пугаться, это не означает полный отказ в предоставлении каникул, а лишь отказ в компенсации складки хоробовой. Через несколько дней после этого придут нормальные документы, касающиеся помощи.
+
 !!! warning "В случае положительного решения нужно уведомить своего бухгалтера"
 
 Если же вы ведете бухгалтерию самостоятельно, смотрите пункт [Ежемесячные отчеты во время ZUS-каникул][17].
@@ -457,3 +474,4 @@ ZUS-каникулы — это хорошая возможность немно
 [52]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
 [53]: images/zus_vacation/zus_vacation_zasw_1.png
 [54]: images/zus_vacation/zus_vacation_zasw_2.png
+[55]: images/zus_vacation/zus_vacation_zasw_3.png
