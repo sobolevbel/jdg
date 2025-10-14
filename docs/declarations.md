@@ -292,7 +292,6 @@ Cel szczególowy не всегда обязателен. Вводить его �
 - 0000348880 - Школа для детей с ограниченными возможностями [Bona Fide][46].
 - 0000883672 - [Цэнтр][36] Беларускай Салідарнасці.
 - 0000270261 - [Беларускі Моладзевы Хаб][52] (cel szczegółowy: **HUB Warszawa 11876**).
-- 0000507234 - [Зеркало][53] (cel szczegółowy: **84784**).
 - 0000507234 - [Dzik pic, devby.io][54] (cel szczegółowy: **85644**).
 
 Лечение детей:
@@ -402,7 +401,6 @@ podatek?".
 [50]: https://dzieciom.pl/podopieczni/40923
 [51]: https://fanimani.pl/standwithukraine/
 [52]: https://www.facebook.com/bmhuborg
-[53]: https://news.zerkalo.io/economics/61128.html
 [54]: https://devby.io/news/support-devby24
 [55]: https://t.me/partyzanka_rb_pl/650
 [56]: https://www.siepomaga.pl/artem-padzialowski
