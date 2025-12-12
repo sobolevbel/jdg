@@ -81,8 +81,6 @@ ZUS-каникулы освобождают от уплаты социальны
 
     Если Вы не обязаны платить взносы в Фонд Труда и Фонд Солидарности за месяц, который Вы указали в своем заявлении, мы будем рассматривать Ваше заявление только в отношении освобождения от уплаты взносов на социальное страхование.
 
-Месяц и год пока нельзя изменить, в следующей версии скорее всего появится возможность выбора.
-
 ### Указание использования помощи de minimis
 
 ZUS-каникулы являются помощью de minimis, что означает, что предприниматель должен указать все
@@ -123,6 +121,16 @@ ZUS-каникулы являются помощью de minimis, что озна
 отметить поле tylko de minimis и затем нажать Wyszukaj według wybranych kryteriów.
 Будет сгенерирован файл, в котором будут указаны все отдельно полученные льготы, а также их сумма.
 
+_"Где взять сертификат о получении помощи de minimis?"_
+
+В PUE ZUS, панель Platnik - Dokumenty i wiadomości - Skrzynka odbiorcza. В списке полученных документов нужно найти все актуальные документы с названием RWS - Informacja o przyznaniu zwolnienia. Для каждого из такого документов нужно зайти в Szczegóły.
+
+![Skrzynka odbiorcza][53]
+
+На панели Szczegóły в разделе Załączniki нас интересует документ _Zaświadczenie_rws-r-zasw.pdf_. Чтобы скачать документ, нажмите Pobierz. Добавление документов описано в последнем шаге заполнения внеска.
+
+![Zaswiadczenie][54]
+
 ### Категории предпринимателей
 
 ![Categories][23]
@@ -158,13 +166,13 @@ ZUS-каникулы являются помощью de minimis, что озна
 ![Class][23]
 
 !!! quote "Перевод"
-    Класс деятельности, в соответствии с [постановлением Совета Министров от 24 декабря 2007 г. о польской классификации деятельности](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/polska-klasyfikacja-dzialalnosci-pkd-17399246) (PKD = аналог ОКВЭД) (Dz. U. Nr 251 poz. 1885, z późn. zm.)
+    Укажите PKD деятельности, в связи с которым подлежите социальному страхованию в Фонде Социального Страхования. Класс деятельности, в соответствии с [постановлением Совета Министров от 18 декабря 2024 г. о польской классификации деятельности](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/polska-klasyfikacja-dzialalnosci-pkd-22092046) (PKD = аналог ОКВЭД) (Dz. U. z 2024 r. poz. 1936)
 
 Во всплывающем окне выбирается соответствующий код деятельности.
 
 ![Class explicit][9]
 
-В примере указан код деятельности 62.01.Z (программирование). Отметьте вариант, подходящий вам.
+В примере указан код деятельности 62.10.B (иная деятельность в рамках программирования). Отметьте вариант, подходящий вам.
 
 ### Связи с другими предпринимателями
 
@@ -244,6 +252,23 @@ NIP других предпринимателей, а также размер п
 Ожидайте ответа из ZUS в личном кабинете PUE/eZUS. Это может занять несколько дней.
 Уведомление о новых сообщениях вы получите на адрес электронной почты или номер телефона,
 указанные вами в PUE/eZUS.
+
+Сначала вы получите Zawiadomienie o możliwości czynnego udziału w sprawie - это информационное письмо от ZUS о том, что ваше заявление принято к рассмотрению. После этого через несколько дней вы получите либо положительное, либо отрицательное решение об участии в каникулах ZUS. В случае положительного решения документ называется Informacja o przyznaniu zwolnienia. В примере показан случай положительного решения по заявке о каникулах.
+
+![Recieved documents][55]
+
+Если вы не платите добровольную складку хоробову (которая для больничных) и подаётесь на каникулы, ZUS может на каком-то этапе прислать такое:
+
+!!!quote "Zawiadomenie"
+    Zakończyliśmy postępowanie w sprawie ustalenia prawa do zwolnienia z obowiązku opłacenia składek za czerwiec 2025 r., wszczętego na Pana wniosek z 29 maja 2025 r.
+
+    W wyniku weryfikacji stwierdziliśmy, że nie spełnia Pan następujących przesłanek ustawowych:
+
+    • nie podlegał Pan dobrowolnemu ubezpieczeniu chorobowemu w miesiącu złożenia wniosku albo w miesiącu go poprzedzającym
+
+    Może Pan wypowiedzieć się o zgromadzonej w Zakładzie dokumentacji w terminie 7 dni od daty doręczenia tego zawiadomienia.
+
+Не стоит пугаться, это не означает полный отказ в предоставлении каникул, а лишь отказ в компенсации складки хоробовой. Через несколько дней после этого придут нормальные документы, касающиеся помощи.
 
 !!! warning "В случае положительного решения нужно уведомить своего бухгалтера"
 
@@ -447,3 +472,6 @@ ZUS-каникулы — это хорошая возможность немно
 [50]: images/zus_vacation/zus_vacation_rca_22.png
 [51]: images/zus_vacation/zus_vacation_rca_23.png
 [52]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
+[53]: images/zus_vacation/zus_vacation_zasw_1.png
+[54]: images/zus_vacation/zus_vacation_zasw_2.png
+[55]: images/zus_vacation/zus_vacation_zasw_3.png
