@@ -77,7 +77,7 @@ Białorusi vulica Zmitraka Biaduli 11 :: Mińsk::). Ещё нужно учиты
 ![Dane cudzoziemca][11]
 
 - прикладываем сканы паспорта и визы/карты побыта если вы подаетесь на основании Blue Card добавьте также скан децизии. Так же не меняйте название документов предложенные порталом иначе получите в ответ на внесок Kod błędu: -4
-Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммарный размер файлов не должен превышать 3.5mb, иначе будут проблемы с подписанием заявления) 
+Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммарный размер файлов не должен превышать 3.5mb, иначе будут проблемы с подписанием заявления)
 - выбираем чек-бокс, что вам можно иметь ИП на территории Польши:
 
 ![Status cudzoziemca][12]
