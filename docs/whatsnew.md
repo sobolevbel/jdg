@@ -1,5 +1,11 @@
 # Чейнджлог изменений на сайте
 
+## Декабрь 2025
+
+- Улучшен гайд по импорту [DRA KEDU](infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov) декларации из инфакта.
+- Инструкции по регистрации [JDG](registration_jdg.md), [VAT](registration_vat.md) и [VAT-EU](registration_vat_ue.md) перенесены на отдельные странички.
+- Так же, как и инструкции по переходу на [preferencyjne składki zus](zus_obnizone_skladki.md) и [duży zus](zus_duzy.md).
+
 ## Апрель 2025
 
 - Обновлены некоторые шаги по регистрации ИП и VAT

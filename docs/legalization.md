@@ -12,7 +12,7 @@
 - [https://pio-przybysz.duw.pl][21] Вроцлав.
 - [https://infoopt.pl/](https://infoopt.pl/) Краков.
 - [https://uw.bezkolejki.eu/luwlodz/Reservation](https://uw.bezkolejki.eu/luwlodz/Reservation) Лодзь(с 1.11.2022 на 3 месяца отменили электронную запись на часовы побыт по работе).
-- В Гданьске должно быть: `https://kolejka.gdansk.uw.gov.pl/`. Но сервис не работает уже несколько месяцев (точно с весны 2025).
+- [https://kolejka.gdansk.uw.gov.pl/](https://kolejka.gdansk.uw.gov.pl/) Гданьск. На данный момент можно резервировать только odbiór karty и донесение документов в Puck. Электронная запись на получение ВНЖ не работает с весны 2025.
 
 ### Перечень некоторых критериев получения ВНЖ по хозяйственной деятельности согласно законодательству
 
