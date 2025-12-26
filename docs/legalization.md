@@ -11,6 +11,8 @@
 - [https://inpol.mazowieckie.pl/login][10] Варшава.
 - [https://pio-przybysz.duw.pl][21] Вроцлав.
 - [https://infoopt.pl/](https://infoopt.pl/) Краков.
+- [https://uw.bezkolejki.eu/luwlodz/Reservation](https://uw.bezkolejki.eu/luwlodz/Reservation) Лодзь(с 1.11.2022 на 3 месяца отменили электронную запись на часовы побыт по работе).
+- [https://kolejka.gdansk.uw.gov.pl/](https://kolejka.gdansk.uw.gov.pl/) Гданьск. На данный момент можно резервировать только odbiór karty и донесение документов в Puck. Электронная запись на получение ВНЖ не работает с весны 2025.
 
 ### Перечень некоторых критериев получения ВНЖ по хозяйственной деятельности согласно законодательству
 
@@ -73,8 +75,15 @@
 
 * Opłata skarbowa - пошлина за выдачу решения (в данном случае – 340 zł) - оплачиваем и распечатываем подтверждение оплаты (на польском).
 
+!!! warning "Важно"
+    Реквизиты иногда изменяются. Может одновременно быть несколько страниц с реквизитами, старыми и новыми.
+    Так точно уже было в Поморском воеводстве.
+
     [Прайс и реквизиты для Мазовецкого в-ва][17].
+
     [Реквизиты для Нижнеселезского в-ва][22].
+
+    [Реквизиты для Поморского в-ва][23].
 
 ### 2. Подтверждение цели пребывания
 
@@ -398,3 +407,4 @@
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
 [21]: https://pio-przybysz.duw.pl
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
+[23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
