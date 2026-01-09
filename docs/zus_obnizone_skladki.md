@@ -79,7 +79,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 #### Шаг 1
 
-На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZWUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
+На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
 
 Далее в окне *Obsługa ubezpieczonego* как *Cel obsługi* нужно выбрать пункт *Zgłoszenie ubezpieczonego* (Постановка застрахованного на учёт). И нажать *Dalej*.
 
