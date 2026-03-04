@@ -23,7 +23,9 @@ nav:
     - Контакты: zus_contact.md
   - Налоги: taxes.md
   - Декларации: declarations.md
-  - Легализация: legalization.md
+  - Легализация:
+    - Легализация: legalization.md
+    - Легализация в Варшаве: legalization_warsaw.md
   - Рабочий процесс: workflow.md
   - Как отправить письмо в налоговую: pismo_ogolne.md
   - Ежемесячные операции в infakt.pl: infakt_routine.md
