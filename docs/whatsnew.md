@@ -1,5 +1,9 @@
 # Чейнджлог изменений на сайте
 
+## Март 2026
+
+Улучшен гайд по декларациям (PIT, ZUS DRA, VAT-UE, JPK VAT).
+
 ## Декабрь 2025
 
 - Улучшен гайд по импорту [DRA KEDU](infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov) декларации из инфакта.
