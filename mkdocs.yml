@@ -22,7 +22,9 @@ nav:
     - ZUS-Каникулы: zus_vacation.md
     - Контакты: zus_contact.md
   - Налоги: taxes.md
-  - Декларации: declarations.md
+  - Декларации: # section
+    - Декларации: declarations.md
+    - Декларация PIT: declarations_pit.md
   - Легализация: legalization.md
   - Рабочий процесс: workflow.md
   - Как отправить письмо в налоговую: pismo_ogolne.md
