@@ -23,7 +23,9 @@ nav:
     - Контакты: zus_contact.md
   - Налоги: taxes.md
   - Декларации: # section
-    - Декларации: declarations.md
+    - Общая информация: declarations.md
+    - Отчёты ZUS: declarations_zus.md
+    - Декларации VAT: declarations_vat.md
     - Декларация PIT: declarations_pit.md
   - Легализация: legalization.md
   - Рабочий процесс: workflow.md
