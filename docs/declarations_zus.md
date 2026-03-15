@@ -66,8 +66,8 @@ JDG выступает в нескольких ролях: как платель
 
 Коректа ZUS DRA - это такой же ZUS DRA, только версия 2 (тип корректа) вместо 1 (первичная подача).
 
-1. [общая официальная инструкция](https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych) на польском от ZUS
-2. [инструкция](https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA) на польском для пользователей inFakt
+1. [общая официальная инструкция][11] на польском от ZUS
+2. [инструкция][12] на польском для пользователей inFakt
 
 [Поддержите наш гайд чашкой кофе ♥][44]{ .md-button .md-button--primary }
 
@@ -81,62 +81,7 @@ JDG выступает в нескольких ролях: как платель
 [73]: images/zus_dra/zus-dra-7-3-new.png
 [8]: images/zus_dra/zus-dra-8.png
 [10]: images/zus_dra/zus-dra-10.png
-[11]: https://www.biznes.gov.pl/pl/portal/00237
-[12]: https://e-mikrofirma.mf.gov.pl/jpk-form/
-[13]: https://play.google.com/store/apps/details?id=com.efile.epitymobile
-[14]: https://apps.apple.com/us/app/e-pity/id1213410455
-[15]: https://www.e-pity.pl
-[16]: images/pit/pit1.jpg
-[17]: images/pit/pit2.jpg
-[18]: images/pit/pit3.jpg
-[19]: images/pit/pit4.jpg
-[20]: images/pit/pit5.jpg
-[21]: images/pit/pit6.jpg
-[22]: images/pit/pit7.jpg
-[23]: declarations.md#4-tip-dokhodov
-[24]: images/pit/pit8.jpg
-[25]: images/pit/pit9.jpg
-[26]: https://www.pitax.pl/wiedza/mniejsze-podatki/ulga-internetowa
-[27]: images/pit/pit10.jpg
-[28]: images/pit/pit11.jpg
-[29]: images/pit/pit12.jpg
-[30]: https://www.e-pity.pl/wykaz-opp/
-[31]: images/pit/pit13.jpg
-[32]: images/pit/pit14.jpg
-[34]: https://tpu.org.pl/
-[35]: https://www.facebook.com/fundacja.sw.franciszka/
-[36]: https://belaruscenter.eu/by/
-[37]: images/pit/pit15.jpg
-[38]: images/pit/pit16.jpg
-[39]: images/pit/pit17.jpg
-[40]: images/pit/pit8-1.jpg
-[41]: images/pit/pit18.jpg
-[42]: https://en.ocalenie.org.pl
+[11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
+[12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA
+
 [44]: https://buymeacoffee.com/devsobolev
-[46]: https://t.me/JDG_PBH/372301
-[47]: https://dzieciom.pl/podopieczni/42671
-[48]: https://dzieciom.pl/podopieczni/43917
-[49]: https://www.siepomaga.pl/vasilisa-loban
-[50]: https://dzieciom.pl/podopieczni/40923
-[51]: https://fanimani.pl/standwithukraine/
-[52]: https://www.facebook.com/bmhuborg
-[53]: https://news.zerkalo.io/economics/91472.html
-[54]: https://devby.io/news/support-devby24
-[55]: https://t.me/partyzanka_rb_pl/650
-[56]: https://www.siepomaga.pl/artem-padzialowski
-[57]: https://dzieciom.pl/podopieczni/44133
-[58]: https://www.siepomaga.pl/margarita
-[59]: https://www.siepomaga.pl/nastka-liaszczewicz
-[60]: https://www.siepomaga.pl/yeudakim-zacharewicz
-[61]: images/pit_eurzad_skarbowy/01.png
-[62]: images/pit_eurzad_skarbowy/02.png
-[63]: images/pit_eurzad_skarbowy/zus01.png
-[64]: images/pit_eurzad_skarbowy/zus02.png
-[65]: images/pit_eurzad_skarbowy/03.png
-[66]: images/pit_eurzad_skarbowy/04.png
-[67]: images/pit_eurzad_skarbowy/05.png
-[68]: images/pit_eurzad_skarbowy/06.png
-[69]: images/pit_eurzad_skarbowy/07.png
-[70]: images/pit_eurzad_skarbowy/08.png
-[77]: images/pit_eurzad_skarbowy/09.png
-[78]: https://www.siepomaga.pl/paulina-danilchanka
