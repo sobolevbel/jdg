@@ -1,7 +1,11 @@
 {% extends "base.html" %}
 {% block extrahead %}
   <meta property="og:type" content="website" />
+  {% if config.theme.language == "en" %}
+  <meta property="og:locale" content="en_US" />
+  {% else %}
   <meta property="og:locale" content="ru_RU" />
+  {% endif %}
   <meta property="og:site_name" content="{{ config.site_name }}" />
   <meta name="twitter:card" content="summary_large_image" />
 {% endblock %}

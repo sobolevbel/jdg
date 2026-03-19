@@ -140,7 +140,7 @@ EU VAT number.
 [10]: images/pit_zaswiadczenie_etax/07_submit_confirmation.jpg
 [11]: images/pit_zaswiadczenie_etax/08_received_documents.jpg
 [12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
-[13]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
+[13]: images/pit_zaswiadczenie_etax/10_e_correspondence_error.jpg
 [14]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
 [15]: faq.md#podokhodnyi-nalog
 [16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
