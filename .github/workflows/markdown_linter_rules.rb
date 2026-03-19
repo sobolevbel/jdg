@@ -9,7 +9,7 @@ exclude_rule 'MD031'  # Allow blank lines inside fenced blocks
 exclude_rule 'MD032'  # disable -> Lists should be surrounded by blank lines
 exclude_rule 'MD033'  # Allow inline HTML/custom syntax
 exclude_rule 'MD036'
-#exclude_rule 'MD041'  # No H1 header required at the top
+exclude_rule 'MD041'  # Front matter (---) before H1 is expected in MkDocs
 rule 'MD046', :style => 'indented'
 # rule 'MD029', :style => 'ordered'
 exclude_rule 'MD057' # It doesn't work properly, so it was even reverted in the lib repo (though not released)

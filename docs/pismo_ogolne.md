@@ -1,3 +1,12 @@
+---
+title: Письмо в налоговую (Pismo ogólne)
+description: Как отправить Pismo ogólne do Urzędu Skarbowego — пошаговая инструкция отправки письма в налоговую Польши через e-Urząd Skarbowy
+tags:
+  - Налоги
+  - Документы
+  - JDG
+---
+
 # Как отправить письмо в налоговую (Pismo ogólne do Urzędu Skarbowego)
 
 !!! info "Pismo ogólne do Urzędu Skarbowego"

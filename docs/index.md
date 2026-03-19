@@ -1,3 +1,12 @@
+---
+title: JDG — ИП в Польше
+description: Гайд по регистрации и ведению JDG (jednoosobowa działalność gospodarcza) в Польше для иностранцев — PESEL, ZUS, VAT, налоги, бухгалтерия
+tags:
+  - JDG
+  - Регистрация
+  - Справочник
+---
+
 # Приветствуем в гайде-путеводителе по JDG
 
 Jednoosobowa działalność gospodarcza это форма бизнеса в Польше, аналогичная
