@@ -136,7 +136,7 @@ EU VAT number.
 
 [1]: https://legaltaxlevel.com/ip_pl
 [2]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
-[3]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
+[3]: images/pit_zaswiadczenie_etax/10_e_correspondence_error.jpg
 [4]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
 [5]: images/pit_zaswiadczenie_etax/00_create_document.jpg
 [6]: images/pit_zaswiadczenie_etax/01_document_details.jpg
