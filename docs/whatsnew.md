@@ -2,7 +2,10 @@
 
 ## Март 2026
 
-Улучшен гайд по декларациям (PIT, ZUS DRA, VAT-UE, JPK VAT).
+- Улучшен гайд по декларациям (PIT, ZUS DRA, VAT-UE, JPK VAT).
+- Актуализирован гайд по [настройке wFirma](wfirma_settings.md).
+- Актуализирован гайд по [ежемесячным операциям в wFirma](wfirma_routine.md).
+- Добавлен гайд по [миграции на wFirma](wfirma_migration.md).
 
 ## Декабрь 2025
 
