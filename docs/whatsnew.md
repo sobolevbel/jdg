@@ -1,5 +1,10 @@
 # Чейнджлог изменений на сайте
 
+## Февраль 2026
+
+- Актуализирован гайд по [настройке wFirma](wfirma_settings.md).
+- Добавлен гайд по [миграции на wFirma](wfirma_migration.md).
+
 ## Декабрь 2025
 
 - Улучшен гайд по импорту [DRA KEDU](infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov) декларации из инфакта.

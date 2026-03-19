@@ -28,6 +28,7 @@ nav:
   - Как отправить письмо в налоговую: pismo_ogolne.md
   - Ежемесячные операции в infakt.pl: infakt_routine.md
   - Ежемесячные операции в wfirma.pl: wfirma_routine.md
+  - Миграция на wfirma.pl: wfirma_migration.md
   - Словарь: glossary.md
   - F.A.Q.: faq.md
   - Что нового: whatsnew.md
