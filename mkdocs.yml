@@ -95,6 +95,11 @@ plugins:
       optimize_png: false
   - meta
   - tags
+  - glightbox
+  - open-in-new-tab
+  - redirects:
+      redirect_maps:
+        'registration.md': 'registration_jdg.md'
   - minify:
       minify_html: true
 

@@ -1,5 +1,8 @@
 mkdocs-material[imaging]
 mkdocs-minify-plugin
+mkdocs-glightbox
+mkdocs-open-in-new-tab
+mkdocs-redirects
 python-slugify
 mkdocs-git-revision-date-localized-plugin
 pyyaml>6
