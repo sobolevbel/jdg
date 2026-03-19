@@ -1,3 +1,12 @@
+---
+title: Декларации VAT и JPK для JDG
+description: Как подавать JPK_V7M, VAT-UE и VAT-9M для ИП в Польше — сроки подачи, нулевые декларации, отправка через infakt и wfirma
+tags:
+  - Декларации
+  - VAT
+  - Налоги
+---
+
 # Декларации VAT
 
 VAT = НДС - налог на добавленную стоимость.
@@ -74,7 +83,7 @@ Coming soon...
 
 [1]: https://www.biznes.gov.pl/pl/portal/00237
 [2]: https://e-mikrofirma.mf.gov.pl/jpk-form/
-[3]: infakt_routine/#otpravka-deklaratsii-vat-jpk-v7m
+[3]: infakt_routine.md#otpravka-deklaratsii-vat-jpk-v7m
 [4]: https://pomoc.wfirma.pl/-jpk-vat-jednolity-plik-kontrolny-dla-rejestrow-vat
 [5]: https://t.me/JDG_PBH/547209
 [6]: https://t.me/JDG_PBH/547215

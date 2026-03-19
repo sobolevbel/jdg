@@ -1,0 +1,36 @@
+{% extends "main.html" %}
+
+{% block content %}
+<style>
+  .md-content__inner {
+    text-align: center;
+    padding: 3rem 1rem;
+  }
+  .error-code {
+    font-size: 6rem;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+    color: var(--md-default-fg-color--light);
+  }
+  .error-message {
+    font-size: 1.4rem;
+    margin-bottom: 2rem;
+    color: var(--md-default-fg-color--light);
+  }
+  .error-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>
+
+<div class="error-code">404</div>
+<div class="error-message">Страница не найдена</div>
+<p>Запрашиваемая страница не существует или была перемещена.</p>
+<div class="error-actions">
+  <a href="{{ config.site_url }}" class="md-button md-button--primary">На главную</a>
+  <a href="{{ config.site_url }}faq/" class="md-button">FAQ</a>
+</div>
+{% endblock %}

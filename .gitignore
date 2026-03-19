@@ -1,4 +1,5 @@
 site/
+.cache/
 **/.DS_Store
 .idea
 .history

@@ -1,3 +1,12 @@
+---
+title: ZUS — социальное страхование для JDG
+description: Страховые взносы ZUS для ИП в Польше — składki społeczne и zdrowotne, режимы оплаты, Ulga na Start, Preferencyjne, Duży ZUS
+tags:
+  - ZUS
+  - Взносы
+  - JDG
+---
+
 # Zakład Ubezpieczeń Społecznych
 
 Все предприниматели, ведущие JDG в Польше обязаны застраховаться в государственной

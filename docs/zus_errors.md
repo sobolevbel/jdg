@@ -1,3 +1,11 @@
+---
+title: Типичные ошибки ZUS
+description: Ошибки при работе с eZUS и отправке деклараций — коды ошибок 68015101, 69012001, 69004101, способы решения и контакты поддержки
+tags:
+  - ZUS
+  - Декларации
+---
+
 # Типичные ошибки ZUS
 
 ## Связанные со входом
@@ -115,7 +123,7 @@
 [2]: images/zus_errors/zus_error_69012001.jpg
 [3]: images/zus_errors/zus_error_69004101.jpg
 [4]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
-[5]: zus_obnizone_skladki.md#wFirma
+[5]: zus_obnizone_skladki.md#wfirma
 [6]: images/zus_errors/zus_logout.jpg
 [7]: zus_contact.md
 [8]: https://t.me/JDG_PBH/529911

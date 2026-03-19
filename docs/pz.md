@@ -1,3 +1,12 @@
+---
+title: Profil Zaufany — доверенный профиль
+description: Как создать Profil Zaufany (доверенный профиль) для подписания документов и работы с госучреждениями Польши онлайн
+tags:
+  - Регистрация
+  - Документы
+  - JDG
+---
+
 # Profil Zaufany (доверенный профиль)
 
 !!! question "Что такое Profil Zaufany"

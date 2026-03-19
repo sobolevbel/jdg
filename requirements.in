@@ -1,4 +1,5 @@
-mkdocs-material
+mkdocs-material[imaging]
+mkdocs-minify-plugin
 python-slugify
 mkdocs-git-revision-date-localized-plugin
 pyyaml>6

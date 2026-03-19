@@ -1,5 +1,6 @@
 site_name: "JDG — ИП в Польше"
 site_description: "Гайд по регистрации и ведению JDG (ИП) в Польше"
+site_author: "sobolevbel"
 site_url: https://sobolevbel.github.io/jdg/
 repo_url: https://github.com/sobolevbel/jdg
 repo_name: sobolevbel/jdg
@@ -44,7 +45,18 @@ theme:
   accent: indigo
   features:
     - navigation.top
-    - navigation.expand   # expand sections in nav menu
+    - navigation.expand
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
@@ -68,6 +80,23 @@ plugins:
       - ru
       - en
   - git-revision-date-localized
+  - social:
+      enabled: !ENV [ENABLE_SOCIAL, false]
+  - privacy:
+      assets_exclude:
+        - cct.google/*
+        - www.googletagmanager.com/*
+        - www.google-analytics.com/*
+        - fonts.googleapis.com/*
+        - fonts.gstatic.com/*
+        - pomoc.wfirma.pl/*
+  - optimize:
+      enabled: !ENV [ENABLE_OPTIMIZE, false]
+      optimize_png: false
+  - meta
+  - tags
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - attr_list     # for Buttons
@@ -86,6 +115,10 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/abbreviations.md
 
 extra:
   homepage: https://sobolevbel.github.io/jdg/
