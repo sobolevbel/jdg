@@ -22,7 +22,11 @@ nav:
     - ZUS-Каникулы: zus_vacation.md
     - Контакты: zus_contact.md
   - Налоги: taxes.md
-  - Декларации: declarations.md
+  - Декларации: # section
+    - Общая информация: declarations.md
+    - Отчёты ZUS: declarations_zus.md
+    - Декларации VAT: declarations_vat.md
+    - Декларация PIT: declarations_pit.md
   - Легализация:
     - Легализация: legalization.md
     - Легализация в Варшаве: legalization_warsaw.md
@@ -30,6 +34,7 @@ nav:
   - Как отправить письмо в налоговую: pismo_ogolne.md
   - Ежемесячные операции в infakt.pl: infakt_routine.md
   - Ежемесячные операции в wfirma.pl: wfirma_routine.md
+  - Миграция на wfirma.pl: wfirma_migration.md
   - Словарь: glossary.md
   - F.A.Q.: faq.md
   - Что нового: whatsnew.md
