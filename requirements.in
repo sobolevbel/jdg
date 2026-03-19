@@ -3,6 +3,7 @@ mkdocs-minify-plugin
 mkdocs-glightbox
 mkdocs-open-in-new-tab
 mkdocs-redirects
+mkdocs-static-i18n
 python-slugify
 mkdocs-git-revision-date-localized-plugin
 pyyaml>6
