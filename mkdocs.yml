@@ -48,9 +48,6 @@ theme:
   features:
     - navigation.top
     - navigation.expand
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.footer
     - navigation.indexes
     - navigation.path
@@ -77,6 +74,51 @@ theme:
         name: Switch to light mode
 
 plugins:
+  - i18n:
+      reconfigure_material: true
+      docs_structure: suffix
+      languages:
+        - locale: ru
+          default: true
+          name: Русский
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_name: "JDG — Sole Proprietorship in Poland"
+          site_description: "Guide to registering and running a JDG (sole proprietorship) in Poland"
+          nav_translations:
+            Главная: Home
+            PESEL: PESEL
+            Profil Zaufany: Profil Zaufany
+            Регистрация: Registration
+            Регистрация JDG: JDG Registration
+            Регистрация VAT: VAT Registration
+            Регистрация VAT-UE: VAT-UE Registration
+            ZUS: ZUS
+            Переход на следующий режим: Switching to Next Tier
+            Льгота Ulga na Start: Ulga na Start Benefit
+            Переход на Składki Preferencyjne: Switching to Składki Preferencyjne
+            Переход на Duży ZUS: Switching to Duży ZUS
+            Ошибки ZUS: ZUS Errors
+            ZUS-Каникулы: ZUS Vacation
+            Контакты: Contacts
+            Налоги: Taxes
+            Декларации: Declarations
+            Общая информация: Overview
+            Отчёты ZUS: ZUS Reports
+            Декларации VAT: VAT Declarations
+            Декларация PIT: PIT Declaration
+            Легализация: Legalization
+            Рабочий процесс: Workflow
+            Как отправить письмо в налоговую: Letter to Tax Office
+            Ежемесячные операции в infakt.pl: Monthly Operations in infakt.pl
+            Ежемесячные операции в wfirma.pl: Monthly Operations in wfirma.pl
+            Миграция на wfirma.pl: Migration to wfirma.pl
+            Словарь: Glossary
+            F.A.Q.: F.A.Q.
+            Что нового: What's New
+            ♥&nbsp;Поддержать: ♥&nbsp;Support
   - search:
       lang:
       - ru
@@ -102,6 +144,7 @@ plugins:
   - redirects:
       redirect_maps:
         'registration.md': 'registration_jdg.md'
+        'registration.en.md': 'registration_jdg.en.md'
   - minify:
       minify_html: true
 
