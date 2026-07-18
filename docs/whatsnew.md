@@ -16,6 +16,9 @@ tags:
 - Добавлено решение ошибки [«Weryfikacja negatywna» при отправке VAT-UE](infakt_routine.md#otpravka-deklaratsii-vat-ue) из inFakt.
 - Уточнено [объяснение ставок VAT (zw./np./art. 28b)](infakt_settings.md) при настройке услуг в inFakt.
 - Уточнён выбор rejestracja/aktualizacja при [регистрации VAT](registration_vat.md) и [VAT-UE](registration_vat_ue.md).
+- Актуализированы [суммы взносов ZUS и składki zdrowotnej на 2026 год](zus.md#razmer-vznosov).
+- Лимит освобождения от VAT обновлён до [240 000 злотых](taxes.md#vnutripolskii-vat) (действует с 2026 года).
+- Добавлено предупреждение об [обязательном KSeF с 2026 года](declarations_vat.md).
 
 ## Июнь 2026
 

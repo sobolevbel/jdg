@@ -13,6 +13,7 @@ nav:
     - Регистрация JDG: registration_jdg.md
     - Регистрация VAT: registration_vat.md
     - Регистрация VAT-UE: registration_vat_ue.md
+    - Изменение данных и закрытие JDG: jdg_changes.md
   - ZUS:    # section
     - ZUS: zus.md
     - Переход на следующий режим: zus_next_level.md
