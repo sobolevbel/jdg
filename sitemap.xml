@@ -1,147 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://sobolevbel.github.io/jdg/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/declarations/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/declarations/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/declarations_jpk_emikrofirma/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/declarations_jpk_emikrofirma/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_jpk_emikrofirma/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_jpk_emikrofirma/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/declarations_pit/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/declarations_pit/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_pit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_pit/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/declarations_vat/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/declarations_vat/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_vat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_vat/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/declarations_zus/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/declarations_zus/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_zus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_zus/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/faq/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/faq/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/faq/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/glossary/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/glossary/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/glossary/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/infakt_migration/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/infakt_migration/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_migration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_migration/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/infakt_routine/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/infakt_routine/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_routine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_routine/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/infakt_settings/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/infakt_settings/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_settings/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/jdg_changes/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/jdg_changes/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/jdg_changes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/jdg_changes/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/legalization/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/legalization/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/legalization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/legalization/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/legalization_mos2/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/legalization_mos2/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/legalization_mos2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/legalization_mos2/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/pesel/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/pesel/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pesel/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pesel/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/pismo_ogolne/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/pismo_ogolne/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pismo_ogolne/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pismo_ogolne/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/pz/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/pz/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pz/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pz/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/registration_jdg/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/registration_jdg/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_jdg/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_jdg/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/registration_vat/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/registration_vat/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_vat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_vat/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/registration_vat_ue/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/registration_vat_ue/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_vat_ue/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_vat_ue/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/support/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/support/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/support/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/support/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/taxes/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/taxes/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/taxes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/taxes/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/wfirma_migration/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/wfirma_migration/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_migration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_migration/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/wfirma_routine/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/wfirma_routine/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_routine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_routine/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/wfirma_settings/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/wfirma_settings/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_settings/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_settings/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/whatsnew/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/whatsnew/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/whatsnew/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/whatsnew/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/workflow/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/workflow/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/workflow/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_contact/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_contact/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_contact/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_duzy/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_duzy/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_duzy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_duzy/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_errors/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_errors/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_errors/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_errors/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_login/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_login/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_login/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_login/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_next_level/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_next_level/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_next_level/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_next_level/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_obnizone_skladki/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_obnizone_skladki/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_obnizone_skladki/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_obnizone_skladki/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_ulga_na_start/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_ulga_na_start/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_ulga_na_start/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_ulga_na_start/"/>
     </url>
     <url>
-         <loc>https://sobolevbel.github.io/jdg/zus_vacation/</loc>
-         <lastmod>2026-07-18</lastmod>
+        <loc>https://sobolevbel.github.io/jdg/zus_vacation/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_vacation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_vacation/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/declarations/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/declarations_jpk_emikrofirma/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_jpk_emikrofirma/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_jpk_emikrofirma/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/declarations_pit/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_pit/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_pit/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/declarations_vat/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_vat/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_vat/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/declarations_zus/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_zus/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_zus/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/faq/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/faq/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/faq/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/glossary/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/glossary/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/glossary/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/infakt_migration/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_migration/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_migration/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/infakt_routine/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_routine/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_routine/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/infakt_settings/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/infakt_settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/infakt_settings/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/jdg_changes/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/jdg_changes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/jdg_changes/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/legalization/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/legalization/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/legalization/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/legalization_mos2/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/legalization_mos2/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/legalization_mos2/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/pesel/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pesel/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pesel/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/pismo_ogolne/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pismo_ogolne/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pismo_ogolne/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/pz/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/pz/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/pz/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/registration_jdg/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_jdg/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_jdg/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/registration_vat/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_vat/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_vat/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/registration_vat_ue/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/registration_vat_ue/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/registration_vat_ue/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/support/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/support/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/support/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/taxes/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/taxes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/taxes/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/wfirma_migration/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_migration/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_migration/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/wfirma_routine/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_routine/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_routine/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/wfirma_settings/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/wfirma_settings/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/wfirma_settings/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/whatsnew/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/whatsnew/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/whatsnew/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/workflow/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/workflow/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/workflow/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_contact/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_contact/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_contact/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_duzy/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_duzy/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_duzy/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_errors/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_errors/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_errors/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_login/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_login/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_login/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_next_level/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_next_level/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_next_level/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_obnizone_skladki/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_obnizone_skladki/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_obnizone_skladki/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_ulga_na_start/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_ulga_na_start/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_ulga_na_start/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/zus_vacation/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/zus_vacation/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/zus_vacation/"/>
     </url>
 </urlset>
