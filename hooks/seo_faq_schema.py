@@ -1,4 +1,4 @@
-"""Генерирует FAQPage JSON-LD для страниц FAQ из заголовков h3/h4 и их содержимого."""
+"""Generate FAQPage JSON-LD markup for FAQ pages from h3/h4 headings and their content."""
 
 import json
 import re
@@ -20,11 +20,11 @@ def on_page_content(html, page, config, files):
         return html
     qa = []
     parts = HEADING.split(html)
-    # parts = [до первого заголовка, уровень, текст заголовка, тело, уровень, ...]
+    # parts = [before first heading, level, heading text, body, level, ...]
     for i in range(1, len(parts) - 2, 3):
         question = _text(parts[i + 1])
         body = parts[i + 2]
-        # тело вопроса заканчивается на следующем h2 (начало новой секции)
+        # the answer ends at the next h2 (start of a new section)
         body = re.split(r"<h2[^>]*>", body)[0]
         answer = _text(body)
         if question and answer:
