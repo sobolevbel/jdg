@@ -16,6 +16,7 @@ nav:
     - Изменение данных и закрытие JDG: jdg_changes.md
   - ZUS:    # section
     - ZUS: zus.md
+    - Вход в eZUS: zus_login.md
     - Переход на следующий режим: zus_next_level.md
     - Льгота Ulga na Start: zus_ulga_na_start.md
     - Переход на Składki Preferencyjne: zus_obnizone_skladki.md
@@ -101,6 +102,7 @@ plugins:
             Регистрация VAT: VAT Registration
             Регистрация VAT-UE: VAT-UE Registration
             Изменение данных и закрытие JDG: Updating Data and Closing a JDG
+            Вход в eZUS: Logging into eZUS
             Переход на следующий режим: Switching to Next Tier
             Льгота Ulga na Start: Ulga na Start Benefit
             Переход на Składki Preferencyjne: Switching to Składki Preferencyjne
