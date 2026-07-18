@@ -22,6 +22,7 @@ nav:
     - Льгота Ulga na Start: zus_ulga_na_start.md
     - Переход на Składki Preferencyjne: zus_obnizone_skladki.md
     - Переход на Duży ZUS: zus_duzy.md
+    - Больничные и декрет: zus_chorobowe.md
     - Ошибки ZUS: zus_errors.md
     - ZUS-Каникулы: zus_vacation.md
     - Контакты: zus_contact.md
@@ -111,6 +112,7 @@ plugins:
             Льгота Ulga na Start: Ulga na Start Benefit
             Переход на Składki Preferencyjne: Switching to Składki Preferencyjne
             Переход на Duży ZUS: Switching to Duży ZUS
+            Больничные и декрет: Sick Leave and Maternity
             Ошибки ZUS: ZUS Errors
             ZUS-Каникулы: ZUS Vacation
             Контакты: Contacts
