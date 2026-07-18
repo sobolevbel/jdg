@@ -42,11 +42,11 @@ tags:
 
 На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZWUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
 
-![zus_obn_01][4]
+![e-Płatnik: окно Dodaj dokument, выбор документа ZUS ZWUA][4]
 
 Далее в окне *Obsługa ubezpieczonego* как *Cel obsługi* нужно выбрать пункт *Wyrejestrowanie ubezpieczonego* (Снятие застрахованного с учёта). И нажать *Dalej*.
 
-![zus_obn_02][5]
+![Окно Obsługa ubezpieczonego: выбран пункт Wyrejestrowanie ubezpieczonego][5]
 
 #### Шаг 2
 
@@ -57,7 +57,7 @@ tags:
 
 Нажать *Dalej*.
 
-![zus_obn_03][6]
+![Шаг Dane do wyrejestrowania: поля Przyczyna wyrejestrowania (600) и Data wyrejestrowania][6]
 
 #### Шаг 3
 
@@ -92,14 +92,14 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Далее в окне *Obsługa ubezpieczonego* как *Cel obsługi* нужно выбрать пункт *Zgłoszenie ubezpieczonego* (Постановка застрахованного на учёт). И нажать *Dalej*.
 
-![zus_obn_04][7]
+![Окно Obsługa ubezpieczonego: выбран пункт Zgłoszenie ubezpieczonego][7]
 
 #### Шаг 2
 
 На шаге "Zgłoszenie ubezpieczonego » Dane identyfikacyjne i ewidencyjne" заполнить *Dane identyfikacyjne* и *Dane ewidencyjne* в обоих вкладках. Можно загрузить уже имеющиеся в ZUS данные нажав
 "Wybierz z kartoteki".
 
-![zus_obn_05][8]
+![Шаг Dane identyfikacyjne i ewidencyjne, кнопка Wybierz z kartoteki][8]
 
 !!! tip "Указывать ли паспорт?"
     Поля *Typ dokumentu* и *Seria i numer dokumentu* рекомендуется оставить пустыми. Достаточно указать свой *PESEL*.
@@ -110,11 +110,11 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 * *Adres zameldowania* - адрес прописки:
 
-![zus_obn_06][9]
+![Форма ZUS ZUA: поля Adres zameldowania][9]
 
 * *Adres zamieszkania* - адрес места жительства:
 
-![zus_obn_07][10]
+![Форма ZUS ZUA: поля Adres zamieszkania][10]
 
 * *Adres do korespondencji* - адрес для корреспонденции.
 
@@ -124,9 +124,9 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 На экране "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" необходимо нажать *Dodaj kod tytułu ubezpieczenia*.
 
-![zus_obn_8][11]
+![Шаг Tytuły ubezpieczeń, кнопка Dodaj kod tytułu ubezpieczenia][11]
 
-![zus_obn_81][12]
+![Окно Kod tytułu ubezpieczenia: кнопка выбора кода и секции видов страхования][12]
 
 Здесь выбрать *Kod tytułu ubezpieczenia*. Напоминаем, что если вы переходите на składki preferencyjne, то выбирайте код **05 70**.
 
@@ -134,11 +134,11 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Нажмите *Zatwierdź*.
 
-![zus_obn_12][13]
+![Выбор кода 0570, поле Data zgłoszenia do ubezpieczenia, кнопка Zatwierdź][13]
 
 В окне *Wybór schematu podlegania* выберите подходящую схему принадлежности к страхованию. Если других источников соцстрахования кроме ИП у вас нет, то оставьте основную схему (выделена на скриншоте).
 
-![zus_obn_82][14]
+![Окно Wybór schematu podlegania: основная схема страхования выделена][14]
 
 ??? note "Перевод скриншота"
     Ниже представлены корректные схемы принадлежности к страхованию для выбранного кода страхового титула. Жирным шрифтом выделена основная схема. Остальные схемы обусловлены совпадением кодов страховых титулов.
@@ -168,7 +168,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 - **Dobrowolne ubezpieczenie zdrowotne** (Добровольное медстрахование). Оставьте пустым.
 
-![zus_obn_83][15]
+![Окно Kod tytułu ubezpieczenia: отмеченные обязательные и добровольные взносы][15]
 
 Не забудьте в правой части выбрать *Kod wykonywanego zawodu*. Нужно для статистики. Подробнее см. в [таблице кодов профессий][16].
 
@@ -176,7 +176,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 В появившимся диалоге нажать "ОК".
 
-![zus_obn_11][17]
+![Диалог Informacja об изменении схемы принадлежности, кнопка OK][17]
 
 ??? note "Перевод скриншота"
     **Информация**  
@@ -184,7 +184,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 На шаге "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" выбрать только что созданное застрахованное лицо (*ubezpieczonego*) c кодом **057000**.
 
-![zus_obn_10][18]
+![Шаг Tytuły ubezpieczeń: выбрано застрахованное лицо с кодом 057000][18]
 
 ??? note "Перевод скриншота"
     **Заявление о застрахованном » Титулы страхования**   шаг 4 из 5
@@ -205,7 +205,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Подождать, пока ZUS обработает заявку. Если всё ок, то должно быть вот так:
 
-![zus_obn_84][19]
+![eZUS, панель Ubezpieczony: страхование с кодом 0570 в Ubezpieczenia i płatnicy][19]
 
 ### 3. Переключение настроек сервиса для ведения бухгалтерии
 

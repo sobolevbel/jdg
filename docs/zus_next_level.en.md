@@ -152,7 +152,7 @@ To get **Urzędowe Poświadczenie Przedłożenia** (UPP) in eZUS (formerly PUE Z
     - View the submission proof (**Poświadczenie przedłożenia**).
 6. To download the UPP, choose **Pokaż poświadczenie przedłożenia** and click **Eksportuj**.
 
-![ZUS ZZA UPP][4]
+![ePłatnik, Dokumenty wysłane: ZUS ZZA row and Podgląd poświadczenia przedłożenia button][4]
 
 TODO: the text does not match the screenshot! needs investigation.
 

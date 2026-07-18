@@ -21,30 +21,30 @@ We need the `Zmień dane w CEIDG` option.
 
 ## 1. An important notice first
 
-![step-1][1]
+![CEIDG: important notice page before changing data, DALEJ button][1]
 
 Read it through and click `DALEJ`
 
 ## 2. Purpose of submitting the form
 
-![step-2][2]
+![CEIDG: purpose of the application — changing data, date field][2]
 
 We only need to edit the data. The date can be today or in the past.
 Pick today’s date.
 
 ## 2.1. Declaring insurance
 
-![step-2-1][3]
+![CEIDG: insurance selection, ZUS checkbox ticked][3]
 
 Tick ZUS
 
 ## 3. Choose the data you want to change
 
-![step-3][4]
+![CEIDG: list of data that can be changed][4]
 
 ## 4. Pick the VAT payer registration option
 
-![step-4][5]
+![CEIDG: VAT payer registration item — choosing rejestracja or aktualizacja][5]
 
 If you haven't been registered yet and want to register as a VAT payer — pick `rejestracja`.
 If you have already registered for VAT or VAT-UE — pick `aktualizacja`.
@@ -59,7 +59,7 @@ Here you need to waive the VAT exemption (the 240_000 threshold) — otherwise y
     From the moment you register as a VAT payer you must issue invoices with VAT to Polish clients
     and pay that VAT accordingly.
 
-![step-5][6]
+![VAT-R form: waiving the VAT exemption (zwolnienie)][6]
 
 ## 6. Reason for registering as a VAT payer
 
@@ -87,7 +87,7 @@ Below is a rundown of the options most often discussed in the “sole props in P
 !!! note
     We don’t list serial numbers because they change — read the descriptions carefully and pick what fits you.
 
-![step-6][7]
+![VAT-R form: choosing Tytuł obowiązku podatkowego — the reason for VAT registration][7]
 
 ## 7. Start date of VAT obligations
 
@@ -96,7 +96,7 @@ The start date of your VAT obligations must be at least one day after you submit
 From that date you must issue invoices with VAT, file returns, and you’re entitled to deduct VAT
 on business purchases for your activity even if you’re not yet on the VAT white list.
 
-![step-7][8]
+![VAT-R form: start date field for VAT obligations][8]
 
 ### 7.1 The `Zwolnienie usług finansowych` item
 
@@ -107,20 +107,20 @@ you’ll have to go one step back and go through again.
 
 You can read about this [here][9], but honestly we don’t need it. Decline it.
 
-![step-8][10]
+![VAT-R form: declining metoda kasowa][10]
 
 ## 9. Gold and taxis
 
 State that you don’t run a business related to taxis and gold trading (unless you really do, of course).
 
-![step-9][11]
+![VAT-R form: declaring no taxi or gold trading activity][11]
 
 ## 10. VAT-UE
 
 You can register for VAT-UE at the same time as domestic VAT. If you need it, continue
 [via this link](registration_vat_ue.md). If not — decline and move on.
 
-![step-10][12]
+![VAT-R form: declining VAT-UE registration][12]
 
 ## 11. Choose the return filing frequency
 
@@ -130,25 +130,25 @@ For the period covered by the first return,
 pick the month your VAT obligation starts
 (section 7 of this guide).
 
-![step-11][13]
+![VAT-R form: choosing monthly or quarterly returns and the first period][13]
 
 ## 12. Pick your tax office
 
-![step-12][14]
+![VAT-R form: picking your tax office (urząd skarbowy)][14]
 
 ## 13. Confirmation of VAT registration
 
 You can skip paying for a hard-copy confirmation of VAT registration.
 You’ll probably never need it.
 
-![step-13][15]
+![VAT-R form: declining the paid confirmation of VAT registration][15]
 
 ## 14. Oświadczenie
 
 Next you confirm you’re entitled to use the address you live at
 (e.g. a lease) and that none of the restrictions mentioned in the cited law apply to you.
 
-![step-14][16]
+![CEIDG: oświadczenie confirming the right to use the address and no legal restrictions][16]
 
 ## 15. Signature
 

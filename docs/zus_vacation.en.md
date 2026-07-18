@@ -48,7 +48,7 @@ The original version of this guide was developed by [:telegram: Olga Korneva][18
 Go to the Płatnik panel (top right), then select - Dokumenty i wiadomości
 (left column) - Dokumenty robocze, and at the bottom click Utwórz nowy.
 
-![Create document][1]
+![PUE ZUS: Dokumenty robocze section, Utwórz nowy button][1]
 
 ### Selecting RWS
 
@@ -57,13 +57,13 @@ documents per page (at the bottom, select 50 or 100) and scroll to find the form
 through and look for: Wniosek RWS - Wniosek o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc.
 Select it and click Utwórz dokument at the bottom.
 
-![Choose RWS][2]
+![Document type list: Wniosek RWS, Utwórz dokument button][2]
 
 ### Selecting the Type
 
 Select the document type Wniosek.
 
-![Wniosek][3]
+![RWS form: document type Wniosek selected][3]
 
 The screenshot shows the first of 3 available options:
 
@@ -77,11 +77,11 @@ Click Dalej to proceed to the next screen.
 
 Fill in the JDG information. It will most likely be pre-filled already; you can optionally add a phone number.
 
-![Personal info][20]
+![RWS form: JDG payer details][20]
 
 ### Selecting the Indicated Month
 
-![Notation][21]
+![RWS form: selecting the month and year of the exemption][21]
 
 !!! quote "Request content"
     I am requesting an exemption from paying social insurance contributions and the Labour Fund and Solidarity Fund for the month:
@@ -96,7 +96,7 @@ ZUS vacation is a form of de minimis aid, which means the entrepreneur must decl
 government subsidies and business benefits received during the current year.
 The total de minimis aid limit is 300,000 euros over three years.
 
-![De minimis][22]
+![RWS form: declaration of received de minimis aid][22]
 
 !!! quote
     I declare that:
@@ -134,15 +134,15 @@ _"Where do I get the de minimis aid certificate?"_
 
 In PUE ZUS, panel Platnik - Dokumenty i wiadomości - Skrzynka odbiorcza. In the list of received documents, find all relevant documents named RWS - Informacja o przyznaniu zwolnienia. For each such document, go to Szczegóły.
 
-![Skrzynka odbiorcza][53]
+![Skrzynka odbiorcza: RWS document — Informacja o przyznaniu zwolnienia, Szczegóły button][53]
 
 On the Szczegóły panel, in the Załączniki section, look for the document _Zaświadczenie_rws-r-zasw.pdf_. To download the document, click Pobierz. Adding documents is described in the last step of filling out the application.
 
-![Zaswiadczenie][54]
+![Szczegóły panel, Załączniki section: zaświadczenie file, Pobierz button][54]
 
 ### Entrepreneur Categories
 
-![Categories][23]
+![RWS form, Wielkość podmiotu section: mikroprzedsiębiorca selected][23]
 
 Translation of the content with category explanations
 !!! quote "Translation"
@@ -172,20 +172,20 @@ Select the option that applies to you.
 
 ### Activity Class
 
-![Class][23]
+![RWS form, Klasa działalności section: PKD code field][23]
 
 !!! quote "Translation"
     Indicate the PKD of the activity for which you are subject to social insurance in the Social Insurance Fund. Activity class, in accordance with [the Regulation of the Council of Ministers of December 18, 2024 on the Polish Classification of Activities](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/polska-klasyfikacja-dzialalnosci-pkd-22092046) (PKD = the Polish equivalent of industry classification codes) (Dz. U. z 2024 r. poz. 1936)
 
 In the popup window, select the appropriate activity code.
 
-![Class explicit][9]
+![PKD code selection popup, 62.10.B selected][9]
 
 In the example, activity code 62.10.B is selected (other software development activities). Select the option that applies to you.
 
 ### Relationships with Other Entrepreneurs
 
-![Relations][24]
+![RWS form: questions about relationships with other entrepreneurs, all answers Nie][24]
 
 !!! quote "Translation"
     Is there a relationship between the entity and other entrepreneurs, consisting of the fact that:
@@ -200,7 +200,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About the Entity's Origin
 
-![Creation circumstances][25]
+![RWS form: questions about the entity's origin, all answers Nie][25]
 
 !!! quote "Translation"
     In the past 3 years, the entity:
@@ -214,7 +214,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About Specific Activity Categories
 
-![Special cases][26]
+![RWS form: questions about agriculture and fishery activities, answers Nie][26]
 
 !!! quote "Translation"
     Information about business activity conducted by the entity to which de minimis aid is to be granted
@@ -230,17 +230,17 @@ In the example, all categories are marked as negative. Select the options that a
 
 ### Signing and Sending
 
-![Sign and send][27]
+![Last step of the RWS form: Dodaj załączniki and Podpisz i wyślij buttons][27]
 
 If at step 3 you selected the option "korzystałem z pomocy publicznej de minimis" + the option
 "zaświadczenia", then now, at the last step before submitting the application, you need to
 attach the certificates (zaświadczenia) using the "Dodaj załączniki..." button.
 
-![Sign and send with attachement][28]
+![Last step of the RWS form with a zaświadczenie attached][28]
 
 Sign and send the document using the Podpisz i wyślij button.
 
-![Sign][14]
+![Signature method selection window, first option — Podpis profilem PUE][14]
 
 The first option "Podpis profilem PUE" is recommended as the simplest to use.
 
@@ -248,11 +248,11 @@ The first option "Podpis profilem PUE" is recommended as the simplest to use.
 
 You will see this message:
 
-![Success][15]
+![Message confirming the application was sent to ZUS][15]
 
 And in the sent documents (Dokumenty wysłane), the Wniosek RWS will appear:
 
-![Sent Documents][16]
+![Dokumenty wysłane section: the sent Wniosek RWS][16]
 
 ### What's Next
 
@@ -262,7 +262,7 @@ you provided in PUE/eZUS.
 
 First, you will receive Zawiadomienie o możliwości czynnego udziału w sprawie — this is an informational letter from ZUS that your application has been accepted for review. After that, within a few days, you will receive either a positive or negative decision about participating in ZUS vacation. In the case of a positive decision, the document is called Informacja o przyznaniu zwolnienia. The example shows a case where the vacation application was approved.
 
-![Recieved documents][55]
+![Skrzynka odbiorcza: received document Informacja o przyznaniu zwolnienia][55]
 
 If you don't pay the voluntary składka chorobowa (the one for sick leave) and apply for the vacation, ZUS may at some point send something like this:
 
@@ -305,69 +305,69 @@ The original version of this guide was developed by [:telegram: Olga Korneva][18
 
 Panel ePłatnik – Kreatory – Obsługa rozliczenia - Dalej.
 
-![Obsluga rozliczenia][29]
+![ePłatnik panel, Kreatory section: Obsługa rozliczenia item][29]
 
 Nowy komplet rozliczeniowy - Dalej.
 
-![Nowy komplet rozliczeniowy][30]
+![Creator: Nowy komplet rozliczeniowy selected, Dalej button][30]
 
 The date field will be pre-filled; verify the remaining fields and click Dalej.
 
-![Ogolne opcji deklaracji][31]
+![Creator: general declaration options with the date pre-filled, Dalej button][31]
 
 An informational message will pop up saying that ZUS RCA declarations will be generated — click Zamknij.
 
-![Informacja][32]
+![Message about generating ZUS RCA declarations, Zamknij button][32]
 
 On the Rozliczenie ubezpieczonych panel, click Dane rozliczenia.
 
-![Rozliczenie ubezpieczonych][33]
+![Rozliczenie ubezpieczonych panel: Dane rozliczenia button][33]
 
 On the Dane rozliczenia panel, select element 057000 and click Edytuj.
 
-![Dane rozliczenia][34]
+![Dane rozliczenia panel: element 057000 selected, Edytuj button][34]
 
 On the panel, select the second tab Ubezpieczenie zdrowotne, wypłacone świadczenia.
 
-![Dane rozliczenia][35]
+![Ubezpieczenie zdrowotne, wypłacone świadczenia tab][35]
 
 Select the appropriate tax form. To select ryczałt, you need to scroll down.
 
-![Ubezpieczenie zdrowotne][36]
+![Ubezpieczenie zdrowotne tab: selecting the tax form][36]
 
 In addition to the checkbox, for ryczałt you need to enter the income amount for the current calendar year (in the example — for 2024).
 Click Oblicz.
 
-![Ubezpieczenie zdrowotne][37]
+![Income amount field for ryczałt, Oblicz button][37]
 
 An informational message about the calculated base and health insurance contribution based on the provided data will pop up.
 Click Ok.
 
-![Informacja][38]
+![Message about the calculated base and health insurance contribution, Ok button][38]
 
 The corresponding fields are filled in automatically. Click Zapisz.
 
-![Ubezpieczenie zdrowotne][39]
+![Automatically filled contribution fields, Zapisz button][39]
 
 Return to the Dane rozliczenia panel and click Dalej.
 
-![Dane rozliczenia][40]
+![Dane rozliczenia panel: Dalej button][40]
 
 On the Zestawenie panel, click Dalej.
 
-![Zestawenie][41]
+![Zestawienie panel: Dalej button][41]
 
 On the Utworzenie i walidacja dokumentów panel, click Wylicz.
 
-![Utworzenie i walidacja dokumentow][42]
+![Utworzenie i walidacja dokumentów panel: Wylicz button][42]
 
 An informational message will pop up. Click Ok.
 
-![Informacja][43]
+![Informational message, Ok button][43]
 
 On the Utworzenie i walidacja dokumentów panel, click Weryfikuj.
 
-![Utworzenie i walidacja dokumentow][44]
+![Utworzenie i walidacja dokumentów panel: Weryfikuj button][44]
 
 The declarations will be verified.
 
@@ -376,41 +376,41 @@ The declarations will be verified.
 To review the declarations, on the Utworzenie i walidacja dokumentów panel, select the desired
 element and click Podgląd.
 
-![Utworzenie i walidacja dokumentow][51]
+![Utworzenie i walidacja dokumentów panel: selected element, Podgląd button][51]
 
 Two ZUS RCA declarations will be generated within one ZUS RCA element.
 To view both declarations, use the navigation buttons shown in the screenshot.
 
-![ZUS RCA][45]
+![ZUS RCA declaration preview: navigation buttons between declarations][45]
 
 The social insurance contributions (emerytalne, rentowe, chorobowe, wypadkowe)
 paid by the state will appear in the declaration with code 057400. In the screenshot
 below, these are fields 15, 16, 17, 18.
 
-![ZUS RCA][46]
+![ZUS RCA declaration with code 057400: fields 15–18 — state-paid contributions][46]
 
 The social insurance contributions (emerytalne, rentowe, chorobowe, wypadkowe)
 paid by the entrepreneur will appear in the declaration with code 057000.
 In the screenshot below, these are fields 07, 08, 09, 10.
 
-![ZUS RCA][47]
+![ZUS RCA declaration with code 057000: fields 07–10 — entrepreneur-paid contributions][47]
 
 In the declaration with code 057000, the corresponding fields will contain the base and amount of the
 health insurance contribution (składka zdrowotna). Section III.C field 04 — this is the amount the
 insured entrepreneur must pay. The screenshot below shows the amount
 699.11 zł, which may differ depending on your situation.
 
-![ZUS RCA][48]
+![ZUS RCA declaration 057000: section III.C, field 04 — składka zdrowotna][48]
 
 ### Sending the Declarations
 
 On the Utworzenie i walidacja dokumentów panel, click Wyślij i zakończ.
 
-![Utworzenie i walidacja dokumentow][49]
+![Utworzenie i walidacja dokumentów panel: Wyślij i zakończ button][49]
 
 Sign the document using any of the listed methods.
 
-![Podpis][50]
+![Document signature method selection window][50]
 
 After signing, the document will be sent to ZUS.
 

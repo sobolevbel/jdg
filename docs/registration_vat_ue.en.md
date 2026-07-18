@@ -29,62 +29,62 @@ We need the `Zmień dane w CEIDG` option.
 
 ## 1. Important information first
 
-![Ważne informacje][1]
+![CEIDG form: Ważne informacje screen, Dalej button][1]
 
 Read it, then hit `DALEJ`
 
 ## 2. Purpose of filing the form
 
-![zmiana wpisu ceidg][2]
+![Purpose of the application: zmiana wpisu w CEIDG selected, change date field][2]
 
 We only need to edit the data. The date can be today or in the past.
 
 ## 3. Pick what you want to change
 
-![edycja wpisu w ceidg][3]
+![Selecting data to change: VAT registration checked][3]
 
 We care about VAT registration. The first three checkboxes are filled in automatically.
 
 ## 4. Foreigner's data
 
-![dane cudzoziemca][4]
+![Dane cudzoziemca section: confirming foreigner status][4]
 
 Confirm you're a foreigner who can run a business in Poland.
 
 ## 5. Residential address
 
-![adres zamieszkania][5]
+![Section with the entrepreneur's residential address][5]
 
 Change your residential address if needed.
 
 ## 6. Social insurance
 
-![ubiezpieczenia społeczne][6]
+![Social insurance section: ZUS and date selected][6]
 
 You're still in ZUS. You probably already set the date when you registered with ZUS, so you can leave it.
 
 ## 7. Changing ZUS data
 
-![zgłoszenie do zus][7]
+![ZUS data change section][7]
 
 If you don't want to change anything, don't.
 
 ## 8. Tax office
 
-![urząd skarbowy][8]
+![Urząd skarbowy (tax office) selection section][8]
 
 You can switch tax offices if you need to.
 
 ## 9. The actual point of the application
 
-![zgłoszenie o rejestrację vat][9]
+![VAT-R form: choosing between rejestracja and aktualizacja][9]
 
 If you haven't been registered yet and want to register as a VAT payer — pick `rejestracja`.
 If you have already registered for VAT or VAT-UE — pick `aktualizacja`.
 
 ## 10. Domestic Polish VAT
 
-![podatnik zwolniony z vat][10]
+![Polish VAT exemption question: Tak checked and the date][10]
 
 You can register as a Polish VAT taxpayer at the same time as VAT-UE. If you want that or you're already registered as a `czynny` Polish VAT taxpayer — continue [via this link][11].
 
@@ -92,19 +92,19 @@ If you only want VAT-UE — choose "Tak" to use the Polish VAT exemption. For th
 
 ## 11. Identification data
 
-![dane identyfikacyjne][12]
+![Dane identyfikacyjne section: father's and mother's names][12]
 
 Father's and mother's names. Best if the Latin spelling matches what's in their documents. Just in case.
 
 ## 12. VAT-UE registration
 
-![vat-ue][13]
+![Question about registering as a VAT-UE taxpayer][13]
 
 We want to register as a VAT-UE taxpayer.
 
 ## 13. Registering as a VAT UE taxpayer
 
-![rejestracja podatnika vat-ue][14]
+![Rejestracja podatnika VAT-UE: goods and services checkboxes, registration date][14]
 
 - First checkbox — if you're going to buy or sell goods.
 - Second checkbox — if you're going to buy or sell services.
@@ -117,37 +117,37 @@ Example: if you send it on 28 April, the earliest registration date is 29 April.
 
 ## 14. Applicant information
 
-![zgłoszenie rejestracyjne podatnika vat][15]
+![Applicant information: tax office choice and contact details][15]
 
 You can pick another tax office and add contact details if you want. Optional — but it can make talking to the office easier.
 
 ## 15. Confirmation of VAT taxpayer registration
 
-![wniosek o wydanie potwierdzenia][16]
+![Request for confirmation of VAT taxpayer registration (potwierdzenie)][16]
 
 You probably don't need this.
 
 ## 16. Liability warning
 
-![oświadczenie][17]
+![Oświadczenie: applicant liability declaration][17]
 
 On your own head be it — you confirm you want to file and you're not up to anything shady.
 
 ## 17. Where to get more info
 
-![urząd odbierający wniosek][18]
+![Information about the office receiving the application, Dalej button][18]
 
 Just hit `DALEJ`
 
 ## 18. Summary screen
 
-![wniosek gotowy do wysłania][19]
+![Summary screen: wniosek gotowy do wysłania, Dalej button][19]
 
 Just hit `DALEJ`
 
 ## 19. Signing documents
 
-![dokument gotowy do podpisu][20]
+![Dokument gotowy do podpisu: choosing the signing method, xml links][20]
 
 !!! tip
     Click the xml links to download the forms for your records.
@@ -156,7 +156,7 @@ Pick how you sign. Trusted profile and bank login are basically the same thing. 
 
 ## 20. Sending documents
 
-![wyślij dokument][21]
+![Button to send the signed document][21]
 
 After a quick sign-and-send, you're done.
 
