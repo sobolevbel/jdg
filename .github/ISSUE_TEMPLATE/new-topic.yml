@@ -1,0 +1,27 @@
+name: 💡 Предложение новой темы
+description: В гайде не хватает страницы или раздела
+labels: [enhancement]
+body:
+  - type: textarea
+    id: topic
+    attributes:
+      label: Какой темы не хватает
+      description: Что должно быть раскрыто и кому это пригодится
+    validations:
+      required: true
+  - type: textarea
+    id: materials
+    attributes:
+      label: Материалы
+      description: >-
+        Ссылки на официальные источники, заметки в чате, личный опыт —
+        всё, что поможет написать страницу.
+    validations:
+      required: false
+  - type: checkboxes
+    id: help
+    attributes:
+      label: Участие
+      options:
+        - label: Готов(а) помочь с написанием текста
+        - label: Могу поделиться скриншотами своего кейса

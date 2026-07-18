@@ -33,6 +33,7 @@ tags:
 - SEO improvements: home page title, hreflang x-default, removed duplicate og tags.
 - Added schema.org structured data (TechArticle on all pages, FAQPage on the FAQ page).
 - Generic link texts like "here"/"source" replaced with descriptive ones.
+- The "edit this page" pencil button is back — fix the guide right from your browser, no git needed.
 
 ## June 2026
 
