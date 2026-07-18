@@ -3,4 +3,7 @@ services:
     build: .
     ports:
       - 8000:8000
+    environment:
+      # отключает информационный баннер Material for MkDocs про MkDocs 2.0
+      - NO_MKDOCS_2_WARNING=true
     command: ["python", "-m", "mkdocs", "serve", "--dev-addr", "0.0.0.0:8000"]

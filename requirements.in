@@ -1,3 +1,4 @@
+mkdocs<2  # MkDocs 2.0 несовместим с плагинами и темой Material
 mkdocs-material[imaging]
 mkdocs-minify-plugin
 mkdocs-glightbox
