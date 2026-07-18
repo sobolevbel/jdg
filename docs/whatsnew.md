@@ -11,6 +11,11 @@ tags:
 
 - Добавлена инструкция по получению [справки о медицинском страховании из ZUS](zus.md#spravka-o-meditsinskom-strakhovanii) и обновлён раздел о [подтверждении страховки при легализации](legalization.md).
 - Добавлена инструкция по [оплате налогов через сайт Bank Millennium](infakt_routine.md#oplata-nalogov), а также ссылки на [генерацию mikrorachunku и проверку оплат](taxes.md#kak-uznat-svoi-schet-dlia-oplaty-nalogov) на urzadskarbowy.gov.pl.
+- Добавлен раздел [«Подводные камни» ZUS-каникул](zus_vacation.md#podvodnye-kamni), включая нюанс перехода с Preferencyjne на Duży ZUS.
+- Добавлено предупреждение: [справка RWN при наличии уполномоченного](zus.md#spravka-o-nezadolzhennosti-v-zus) сначала приходит в его Skrzynka odbiorcza.
+- Добавлено решение ошибки [«Weryfikacja negatywna» при отправке VAT-UE](infakt_routine.md#otpravka-deklaratsii-vat-ue) из inFakt.
+- Уточнено [объяснение ставок VAT (zw./np./art. 28b)](infakt_settings.md) при настройке услуг в inFakt.
+- Уточнён выбор rejestracja/aktualizacja при [регистрации VAT](registration_vat.md) и [VAT-UE](registration_vat_ue.md).
 
 ## Июнь 2026
 
