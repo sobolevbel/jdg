@@ -9,6 +9,7 @@ tags:
 
 ## July 2026
 
+- New page: [sick leave and maternity benefits for JDG (składka chorobowa)](zus_chorobowe.md) — what it costs, how to join, how benefits are calculated, and why you shouldn't sharply raise your base right before childbirth.
 - New guide: [applying for a karta pobytu via MOS](legalization_mos2.md) — from 2026 the wniosek is filed fully electronically (the "Legalization in Warsaw" page has been replaced; the old address redirects).
 - Updated the [legalization guide](legalization.md): electronic filing via MOS instead of regional appointment systems.
 - Removed hover tooltips for terms (underlines in text) — the [glossary](glossary.md) remains a separate page.
