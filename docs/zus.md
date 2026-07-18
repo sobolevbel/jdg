@@ -97,110 +97,38 @@ ZUS состоит из 2 основных частей:
 
 ## Таблица расчета взносов ZUS
 
-<table>
-    <thead>
-        <tr>
-            <th class="border-r text-center">
-                Składki ZUS 2026<br>
-                Ryczałt<br>
-                <span class="text-bl">A</span> +
-                <span class="text-rd">B</span> +
-                <span class="text-green">C</span> +
-                <span class="text-gr">D</span>
-            </th>
-            <th class="border-r">Годовой доход</th>
-            <th class="border-r ulga">Ulga na start</th>
-            <th class="border-r preferencyjne">Składki preferencyjne</th>
-            <th class="duzy">Duży zus</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="ulga-bg">
-            <th rowspan="3" class="border-r border-t text-bl text-bold valign-center">
-                A: Składka zdrowotna
-            </th>
-            <td class="border-r">0 - 60 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">498,35</td>
-        </tr>
-        <tr class="ulga-bg">
-            <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">830,58</td>
-        </tr>
-        <tr class="ulga-bg">
-            <td class="border-r">&gt; 300 000</td>
-            <td colspan="3" class="text-bl text-center text-bold">1495,04</td>
-        </tr>
-        <tr>
-            <th rowspan="4" class="border-r border-t text-rd text-bold valign-center">
-                B: ubezpieczenie społeczne
-            </th>
-            <td class="border-r">Emerytalna</td>
-            <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne text-center">281,44</td>
-            <td class="duzy text-center">1103,27</td>
-        </tr>
-        <tr>
-            <td class="border-r">Rentowa</td>
-            <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne text-center">115,34</td>
-            <td class="duzy text-center">452,16</td>
-        </tr>
-        <tr>
-            <td class="border-r">Wypadkowa</td>
-            <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne text-center">24,08</td>
-            <td class="duzy text-center">94,39</td>
-        </tr>
-        <tr class="text-rd">
-            <td class="border-r text-bold">
-                <b>Вместе</b>
-            </td>
-            <td class="border-r ulga text-bold text-center"><b>0</b></td>
-            <td class="border-r preferencyjne text-bold text-center"><b>420,86</b></td>
-            <td class="duzy text-bold text-center"><b>1649,82</b></td>
-        </tr>
-        <tr class="text-green">
-            <td colspan="2" class="border-r border-t text-green text-bold valign-center">
-                <b>C: Fundusz Pracy</b>
-            </td>
-            <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne text-center">0</td>
-            <td class="duzy text-bold text-center">138,47</td>
-        </tr>
-        <tr class="text-bold">
-            <th rowspan="3" class="border-r text-bold">
-                <b>Вместе (<span class="text-bl">A</span> +
-                <span class="text-rd">B</span> +
-                <span class="text-green">C</span>):</b>
-                <td class="border-r">0 - 60 000</td>
-                <td class="border-r ulga text-center text-bold">498,35</td>
-                <td class="border-r preferencyjne text-center text-bold">919,21</td>
-                <td class="duzy text-bold text-center text-bold">2286,64</td>
-            </th>
-        </tr>
-        <tr class="text-bold">
-            <td class="border-r">60 000.01 - 300 000</td>
-            <td class="border-r ulga text-center text-bold">830,58</td>
-            <td class="border-r preferencyjne text-center text-bold">1251,44</td>
-            <td class="duzy text-bold text-center text-bold">2618,87</td>
-        </tr>
-        <tr class="text-bold">
-            <td class="border-r">&gt; 300 000</td>
-            <td class="border-r ulga text-center text-bold">1495,04</td>
-            <td class="border-r preferencyjne text-center text-bold">1915,90</td>
-            <td class="duzy text-bold text-center">3283,33</td>
-        </tr>
-        <tr class="text-gr">
-            <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
-                <b>D: Chorobowa</b><br>
-                (не обязательная)
-            </td>
-            <td class="border-r ulga text-bold text-center">0</td>
-            <td class="border-r preferencyjne text-bold text-center">35,32</td>
-            <td class="duzy text-bold text-center">138,47</td>
-        </tr>
-    </tbody>
-</table>
+Цифры на 2026 год, суммы в злотых в месяц, налогообложение ryczałt
+(от формы налогообложения зависит только składka zdrowotna).
+
+**Składki społeczne и Fundusz Pracy** зависят от режима оплаты ZUS:
+
+| Взнос | Ulga na start | Składki preferencyjne | Duży ZUS |
+|---|---:|---:|---:|
+| Emerytalna | — | 281,44 | 1 103,27 |
+| Rentowa | — | 115,34 | 452,16 |
+| Wypadkowa | — | 24,08 | 94,39 |
+| Fundusz Pracy | — | — | 138,47 |
+| **Итого обязательных** | **0** | **420,86** | **1 788,29** |
+
+**Składka zdrowotna** одинакова для всех режимов и зависит от годового дохода:
+
+| Годовой доход | Składka zdrowotna |
+|---|---:|
+| до 60 000 | 498,35 |
+| 60 000 — 300 000 | 830,58 |
+| свыше 300 000 | 1 495,04 |
+
+**Итого в месяц** (społeczne + Fundusz Pracy + zdrowotna):
+
+| Годовой доход | Ulga na start | Składki preferencyjne | Duży ZUS |
+|---|---:|---:|---:|
+| до 60 000 | 498,35 | 919,21 | 2 286,64 |
+| 60 000 — 300 000 | 830,58 | 1 251,44 | 2 618,87 |
+| свыше 300 000 | 1 495,04 | 1 915,90 | 3 283,33 |
+
+Сверх этого можно платить добровольную składkę chorobową —
+[больничные и декретные](zus_chorobowe.md): **+35,32** на Preferencyjnych
+и **+138,47** на Dużym ZUS. На Uldze na Start подключить её нельзя.
 
 Медицинскую часть (zdrowotna) нужно платить всегда, даже если параллельно есть
 еще страховка по трудовому договору. Медицинская складка даёт доступ
