@@ -12,9 +12,13 @@ tags:
 - [CEIDG][1] - Centralna Ewidencja i Informacja o Działalności Gospodarczej (Central Register and Information on Economic Activity). The organization responsible for registering entrepreneurs. This is where you submit the application to register a sole proprietorship
 - CIT - Corporation Income Tax - a tax on corporate income
 - Działalność nierejestrowa (unregistered activity) - conducting economic activity without the need to register a sole proprietorship
+- EMP - the ZUS application form for granting a [pension][11]
+- IKE - Indywidualne Konto Emerytalne (Individual Retirement Account) - a private retirement account: payouts after 60 are entirely tax-free. More on the [Pension page][11]
+- IKZE - Indywidualne Konto Zabezpieczenia Emerytalnego (Individual Retirement Security Account) - a private retirement account whose contributions are deducted from the PIT base; JDG owners get an elevated yearly limit
 - JDG - jednoosobowa działalność gospodarcza (sole proprietorship) - the legal form for individual entrepreneurs in Poland
 - KPiR - księga przychodów i rozchodów (Revenue and Expense Ledger) - a simplified bookkeeping record required for tax purposes
 - [NIP][2] - Numer Identyfikacji Podatkowej (Tax Identification Number) - a taxpayer identification number assigned by the Polish tax authority
+- OFE - Otwarty Fundusz Emerytalny (Open Pension Fund) - part of the pension contribution may flow into it; OFE funds are inheritable
 - PBH - Poland.Business Harbour - a program to support Belarusians from the IT sector
 - [PESEL][3] - a Polish identification number consisting of 11 digits, assigned to individuals residing in Poland
 - PIT - Personal Income Tax
@@ -38,6 +42,7 @@ tags:
 - Zwolnienie z VAT przedmiotowe (objective VAT exemption) - taxpayers with certain types of activities are exempt from being VAT payers
 - [ZUS][6] - Zakład Ubezpieczeń Społecznych (Social Insurance Institution) - the state agency responsible for social insurance in Poland
 - ePUAP - Elektroniczna Platforma Usług Administracji Publicznej (Electronic Platform of Public Administration Services) - a national platform used for communication and interaction with Polish government bodies
+- e-ZLA - elektroniczne zwolnienie lekarskie (electronic sick note) - the doctor sends it to ZUS automatically
 - [EU Blue Card - Niebieska Karta][7] - EU Blue Card. A residence permit for highly qualified employees
 - [Rezydent długoterminowy UE][8] - long-term EU resident, holder of the EU Long-term Resident Card
 - obywatel - citizen
@@ -52,14 +57,18 @@ tags:
 - dochód - profit (the difference between revenue and expenses)
 - dokument tożsamości - identity document, e.g. a passport
 - dowód osobisty - Polish national ID card. Can be used within Poland and EU countries. For domestic use, it can be electronic via the mObywatel app
+- emerytura - pension. How it is calculated and how to increase it — on the [Pension page][11]
 - faktura - invoice
 - forma opodatkowania - taxation form (the method of calculating and paying taxes)
 - kantor - currency exchange office
+- kapitał początkowy - "initial capital": pension contributions for work in Poland before 1999, added to your ZUS pension account
 - konto firmowe - business bank account
 - koszty prowadzenia działalności - business operating costs
 - księgowy - accountant
 - likwidacja - liquidation (closing down a business)
 - najem - rental / lease
+- okres wyczekiwania - waiting period: the minimum uninterrupted insurance period after which benefit entitlement arises (90 days for sick pay)
+- okresy składkowe i nieskładkowe - contributory and non-contributory periods; together they form the insurance record (nieskładkowe count only up to 1/3 of the składkowe)
 - podatek - tax
 - podatek dochodowy - income tax, a mandatory tax on income earned by the entrepreneur, paid to the tax office. This tax also applies to individuals
 - podatek liniowy - flat tax rate. A taxation form where the income tax is 19% of income regardless of the amount earned
@@ -72,11 +81,18 @@ tags:
 - siedziba - registered office / headquarters. For sole proprietors, this is always the place of residence
 - skala podatkowa - progressive tax scale. 12% for income up to 120,000 PLN, 32% for income above. Income up to 30,000 PLN is tax-free
 - składki na ubezpieczenie - insurance contributions
+- składka chorobowa - the voluntary sickness insurance contribution: it grants the right to sick pay and maternity benefit. More on the [Sick Leave and Maternity page][12]
 - składka zdrowotna - health insurance contribution
 - składki społeczne - social insurance contributions
+- subkonto - a sub-account at ZUS receiving part of the pension contribution; unlike the main account, subkonto funds are inheritable
 - środek trwały - fixed asset
+- świadczenie rehabilitacyjne - rehabilitation benefit: extended payments after sick pay runs out (up to 12 months)
 - ulga - tax relief / benefit
+- waloryzacja - indexation: the yearly increase of pension capital, pensions and benefits
 - wirtualne biuro - virtual office
+- zasiłek chorobowy - sickness benefit (sick pay)
+- zasiłek macierzyński - maternity benefit
+- zasiłek opiekuńczy - care allowance for a sick child or family member
 - zawieszenie działalności - temporary suspension of business activity (pause)
 
 ---
@@ -98,3 +114,5 @@ References:
 [8]: https://infoopt.pl/rezydent-dlugoterminowy-ue/
 [9]: pz.md
 [10]: https://www.biznes.gov.pl/pl/portal/00263
+[11]: emerytura.md
+[12]: zus_chorobowe.md
