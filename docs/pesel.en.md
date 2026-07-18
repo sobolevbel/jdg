@@ -51,7 +51,7 @@ You can get PESEL on these grounds:
 ## PESEL via meldunek
 
 The easiest option. Go to the urząd with your rental agreement, passport, application, and get PESEL.
-For the application you use form [EL/ZC/1][6]. You need the meldowanie service — at one window they’ll do
+For the application you use form [EL/ZC/1][2]. You need the meldowanie service — at one window they’ll do
 meldunek and give you a paper with your PESEL number. You can also get a meldunek certificate, but it costs 17 złoty and
 you can do that anytime, not necessarily right away.
 
@@ -61,48 +61,46 @@ Go to the urząd with your employment contract, passport, application, and get P
 
 ## PESEL for tax purposes (no meldunek, no employment contract)
 
-**Changes to how you get PESEL. Since 1 JUNE 2021 foreigners can apply for a PESEL number for tax purposes.**
+Since 1 June 2021 foreigners can officially obtain a PESEL **for tax
+purposes** — a standard procedure recommended by the tax administration
+itself ([KAS][3]); no workarounds are needed anymore.
 
-Go to the urząd with your passport and a filled application, or fill it on the spot.
-In the application write this legal basis:
+Go to the urząd with your passport and a filled application (or fill it on
+the spot). In the application write this legal basis:
 
-!!! Quote "Legal basis:"
-    ZAŁĄCZNIK NR 1. PKT. 1 ROZPORZĄDZENIA MINISTRA CYFRYZACJI Z DNIA 29
-    CZERWCA 2020 ROKU W SPRAWIE PROFILU ZAUFANEGO I PODPISU ZAUFANEGO
-    DZ.U.2020 POZ.1194
+!!! quote "Legal basis — tax purposes (adults)"
+    ART. 3 UST. 1 PKT 1 USTAWY Z DNIA 13 PAŹDZIERNIKA 1995 R. O ZASADACH
+    EWIDENCJI I IDENTYFIKACJI PODATNIKÓW I PŁATNIKÓW, W ZWIĄZKU Z ART. 7 UST. 2
+    USTAWY Z DNIA 24 WRZEŚNIA 2010 R. O EWIDENCJI LUDNOŚCI
 
-If they start refusing, there’s another basis:
+    Texts of the acts: [taxpayer registration and identification act][4],
+    [population register act][5]
 
-!!! Quote "Legal basis:"
-    DZ.U. 1997 NR 121 POZ. 769; USTAWA Z DNIA 20 SIERPNIA 1997 R. O KRAJOWYM
-    REJESTRZE SĄDOWYM; ART. 35 PKT 1
+A fallback basis — PESEL is required to obtain a Profil Zaufany:
 
-    [Link to the regulation][7]
+!!! quote "Legal basis — Profil Zaufany"
+    ZAŁĄCZNIK NR 1 PKT 1 ROZPORZĄDZENIA MINISTRA CYFRYZACJI Z DNIA 29 CZERWCA
+    2020 R. W SPRAWIE PROFILU ZAUFANEGO I PODPISU ZAUFANEGO (DZ.U. 2020 POZ. 1194)
 
-!!! Quote "Basis for children under 3:"
-    Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3
-    POZ. 235 ROZDZIAŁ 1, ART. 3A
+    [Text of the regulation][6]
 
-!!! Quote "Basis for children aged 3 to 18:"
-    USTAWA O SYSTEMIE OŚWIATY Z DNIA 7 WRZEŚNIA 1991 R.
-    (TJ. Z DNIA 31 PAZDZIERNIKA 2016 R. DZ. U. Z 2016 R. POZ.1943)
-    ART. 92K. UST. 2 PKT 2F
+!!! quote "Basis for children under 3 (nursery)"
+    ART. 3A USTAWY Z DNIA 4 LUTEGO 2011 R. O OPIECE NAD DZIEĆMI W WIEKU
+    DO LAT 3 (DZ.U. 2011 NR 45 POZ. 235)
 
-    [Link to the regulation][8]
+    [Text of the act][7]
 
-!!! Quote "Adults aged 18 and over:"
-    PARAGRAF 5 UST. 3, PARAGRAF 8 UST. 1 — ROZPORZĄDZENIE MINISTRA CYFRYZACJI
-    Z DNIA 5 PAŹDZIERNIKA 2016 R. W SPRAWIE PROFILU ZAUFANEGO ELEKTRONICZNEJ
-    PLATFORMY USŁUG ADMINISTRACJI PUBLICZNEJ, OPUBLIKOWANE W DZIENNIKU USTAW
-    R.P. Z 2016, POZ. 1633.
+!!! quote "Basis for children aged 3 to 18 (school, camps)"
+    ART. 92K UST. 2 PKT 2 LIT. F USTAWY Z DNIA 7 WRZEŚNIA 1991 R.
+    O SYSTEMIE OŚWIATY
 
-    [Link to the regulation][9]
+    [Text of the act][8]
 
 If one urząd refuses PESEL without meldunek or
 tells you to wait 30 days — try another urząd.
 
-You don’t have to buy the 17 zł residence confirmation. If you say the child needs it for
-school/kindergarten, they’ll print it free.
+You don't have to buy the 17 zł residence confirmation. If you say the child needs it for
+school/kindergarten, they'll print it free.
 
 ## Links
 
@@ -112,7 +110,10 @@ school/kindergarten, they’ll print it free.
 <!-- resources -->
 
 [1]: https://www.gov.pl/attachment/5681d5cb-3ce9-4ca0-a325-1db67a7f3c24
-[6]: https://druki.gofin.pl/elzc1-zgloszenie-pobytu-czasowego,wzor,1472,165.html
-[7]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769
-[8]: https://www.prawo.vulcan.edu.pl/przegdok.asp?qdatprz=akt&qplikid=1
-[9]: http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001633
+[2]: https://druki.gofin.pl/elzc1-zgloszenie-pobytu-czasowego,wzor,1472,165.html
+[3]: https://www.gov.pl/web/kas/cudzoziemcy-moga-wystepowac-o-nadanie-pesel-do-celow-podatkowych
+[4]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951420702
+[5]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102171427
+[6]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001194
+[7]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110450235
+[8]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910950425

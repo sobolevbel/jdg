@@ -9,6 +9,7 @@ tags:
 
 ## July 2026
 
+- Updated the [legal bases for obtaining a PESEL](pesel.md): the official tax-purposes basis (KAS recommendation) is now primary; the repealed 2016 regulation and the KRS-act basis were removed.
 - The [glossary](glossary.md) gained pension and benefit terms: IKE/IKZE/OFE, subkonto, waloryzacja, zasiłki, okres wyczekiwania and more.
 - New page: [pension in Poland for JDG](emerytura.md) — the calculation formula, the minimum pension and insurance record, what ZUS reliefs cost your future pension, IKE/IKZE, and what happens to the pension if you move abroad.
 - New page: [sick leave and maternity benefits for JDG (składka chorobowa)](zus_chorobowe.md) — what it costs, how to join, how benefits are calculated, and why you shouldn't sharply raise your base right before childbirth.
