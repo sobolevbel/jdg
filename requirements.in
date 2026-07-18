@@ -8,4 +8,4 @@ mkdocs-static-i18n
 python-slugify
 mkdocs-git-revision-date-localized-plugin
 pyyaml>6
-click>8
+click>=8.4.2
