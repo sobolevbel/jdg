@@ -101,7 +101,7 @@ Timelines are approximate:
 #### Disadvantages of JDG
 
 - 12% flat tax regardless of income amount
-- ZUS contributions start from around 350 PLN and can reach 1,000 PLN over time; after 2.5 years, it rises to slightly over 2,000 PLN
+- ZUS contributions (2026 numbers): ~500 PLN per month at the start (health insurance only), then ~900–1,300 on [składki preferencyjne](zus_obnizone_skladki.md), and after 2.5 years — [full ZUS](zus_duzy.md) from ~2,300 per month
 - Having an accountant is highly recommended
 - You need to learn and understand the system yourself
 - A JDG-based residence permit comes with many complications, both in obtaining it and in daily life (work authorization requirements, no family reunification residence permits for spouses)
