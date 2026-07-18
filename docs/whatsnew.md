@@ -19,6 +19,11 @@ tags:
 - Актуализированы [суммы взносов ZUS и składki zdrowotnej на 2026 год](zus.md#razmer-vznosov).
 - Лимит освобождения от VAT обновлён до [240 000 злотых](taxes.md#vnutripolskii-vat) (действует с 2026 года).
 - Добавлено предупреждение об [обязательном KSeF с 2026 года](declarations_vat.md).
+- Добавлен гайд по [отправке JPK_V7M через бесплатную e-mikrofirmę](declarations_jpk_emikrofirma.md).
+- Добавлен гайд по [миграции бухгалтерии на inFakt](infakt_migration.md).
+- Добавлена страница [«Изменение данных и закрытие JDG»](jdg_changes.md): коды PKD, пауза vs закрытие, FAQ.
+- Добавлены разделы про [вычет VAT с покупок и WNT (reverse charge)](declarations_vat.md#vychet-vat-s-pokupok).
+- Удалены неиспользуемые скриншоты, оптимизирован размер картинок.
 
 ## Июнь 2026
 

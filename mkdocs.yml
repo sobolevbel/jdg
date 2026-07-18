@@ -28,6 +28,7 @@ nav:
     - Общая информация: declarations.md
     - Отчёты ZUS: declarations_zus.md
     - Декларации VAT: declarations_vat.md
+    - JPK_V7M через e-mikrofirmę: declarations_jpk_emikrofirma.md
     - Декларация PIT: declarations_pit.md
   - Легализация:
     - Легализация: legalization.md
@@ -35,6 +36,7 @@ nav:
   - Рабочий процесс: workflow.md
   - Как отправить письмо в налоговую: pismo_ogolne.md
   - Ежемесячные операции в infakt.pl: infakt_routine.md
+  - Миграция на infakt.pl: infakt_migration.md
   - Ежемесячные операции в wfirma.pl: wfirma_routine.md
   - Миграция на wfirma.pl: wfirma_migration.md
   - Словарь: glossary.md
