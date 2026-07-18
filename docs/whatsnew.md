@@ -10,6 +10,20 @@ tags:
 ## Июль 2026
 
 - Добавлена инструкция по получению [справки о медицинском страховании из ZUS](zus.md#spravka-o-meditsinskom-strakhovanii) и обновлён раздел о [подтверждении страховки при легализации](legalization.md).
+- Добавлена инструкция по [оплате налогов через сайт Bank Millennium](infakt_routine.md#oplata-nalogov), а также ссылки на [генерацию mikrorachunku и проверку оплат](taxes.md#kak-uznat-svoi-schet-dlia-oplaty-nalogov) на urzadskarbowy.gov.pl.
+- Добавлен раздел [«Подводные камни» ZUS-каникул](zus_vacation.md#podvodnye-kamni), включая нюанс перехода с Preferencyjne на Duży ZUS.
+- Добавлено предупреждение: [справка RWN при наличии уполномоченного](zus.md#spravka-o-nezadolzhennosti-v-zus) сначала приходит в его Skrzynka odbiorcza.
+- Добавлено решение ошибки [«Weryfikacja negatywna» при отправке VAT-UE](infakt_routine.md#otpravka-deklaratsii-vat-ue) из inFakt.
+- Уточнено [объяснение ставок VAT (zw./np./art. 28b)](infakt_settings.md) при настройке услуг в inFakt.
+- Уточнён выбор rejestracja/aktualizacja при [регистрации VAT](registration_vat.md) и [VAT-UE](registration_vat_ue.md).
+- Актуализированы [суммы взносов ZUS и składki zdrowotnej на 2026 год](zus.md#razmer-vznosov).
+- Лимит освобождения от VAT обновлён до [240 000 злотых](taxes.md#vnutripolskii-vat) (действует с 2026 года).
+- Добавлено предупреждение об [обязательном KSeF с 2026 года](declarations_vat.md).
+- Добавлен гайд по [отправке JPK_V7M через бесплатную e-mikrofirmę](declarations_jpk_emikrofirma.md).
+- Добавлен гайд по [миграции бухгалтерии на inFakt](infakt_migration.md).
+- Добавлена страница [«Изменение данных и закрытие JDG»](jdg_changes.md): коды PKD, пауза vs закрытие, FAQ.
+- Добавлены разделы про [вычет VAT с покупок и WNT (reverse charge)](declarations_vat.md#vychet-vat-s-pokupok).
+- Удалены неиспользуемые скриншоты, оптимизирован размер картинок.
 
 ## Июнь 2026
 

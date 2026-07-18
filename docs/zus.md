@@ -49,47 +49,47 @@ ZUS состоит из 2 основных частей:
 2. Доход от 60 000 злотых до 300 000 злотых: Базовая ставка вычисляется как 100% от средней заработной платы
 3. Доходы выше 300 000 злотых: Базовая ставка вычисляется как 180% процентов от средней зарплаты
 
-В буквальных цифрах **на 2024 год** это:
+В буквальных цифрах **на 2026 год** (средняя зарплата в секторе предприятий за IV квартал 2025 года — 9.228,64 zł) это:
 
-1. Доход до 60 000 злотых: 4.660,71 zł
-2. Доход от 60 000 злотых до 300 000 злотых: 7.767,85 zł
-3. Доходы выше 300 000 злотых: 13.982,13 zł
+1. Доход до 60 000 злотых: 5.537,18 zł
+2. Доход от 60 000 злотых до 300 000 злотых: 9.228,64 zł
+3. Доходы выше 300 000 злотых: 16.611,55 zł
 
 Далее, подставим в формулу числа и получим размеры взносов по медицинскому страхованию:
 
-1. 4.660,71  * 9% = 419,46 zł
-2. 7.767,85 * 9% = 699,11 zł
-3. 13.982,13 * 9% = 1258,39 zł
+1. 5.537,18 * 9% = 498,35 zł
+2. 9.228,64 * 9% = 830,58 zł
+3. 16.611,55 * 9% = 1495,04 zł
 
 Важно отметить, что при превышении порога, пересчет идет и за прошлые месяцы.
 
 **Пример:**
 
 Максим облагается Ryczałt-налогом на зарегистрированный доход.
-В марте 2024 года доход Макса превысил 60 000 злотых, а в октябре - более 300 000 злотых.
+В марте 2026 года доход Макса превысил 60 000 злотых, а в октябре - более 300 000 злотых.
 Как будет выглядеть ежегодный расчет взноса на здравоохранение?
 
 В течение года Максим должен выплачивать взносы на медицинское обслуживание по следующей схеме:
 
-- Январь - 419,46 zł,
-- Февраль  - 419,46 zł,
-- Март - 699,11 zł (превышение порога в 60 000 zł),
-- Апрель - 699,11 zł,
-- Май - 699,11 zł,
-- Июнь - 699,11 zł,
-- Июль - 699,11 zł,
-- Август- 699,11 zł,
-- Сентябрь - 699,11 zł,
-- Октябрь  - 1258,39 zł (превышение порога в 300 000 zł),
-- Ноябрь - 1258,39 zł,
-- Декабрь - 1258,39 zł
+- Январь - 498,35 zł,
+- Февраль  - 498,35 zł,
+- Март - 830,58 zł (превышение порога в 60 000 zł),
+- Апрель - 830,58 zł,
+- Май - 830,58 zł,
+- Июнь - 830,58 zł,
+- Июль - 830,58 zł,
+- Август - 830,58 zł,
+- Сентябрь - 830,58 zł,
+- Октябрь  - 1495,04 zł (превышение порога в 300 000 zł),
+- Ноябрь - 1495,04 zł,
+- Декабрь - 1495,04 zł
 
-В течение года Макс выплатил взносы на здравоохранение на общую сумму 9507,86 злотых: `419,46 * 2 + 699,11 * 7 + 1258,39 * 3`.
+В течение года Макс выплатил взносы на здравоохранение на общую сумму 11295,88 злотых: `498,35 * 2 + 830,58 * 7 + 1495,04 * 3`.
 
 Поскольку за календарный год Макс превысил порог в 300 000 злотых, он должен ежемесячно делать взносы за медицинское страхование
-в размере 1258,39 злотых. Таким образом, годовой взнос составляет: `1258,39 * 12 = 15100,68`, но сумма
-взносов Максима из примера выше составила всего 9507,86 злотых. Это означает, что после завершения годового расчета у Максима
-осталась недоплата взноса на медицинское обслуживание. Он обязан выплатить еще 5592,82 злотых: `15100,68 - 9507,86`.
+в размере 1495,04 злотых. Таким образом, годовой взнос составляет: `1495,04 * 12 = 17940,48`, но сумма
+взносов Максима из примера выше составила всего 11295,88 злотых. Это означает, что после завершения годового расчета у Максима
+осталась недоплата взноса на медицинское обслуживание. Он обязан выплатить еще 6644,60 злотых: `17940,48 - 11295,88`.
 
 ## Инфографика взносов ZUS
 
@@ -101,7 +101,7 @@ ZUS состоит из 2 основных частей:
     <thead>
         <tr>
             <th class="border-r text-center">
-                Składki ZUS 2025<br>
+                Składki ZUS 2026<br>
                 Ryczałt<br>
                 <span class="text-bl">A</span> +
                 <span class="text-rd">B</span> +
@@ -110,8 +110,7 @@ ZUS состоит из 2 основных частей:
             </th>
             <th class="border-r">Годовой доход</th>
             <th class="border-r ulga">Ulga na start</th>
-            <th class="border-r preferencyjne-01-06">Składki preferencyjne (c 01.01 до 31.06)</th>
-            <th class="border-r preferencyjne-07-12">Składki preferencyjne (c 01.07 до 31.12)</th>
+            <th class="border-r preferencyjne">Składki preferencyjne</th>
             <th class="duzy">Duży zus</th>
         </tr>
     </thead>
@@ -121,15 +120,15 @@ ZUS состоит из 2 основных частей:
                 A: Składka zdrowotna
             </th>
             <td class="border-r">0 - 60 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">461,66</td>
+            <td colspan="3" class="text-bl text-center text-bold">498,35</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">769,43</td>
+            <td colspan="3" class="text-bl text-center text-bold">830,58</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">&gt; 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">1384,97</td>
+            <td colspan="3" class="text-bl text-center text-bold">1495,04</td>
         </tr>
         <tr>
             <th rowspan="4" class="border-r border-t text-rd text-bold valign-center">
@@ -137,41 +136,36 @@ ZUS состоит из 2 основных частей:
             </th>
             <td class="border-r">Emerytalna</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">273,24</td>
-            <td class="border-r preferencyjne-07-12 text-center">273,24</td>
-            <td class="duzy text-center">1015,78</td>
+            <td class="border-r preferencyjne text-center">281,44</td>
+            <td class="duzy text-center">1103,27</td>
         </tr>
         <tr>
             <td class="border-r">Rentowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">111,98</td>
-            <td class="border-r preferencyjne-07-12 text-center">111,98</td>
-            <td class="duzy text-center">416,30</td>
+            <td class="border-r preferencyjne text-center">115,34</td>
+            <td class="duzy text-center">452,16</td>
         </tr>
         <tr>
             <td class="border-r">Wypadkowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">23,28</td>
-            <td class="border-r preferencyjne-07-12 text-center">23,28</td>
-            <td class="duzy text-center">86,90</td>
+            <td class="border-r preferencyjne text-center">24,08</td>
+            <td class="duzy text-center">94,39</td>
         </tr>
         <tr class="text-rd">
             <td class="border-r text-bold">
                 <b>Вместе</b>
             </td>
             <td class="border-r ulga text-bold text-center"><b>0</b></td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center"><b>408,5</b></td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center"><b>408,5</b></td>
-            <td class="duzy text-bold text-center"><b>1518,98</b></td>
+            <td class="border-r preferencyjne text-bold text-center"><b>420,86</b></td>
+            <td class="duzy text-bold text-center"><b>1649,82</b></td>
         </tr>
         <tr class="text-green">
             <td colspan="2" class="border-r border-t text-green text-bold valign-center">
                 <b>C: Fundusz Pracy</b>
             </td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">0</td>
-            <td class="border-r preferencyjne-07-12 text-center">0</td>
-            <td class="duzy text-bold text-center">127,49</td>
+            <td class="border-r preferencyjne text-center">0</td>
+            <td class="duzy text-bold text-center">138,47</td>
         </tr>
         <tr class="text-bold">
             <th rowspan="3" class="border-r text-bold">
@@ -179,25 +173,22 @@ ZUS состоит из 2 основных частей:
                 <span class="text-rd">B</span> +
                 <span class="text-green">C</span>):</b>
                 <td class="border-r">0 - 60 000</td>
-                <td class="border-r ulga text-center text-bold">461,66</td>
-                <td class="border-r preferencyjne-01-06 text-center text-bold">870,16</td>
-                <td class="border-r preferencyjne-07-12 text-center text-bold">870,16</td>
-                <td class="duzy text-bold text-center text-bold">2108,13</td>
+                <td class="border-r ulga text-center text-bold">498,35</td>
+                <td class="border-r preferencyjne text-center text-bold">919,21</td>
+                <td class="duzy text-bold text-center text-bold">2286,64</td>
             </th>
         </tr>
         <tr class="text-bold">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td class="border-r ulga text-center text-bold">769,43</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1177,93</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1177,93</td>
-            <td class="duzy text-bold text-center text-bold">2415,90</td>
+            <td class="border-r ulga text-center text-bold">830,58</td>
+            <td class="border-r preferencyjne text-center text-bold">1251,44</td>
+            <td class="duzy text-bold text-center text-bold">2618,87</td>
         </tr>
         <tr class="text-bold">
             <td class="border-r">&gt; 300 000</td>
-            <td class="border-r ulga text-center text-bold">1384,97</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1793,47</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1793,47</td>
-            <td class="duzy text-bold text-center">3031,44</td>
+            <td class="border-r ulga text-center text-bold">1495,04</td>
+            <td class="border-r preferencyjne text-center text-bold">1915,90</td>
+            <td class="duzy text-bold text-center">3283,33</td>
         </tr>
         <tr class="text-gr">
             <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
@@ -205,9 +196,8 @@ ZUS состоит из 2 основных частей:
                 (не обязательная)
             </td>
             <td class="border-r ulga text-bold text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center">34,30</td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center">34,30</td>
-            <td class="duzy text-bold text-center">127,49</td>
+            <td class="border-r preferencyjne text-bold text-center">35,32</td>
+            <td class="duzy text-bold text-center">138,47</td>
         </tr>
     </tbody>
 </table>
@@ -296,6 +286,9 @@ ZUS состоит из 2 основных частей:
 В меню выбираем `Płatnik` (иногда приходит во вкладку `Ogólny`).
 Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**.
 Выбираем документ и подтверждаем получение через Profil Zaufany.
+
+!!! warning "Если у вас есть уполномоченный (например, бухгалтер)"
+    Если в ZUS у предпринимателя есть уполномоченный, то входящие документы, в том числе справка о незадолженности (RWN), **сначала поступают в аккаунт уполномоченного** — в раздел Skrzynka odbiorcza. Пока уполномоченный не нажмёт **Odbierz**, документ не появится в аккаунте плательщика. Если уполномоченный ничего не делает, документ автоматически становится доступен плательщику только через 14 дней. Так что если справка «не приходит» — сначала попросите бухгалтера принять её в своей скшинке.
 
 ![zus_zaswiadczenie_4.png][15]
 
