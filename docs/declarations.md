@@ -10,8 +10,8 @@ tags:
 
 Разовые для регистрации и актуализации информации:
 
-- CEIDG-1 ([Регистрация JDG][4])
-- VAT-R ([польский VAT][5], [VAT UE][6])
+- CEIDG-1 ([Регистрация JDG][1])
+- VAT-R ([польский VAT][2], [VAT UE][3])
 - ZUS ZZA, ZUS ZUA
 
 Ежемесячные декларации:
@@ -31,19 +31,19 @@ tags:
 - PIT (PIT-28, PIT-36, PIT-36L)
 - Годовой расчёт ZUS (это доп. блок XII в декларации ZUS DRA 04)
 - JPK_EWP или JPK_PKPiR
-- ZUS RWS ([каникулы][7])
+- ZUS RWS ([каникулы][4])
 
 ## ZUS DRA
 
-Подробнее читайте в статье об [отчётах ZUS][1].
+Подробнее читайте в статье об [отчётах ZUS][5].
 
 ## VAT (польский)
 
-Подробнее читайте в статье о [декларациях VAT][2].
+Подробнее читайте в статье о [декларациях VAT][6].
 
 ## PIT (годовая декларация)
 
-Подробнее читайте в статье о [декларации PIT][3].
+Подробнее читайте в статье о [декларации PIT][7].
 
 ## Декларации для ИП на паузе
 
@@ -58,15 +58,15 @@ tags:
 - годовую налоговую декларацию PIT.
 - годовую декларацию ZUS, если в предыдущем году велась деятельность. Если в апреле текущего года (2026) уже не велась деятельность, то это будет пустой ZUS DRA 04/2026 с заполненным кодом страхования в блоке X и заполненным блоком XII (как описано в [инструкции][8] в Telegram).
 
-[Поддержите наш гайд чашкой кофе ♥][44]{ .md-button .md-button--primary }
+[Поддержите наш гайд чашкой кофе ♥][9]{ .md-button .md-button--primary }
 
-[1]: declarations_zus.md
-[2]: declarations_vat.md
-[3]: declarations_pit.md
-[4]: registration_jdg.md
-[5]: registration_vat.md
-[6]: registration_vat_ue.md
-[7]: zus_vacation.md#kak-podat-zaiavku-na-zus-kanikuly
+[1]: registration_jdg.md
+[2]: registration_vat.md
+[3]: registration_vat_ue.md
+[4]: zus_vacation.md#kak-podat-zaiavku-na-zus-kanikuly
+[5]: declarations_zus.md
+[6]: declarations_vat.md
+[7]: declarations_pit.md
 [8]: https://t.me/JDG_PBH/542098
 
-[44]: https://buymeacoffee.com/devsobolev
+[9]: https://buymeacoffee.com/devsobolev

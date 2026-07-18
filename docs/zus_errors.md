@@ -12,7 +12,7 @@ tags:
 
 !!! bug "Login"
     Сайт zus.pl не логинит в кабинет! Зависает на Logowanie... или выбрасывает на страницу логина:
-    ![auto-logout][6]
+    ![auto-logout][1]
 
 Попробуйте следующие решения:
 
@@ -30,16 +30,16 @@ tags:
 
 | ⚠️ **Особенность процедуры для пользователей wFirma** |
 |--------------------------------------------------------------------------------------------------------------|
-| Чтобы избежать проблем с переходом в wFirma, следует сначала отправить ZUS DRA за шестой месяц ulga na start и только после этого выполнять переход. Это соответствует [алгоритму в гайде][5]. |
+| Чтобы избежать проблем с переходом в wFirma, следует сначала отправить ZUS DRA за шестой месяц ulga na start и только после этого выполнять переход. Это соответствует [алгоритму в гайде][2]. |
 
 При верификации формы ZUS ищите результат на вкладке uwagi i błędy. Скриншот для наглядности:
-![uwagi i blędy][9]
+![uwagi i blędy][3]
 Давайте вместе собирать самые распространённые ошибки и их решения на этой странице!
 
 ### 68015101
 
 Если вы отправили ZUS ZUA до обработки ZUS ZWUA, то можете видеть ошибку вроде такой:
-![68015101][1]
+![68015101][4]
 
 Текст ошибки:
 > Nie możesz wysłać zgłoszenia z kodem z grupy 05xx, jeżeli jest jeszcze niewyrejstrowany okres podlegania z kodem 05XX. Jeśli wysłałeś dokument ZWUA, poczekaj z wysłaniem nowego zgłoszenia na przetworzenie dokumentu ZWUA w ZUS. (blok V pole 1) Błąd zwykły
@@ -48,7 +48,7 @@ tags:
 
 ### 69012001
 
-![69012001][2]
+![69012001][5]
 
 Вероятно, при верификации декларации ZUS DRA за последний месяц действия Ulgi na Start на вкладке uwagi i błędy вы увидите статус «Informacja» и сообщение «Zbliża się koniec okresu ulgi (blok X pole 1)». Это нормальная ситуация — ZUS просто информирует, что льготный период заканчивается и нужно готовиться к переходу на следующий режим.
 !!! info
@@ -57,10 +57,10 @@ tags:
 ### 69004101
 
 При верификации декларации ZUS DRA за последний месяц действия Ulgi na Start вы видите сообщение «dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu».
-![dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][4]
+![dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][6]
 
 На вкладке uwagi i błędy есть ошибка с кодом 69004101 и текстом «brak raportu za ubezpieczonego zgłoszonego przez płatnika».
-![69004101][3]
+![69004101][7]
 
 Ошибка указывает на расхождение между кодом страхования, который вы сообщили в ZUS, и кодом страхования, указанным на декларации ZUS DRA.
 
@@ -81,7 +81,7 @@ tags:
 
 ## Прочие
 
-Если вы столкнулись с ошибкой, которая пока не задокументирована, или предложенные решения не работают, задайте вопрос непосредственно [зусу][7] или в чате [:telegram: ИП в Польше][8].
+Если вы столкнулись с ошибкой, которая пока не задокументирована, или предложенные решения не работают, задайте вопрос непосредственно [зусу][8] или в чате [:telegram: ИП в Польше][9].
 !!! tip "Как задать вопрос правильно?"
     Укажите в своём вопросе всю важную информацию, всё, что уместно и что по вашему мнению имеет значение. Администрация чата подготовила для вас чеклист. Если затрудняетесь с ответом на какие-то из вопросов, то так и скажите — вам помогут другие участники чата.
 
@@ -119,12 +119,12 @@ tags:
     * Получили письмо из ЗУС? Что там написано?
     * Получили ответ из ЗУС? А как был сформулирован ваш вопрос?
 
-[1]: images/zus_errors/zus_error_68015101.jpg
-[2]: images/zus_errors/zus_error_69012001.jpg
-[3]: images/zus_errors/zus_error_69004101.jpg
-[4]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
-[5]: zus_obnizone_skladki.md#wfirma
-[6]: images/zus_errors/zus_logout.jpg
-[7]: zus_contact.md
-[8]: https://t.me/JDG_PBH/529911
-[9]: images/zus_errors/uwagi_i_bledy.jpg
+[1]: images/zus_errors/zus_logout.jpg
+[2]: zus_obnizone_skladki.md#wfirma
+[3]: images/zus_errors/uwagi_i_bledy.jpg
+[4]: images/zus_errors/zus_error_68015101.jpg
+[5]: images/zus_errors/zus_error_69012001.jpg
+[6]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
+[7]: images/zus_errors/zus_error_69004101.jpg
+[8]: zus_contact.md
+[9]: https://t.me/JDG_PBH/529911

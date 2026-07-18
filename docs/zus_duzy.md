@@ -11,10 +11,10 @@ tags:
 Когда все льготы заканчиваются (обычно после 24 месяцев składek preferencyjnych), то необходимо перейти на **Duży ZUS**.
 
 !!! success "Официальный сайт"
-    [Jakie składki na ubezpieczenia społeczne płaci przedsiębiorca do ZUS][19]
+    [Jakie składki na ubezpieczenia społeczne płaci przedsiębiorca do ZUS][1]
 
 !!! question "Когда переходить на duży ZUS"
-    См. [Сроки перехода между режимами][20]
+    См. [Сроки перехода между режимами][2]
 
 ## Что нужно сделать (в общих чертах)
 
@@ -33,7 +33,7 @@ tags:
 Подробно и наглядно каждый из этих шагов описан ниже.
 
 !!! question "Как попасть в онлайн кабинет плательщика ZUS?"
-    См. [доступные способы][1].
+    См. [доступные способы][3].
 
 ### Шаг 1
 
@@ -41,11 +41,11 @@ tags:
 
 Нажимаем кнопку **Podgląd**.
 
-![zus_actualni_ubezpieczeni][2]
+![zus_actualni_ubezpieczeni][4]
 
 Открывается картотека  Kartoteka ubezpieczonego
 
-![zus_kartoteka_ubezpieczonego][3]
+![zus_kartoteka_ubezpieczonego][5]
 
 ### Шаг 2
 
@@ -54,27 +54,27 @@ tags:
 Отображается текущий код и дата, начиная с которой он действует.
 На картинке ниже виден пример, когда уже действуют складки преференцийне (Składki preferencyjne) и надо перейти на дужий ZUS (Duży ZUS).
 
-Информацию обо всех кодах для предпринимателей ищите в [таблице][23].
+Информацию обо всех кодах для предпринимателей ищите в [таблице][6].
 
 Нажимаем **Zmień dane**.
 
-![zus_kartoteka_ubezpieczonego_zmien_dane][4]
+![zus_kartoteka_ubezpieczonego_zmien_dane][7]
 
 На вкладке Obsługa ubezpieczonego появляется пошаговая форма для внесения изменений.
 
 На шаге "Wybierz dane do zmiany" выбираем галочку в пункте **Dane ubezpieczeń** и нажимаем кнопку **Dalej**.
 
-![zus_obsluga_ubezpieczonego][5]
+![zus_obsluga_ubezpieczonego][8]
 
 ### Шаг 3
 
 На шаге "Dane ubezpieczeń" нажимаем кнопку **Edytuj**.
 
-![zus_obsluga_ubezpieczonego_edytuj][6]
+![zus_obsluga_ubezpieczonego_edytuj][9]
 
 Появляется попап с названием "Zgłoszenie ubezpieczonego → Tytuły ubezpieczeń" с текущими данными.
 
-![zus_kod_tytulu_ubezpieczenia][7]
+![zus_kod_tytulu_ubezpieczenia][10]
 
 **Актуализируем данные в левой колонке:**
 
@@ -93,7 +93,7 @@ tags:
 
 **Актуализируем данные в правой колонке:**
 
-* Справа выбираем *Kod wykonywanego zawodu* (код профессии). Нужно для статистики. Подробнее см. в [таблице кодов профессий][13].
+* Справа выбираем *Kod wykonywanego zawodu* (код профессии). Нужно для статистики. Подробнее см. в [таблице кодов профессий][11].
 * Под кодом профессии располагаются ещё 2 секции:
 
     - **Dobrowolne ubezpieczenia społeczne** (Добровольные взносы на соцстрахование).
@@ -106,7 +106,7 @@ tags:
 Попап закрывается и шаг 4 показывает обновленные данные "Dane ubezpieczeń".
 На картинке ниже пример, когда совершен переход со Składki preferencyjne на Duży ZUS.
 
-![składki_preferencyjne_to_duzy_zus][9]
+![składki_preferencyjne_to_duzy_zus][12]
 
 ??? note "Перевод скриншота"
     ℹ️ Укажи актуальные данные.
@@ -128,13 +128,13 @@ tags:
 
 Нажимаем **Weryfikuj** чтобы кнопка **Wyślij i zakończ** стала активной.
 
-![dokumenty_zua_zwua][10]
+![dokumenty_zua_zwua][13]
 
 После проверки ZUA получает статус "ошибка" (Status weryfikacji = Błąd), связанный с тем, что сначала должна быть обработана заявка ZWUA и лишь
 потом ZUA, но это формальность, так и должно быть. На самом деле заявки посылаются в ZUS одновременно и обрабатываются
 работником вместе, в правильном порядке.
 
-![document_zua_error][11]
+![document_zua_error][14]
 
 Нажимаем **Wyślij i zakończ** (Отправить и завершить), подписываем через ePUAP обе заявки одной подписью.
 
@@ -144,7 +144,7 @@ tags:
 
 После обработки данные в картотеке должны обновиться (см. скриншот 2).
 
-![result][22]
+![result][15]
 
 Можно ещё проверить, что в картотеке в закладке **Członkowie rodziny** остались все ранее приписанные родственники.
 
@@ -157,7 +157,7 @@ tags:
 В этом месяце вы отправите несколько разных деклараций в ZUS:
 
 !!! abstract "DRA"
-    Оплата ZUS и отправка [ZUS DRA][15] с 1 по 20 число месяца, следующего за отчётным.
+    Оплата ZUS и отправка [ZUS DRA][16] с 1 по 20 число месяца, следующего за отчётным.
 
 !!! abstract "ZWUA и ZUA/ZZA"
     ZUS ZWUA и ZUS ZUA/ZZA требуется отправить в ZUS с 1 по 7 число того месяца, в котором вы перестали пользоваться льготами.
@@ -171,30 +171,30 @@ tags:
 
 ## UPP - подтверждение отправки
 
-См. [UPP][21].
+См. [UPP][17].
 
 ## Типичные ошибки
 
-См. [сборник ошибок][22].
+См. [сборник ошибок][18].
 
-[Поблагодарить автора :coffee:][12]
+[Поблагодарить автора :coffee:][19]
 
-[1]: zus_login.md
-[2]: images/zus_duzy/duzy_zus_1.png
-[3]: images/zus_duzy/duzy_zus_2.png
-[4]: images/zus_duzy/duzy_zus_3.png
-[5]: images/zus_duzy/duzy_zus_4.png
-[6]: images/zus_duzy/duzy_zus_5.png
-[7]: images/zus_duzy/duzy_zus_6.png
-[9]: images/zus_duzy/duzy_zus_7.png
-[10]: images/zus_duzy/duzy_zus_8.png
-[11]: images/zus_duzy/duzy_zus_9.png
-[12]: https://justandrei.github.io/coffee
-[13]: zus_next_level.md#tablitsa-kodov-professii
-[15]: declarations.md#zus-dra
-[19]: https://www.biznes.gov.pl/pl/portal/00274
-[20]: zus_next_level.md#sroki-perekhoda-mezhdu-rezhimami
-[21]: zus_next_level.md#upp-podtverzhdenie-otpravki
-[22]: zus_errors.md
-[23]: zus_next_level.md#tablitsa-kodov-strakhovaniia-zus
-[22]: images/zus_duzy/duzy_zus_10.png
+[1]: https://www.biznes.gov.pl/pl/portal/00274
+[2]: zus_next_level.md#sroki-perekhoda-mezhdu-rezhimami
+[3]: zus_login.md
+[4]: images/zus_duzy/duzy_zus_1.png
+[5]: images/zus_duzy/duzy_zus_2.png
+[6]: zus_next_level.md#tablitsa-kodov-strakhovaniia-zus
+[7]: images/zus_duzy/duzy_zus_3.png
+[8]: images/zus_duzy/duzy_zus_4.png
+[9]: images/zus_duzy/duzy_zus_5.png
+[10]: images/zus_duzy/duzy_zus_6.png
+[11]: zus_next_level.md#tablitsa-kodov-professii
+[12]: images/zus_duzy/duzy_zus_7.png
+[13]: images/zus_duzy/duzy_zus_8.png
+[14]: images/zus_duzy/duzy_zus_9.png
+[15]: images/zus_duzy/duzy_zus_10.png
+[16]: declarations.md#zus-dra
+[17]: zus_next_level.md#upp-podtverzhdenie-otpravki
+[18]: zus_errors.md
+[19]: https://justandrei.github.io/coffee

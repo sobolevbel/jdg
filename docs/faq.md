@@ -14,7 +14,7 @@ tags:
 ### Можно ли податься на BlueCard как JDG
 
 **НЕТ**. BlueCard подразумевается только для наёмных рабочих, как JDG вы самостоятельная сущность ведущая бизнес.
-Для легализации надо идти по треку [ВНЖ по JDG][3].
+Для легализации надо идти по треку [ВНЖ по JDG][1].
 
 Но ваш супруг может получить BlueCard и вы сможете вести деятельность, получив ВНЖ
 по воссоединению семьи. Если вы подходите под эту категорию [читайте подробнее в справочнике][2].
@@ -72,7 +72,7 @@ tags:
 
 ### Где найти всю публично доступную информацию о моей фирме, включая NIP, REGON, официальное название фирмы
 
-[https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx][4]
+[https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx][3]
 
 ### По опыту, какие сроки по открытию ИП? - начиная с момента как пошли в ужонд за песелем
 
@@ -85,11 +85,11 @@ tags:
 
 ### Как ликвидировать ИП
 
-[Terminating your activity - what should you know? (biznes.gov.pl)][5]
+[Terminating your activity - what should you know? (biznes.gov.pl)][4]
 
-[Jak zakończyć jednoosobową działalność gospodarczą (biznes.gov.pl)][6]
+[Jak zakończyć jednoosobową działalność gospodarczą (biznes.gov.pl)][5]
 
-[Как закрыть бизнес в Польше? Ликвидация, банкротство и реорганизация][7]
+[Как закрыть бизнес в Польше? Ликвидация, банкротство и реорганизация][6]
 
 ### JDG vs бизнес-инкубатор
 
@@ -127,9 +127,9 @@ tags:
 
 ### Как выбрать банк
 
-Отличная сравнительная [гугл док табличка][10].
+Отличная сравнительная [гугл док табличка][7].
 
-Последнее время участились проблемы с открытием банковских счетов для беларусов. Используйте поиск по телеграм чату [:telegram: ИП в Польше][1].
+Последнее время участились проблемы с открытием банковских счетов для беларусов. Используйте поиск по телеграм чату [:telegram: ИП в Польше][8].
 
 ### Нужен ли REGON банкам для открытия фирмового счета
 
@@ -141,7 +141,7 @@ tags:
 
 - сумма одной сделки с другим предпринимателем превышает 15 000 злотых (даже если вы разделите эту сумму на несколько
     частей, например, будете оплачивать счет частями). Статья от poradnikprzedsiebiorcy.pl:
-    [Obowiązkowy rachunek firmowy dla wszystkich przedsiębiorców][8]. [Ссылка на закон][9].
+    [Obowiązkowy rachunek firmowy dla wszystkich przedsiębiorców][9]. [Ссылка на закон][10].
 - вы хотите использовать дробный платеж (MPP)
 - вы будете осуществлять операции, подлежащие обязательному раздельному платежу (MPP).
 
@@ -260,16 +260,16 @@ TL;DR Нет.
 
 [В google docs][18].
 
-[1]: https://t.me/JDG_PBH
+[1]: legalization.md
 [2]: https://pani-alenka.notion.site/a6a34efa29564a48b597f6e1a61b412e
-[3]: legalization.md
-[4]: https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx
-[5]: https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know
-[6]: https://www.biznes.gov.pl/pl/portal/0077#5
-[7]: https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content
-[8]: https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow
-[9]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19
-[10]: https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview
+[3]: https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx
+[4]: https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know
+[5]: https://www.biznes.gov.pl/pl/portal/0077#5
+[6]: https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content
+[7]: https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview
+[8]: https://t.me/JDG_PBH
+[9]: https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow
+[10]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19
 [11]: https://isap.sejm.gov.pl/isap.nsf/download.xsp/WDU20220001771/O/D20221771.pdf
 [12]: https://programistanaswoim.pl/128-kosztow-uzyskania-przychodu-kazdego-programisty/
 [13]: https://podatkiprogramisty.pl/73-pomysly-na-koszty-firmowe-dla-programisty/

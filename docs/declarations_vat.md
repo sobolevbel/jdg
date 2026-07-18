@@ -26,14 +26,14 @@ VAT = НДС - налог на добавленную стоимость.
     До 31 декабря 2026 действует переходный период: не применяются штрафы за нарушения,
     допускаются фактуры из кассовых аппаратов вне KSeF и режим offline24. inFakt и wFirma
     интегрированы с KSeF — фактуры отправляются в систему автоматически.
-    Подробности на [ksef.podatki.gov.pl][50].
+    Подробности на [ksef.podatki.gov.pl][1].
 
 ## VAT (польский)
 
 Плательщики польского VAT (czynny płatnik VAT) имеют обязательство ежемесячной (JPK_V7M) или ежеквартальной (JPK_V7K)
 отправки декларации JPK_VAT, в которой отражены ваши продажи и покупки с VAT.
 
-Статья на [biznes.gov.pl][1] про декларации VAT.
+Статья на [biznes.gov.pl][2] про декларации VAT.
 
 ### Когда отправлять декларацию
 
@@ -48,7 +48,7 @@ VAT = НДС - налог на добавленную стоимость.
 
 Вы можете использовать любую программу, поддерживающую генерацию/отправку VAT деклараций, например:
 
-* [e-mikrofirma][2] от министерства финансов — бесплатно, см. [наш гайд][9].
+* [e-mikrofirma][3] от министерства финансов — бесплатно, см. [наш гайд][4].
 * inFakt
 * wFirma
 
@@ -57,24 +57,24 @@ VAT = НДС - налог на добавленную стоимость.
 ??? info "Бесплатно: e-mikrofirma"
     Официальное бесплатное приложение Министерства финансов. Подходит и для нулевых
     деклараций, и для отправки готового XML из другой программы.
-    См. [Отправка JPK_V7M через e-mikrofirmę][9].
+    См. [Отправка JPK_V7M через e-mikrofirmę][4].
 
 ??? info "Пользователи inFakt"
     В inFakt можно выслать декларацию напрямую из программы.
-    См. [Отправка декларации VAT JPK_V7M][3].
+    См. [Отправка декларации VAT JPK_V7M][5].
 
 ??? info "Пользователи wFirma"
     В wFirma можно выслать декларацию напрямую из программы.
     Путь: Podatki - JEDNOLITY PLIK KONTROLNY - dodaj
     оно автоматически всё считает и генерирует декларацию. Далее надо выслать, подтвердив суммой дохода из декларации PIT, отправленной в предыдущем году.
-    [Инструкция][4] на польском.
+    [Инструкция][6] на польском.
 
 ### VAT от аренды
 
 Как учитывать VAT в inFakt при сдаче жилья в аренду?
 
-- [Ответ][5] в Telegram
-- [Уточнение от бухгалтера][6] в Telegram
+- [Ответ][7] в Telegram
+- [Уточнение от бухгалтера][8] в Telegram
 
 Coming soon...
 
@@ -110,7 +110,7 @@ WNT (wewnątrzwspólnotowe nabycie towarów) — покупка товара у 
 
 1. **До покупки** вы должны быть зарегистрированы в VIES (реестр VAT-UE) — иначе
    продавец не сможет выставить фактуру без VAT. Регистрация — через VAT-R
-   (см. [Регистрация VAT-UE][20]).
+   (см. [Регистрация VAT-UE][9]).
 2. Продавец выставляет фактуру **без VAT** (стоимость netto) на ваш EU-NIP
    (с префиксом PL).
 3. В бухгалтерской программе покупка вносится в кошты со ставкой VAT 23%.
@@ -123,7 +123,7 @@ WNT (wewnątrzwspólnotowe nabycie towarów) — покупка товара у 
       (как с покупки). В сумме — 0 zł, доплачивать ничего не нужно.
 
 Итог: товар куплен по netto, без VAT. Инструкции wFirma на польском:
-[распознавание фактур][30], [учёт покупки товаров из ЕС][31].
+[распознавание фактур][10], [учёт покупки товаров из ЕС][11].
 
 ## VAT-UE
 
@@ -137,11 +137,11 @@ WNT (wewnątrzwspólnotowe nabycie towarów) — покупка товара у 
 !!! info "Нулевая VAT UE"
     «Нулевая» - это значит вообще ничего не заполнено, пусто. Такую можно не отправлять. Если всё же отправили, то ничего страшного.
 
-⚖️ В [art. 100 ust. 1][7] ustawy o VAT перечислены случаи, когда VAT-UE надо подавать.
+⚖️ В [art. 100 ust. 1][12] ustawy o VAT перечислены случаи, когда VAT-UE надо подавать.
 
 ### Как отправить декларацию
 
-См. [Электронные формуляры VAT][8] на оф. сайте налоговой.
+См. [Электронные формуляры VAT][13] на оф. сайте налоговой.
 
 ### Коректа
 
@@ -149,20 +149,20 @@ VAT-UEK используется для исправления ранее отп
 
 Coming soon...
 
-[Поддержите наш гайд чашкой кофе ♥][44]{ .md-button .md-button--primary }
+[Поддержите наш гайд чашкой кофе ♥][14]{ .md-button .md-button--primary }
 
-[1]: https://www.biznes.gov.pl/pl/portal/00237
-[2]: https://e-mikrofirma.mf.gov.pl/jpk-form/
-[3]: infakt_routine.md#otpravka-deklaratsii-vat-jpk-v7m
-[4]: https://pomoc.wfirma.pl/-jpk-vat-jednolity-plik-kontrolny-dla-rejestrow-vat
-[5]: https://t.me/JDG_PBH/547209
-[6]: https://t.me/JDG_PBH/547215
-[7]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-100
-[8]: https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/#VAT-UE
-[9]: declarations_jpk_emikrofirma.md
-[20]: registration_vat_ue.md
-[30]: https://pomoc.wfirma.pl/-odczytywanie-faktur-z-telefonu
-[31]: https://pomoc.wfirma.pl/-jak-zaksiegowac-zakup-towarow-od-kontrahenta-z-ue
-[50]: https://ksef.podatki.gov.pl/etapy-wdrozenia-ksef/
+[1]: https://ksef.podatki.gov.pl/etapy-wdrozenia-ksef/
+[2]: https://www.biznes.gov.pl/pl/portal/00237
+[3]: https://e-mikrofirma.mf.gov.pl/jpk-form/
+[4]: declarations_jpk_emikrofirma.md
+[5]: infakt_routine.md#otpravka-deklaratsii-vat-jpk-v7m
+[6]: https://pomoc.wfirma.pl/-jpk-vat-jednolity-plik-kontrolny-dla-rejestrow-vat
+[7]: https://t.me/JDG_PBH/547209
+[8]: https://t.me/JDG_PBH/547215
+[9]: registration_vat_ue.md
+[10]: https://pomoc.wfirma.pl/-odczytywanie-faktur-z-telefonu
+[11]: https://pomoc.wfirma.pl/-jak-zaksiegowac-zakup-towarow-od-kontrahenta-z-ue
+[12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-100
+[13]: https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/#VAT-UE
 
-[44]: https://buymeacoffee.com/devsobolev
+[14]: https://buymeacoffee.com/devsobolev

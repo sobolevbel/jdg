@@ -36,20 +36,20 @@ tags:
 ### Несколько рекомендуемых условий для легализации
 
 1. Активное ведение ИП не менее 3 месяцев
-2. Нужно заработать 12 средних месячных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воеводстве, в котором подаете заявление на ВНЖ, согласно [Art.  142. закона об иностранцах][12]
+2. Нужно заработать 12 средних месячных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воеводстве, в котором подаете заявление на ВНЖ, согласно [Art.  142. закона об иностранцах][1]
 
 !!! note
-    Официально опубликованную информацию о средней месячной зарплате по воеводствам можно найти на официальном сайте GUS в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2024 roku`.
+    Официально опубликованную информацию о средней месячной зарплате по воеводствам можно найти на официальном сайте GUS в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][2]. Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2024 roku`.
 
-    Либо воспользоваться [страницой поиска GUS][19] и ввести ключивым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
+    Либо воспользоваться [страницой поиска GUS][3] и ввести ключивым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
 
-    На момент (19.11.2025) [актуальный документ][20] содержит среднюю зарплату по воеводствам за 2024 год, из которого следует, что эквивалент 12 зарплат для воеводства Варминско-Мазурского составляет **85 606,80** злотых, для Лодзинского **91 759,44** злотых, а для Мазовецкого **113 867,28** злотых.
+    На момент (19.11.2025) [актуальный документ][4] содержит среднюю зарплату по воеводствам за 2024 год, из которого следует, что эквивалент 12 зарплат для воеводства Варминско-Мазурского составляет **85 606,80** злотых, для Лодзинского **91 759,44** злотых, а для Мазовецкого **113 867,28** злотых.
     Страница с документом содержит ссылки на подобные документы предыдущих годов, что наводит на мысль, что по этой же ссылке можно будет легко попасть в свежий документ следующего года.
 
 ## Общие советы по подготовке документов
 
 * Документы должны быть переведены у присяжного переводчика (tłumacz przysięgły). Список всех переводчиков Польши
-  доступен по [ссылке][9].
+  доступен по [ссылке][5].
 * К делу нужно приложить копии оригинала и перевода, оригиналы документов предоставляются только для сверки копии
   с оригиналом. Работник уженда подтвердит копии на соответствие оригиналу и поставит печать.
 * Документы, подтверждающие родство (свидетельство о браке, рождении и т.п.) должны быть переведены присяжным
@@ -99,11 +99,11 @@ tags:
     Реквизиты иногда изменяются. Может одновременно быть несколько страниц с реквизитами, старыми и новыми.
     Так точно уже было в Поморском воеводстве.
 
-    [Прайс и реквизиты для Мазовецкого в-ва][17].
+    [Прайс и реквизиты для Мазовецкого в-ва][6].
 
-    [Реквизиты для Нижнеселезского в-ва][22].
+    [Реквизиты для Нижнеселезского в-ва][7].
 
-    [Реквизиты для Поморского в-ва][23].
+    [Реквизиты для Поморского в-ва][8].
 
 ### 2. Подтверждение цели пребывания
 
@@ -119,8 +119,8 @@ tags:
 
 * Анкета предпринимателя.
 
-    [бланк для заполнения][2],
-    [примерная инструкция заполнения][3]
+    [бланк для заполнения][9],
+    [примерная инструкция заполнения][10]
 
 * Документы, подтверждающие факт ведения хоз. деятельности.
 
@@ -139,7 +139,7 @@ tags:
 
 !!! note
     Перед написанием бизнес-плана вспомните как вы писали диплом. Не стесняйтесь в полете фантазии, но и не забывайтесь.
-    Гайд по написанию бизнес-плана можно скачать [здесь][14].
+    Гайд по написанию бизнес-плана можно скачать [здесь][11].
 
 Бизнес-план должен состоять из:
 
@@ -157,7 +157,7 @@ tags:
 * в конце напишите, что подтверждаете правдивость этого бизнес-плана, число-подпись
 * Выписка из книги расходов и приходов KPIS (ewidencja przychodów/zaliczka для формы налогообложения ryczałt).
 
-    [пример KPiR][15], [пример ewidencja przychodów][16]
+    [пример KPiR][12], [пример ewidencja przychodów][13]
 
 * Контракты с клиентами с переводом у присяжного переводчика, если контракт не содержит польской версии.
 
@@ -191,7 +191,7 @@ tags:
 * Załącznik #1.
 
     Не обязателен для ИП (в Кракове и Варшаве точно не нужен), но могут попросить в других воеводствах.
-    Заполните сами на себя. Пример заполнения и информации по [ссылке][4]. Пустой бланк в [pdf][5].
+    Заполните сами на себя. Пример заполнения и информации по [ссылке][14]. Пустой бланк в [pdf][15].
 
 ### 3. Подтверждение 3 ключевых пунктов пребывания
 
@@ -264,10 +264,10 @@ tags:
 * Дополнительно можно приложить выписку с банковского счета о наличии средств на счету.
   Но это само по себе не достаточное подтверждение.
 
-* Заявление о количестве людей, находящихся на содержании ([скачать бланк][6]).
+* Заявление о количестве людей, находящихся на содержании ([скачать бланк][16]).
   Заявление заполняет основной заявитель. Совершеннолетние члены семьи также заполняют такой документ.
 
-* Заявление о работе ([скачать бланк][7]). Заполняется основным заявителем.
+* Заявление о работе ([скачать бланк][17]). Заполняется основным заявителем.
 
 ### 4. Дополнительные документы
 
@@ -276,7 +276,7 @@ tags:
 * Другие документы, подтверждающие присутствие члена семьи на территории Польши и ведение совместной жизни.
   Например, фотографии, совместные счета и т.д.
 
-### 5. Доверенность ([бланк][8])
+### 5. Доверенность ([бланк][18])
 
 Если хотите чтобы ваши интересы представлял кто-либо – нужно заполнить и
 приложить доверенность. За установление доверенного лица нужно внести сбор в
@@ -289,7 +289,7 @@ tags:
 
 Документы на иностранном языке (не польском) должны быть переведены у
 присяжного переводчика (tłumacz przysięgły). Список всех переводчиков Польши
-доступен по [ссылке][9].
+доступен по [ссылке][5].
 
 ## Чек-лист для членов семьи предпринимателя
 
@@ -373,7 +373,7 @@ tags:
 * Дополнительно можно приложить выписку с банковского счета о наличии средств на счету.
   Но это само по себе не достаточное подтверждение.
 
-#### 3.4. Заявление о количестве людей, находящихся на содержании ([скачать бланк][6])
+#### 3.4. Заявление о количестве людей, находящихся на содержании ([скачать бланк][16])
 
 Заявление заполняет основной заявитель.
 Совершеннолетние члены семьи также заполняют такой документ.
@@ -389,7 +389,7 @@ tags:
   то необходимо принести справку из ZUS, о том что он имеет страховку. Ничего из того что указано в пункте 3.1 их не
   интересует. Можно взять рядом с ужондом в самом [ZUS](https://goo.gl/maps/4NgWUKNUF2MVeD47A) за 10 минут бесплатно.
 
-### 5. Доверенность ([бланк][8])
+### 5. Доверенность ([бланк][18])
 
 Если хотите чтобы ваши интересы представлял кто-либо нужно заполнить и
 приложить доверенность. За установление доверенного лица нужно внести сбор в
@@ -410,23 +410,23 @@ tags:
 
 <!-- resources -->
 
-[1]: https://t.me/root_eu
-[2]: https://docs.google.com/document/d/1JIjog1ZHP9-ZqX3Z9MQQQhZrBHFAGjtL/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
-[3]: https://drive.google.com/file/d/1zM60Fm1tLJ16vq_GMtZ8kEZxK0KGcEov/view?usp=sharing
-[4]: https://drive.google.com/file/d/1pKr2W6odMwFu3NboFn9u_OCu7CUB2OOW/view?usp=sharing
-[5]: https://drive.google.com/file/d/1wAZBGo9LE2cT9jtgiUtuVc3ROnvVEc8O/view?usp=sharing
-[6]: https://docs.google.com/document/d/1-yNu2p0i1hCxAW5SKwCB4i8PrHjxqb2R/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
-[7]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
-[8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
-[9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
-[12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
-[13]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
-[14]: karta-pobytu-docs/business-plan-guide.pdf
-[15]: https://pomoc.wfirma.pl/-kpir-w-systemie-wfirma-pl
-[16]: https://www.pit.pl/formy-opodatkowania/nowy-wzor-ewidencji-przychodow-2021-1002791
-[17]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
-[18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
-[19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
-[20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
-[22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
-[23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
+[1]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
+[2]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
+[3]: https://stat.gov.pl/wyszukiwarka/szukaj.html
+[4]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
+[5]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
+[6]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
+[7]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
+[8]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
+[9]: https://docs.google.com/document/d/1JIjog1ZHP9-ZqX3Z9MQQQhZrBHFAGjtL/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
+[10]: https://drive.google.com/file/d/1zM60Fm1tLJ16vq_GMtZ8kEZxK0KGcEov/view?usp=sharing
+[11]: karta-pobytu-docs/business-plan-guide.pdf
+[12]: https://pomoc.wfirma.pl/-kpir-w-systemie-wfirma-pl
+[13]: https://www.pit.pl/formy-opodatkowania/nowy-wzor-ewidencji-przychodow-2021-1002791
+[14]: https://drive.google.com/file/d/1pKr2W6odMwFu3NboFn9u_OCu7CUB2OOW/view?usp=sharing
+[15]: https://drive.google.com/file/d/1wAZBGo9LE2cT9jtgiUtuVc3ROnvVEc8O/view?usp=sharing
+[16]: https://docs.google.com/document/d/1-yNu2p0i1hCxAW5SKwCB4i8PrHjxqb2R/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
+[17]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
+[18]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
+[19]: https://t.me/root_eu
+[20]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy

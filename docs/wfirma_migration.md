@@ -86,13 +86,13 @@ tags:
 
 ### Перенос фактуры
 
-Теперь добавим фактуру за услуги в январе. Следуйте инструкции ["Выставление фактур"][10] из гайда, только:
+Теперь добавим фактуру за услуги в январе. Следуйте инструкции ["Выставление фактур"][8] из гайда, только:
 
 1. можете сразу отметить фактуру оплаченной, поставив галочку рядом с "zapłacono";
 2. введите дату оплаты в data rozliczenia faktury;
 3. выберите "wpłata na rachunek: walutowy" (если оплата поступила на счёт в иностранной валюте) или "w PLN" (если - в злотых).
 
-    ![11]
+    ![9]
 
 4. убедитесь, что на вкладке "Zaawansowane" отсутствует галочка возле "automatyczna wysyłka na adres e-mail". Это дубликат старой фактуры, не нужно её повторно отправлять клиенту.
 
@@ -107,7 +107,7 @@ tags:
     К тому же я не уверен, что если идти этим путём, то здесь нужно указывать składki spoleczne (1646.47 zł), а не składki spoleczne БЕЗ fundusz pracy (1646.47 - 127.49 = 1518.98 zł).
     Буду признателен, если кто-то проверит и внесёт изменения.
 
-    ![18]
+    ![10]
 
 1. Нажимаем Start → ZUS;
 2. Нажимаем Dodaj deklarację;
@@ -116,7 +116,7 @@ tags:
     - Forma opodatkowania w roku 2025 - Форма налогообложения в предыдущем году (на скриншоте выбран "ryczałt", выберите свою).
     - Składki spoleczne zapłacone w styczniu 2026 - Социальные взносы, оплаченные в январе 2026. Укажите сумму, сколько оплатили за себя и за osoba współpracująca в январе нового года. Не важно, за какой период. Важно, что дата оплаты в выписке из банка приходится на январь.
 
-    ![8]
+    ![11]
 
     На скриншоте указано **ZUS = 1646.47 zł**. Ровно столько составляли минимальные соц. взносы к оплате в ZUS для предпринимателей на рычалте без льгот (полный или duży ZUS) за декабрь 2025-го года.
 
@@ -129,7 +129,7 @@ tags:
 
 ### Вычисление налогов
 
-Мне не хотелось бы повторяться, поэтому предлагаю дальнейшие шаги по PIT и ZUS искать в инструкции [Ежемесячные операции в wfirma.pl][9] - см. "Вычисление и оплата налогов".
+Мне не хотелось бы повторяться, поэтому предлагаю дальнейшие шаги по PIT и ZUS искать в инструкции [Ежемесячные операции в wfirma.pl][12] - см. "Вычисление и оплата налогов".
 Когда PIT и ZUS за отчётный месяц будут посчитаны, можно их сравнить с тем, что было посчитано в старой системе, чтобы перепроверить правильность миграции.
 
 ### Оплата и отправка
@@ -138,19 +138,19 @@ tags:
 
 1. Откройте ZUS DRA в режиме предпросмотра. Для этого нажмите на плитку ZUS DRA чуть выше синей кнопки.
 
-    ![14]
+    ![13]
 
 2. Кнопка "Drukuj": Печать в PDF.
 3. Кнопка "Wyślij do ZUS": отправить декларацию в ZUS. В данном случае не нужно.
 4. Кнопка "Oznacz jako wysłana": отметить как отправленную. Нажимаем! И соглашаемся с предупреждением, в котором говорится, что выбранная декларация уже была отправлена пользователем вне системы wFirma (например, через другой сервис или бухгалтером).
 
-    ![15]
+    ![14]
 
 5. Вкладка "Płatności" - кнопка "Dodaj": нажимаем её после оплаты ZUS, если оплата произведена вне wFirma. Заполняем простую форму и нажимаем Zapisz для сохранения.
 
 Похожим образом zaliczki PIT тоже нужно отмечать оплаченными, если оплата производится вне wFirma.
 
-![16]
+![15]
 
 Путь на скриншоте: Start → PIT → в окне Zaliczka na podatek dochodowy za (...) перейти на вкладку Płatności → кнопка Dodaj → заполнить форму Dodawanie płatności za deklarację → сохранить.
 
@@ -162,12 +162,12 @@ tags:
 Если что-то пошло не так, столкнулись с проблемами - можете задать вопрос в службу поддержки wFirma:
 
 - Pomoc: нажмите на знак (?) в правом верхнем углу.
-- Asysta: [ассистент][12]
-- email: [buiro@wfirma.pl][13]
+- Asysta: [ассистент][16]
+- email: [buiro@wfirma.pl][17]
 
 примечание: первые 2 способа доступны только для авторизованных пользователей.
 
-[Поддержите наш гайд чашкой кофе ♥][17]{ .md-button .md-button--primary }
+[Поддержите наш гайд чашкой кофе ♥][18]{ .md-button .md-button--primary }
 
 [1]: wfirma_settings.md
 [2]: https://pomoc.wfirma.pl/-przeniesienie-ksiegowosci-w-trakcie-roku
@@ -176,14 +176,14 @@ tags:
 [5]: images/wfirma_migration/inne_przychody_dodawanie_nowego_DW.png
 [6]: images/wfirma_migration/inne_przychody_dodawanie_nowego_DW_zaawansowane.png
 [7]: images/wfirma_migration/inne_przychody_zaksięgowane.png
-[8]: images/wfirma_migration/zus_dodaj.png
-[9]: wfirma_routine.md#vychislenie-i-oplata-nalogov
-[10]: wfirma_routine.md#vystavlenie-faktur
-[11]: images/wfirma_migration/faktura_zapłacono.png
-[12]: https://wfirma.pl/messages/supportIssues
-[13]: mailto:buiro@wfirma.pl
-[14]: images/wfirma_migration/zus_dra_podgłąd.png
-[15]: images/wfirma_migration/zus_dra_wysłana_uwaga.png
-[16]: images/wfirma_migration/pit_zaliczka_dodawanie_płaności.png
-[17]: support.md
-[18]: images/wfirma_migration/cat.jpg
+[8]: wfirma_routine.md#vystavlenie-faktur
+[9]: images/wfirma_migration/faktura_zapłacono.png
+[10]: images/wfirma_migration/cat.jpg
+[11]: images/wfirma_migration/zus_dodaj.png
+[12]: wfirma_routine.md#vychislenie-i-oplata-nalogov
+[13]: images/wfirma_migration/zus_dra_podgłąd.png
+[14]: images/wfirma_migration/zus_dra_wysłana_uwaga.png
+[15]: images/wfirma_migration/pit_zaliczka_dodawanie_płaności.png
+[16]: https://wfirma.pl/messages/supportIssues
+[17]: mailto:buiro@wfirma.pl
+[18]: support.md
