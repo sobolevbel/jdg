@@ -23,6 +23,7 @@ nav:
     - Переход на Składki Preferencyjne: zus_obnizone_skladki.md
     - Переход на Duży ZUS: zus_duzy.md
     - Больничные и декрет: zus_chorobowe.md
+    - Пенсия: emerytura.md
     - Ошибки ZUS: zus_errors.md
     - ZUS-Каникулы: zus_vacation.md
     - Контакты: zus_contact.md
@@ -113,6 +114,7 @@ plugins:
             Переход на Składki Preferencyjne: Switching to Składki Preferencyjne
             Переход на Duży ZUS: Switching to Duży ZUS
             Больничные и декрет: Sick Leave and Maternity
+            Пенсия: Pension
             Ошибки ZUS: ZUS Errors
             ZUS-Каникулы: ZUS Vacation
             Контакты: Contacts
