@@ -1,5 +1,5 @@
 ---
-title: Taxes for JDG in Poland
+title: Self-Employment Taxes in Poland (JDG)
 description: Taxes for sole proprietors in Poland — ryczałt, skala podatkowa, podatek liniowy, VAT. Tax rates, calculators, payment accounts
 tags:
   - Taxes
@@ -117,7 +117,7 @@ After registering in the VAT EU payer database (wniosek VAT-R), add the prefix P
 EU VAT number.
 
 !!! tip "How to verify registration?"
-    You can verify that your counterpart is a VAT-EU payer [here][18].
+    You can verify that your counterpart is a VAT-EU payer in the [European Commission's VIES database][18].
 
 ### VAT for Other Countries
 

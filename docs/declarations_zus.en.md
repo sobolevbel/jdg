@@ -76,7 +76,7 @@ You can find your submitted declarations on the Dokumenty -> Dokumenty wysłane 
 A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) instead of 1 (initial filing).
 
 1. [Official general instructions][11] in Polish from ZUS
-2. [Instructions][12] in Polish for inFakt users
+2. [Instructions for inFakt users][12] in Polish
 
 [Support our guide with a cup of coffee ♥][44]{ .md-button .md-button--primary }
 

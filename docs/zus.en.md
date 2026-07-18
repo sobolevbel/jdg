@@ -1,5 +1,5 @@
 ---
-title: ZUS — Social Insurance for JDG
+title: ZUS — Social Insurance for the Self-Employed in Poland
 description: ZUS insurance contributions for sole traders in Poland — składki społeczne and zdrowotne, payment modes, Ulga na Start, Preferencyjne, Duży ZUS
 tags:
   - ZUS

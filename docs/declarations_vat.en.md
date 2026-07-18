@@ -66,7 +66,7 @@ You can use any software that supports generating/submitting VAT declarations, f
     In wFirma you can submit the declaration directly from the app.
     Path: Podatki - JEDNOLITY PLIK KONTROLNY - dodaj
     It automatically calculates everything and generates the declaration. Then you need to submit it by confirming with the income amount from the PIT declaration filed the previous year.
-    [Instructions][6] in Polish.
+    [wFirma instructions for JPK VAT][6] in Polish.
 
 ### VAT on rent
 

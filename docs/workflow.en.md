@@ -1,5 +1,5 @@
 ---
-title: JDG workflow — monthly obligations
+title: Monthly Obligations of a Sole Trader in Poland — JDG Workflow
 description: What to do each month as a JDG — issuing invoices, paying taxes, ZUS DRA, JPK. Deadlines and step-by-step procedure
 tags:
   - Accounting
@@ -40,9 +40,9 @@ In the `Nazwa towaru lub usługi` (name of goods or service) field, you can spec
 4. You pay all required taxes and keep the receipts:
     - podatek dochodowy (income tax)
     - ZUS (social security contributions)
-    - VAT: if applicable, you can deduct input VAT from purchases against the total VAT owed. [Details][1]
+    - VAT: if applicable, you can deduct input VAT from purchases against the total VAT owed. Details are in the [FAQ section on VAT][1]
 
-A more detailed description of specific operations using the `infakt.pl` service as an example can be found [here][2].
+A more detailed description of specific operations using the `infakt.pl` service as an example can be found in the [infakt routine guide][2].
 
 ## Accounting for exchange rate differences
 
@@ -64,7 +64,7 @@ Exchange rates are taken from the [Narodowy Bank Polski][8] (National Bank of Po
 
 Filing the VAT-UE e-declaration is done on the tax office website using an [interactive PDF form][9].
 
-- First, you need to install Adobe Reader and its extension from [here][10].
+- First, you need to install Adobe Reader and its extension from the [e-Deklaracje plugin page][10].
 - On the same page at the bottom there are instructions. In short: download the PDF form, open it in Adobe Reader with the
     installed extension, fill out the form, and use the extension's wizard to sign with your personal data and submit.
 - At the end of the wizard there will be a link to download the UPO (confirmation of submission).
@@ -92,7 +92,7 @@ List of documents:
 
 - Dowody wewnętrzne (internal evidence documents) — this type of document is used, for example, to record exchange rate differences that arise when you receive payment in a foreign currency.
 
-- Some sole proprietors may also have an [ewidencja środków][11] trwałych (register of fixed assets) — buildings, cars, devices, and other items such as an expensive laptop purchased for the business. [More details][12].
+- Some sole proprietors may also have an [ewidencja środków][11] trwałych (register of fixed assets) — buildings, cars, devices, and other items such as an expensive laptop purchased for the business. [More details on ewidencja środków trwałych][12].
 
 - Some may have an ewidencja przebiegu pojazdów (vehicle mileage log) — for a car registered to the business.
 

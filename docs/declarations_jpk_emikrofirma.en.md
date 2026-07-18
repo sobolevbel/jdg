@@ -1,5 +1,5 @@
 ---
-title: Submitting JPK_V7M via e-mikrofirma
+title: JPK_V7M via e-mikrofirma — Free VAT Filing in Poland
 description: How to submit the JPK_V7M declaration for free via the official e-mikrofirma app from the Ministry of Finance — logging in, invoices, zero declaration, signing, UPO, korekta
 tags:
   - Declarations

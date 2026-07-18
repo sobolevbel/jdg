@@ -18,7 +18,7 @@ This guide is suitable for a typical freelancer sole proprietor (JDG) on ryczał
 
 ## Preparation
 
-The wFirma setup is described [here][1]. That page also covers setup specifics related to transitioning from another accounting system.
+The wFirma setup is described on the [wFirma setup page][1]. That page also covers setup specifics related to transitioning from another accounting system.
 
 ## Theory
 

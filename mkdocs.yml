@@ -81,6 +81,9 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
+hooks:
+  - hooks/seo_faq_schema.py
+
 plugins:
   - i18n:
       reconfigure_material: true

@@ -1,5 +1,5 @@
 ---
-title: Registering as a VAT-UE taxpayer
+title: VAT-UE Registration in Poland for Working with EU Clients
 description: How to register as a VAT-EU taxpayer for supplying services to clients in EU countries — VAT-R, VIES, reverse charge VAT
 tags:
   - Registration

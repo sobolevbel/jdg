@@ -87,7 +87,7 @@ Choose a service based on your preferences and where you kept your books last ye
 | [Twój e-PIT][84] | Government, official. Great for simple cases, e.g. PIT-37 with income from umowa o pracę. This guide has instructions for JDG. | Can get confused with foreign income, hard to automatically add it to the tax base. | [PIT-28 via Twój e-PIT](#pit-28-via-twoj-e-pit) |
 | [e-pity][85] | A tried-and-true service, handles non-standard cases well. This guide has instructions for JDG. | - | [PIT-28 via e-pity for Android](#e-pity-for-android) |
 | [fill-up][86] | Ideal for those who kept books in inFakt — allows automatic data import. Others can fill in manually. | - | [PIT in inFakt][89] |
-| [pitroczny.pl][87] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions][90] in Telegram |
+| [pitroczny.pl][87] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions for pitroczny.pl][90] in Telegram |
 | [wFirma][88] | Can generate and submit PIT on its own, no intermediaries needed. | Only free during the first year for new clients | [Official PIT-28 instructions][91] |
 
 ## e-pity Website
@@ -245,7 +245,7 @@ This deduction covers home and mobile internet as well as payments for
 any other public internet, for example, in an internet cafe. You need to keep receipts or invoices for
 all internet payments — they may sometimes be requested.
 
-You can read more, for example, [here][26], or just google "ulga na internet".
+You can read more, for example, in the [PITax article on ulga internetowa][26], or just google "ulga na internet".
 
 ![e-pity: Ulga na internet form — choosing the relief year and entering the expenses amount][27]
 

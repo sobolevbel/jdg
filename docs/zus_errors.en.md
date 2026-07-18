@@ -26,7 +26,7 @@ Try the following solutions:
 
 | ⚠️ **What to do if you missed the deadline for switching to składki preferencyjne?** |
 |--------------------------------------------------------------------------------------------------------------|
-| If an entrepreneur misses the 7-day deadline, there is nothing preventing them from doing it later. Do it now, as soon as possible. Keep in mind that failing to meet the legally established reporting deadline is a violation of the provisions of the Act on the Social Insurance System (ustawy o systemie ubezpieczeń społecznych) and is punishable by a fine. ([Source](https://oficynafk.pl/skladki/preferencyjne-skladki-zus-po-uldze-na-start-obnizone-skladki-zus-krok-po-kroku-19514.html)) |
+| If an entrepreneur misses the 7-day deadline, there is nothing preventing them from doing it later. Do it now, as soon as possible. Keep in mind that failing to meet the legally established reporting deadline is a violation of the provisions of the Act on the Social Insurance System (ustawy o systemie ubezpieczeń społecznych) and is punishable by a fine. ([oficynafk.pl explainer](https://oficynafk.pl/skladki/preferencyjne-skladki-zus-po-uldze-na-start-obnizone-skladki-zus-krok-po-kroku-19514.html)) |
 
 | ⚠️ **Important note for wFirma users** |
 |--------------------------------------------------------------------------------------------------------------|

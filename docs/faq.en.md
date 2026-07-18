@@ -1,5 +1,5 @@
 ---
-title: FAQ — Frequently Asked Questions about JDG
+title: FAQ — Self-Employment (JDG) in Poland: Common Questions
 description: Answers to common questions about JDG in Poland — Blue Card, residence permits, taxes, changing clients, suspending activity, closing your business
 tags:
   - Reference
@@ -179,7 +179,7 @@ Ask the seller for a faktura and provide your NIP. The purchase must be invoiced
 
 Then send the faktura to your accountant for the deduction.
 
-The VAT deduction process in infakt is described [here][14].
+The VAT deduction process in infakt is described in the [section on submitting the VAT (JPK_V7M) declaration][14].
 
 ### How is VAT rounded
 

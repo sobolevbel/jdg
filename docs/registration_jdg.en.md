@@ -148,7 +148,7 @@ Click `DALEJ`
 ### 8a. e-Doręczenia — electronic document delivery system
 
 !!! info
-    e-Doręczenia is an electronic system for delivering official documents and correspondence. It allows organizations, entrepreneurs, and individuals to receive and send legally binding messages digitally, replacing traditional paper mail. These messages are legally equivalent to registered mail with acknowledgment of receipt. Each user is assigned an electronic delivery address (Adres do Doręczeń Elektronicznych, ADE). The recipient receives a notification about a new document and can view it through a secure portal. You can read more at [this link][20].
+    e-Doręczenia is an electronic system for delivering official documents and correspondence. It allows organizations, entrepreneurs, and individuals to receive and send legally binding messages digitally, replacing traditional paper mail. These messages are legally equivalent to registered mail with acknowledgment of receipt. Each user is assigned an electronic delivery address (Adres do Doręczeń Elektronicznych, ADE). The recipient receives a notification about a new document and can view it through a secure portal. You can read more on the [official e-Doręczenia page][20].
 
 At the `Adres do e-Doręczeń` step, you will be offered to register for electronic delivery. You most likely don't have such an address yet, so select the first option — I want to submit data to create an e-Doręczenia address.
 
@@ -356,7 +356,7 @@ And finally, you can send the signed documents:
 ![Sending the signed application to CEIDG][50]
 
 !!! tip "It is highly recommended to download and double-check your application"
-    - Go to [this link][51]
+    - Go to your [konto.biznes.gov.pl account][51]
     - Select the entry Zarejestruj działalność gospodarczą w CEIDG in your cases
     - Next to 202NNNNN-NNNN-NNNN-wniosek.xml, click Podgląd
     - In particular, make sure the tax system is selected — for example, ryczałt (check section 15. Oświadczenie o formie opłacania podatku dochodowego).

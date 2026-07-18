@@ -105,7 +105,7 @@ you’ll have to go one step back and go through again.
 
 ## 8. Metoda kasowa
 
-You can read about this [here][9], but honestly we don’t need it. Decline it.
+You can read about this in the [poradnikprzedsiebiorcy article on metoda kasowa][9], but honestly we don’t need it. Decline it.
 
 ![VAT-R form: declining metoda kasowa][10]
 
@@ -214,11 +214,11 @@ as `.pdf`, `.docx`, or a scan.
 
 **Preferred method — `pismo ogólne` via the `e-Urząd Skarbowy` site** (staff at `Urząd Skarbowy` asked people to send documents that way — several users confirmed).
 
-How to do it is on [this page][18]
+How to do it is described in the [pismo ogólne guide][18]
 
 **Alternative — send an email.**
 
-You can find your `Urząd Skarbowy` email on the Ministry of Finance contact page for units [here][19], by downloading
+You can find your `Urząd Skarbowy` email on the [Ministry of Finance contact page for units][19], by downloading
 the `Baza teleadresowa jednostek KAS.xls` spreadsheet (for your office you want type "US" in the "
 TYP" column besides the address) or by finding your office manually on the site.
 

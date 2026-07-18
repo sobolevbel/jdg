@@ -1,5 +1,5 @@
 ---
-title: Applying for a karta pobytu via MOS
+title: Applying Online for a Polish Residence Permit via MOS
 description: Step-by-step guide to submitting a wniosek for pobyt czasowy (residence permit) via the MOS portal — konto registration, filling out the wniosek online, signing via Profil Zaufany, UPO
 tags:
   - Legalization
