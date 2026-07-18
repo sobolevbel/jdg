@@ -14,11 +14,11 @@ tags:
 
 ## Видео
 
-[:youtube: Почти всё, что вы хотели узнать про ZUS и не постеснялись спросить][100]
+[:youtube: Почти всё, что вы хотели узнать про ZUS и не постеснялись спросить][2]
 
 [![Почти всё, что вы хотели узнать про ZUS и не постеснялись спросить](https://img.youtube.com/vi/FJVhBu-_nyA/0.jpg)](https://youtu.be/FJVhBu-_nyA "Почти всё, что вы хотели узнать про ZUS и не постеснялись спросить")
 
-**Автор:** [:telegram: Андрей][101]
+**Автор:** [:telegram: Андрей][3]
 
 Содержание видео:
 
@@ -93,7 +93,7 @@ ZUS состоит из 2 основных частей:
 
 ## Инфографика взносов ZUS
 
-Переходите на сайт [Składki ZUS (ryczałt)][102] (2026).
+Переходите на сайт [Składki ZUS (ryczałt)][4] (2026).
 
 ## Таблица расчета взносов ZUS
 
@@ -209,12 +209,12 @@ ZUS состоит из 2 основных частей:
 От уплат социальной складки зависят социальные выплаты. В том числе —
 декретные, больничные, будущая пенсия, но эти выплаты пропорциональны сумме с которой вы оплачиваете взносы.
 
-Первые 6 месяцев можно пользоваться льготой "[Ulga na start][2]" и не платить
+Первые 6 месяцев можно пользоваться льготой "[Ulga na start][5]" и не платить
 социальные складки. Соответственно, социальными выплатами тоже воспользоваться не получится. После истечения льготы на старт, можно
-[перейти][23] на следующую льготу — **Składki preferencyjne** и пользоваться ею в
-течение 24 месяцев. После 30 месяцев деятельности нужно [перейти][26] на оплату полного ZUS (**duży ZUS**) — минимум 60% от средней заплаты.
+[перейти][6] на следующую льготу — **Składki preferencyjne** и пользоваться ею в
+течение 24 месяцев. После 30 месяцев деятельности нужно [перейти][7] на оплату полного ZUS (**duży ZUS**) — минимум 60% от средней заплаты.
 
-Больше деталей на [biznes.gov.pl][25] и [e-pity][24]
+Больше деталей на [biznes.gov.pl][8] и [e-pity][9]
 
 ## Регистрация
 
@@ -223,7 +223,7 @@ ZUS состоит из 2 основных частей:
 
 ## Как узнать свой счет для оплаты ZUS
 
-После регистрации ИП через +-2 недели должно прийти письмо (физическое, конверт) из ZUS со всеми счетами и т.д. и функционал появится в кабинете, на сайте [eskladka.pl][3].
+После регистрации ИП через +-2 недели должно прийти письмо (физическое, конверт) из ZUS со всеми счетами и т.д. и функционал появится в кабинете, на сайте [eskladka.pl][10].
 
 А так же можно проверить счета на вышеупомянутом сайте, для этого необходимо ввести два идентификатора NIP и REGON (или NIP и PESEL).
 
@@ -250,35 +250,35 @@ ZUS состоит из 2 основных частей:
 
 Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
 
-![zus_zaswiadczenie_2.png][7]
+![zus_zaswiadczenie_2.png][11]
 
 ### Количество экземпляров справки
 
 Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
 
-![zus_zaswiadczenie_2.1.png][8]
+![zus_zaswiadczenie_2.1.png][12]
 
 ### Закрываем документ и соглашаемся
 
-![zus_zaswiadczenie_2.2.png][9]
+![zus_zaswiadczenie_2.2.png][13]
 
-![zus_zaswiadczenie_2.3.png][10]
+![zus_zaswiadczenie_2.3.png][14]
 
 ### Проверяем документ и нажимаем **Wyślij**
 
-![zus_zaswiadczenie_2.4.png][11]
+![zus_zaswiadczenie_2.4.png][15]
 
 ### Подписываем через Profil Zaufany
 
-![zus_zaswiadczenie_2.5.png][12]
+![zus_zaswiadczenie_2.5.png][16]
 
 Нажимаем **Ok**
 
-![zus_zaswiadczenie_2.6.png][13]
+![zus_zaswiadczenie_2.6.png][17]
 
 ### Документы отправлены, ждем ОК
 
-![zus_zaswiadczenie_2.7.png][14]
+![zus_zaswiadczenie_2.7.png][18]
 
 ### Получаем справку
 
@@ -290,21 +290,21 @@ ZUS состоит из 2 основных частей:
 !!! warning "Если у вас есть уполномоченный (например, бухгалтер)"
     Если в ZUS у предпринимателя есть уполномоченный, то входящие документы, в том числе справка о незадолженности (RWN), **сначала поступают в аккаунт уполномоченного** — в раздел Skrzynka odbiorcza. Пока уполномоченный не нажмёт **Odbierz**, документ не появится в аккаунте плательщика. Если уполномоченный ничего не делает, документ автоматически становится доступен плательщику только через 14 дней. Так что если справка «не приходит» — сначала попросите бухгалтера принять её в своей скшинке.
 
-![zus_zaswiadczenie_4.png][15]
+![zus_zaswiadczenie_4.png][19]
 
 ### Скачиваем справку
 
 После подтверждения появится пункт **Szczegóły**
 
-![zus_zaswiadczenie_4.1.png][16]
+![zus_zaswiadczenie_4.1.png][20]
 
 Открываем документ **Przeglądaj dokument**.
 
-![zus_zaswiadczenie_4.2.png][17]
+![zus_zaswiadczenie_4.2.png][21]
 
 Печатаем **Drukuj**.
 
-![zus_zaswiadczenie_4.3.png][18]
+![zus_zaswiadczenie_4.3.png][22]
 
 ## Справка о медицинском страховании
 
@@ -315,69 +315,69 @@ ZUS состоит из 2 основных частей:
 3. Выберите Panel **Ubezpieczonego** в боковом меню
 4. Выберите пункт меню **Zaświadczenia - ubezpieczenia**
 5. Нажмите кнопку **Utwórz nowy** снизу страницы
-   ![Generate Zaswiadczenie Ubezpieczenia 1.1][201]
+   ![Generate Zaswiadczenie Ubezpieczenia 1.1][23]
 6. Выберите чекбокс **Ubezpieczenie zdrowotne**
 7. Выберите чекбокс **Członkowie rodziny - Wszyscy** (если справка нужна и для членов семьи — в случае, если у них нет своей мед.страховки)
 8. Обязательно нажмите **Podgląd**, чтобы разблокировать кнопку **Zatwierdź**
 9. Открывшийся **Podgląd** можно изучить и закрыть
 10. Нажмите на кнопку **Zatwierdź**, чтобы отправить документ на подписание в ZUS
-    ![Generate Zaswiadczenie Ubezpieczenia 1.2][202]
+    ![Generate Zaswiadczenie Ubezpieczenia 1.2][24]
 11. В списке документов появится новая строка со статусом **Oczekuje**. Автоматизированные системы в данный момент подписывают документ электронной подписью. Этот процесс занимает от пары секунд до пары минут.
 12. Периодически нажимайте на кнопку **Odśwież**, пока статус не сменится на **Wystawiony**
-    ![Generate Zaswiadczenie Ubezpieczenia 1.3][203]
+    ![Generate Zaswiadczenie Ubezpieczenia 1.3][25]
 13. Нажмите на кнопку **Zapisz jako PDF** и выберите место на своем устройстве для сохранения PDF файла.
-    ![Generate Zaswiadczenie Ubezpieczenia 1.4][204]
+    ![Generate Zaswiadczenie Ubezpieczenia 1.4][26]
 14. В итоге у вас будет настоящий электронный документ от ZUS, подписанный квалифицированной электронной подписью. Этот документ можно высылать через e-Doręczenia и прикреплять к MOS2 без зазрения совести. Электронный документ в этом случае и будет оригиналом, вопрос будет закрыт.
 15. Чтобы убедиться, что PDF подписан, можно перейти на любой сервис проверки электронных подписей, например, на [государственный сайт подписывания документов](https://podpis.gov.pl/podpisz-dokument-elektronicznie/)
 16. Нажмите **Dodaj plik**
 17. В прикрепленном файле появится кнопка **Sprawdź, kto podpisał**
-    ![Generate Zaswiadczenie Ubezpieczenia 1.5][205]
+    ![Generate Zaswiadczenie Ubezpieczenia 1.5][27]
 18. В открывшемся модальном окне будет информация об органе, который подписал документ — **Zakład Ubezpieczeń Społecznych** (ZUS)
-    ![Generate Zaswiadczenie Ubezpieczenia 1.6][206]
+    ![Generate Zaswiadczenie Ubezpieczenia 1.6][28]
 19. Этот документ прикрепляем в MOS2 или в любой другой электронный сервис, когда необходимо показать наличие страховки на себя или на членов семьи.
 
 ## Добавление ePUAP к профилю ZUS
 
 1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
-    ![zus_epuap_1.png][19]
+    ![zus_epuap_1.png][29]
 2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
-    ![zus_epuap_2.png][20]
-    ![zus_epuap_3.png][21]
+    ![zus_epuap_2.png][30]
+    ![zus_epuap_3.png][31]
 3. в итоге профиль ZUS будет связан с profilem zaufanym.
-    ![zus_epuap_4.png][22]
+    ![zus_epuap_4.png][32]
 
 [1]: https://www.zus.pl
-[2]: zus_ulga_na_start.md
-[3]: https://eskladka.pl/Home
-[4]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
-[5]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.png
-[6]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.1.png
-[7]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.png
-[8]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.1.png
-[9]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.2.png
-[10]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.3.png
-[11]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.4.png
-[12]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.5.png
-[13]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.6.png
-[14]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.7.png
-[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
-[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
-[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
-[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
-[19]: images/zus_epuap/zus_epuap_1.png
-[20]: images/zus_epuap/zus_epuap_2.png
-[21]: images/zus_epuap/zus_epuap_3.png
-[22]: images/zus_epuap/zus_epuap_4.png
-[23]: zus_obnizone_skladki.md
-[24]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
-[25]: https://www.biznes.gov.pl/pl/portal/00286#2
-[26]: zus_duzy.md
-[100]: https://youtu.be/FJVhBu-_nyA
-[101]: https://t.me/justandrei79
-[102]: https://justandrei.github.io/jdg-tools/zus/
-[201]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.1.png
-[202]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.2.png
-[203]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.3.png
-[204]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.4.png
-[205]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.5.png
-[206]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.6.png
+[2]: https://youtu.be/FJVhBu-_nyA
+[3]: https://t.me/justandrei79
+[4]: https://justandrei.github.io/jdg-tools/zus/
+[5]: zus_ulga_na_start.md
+[6]: zus_obnizone_skladki.md
+[7]: zus_duzy.md
+[8]: https://www.biznes.gov.pl/pl/portal/00286#2
+[9]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[10]: https://eskladka.pl/Home
+[11]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.png
+[12]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.1.png
+[13]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.2.png
+[14]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.3.png
+[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.4.png
+[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.5.png
+[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.6.png
+[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.7.png
+[19]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
+[20]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
+[21]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
+[22]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
+[23]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.1.png
+[24]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.2.png
+[25]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.3.png
+[26]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.4.png
+[27]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.5.png
+[28]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.6.png
+[29]: images/zus_epuap/zus_epuap_1.png
+[30]: images/zus_epuap/zus_epuap_2.png
+[31]: images/zus_epuap/zus_epuap_3.png
+[32]: images/zus_epuap/zus_epuap_4.png
+[33]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
+[34]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.png
+[35]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.1.png

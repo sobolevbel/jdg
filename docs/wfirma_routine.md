@@ -48,13 +48,13 @@ tags:
 
     > "Odwrotne obciążenie / Reverse charge".
 
-    Более подробное объяснение см. [на странице, посвящённой VAT][4].
+    Более подробное объяснение см. [на странице, посвящённой VAT][3].
     На скриншоте мы добавили пометку вручную, но на самом деле wFirma добавляет эту пометку автоматически, если выбрать правильный Schemat księgowy (об этом написано дальше в статье).
 
 10. Rabat - теоретически в этом поле можно указать скидку.
 11. Хотите указать несколько услуг в одной фактуре? Нажмите кнопку "Nowy wiersz" - появится новая строка. Повторите шаги 6-10.
 
-![3]
+![4]
 
 ### Księgowe
 
@@ -130,7 +130,7 @@ tags:
 
     ??? info "О фильтрах"
         Если не видите фактуру в таблице, то под таблицей переключитесь на тот год и месяц, в котором была выставлена фактура.
-        ![35]
+        ![10]
 
 3. Переходим на вкладку Płatności.
 4. Нажимаем Dodaj.
@@ -139,7 +139,7 @@ tags:
 7. Указываем сумму (Kwota). Если по фактуре должны заплатить $1000, но из-за комиссий банков-посредников пришло на $10 меньше, то всё равно указываем полную сумму ($1000) для того, чтобы фактура значилась как "оплачена полностью".
 8. Нажимаем Zapisz.
 
-![10]
+![11]
 
 При получении оплаты в иностранной валюте могут возникать курсовые разницы. Закон предписывает учитывать курсовые разницы - как положительные, так и отрицательные.
 
@@ -152,11 +152,11 @@ tags:
 
     ??? info "О фильтрах"
         Если не видите фактуру в таблице, то под таблицей переключитесь на тот год и месяц, в котором была выставлена фактура.
-        ![35]
+        ![10]
 
 3. Нажимаем Wystaw DW (КР учитываются в бухгалтерии специальным документом "Dowód Wewnętrzny").
 
-![11]
+![13]
 
 Всё, курсовая разница добавлена и будет учитываться при расчёте налоговой базы.
 
@@ -164,7 +164,7 @@ tags:
 
     На той же странице, чтобы увидеть полный список своих DW, вы можете под таблицей очистить все фильтры: Rok, Miesiąc и Status.
 
-    ![36]
+    ![14]
 
 ## Вычисление и оплата налогов
 
@@ -172,11 +172,11 @@ tags:
 
 1. На главной странице, если вы правильно настроили дашборд, у вас будет такая табличка. Нажимаем Wylicz. Также это можно сделать, перейдя на Start - Podatki и нажать Wylicz podatek.
 
-    ![13]
+    ![15]
 
 2. В мае платим за апрель. Поэтому на скриншоте в окошке Miesięczna zaliczka na podatek dochodowy выбран Okres как Miesiąc: Kwiecień и Rok: 2025. Выбираем предыдущий месяц и нажимаем Dalej.
 
-    ![14]
+    ![16]
 
 3. Здесь оставляем всё так, как есть:
     * Stawka ryczałtu - в случае рычалта система примет для вычисления процент налога, указанный на фактурах.
@@ -185,12 +185,12 @@ tags:
 
     ???+ example "Пример 1: Отчёт за первый месяц ведения предпринимательской деятельности"
         Всё по нулям и это ожидаемо.
-        ![15]
+        ![17]
 
     ??? example "Пример 2: Очередной месяц ведения бухгалтерии в wFirma (Duży ZUS)"
         Ожидаемо, что автоматически подтягивается 100% фактически уплаченных в предыдущем месяце взносов на социальное страхование в ZUS и 50% фактически уплаченных в предыдущем месяце взносов на медицинское страхование в ZUS.
         Вы же не забыли отметить ZUS DRA как оплаченный, верно?
-        ![37]
+        ![18]
 
     ??? example "Особый случай: начало ведения бухгалтерии в wFirma не от самого начала регистрации JDG"
         Нужно заполнить вручную. Возьмите сумму фактически уплаченных в отчётном месяце взносов в ZUS:
@@ -198,13 +198,13 @@ tags:
         * 100% społeczne (Emerytalna + Rentowa + Wypadkowa + Chorobowa, БЕЗ składki Na Fundusz Pracy!) введите в поле "Składki społeczne do odliczenia od przychodu". На скриншоте сумма 1518.98 zł соответствует ZUS для предпринимателей на рычалте без льгот за декабрь 2025-го года.
         * а 50% zdrowotnej введите в поле "Składki zdrowotne do odliczenia od przychodu". На скриншоте сумма 384.72 zł соответствует половине ZUS для предпринимателей на рычалте с годовым доходом от 60'000 до 300'000 zł в 2025-м.
 
-        ![33]
+        ![19]
 
     * Нажимаем Zapisz для сохранения.
 
 4. Если сумма соответствует вашим ожиданиям, то нажимаем Zapłać для оплаты. Срок оплаты: до 20 числа месяца, следующего за отчётным.
 
-    ![18]
+    ![20]
 
 5. Если сумма не соответствует вашим ожиданиям, то перепроверяем расчёты (wFirma показывает их пошагово 🔥) и нажимаем Modyfikuj для внесения изменений.
 
@@ -212,11 +212,11 @@ tags:
 
 1. На главной странице, если вы правильно настроили дашборд, у вас будет такая табличка. Нажимаем Wylicz. Также это можно сделать, перейдя на Start - ZUS и нажать Wylicz podatek.
 
-    ![16]
+    ![21]
 
 2. В окошке Dodawanie deklaracji ZUS DRA проверяем всё:
 
-    ![17]
+    ![22]
 
     ??? info "Комментарии к скриншоту"
         Вкладка Podstawowe - это базовые настройки.
@@ -240,8 +240,8 @@ tags:
 
             В остальных случаях. Т.е. если в прошлом году вы вели предпринимательскую деятельность.
             Вполне возможно, что сейчас по результатам расчёта вас ожидает доплата ZUS.
-            Подробнее читайте в статье wFirma: [Roczne rozliczenie składki zdrowotnej][38].
-            ![39]
+            Подробнее читайте в статье wFirma: [Roczne rozliczenie składki zdrowotnej][23].
+            ![24]
 
     ??? note "Продвинутые настройки"
 
@@ -249,7 +249,7 @@ tags:
 
         А также стоит проверить, что выбранный способ вычисления медицинских взносов (Sposób wyliczenia składki zdrowotnej) соответствует тому, что вы выбрали в начале года. Если же сейчас начало года, вы формируете ZUS DRA 01/20YY, а в прошлом году вы вели предпринимательскую деятельность полный год от начала и до конца, то сейчас самое время совершить этот выбор. Выбирайте любой по своему желанию, но помните, что выбранный способ фиксируется до конца текущего года.
 
-        ![34]
+        ![25]
 
         Ожидаемые настройки для начинающих предпринимателей как на скриншоте: "Sposób: Standardowy - na podstawie bieżącego przychodu", а "Wakacje składkowe" не отмечены.
 
@@ -260,7 +260,7 @@ tags:
     В мае 2026 предприниматели со стажем должны заполнить окошко "Dodawanie rocznej składki zdrowotnej za 2025 rok"
     Остальные 11 месяцев из 12 это окошко не выскакивает - просто перейдите к следующему шагу.
 
-    ![42]
+    ![26]
 
     ??? info "Комментарии к скриншоту"
         Вкладка Podstawowe dane roczna - это базовые настройки.
@@ -278,14 +278,14 @@ tags:
 
             Если все ваши ZUS DRA за предыдущий год есть в wFirma, на них стоят отметки об оплате, а также система знает ваш годовой доход за предыдущий год, то вам повезло - wFirma посчитает доплату składki zdrowotnej автоматически.
 
-            ![43]
+            ![27]
 
             * Ryczałt od przychodów ewidencjonowanych - Рычалт. Нажмите на "v", чтобы посмотреть вычисления.
             * Łączna kwota do dopłaty - Общая сумма к доплате. Проверяйте.
 
             Если же вы только недавно перешли в wFirma, а до этого вели бухгалтерию в какой-то другой системе, то нужно снять галочку "Автоматический расчёт" и ввести данные за прошлый год в "Parametry".
 
-            ![44]
+            ![28]
 
             На скриншоте показан пример для рычалта.
 
@@ -311,7 +311,7 @@ tags:
 
 5. Если сумма соответствует вашим ожиданиям, то нажимаем Zapłać для оплаты. Срок оплаты: до 20 числа месяца, следующего за отчётным. На скриншоте получился **ZUS = 461.66 zł**. Ровно столько выходит к оплате в ZUS первый платёж для предпринимателей на рычалте, которые используют льготу Ulga na Start, в 2025 году.
 
-    ![19]
+    ![29]
 
     !!! note "Повышение ZUS"
         В 2026-м году первый платёж в ZUS на рычалте вырос до **498.35 zł**. Składka zdrowotna привязана к средней зарплате в Польше.
@@ -320,8 +320,8 @@ tags:
 
     * Перепроверить выбранные на предыдущем шаге параметры: нажимаем Modyfikuj → вкладка Zaawansowane
     * Перепроверить расчёты взносов на медицинское страхование (wFirma показывает их пошагово 🔥): нажимаем Modyfikuj для внесения изменений → вкладка Zaawansowane → убираем галочку "Automatyczne wyliczenie miesięcznej składki zdrowotnej"
-    * Свериться с сайтом [Składki ZUS][41] (ryczałt, 2026)
-    * Перепроверить [настройки ZUS][40] в своём аккаунте.
+    * Свериться с сайтом [Składki ZUS][30] (ryczałt, 2026)
+    * Перепроверить [настройки ZUS][31] в своём аккаунте.
 
 ## Отправка деклараций
 
@@ -332,46 +332,46 @@ tags:
 
 1. Нажимаем Generuj.
 
-    ![20]
+    ![32]
 
 2. В мае отчитываемся за апрель. Поэтому на скриншоте в окошке Dodawanie informacji VAT-UE выбран Rok: 2025 и Miesiąc: Kwiecień. Проверяем, что выбрался предыдущий месяц и нажимаем Dalej.
 
-    ![21]
+    ![33]
 
 3. Нажимаем Wyślij.
 
-    ![22]
+    ![34]
 
 4. В окошке Wysyłanie deklaracji do urzędu skarbowego на вкладке "Bez podpisu" вводим свои личные данные и сумму дохода из прошлогодней декларации PIT. `0`, если не подавали тогда декларацию. Нажимаем кнопку Wyślij do urzędu для отправки VAT UE в налоговую инспекцию.
 
-    ![23]
+    ![35]
 
 Пояснение к скриншоту: чтобы подписать VAT UE в 2025 году, мы должны найти тот PIT, который заполняли в 2024 году, т.е. доход в нём декларировали за 2023 год.
 
 После отправки проверяйте статус. Перейдите в Start - Podatki - Podatek VAT. Если зеленый, то все ок, Ужонд получил вашу декларацию.
 
-![24]
+![36]
 
 ### ZUS DRA
 
-Чтобы отправить декларацию ZUS DRA из wfirma, сначала необходимо [верифицировать профиль][31].
+Чтобы отправить декларацию ZUS DRA из wfirma, сначала необходимо [верифицировать профиль][37].
 
 !!! info
-    Стоит отметить, что верификация не является обязательной. Wfirma предоставляет один год бесплатного использования при регистрации. Если вы не верифицируете профиль, то через год сможете зарегистрироваться заново и получить ещё один бесплатный год (разумеется, если такая акция всё ещё будет доступна). Стоит ли это усилий — решать вам. Однако в таком случае вам придётся самостоятельно скачивать файл ZUS DRA и загружать его на портал ZUS. Для этого в блоке "Deklaracje, zeznania i JPK" нажмите на "ZUS DRA", а в появившемся окне — на "Eksportuj deklarację ZUS". Скачанный XML-файл (zus_kedu.xml) затем импортируйте на портале ZUS, как описано в примере с [infact, пункт 2][32].
+    Стоит отметить, что верификация не является обязательной. Wfirma предоставляет один год бесплатного использования при регистрации. Если вы не верифицируете профиль, то через год сможете зарегистрироваться заново и получить ещё один бесплатный год (разумеется, если такая акция всё ещё будет доступна). Стоит ли это усилий — решать вам. Однако в таком случае вам придётся самостоятельно скачивать файл ZUS DRA и загружать его на портал ZUS. Для этого в блоке "Deklaracje, zeznania i JPK" нажмите на "ZUS DRA", а в появившемся окне — на "Eksportuj deklarację ZUS". Скачанный XML-файл (zus_kedu.xml) затем импортируйте на портале ZUS, как описано в примере с [infact, пункт 2][38].
 
 После верификации профиля выполните следующие шаги:
 
 1. Нажимаем Wyślij.
 
-    ![25]
+    ![39]
 
 2. В окошке Wysyłanie deklaracji do ZUS на вкладке "Podpis - wfirma.pl" нажимаем кнопку Zleć do podpisu i wysyłki, чтобы передать ZUS DRA на подпись и отправку.
 
-    ![26]
+    ![40]
 
 После отправки проверяйте статус. Перейдите в Start - ZUS - Deklaracje rozliczeniowe. Если зелёная иконка и статус "Przesyłka przyjęta do ZUS", то всё ок, ZUS принял декларацию.
 
-![27]
+![41]
 
 Это также можно проверить на портале ZUS в разделе ePlatnik - Dokumenty - Dokumenty w ZUS, однако запись может появиться там не сразу, а как минимум через несколько дней.
 
@@ -381,7 +381,7 @@ tags:
 
 ## Курсовая разница от собственных средств (od środków własnych)
 
-Если получаете оплату в валюте и продаете ее позже для расходов, связанных с предпринимательской деятельностью, например, для уплаты налогов, то также необходимо учесть [курсовую разницу][28] (КР) от собственных средств (środków własnych). Для рассчёта воспользуемся [калькулятором][30] и методом LIFO (метод FIFO или LIFO выбирайте себе сами).
+Если получаете оплату в валюте и продаете ее позже для расходов, связанных с предпринимательской деятельностью, например, для уплаты налогов, то также необходимо учесть [курсовую разницу][42] (КР) от собственных средств (środków własnych). Для рассчёта воспользуемся [калькулятором][43] и методом LIFO (метод FIFO или LIFO выбирайте себе сами).
 
 1. Нажимаем Przychody.
 2. Нажимаем Inne przychody.
@@ -393,51 +393,51 @@ tags:
 5. Указываем сумму.
 6. Нажимаем Zapisz i drukuj для сохранения и печати.
 
-![29]
+![44]
 
 Все, курсовая разница добавлена и будет учитываться при расчете налоговой базы.
 
 [1]: wfirma_settings.md
 [2]: images/wfirma_routine/wystaw_fakture.png
-[3]: images/wfirma_routine/wystaw_fakture_main.png
-[4]: faq.md#vat
+[3]: faq.md#vat
+[4]: images/wfirma_routine/wystaw_fakture_main.png
 [5]: images/wfirma_routine/wystaw_fakture_ksiegowe.png
 [6]: images/wfirma_routine/wystaw_fakture_vat_comment.png
 [7]: images/wfirma_routine/wystaw_fakture_zaawansowane.png
 [8]: images/wfirma_routine/fakture_drukuj.png
 [9]: workflow.md#kakie-dokumenty-khranit
-[10]: images/wfirma_routine/fakture_oplata.png
-[11]: images/wfirma_routine/fakture_kr.png
+[10]: images/wfirma_routine/faktury_filtr_rm.png
+[11]: images/wfirma_routine/fakture_oplata.png
 [12]: wfirma_settings.md#podatki-funkcje-ksiegowe
-[13]: images/wfirma_routine/pit_wylicz.png
-[14]: images/wfirma_routine/pit_dalej.png
-[15]: images/wfirma_routine/pit_zapisz.png
-[16]: images/wfirma_routine/zus_wylicz.png
-[17]: images/wfirma_routine/zus_zapisz.png
-[18]: images/wfirma_routine/pit_oplata.png
-[19]: images/wfirma_routine/zus_oplata.png
-[20]: images/wfirma_routine/vat_eu_generuj.png
-[21]: images/wfirma_routine/vat_eu_dalej.png
-[22]: images/wfirma_routine/vat_eu_wyslij.png
-[23]: images/wfirma_routine/vat_eu_wyslij_do_urzedu.png
-[24]: images/wfirma_routine/vat_eu_status.png
-[25]: images/wfirma_routine/zus_dra_wyslij.png
-[26]: images/wfirma_routine/zus_dra_wyslij_confirm.png
-[27]: images/wfirma_routine/zus_dra_status.png
-[28]: workflow.md#uchet-kursovykh-raznits
-[29]: images/wfirma_routine/kr_od_wlasnych_srodkow.png
-[30]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
-[31]: wfirma_settings.md#verifikatsiia-firmy
-[32]: infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov
-[33]: images/wfirma_routine/pit_miesięczna_zaliczka_na_podatek_dochodowy.png
-[34]: images/wfirma_routine/zus_dra_zaawansowane.png
-[35]: images/wfirma_routine/faktury_filtr_rm.png
-[36]: images/wfirma_routine/kr_filtr_rms.png
-[37]: images/wfirma_routine/pit_zapisz_2.png
-[38]: https://pomoc.wfirma.pl/-roczne-rozliczenie-skladki-zdrowotnej
-[39]: https://pomoc.wfirma.pl/images/fx/max/679774
-[40]: wfirma_settings.md#podatki-zus
-[41]: https://justandrei.github.io/jdg-tools/zus/
-[42]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej.png
-[43]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane-auto.png
-[44]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane.png
+[13]: images/wfirma_routine/fakture_kr.png
+[14]: images/wfirma_routine/kr_filtr_rms.png
+[15]: images/wfirma_routine/pit_wylicz.png
+[16]: images/wfirma_routine/pit_dalej.png
+[17]: images/wfirma_routine/pit_zapisz.png
+[18]: images/wfirma_routine/pit_zapisz_2.png
+[19]: images/wfirma_routine/pit_miesięczna_zaliczka_na_podatek_dochodowy.png
+[20]: images/wfirma_routine/pit_oplata.png
+[21]: images/wfirma_routine/zus_wylicz.png
+[22]: images/wfirma_routine/zus_zapisz.png
+[23]: https://pomoc.wfirma.pl/-roczne-rozliczenie-skladki-zdrowotnej
+[24]: https://pomoc.wfirma.pl/images/fx/max/679774
+[25]: images/wfirma_routine/zus_dra_zaawansowane.png
+[26]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej.png
+[27]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane-auto.png
+[28]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane.png
+[29]: images/wfirma_routine/zus_oplata.png
+[30]: https://justandrei.github.io/jdg-tools/zus/
+[31]: wfirma_settings.md#podatki-zus
+[32]: images/wfirma_routine/vat_eu_generuj.png
+[33]: images/wfirma_routine/vat_eu_dalej.png
+[34]: images/wfirma_routine/vat_eu_wyslij.png
+[35]: images/wfirma_routine/vat_eu_wyslij_do_urzedu.png
+[36]: images/wfirma_routine/vat_eu_status.png
+[37]: wfirma_settings.md#verifikatsiia-firmy
+[38]: infakt_routine.md#sostavlenie-deklaratsii-zus-dra-i-oplata-vznosov
+[39]: images/wfirma_routine/zus_dra_wyslij.png
+[40]: images/wfirma_routine/zus_dra_wyslij_confirm.png
+[41]: images/wfirma_routine/zus_dra_status.png
+[42]: workflow.md#uchet-kursovykh-raznits
+[43]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
+[44]: images/wfirma_routine/kr_od_wlasnych_srodkow.png

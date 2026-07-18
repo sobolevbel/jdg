@@ -12,10 +12,10 @@ tags:
 После 6 полных месяцев использования **Ulga na start** можно воспользоваться возможностью уплаты пониженных взносов ZUS (льгота "Obniżone składki", также известная как **Składki preferencyjne**) в течение 24 полных месяцев. Льгота заключается в том, что минимальные социальные взносы вычисляются на основе 30% минимальной заработной платы.
 
 !!! success "Официальный сайт"
-    [Obniżone składki ZUS przez 24 miesiące][19]
+    [Obniżone składki ZUS przez 24 miesiące][1]
 
 !!! question "Когда переходить на składki preferencyjne"
-    См. [Сроки перехода между режимами][20]
+    См. [Сроки перехода между режимами][2]
 
 ## Что нужно сделать (в общих чертах)
 
@@ -34,7 +34,7 @@ tags:
 Подробно и наглядно каждый из этих шагов описан ниже.
 
 !!! question "Как попасть в онлайн кабинет плательщика ZUS?"
-    См. [доступные способы][24].
+    См. [доступные способы][3].
 
 ### 1. Снятие с учета (ZUS ZWUA)
 
@@ -42,11 +42,11 @@ tags:
 
 На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZWUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
 
-![zus_obn_01][1]
+![zus_obn_01][4]
 
 Далее в окне *Obsługa ubezpieczonego* как *Cel obsługi* нужно выбрать пункт *Wyrejestrowanie ubezpieczonego* (Снятие застрахованного с учёта). И нажать *Dalej*.
 
-![zus_obn_02][2]
+![zus_obn_02][5]
 
 #### Шаг 2
 
@@ -57,7 +57,7 @@ tags:
 
 Нажать *Dalej*.
 
-![zus_obn_03][3]
+![zus_obn_03][6]
 
 #### Шаг 3
 
@@ -92,14 +92,14 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Далее в окне *Obsługa ubezpieczonego* как *Cel obsługi* нужно выбрать пункт *Zgłoszenie ubezpieczonego* (Постановка застрахованного на учёт). И нажать *Dalej*.
 
-![zus_obn_04][4]
+![zus_obn_04][7]
 
 #### Шаг 2
 
 На шаге "Zgłoszenie ubezpieczonego » Dane identyfikacyjne i ewidencyjne" заполнить *Dane identyfikacyjne* и *Dane ewidencyjne* в обоих вкладках. Можно загрузить уже имеющиеся в ZUS данные нажав
 "Wybierz z kartoteki".
 
-![zus_obn_05][5]
+![zus_obn_05][8]
 
 !!! tip "Указывать ли паспорт?"
     Поля *Typ dokumentu* и *Seria i numer dokumentu* рекомендуется оставить пустыми. Достаточно указать свой *PESEL*.
@@ -110,11 +110,11 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 * *Adres zameldowania* - адрес прописки:
 
-![zus_obn_06][6]
+![zus_obn_06][9]
 
 * *Adres zamieszkania* - адрес места жительства:
 
-![zus_obn_07][7]
+![zus_obn_07][10]
 
 * *Adres do korespondencji* - адрес для корреспонденции.
 
@@ -124,9 +124,9 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 На экране "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" необходимо нажать *Dodaj kod tytułu ubezpieczenia*.
 
-![zus_obn_8][8]
+![zus_obn_8][11]
 
-![zus_obn_81][81]
+![zus_obn_81][12]
 
 Здесь выбрать *Kod tytułu ubezpieczenia*. Напоминаем, что если вы переходите на składki preferencyjne, то выбирайте код **05 70**.
 
@@ -134,11 +134,11 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Нажмите *Zatwierdź*.
 
-![zus_obn_12][12]
+![zus_obn_12][13]
 
 В окне *Wybór schematu podlegania* выберите подходящую схему принадлежности к страхованию. Если других источников соцстрахования кроме ИП у вас нет, то оставьте основную схему (выделена на скриншоте).
 
-![zus_obn_82][82]
+![zus_obn_82][14]
 
 ??? note "Перевод скриншота"
     Ниже представлены корректные схемы принадлежности к страхованию для выбранного кода страхового титула. Жирным шрифтом выделена основная схема. Остальные схемы обусловлены совпадением кодов страховых титулов.
@@ -168,15 +168,15 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 - **Dobrowolne ubezpieczenie zdrowotne** (Добровольное медстрахование). Оставьте пустым.
 
-![zus_obn_83][83]
+![zus_obn_83][15]
 
-Не забудьте в правой части выбрать *Kod wykonywanego zawodu*. Нужно для статистики. Подробнее см. в [таблице кодов профессий][23].
+Не забудьте в правой части выбрать *Kod wykonywanego zawodu*. Нужно для статистики. Подробнее см. в [таблице кодов профессий][16].
 
 Нажать "Dodaj".
 
 В появившимся диалоге нажать "ОК".
 
-![zus_obn_11][11]
+![zus_obn_11][17]
 
 ??? note "Перевод скриншота"
     **Информация**  
@@ -184,7 +184,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 На шаге "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" выбрать только что созданное застрахованное лицо (*ubezpieczonego*) c кодом **057000**.
 
-![zus_obn_10][10]
+![zus_obn_10][18]
 
 ??? note "Перевод скриншота"
     **Заявление о застрахованном » Титулы страхования**   шаг 4 из 5
@@ -205,7 +205,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 
 Подождать, пока ZUS обработает заявку. Если всё ок, то должно быть вот так:
 
-![zus_obn_84][84]
+![zus_obn_84][19]
 
 ### 3. Переключение настроек сервиса для ведения бухгалтерии
 
@@ -214,7 +214,7 @@ TODO: помогите сделать гайд лучше! добавьте сю
 В этом месяце вы отправите несколько разных деклараций в ZUS:
 
 !!! abstract "DRA"
-    Оплата ZUS и отправка [ZUS DRA][15] с 1 по 20 число месяца, следующего за отчётным.
+    Оплата ZUS и отправка [ZUS DRA][20] с 1 по 20 число месяца, следующего за отчётным.
 
 !!! abstract "ZWUA и ZUA/ZZA"
     ZUS ZWUA и ZUS ZUA/ZZA требуется отправить в ZUS с 1 по 7 число того месяца, в котором вы начали пользоваться льготой składki preferencyjne.
@@ -243,50 +243,50 @@ wFirma после переключения в настройках на składki
 
 !!! tip "Подсказка"
     Календарь wFirma подскажет вам, когда переключить настройки.
-    ![календарь wFirma][16]
+    ![календарь wFirma][21]
 
 Ustawienia => Podatki => ZUS
 
 Замените "Tylko zdrowotne — 6-miesięczna ulga na start" на "2-letni preferencyjny ZUS".
-![2-letni preferencyjny ZUS][17]
+![2-letni preferencyjny ZUS][22]
 
 **Исключение:** если вы ведёте предпринимательскую деятельность параллельно с работой по Umowa o Pracę (UoP), и ваша зарплата по UoP не ниже минимальной, то składki społeczne за вас платит работодатель. В этом случае вы освобождены от уплаты składki społeczne за себя как JDG — выбирайте "Tylko zdrowotne — 2-letni preferencyjny ZUS". Вы же подали ZUS ZZA на предыдущем этапе? То же самое касается и предпринимателей, которые получают пенсию.
 
-![Tylko zdrowotne — 2-letni preferencyjny ZUS][18]
+![Tylko zdrowotne — 2-letni preferencyjny ZUS][23]
 
 ## UPP - подтверждение отправки
 
-См. [UPP][21].
+См. [UPP][24].
 
 ## Типичные ошибки
 
-См. [сборник ошибок][22].
+См. [сборник ошибок][25].
 
-[1]: images/zus_obnizone/zus_obnizone_01.png
-[2]: images/zus_obnizone/zus_obnizone_02.png
-[3]: images/zus_obnizone/zus_obnizone_03.png
-[4]: images/zus_obnizone/zus_obnizone_04.jpg
-[5]: images/zus_obnizone/zus_obnizone_05.png
-[6]: images/zus_obnizone/zus_obnizone_06.png
-[7]: images/zus_obnizone/zus_obnizone_07.png
-[8]: images/zus_obnizone/zus_obnizone_08.png
-[81]: images/zus_obnizone/zus_obnizone_081.jpg
-[82]: images/zus_obnizone/zus_obnizone_082.jpg
-[83]: images/zus_obnizone/zus_obnizone_083.png
-[84]: images/zus_obnizone/zus_obnizone_084.png
-[9]: images/zus_obnizone/zus_obnizone_09.png
-[10]: images/zus_obnizone/zus_obnizone_10.png
-[11]: images/zus_obnizone/zus_obnizone_11.png
-[12]: images/zus_obnizone/zus_obnizone_12.png
-[13]: images/zus_obnizone/zus_obnizone_13.png
-[14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
-[15]: declarations.md#zus-dra
-[16]: images/zus_obnizone/wFirma_kalendarz.jpg
-[17]: images/zus_obnizone/wFirma_schemat_2letni_preferencyjny_ZUS.jpg
-[18]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg
-[19]: https://www.biznes.gov.pl/pl/portal/00286
-[20]: zus_next_level.md#sroki-perekhoda-mezhdu-rezhimami
-[21]: zus_next_level.md#upp-podtverzhdenie-otpravki
-[22]: zus_errors.md
-[23]: zus_next_level.md#tablitsa-kodov-professii
-[24]: zus_login.md
+[1]: https://www.biznes.gov.pl/pl/portal/00286
+[2]: zus_next_level.md#sroki-perekhoda-mezhdu-rezhimami
+[3]: zus_login.md
+[4]: images/zus_obnizone/zus_obnizone_01.png
+[5]: images/zus_obnizone/zus_obnizone_02.png
+[6]: images/zus_obnizone/zus_obnizone_03.png
+[7]: images/zus_obnizone/zus_obnizone_04.jpg
+[8]: images/zus_obnizone/zus_obnizone_05.png
+[9]: images/zus_obnizone/zus_obnizone_06.png
+[10]: images/zus_obnizone/zus_obnizone_07.png
+[11]: images/zus_obnizone/zus_obnizone_08.png
+[12]: images/zus_obnizone/zus_obnizone_081.jpg
+[13]: images/zus_obnizone/zus_obnizone_12.png
+[14]: images/zus_obnizone/zus_obnizone_082.jpg
+[15]: images/zus_obnizone/zus_obnizone_083.png
+[16]: zus_next_level.md#tablitsa-kodov-professii
+[17]: images/zus_obnizone/zus_obnizone_11.png
+[18]: images/zus_obnizone/zus_obnizone_10.png
+[19]: images/zus_obnizone/zus_obnizone_084.png
+[20]: declarations.md#zus-dra
+[21]: images/zus_obnizone/wFirma_kalendarz.jpg
+[22]: images/zus_obnizone/wFirma_schemat_2letni_preferencyjny_ZUS.jpg
+[23]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg
+[24]: zus_next_level.md#upp-podtverzhdenie-otpravki
+[25]: zus_errors.md
+[26]: images/zus_obnizone/zus_obnizone_09.png
+[27]: images/zus_obnizone/zus_obnizone_13.png
+[28]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow

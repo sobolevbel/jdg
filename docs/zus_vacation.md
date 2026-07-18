@@ -41,14 +41,14 @@ ZUS-каникулы освобождают от уплаты социальны
 ## Как подать заявку на ZUS-каникулы
 
 Подать заявку можно только **онлайн** через портал PUE ZUS / eZUS.
-Оригинальная версия инструкции разработана [:telegram: Ольгой Корневой][18].
+Оригинальная версия инструкции разработана [:telegram: Ольгой Корневой][1].
 
 ### Создание документа
 
 Входим в панель Płatnik (вверх, правая сторона), далее выбираем - Dokumenty i wiadomości
 (столбик слева) - Dokumenty robocze и внизу нажимаем Utwórz nowy.
 
-![Create document][1]
+![Create document][2]
 
 ### Выбор RWS
 
@@ -57,13 +57,13 @@ ZUS-каникулы освобождают от уплаты социальны
 постранично и ищем: Wniosek RWS - Wniosek o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc.
 Выбираем его и внизу нажимаем Utwórz dokument.
 
-![Choose RWS][2]
+![Choose RWS][3]
 
 ### Выбор типа
 
 Выбираем тип документа Wniosek.
 
-![Wniosek][3]
+![Wniosek][4]
 
 На скриншоте выбрана первая из доступных 3 опций:
 
@@ -77,11 +77,11 @@ ZUS-каникулы освобождают от уплаты социальны
 
 Заполняем информацию о JDG. Скорее всего уже будет заполнена, можно добавить номер телефона по желанию.
 
-![Personal info][20]
+![Personal info][5]
 
 ### Выбор указанного месяца
 
-![Notation][21]
+![Notation][6]
 
 !!! quote "Содержание запроса"
     Я ходатайствую об освобождении от уплаты взносов в фонд социального страхования и Трудовой Фонд и Фонд Солидарности за месяц:
@@ -96,7 +96,7 @@ ZUS-каникулы являются помощью de minimis, что озна
 государственные субсидии и льготы для предпринимателей, полученные в течение текущего года.
 Общий лимит помощи de minimis составляет 300 000 евро на три года.
 
-![De minimis][22]
+![De minimis][7]
 
 !!! quote
     Я заявляю, что:
@@ -125,7 +125,7 @@ ZUS-каникулы являются помощью de minimis, что озна
 Вы <u>будете</u> знать, если получали такую помощь: вся сумма должна строго учитываться,
 чтобы не превысить порог за три года, поэтому любой орган, оказывающий такую помощь,
 обязан выдавать справку об оказании помощи с конкретной датой и суммой. Кроме того,
-есть [реестр предпринимателей][19], получивших помощь, где можно себя поискать.
+есть [реестр предпринимателей][8], получивших помощь, где можно себя поискать.
 Нужно ввести NIP, нажать кнопку для выбора промежутка времени pełne 3 lata wstecz,
 отметить поле tylko de minimis и затем нажать Wyszukaj według wybranych kryteriów.
 Будет сгенерирован файл, в котором будут указаны все отдельно полученные льготы, а также их сумма.
@@ -134,15 +134,15 @@ _"Где взять сертификат о получении помощи de m
 
 В PUE ZUS, панель Platnik - Dokumenty i wiadomości - Skrzynka odbiorcza. В списке полученных документов нужно найти все актуальные документы с названием RWS - Informacja o przyznaniu zwolnienia. Для каждого из такого документов нужно зайти в Szczegóły.
 
-![Skrzynka odbiorcza][53]
+![Skrzynka odbiorcza][9]
 
 На панели Szczegóły в разделе Załączniki нас интересует документ _Zaświadczenie_rws-r-zasw.pdf_. Чтобы скачать документ, нажмите Pobierz. Добавление документов описано в последнем шаге заполнения внеска.
 
-![Zaswiadczenie][54]
+![Zaswiadczenie][10]
 
 ### Категории предпринимателей
 
-![Categories][23]
+![Categories][11]
 
 Перевод содержания с разъяснением категорий
 !!! quote "Перевод содержания"
@@ -172,20 +172,20 @@ _"Где взять сертификат о получении помощи de m
 
 ### Класс деятельности
 
-![Class][23]
+![Class][11]
 
 !!! quote "Перевод"
     Укажите PKD деятельности, в связи с которым подлежите социальному страхованию в Фонде Социального Страхования. Класс деятельности, в соответствии с [постановлением Совета Министров от 18 декабря 2024 г. о польской классификации деятельности](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/polska-klasyfikacja-dzialalnosci-pkd-22092046) (PKD = аналог ОКВЭД) (Dz. U. z 2024 r. poz. 1936)
 
 Во всплывающем окне выбирается соответствующий код деятельности.
 
-![Class explicit][9]
+![Class explicit][12]
 
 В примере указан код деятельности 62.10.B (иная деятельность в рамках программирования). Отметьте вариант, подходящий вам.
 
 ### Связи с другими предпринимателями
 
-![Relations][24]
+![Relations][13]
 
 !!! quote "Перевод"
     Существует ли связь между субъектом и другими предпринимателями, заключающаяся в том, что:
@@ -201,7 +201,7 @@ NIP других предпринимателей, а также размер п
 
 ### Информация о возникновении субъекта
 
-![Creation circumstances][25]
+![Creation circumstances][14]
 
 !!! quote "Перевод"
     Субъект за прошедшие 3 года:
@@ -216,7 +216,7 @@ NIP других предпринимателей, а также размер п
 
 ### Информация про определенные категории деятельности
 
-![Special cases][26]
+![Special cases][15]
 
 !!! quote "Перевод"
     Информация о предпринимательской деятельности, осуществляемой субъектом, которому должна быть оказана помощь de minimis
@@ -232,17 +232,17 @@ NIP других предпринимателей, а также размер п
 
 ### Подпись и отправка
 
-![Sign and send][27]
+![Sign and send][16]
 
 Если на шаге 3 вы выбрали пункт «korzystałem z pomocy publicznej de minimis» + пункт
 «zaświadczenia», то сейчас, на последнем шаге перед отправкой заявления, вам необходимо
 приложить справки (zaświadczenia) кнопкой «Dodaj załączniki...»
 
-![Sign and send with attachement][28]
+![Sign and send with attachement][17]
 
 Подпишите и отправьте документ кнопкой Podpisz i wyślij.
 
-![Sign][14]
+![Sign][18]
 
 Рекомендуется первый вариант "Podpis profilem PUE" как самый простой в использовании.
 
@@ -250,11 +250,11 @@ NIP других предпринимателей, а также размер п
 
 Вы получите такое сообщение:
 
-![Success][15]
+![Success][19]
 
 А в отправленных документах (Dokumenty wysłane) появится Wniosek RWS:
 
-![Sent Documents][16]
+![Sent Documents][20]
 
 ### Что дальше
 
@@ -264,7 +264,7 @@ NIP других предпринимателей, а также размер п
 
 Сначала вы получите Zawiadomienie o możliwości czynnego udziału w sprawie - это информационное письмо от ZUS о том, что ваше заявление принято к рассмотрению. После этого через несколько дней вы получите либо положительное, либо отрицательное решение об участии в каникулах ZUS. В случае положительного решения документ называется Informacja o przyznaniu zwolnienia. В примере показан случай положительного решения по заявке о каникулах.
 
-![Recieved documents][55]
+![Recieved documents][21]
 
 Если вы не платите добровольную складку хоробову (которая для больничных) и подаётесь на каникулы, ZUS может на каком-то этапе прислать такое:
 
@@ -281,7 +281,7 @@ NIP других предпринимателей, а также размер п
 
 !!! warning "В случае положительного решения нужно уведомить своего бухгалтера"
 
-Если же вы ведете бухгалтерию самостоятельно, смотрите пункт [Ежемесячные отчеты во время ZUS-каникул][17].
+Если же вы ведете бухгалтерию самостоятельно, смотрите пункт [Ежемесячные отчеты во время ZUS-каникул][22].
 
 ## Ежемесячные отчеты во время ZUS-каникул
 
@@ -301,75 +301,75 @@ NIP других предпринимателей, а также размер п
 Если вы пользуетесь программами бухгалтерского учета (Infakt, WFirma, iFirma),
 можно сформировать отчетность с их помощью. В ином случае, вы можете воспользоваться инструкцией ниже.
 Инструкция выполнена для плательщика на Składkach preferencyjnych.
-Оригинальная версия инструкции разработана [:telegram: Ольгой Корневой][18].
+Оригинальная версия инструкции разработана [:telegram: Ольгой Корневой][1].
 
 ### Креатор отчетов для ZUS-каникул в PUE ZUS
 
 Панель ePłatnik – Kreatory – Obsługa rozliczenia - Dalej.
 
-![Obsluga rozliczenia][29]
+![Obsluga rozliczenia][23]
 
 Nowy komplet rozliczeniowy - Dalej.
 
-![Nowy komplet rozliczeniowy][30]
+![Nowy komplet rozliczeniowy][24]
 
 Поле даты будет заполнено заранее, сверяем остальные поля и нажимаем Dalej.
 
-![Ogolne opcji deklaracji][31]
+![Ogolne opcji deklaracji][25]
 
 Выскочит информационное сообщение, что будут сгенерированы декларации ZUS RCA - нажимаем Zamknij.
 
-![Informacja][32]
+![Informacja][26]
 
 На панели Rozliczenie ubezpieczonych нажимаем Dane rozliczenia.
 
-![Rozliczenie ubezpieczonych][33]
+![Rozliczenie ubezpieczonych][27]
 
 На панели Dane rozliczenia выбираем элемент 057000 и нажимаем Edytuj.
 
-![Dane rozliczenia][34]
+![Dane rozliczenia][28]
 
 На панели выбираем вторую вкладку Ubezpieczenie zdrowotne, wypłacone świadczenia.
 
-![Dane rozliczenia][35]
+![Dane rozliczenia][29]
 
 Выбираем нужную форму налогообложения. Чтобы выбрать рычалт, нужно пролистать вкладку ниже.
 
-![Ubezpieczenie zdrowotne][36]
+![Ubezpieczenie zdrowotne][30]
 
 Помимо отметки, для рычалта нужно указать сумму доходов за текущий календарный год (в примере - за 2024 год).
 Нажимаем Oblicz.
 
-![Ubezpieczenie zdrowotne][37]
+![Ubezpieczenie zdrowotne][31]
 
 Выскочит информация про расчёт базы и взноса на медицинское страхование по предоставленным данным.
 Нажимаем Ok.
 
-![Informacja][38]
+![Informacja][32]
 
 Соответственные поля заполнились автоматически. Нажимаем Zapisz.
 
-![Ubezpieczenie zdrowotne][39]
+![Ubezpieczenie zdrowotne][33]
 
 Возвращаемся на панель Dane rozliczenia, нажимаем Dalej.
 
-![Dane rozliczenia][40]
+![Dane rozliczenia][34]
 
 На панели Zestawenie нажимаем Dalej.
 
-![Zestawenie][41]
+![Zestawenie][35]
 
 На панели Utworzenie i walidacja dokumentów нажимаем Wylicz.
 
-![Utworzenie i walidacja dokumentow][42]
+![Utworzenie i walidacja dokumentow][36]
 
 Выскочит информационное сообщение. Нажимаем Ok.
 
-![Informacja][43]
+![Informacja][37]
 
 На панели Utworzenie i walidacja dokumentów нажимаем Weryfikuj.
 
-![Utworzenie i walidacja dokumentow][44]
+![Utworzenie i walidacja dokumentow][38]
 
 Декларации будут верифицированы.
 
@@ -378,41 +378,41 @@ Nowy komplet rozliczeniowy - Dalej.
 Для просмотра деклараций на панели Utworzenie i walidacja dokumentów выбираем нужный
 элемент и нажимаем Podgląd.
 
-![Utworzenie i walidacja dokumentow][51]
+![Utworzenie i walidacja dokumentow][39]
 
 В одном элементе ZUS RCA будут сгенерированы две декларации ZUS RCA.
 Чтобы просмотреть обе декларации, используем кнопки навигации, указанные на скриншоте.
 
-![ZUS RCA][45]
+![ZUS RCA][40]
 
 Часть взносов на социальное страхование (emerytalne, rentowe, chorobowe, wypadkowe),
 оплачиваемых государством, будет указана в декларации с кодом 057400. На скриншоте
 ниже это поля 15, 16, 17, 18.
 
-![ZUS RCA][46]
+![ZUS RCA][41]
 
 Часть взносов на социальное страхование (emerytalne, rentowe, chorobowe, wypadkowe),
 оплачиваемых предпринимателем, будет указана в декларации с кодом 057000.
 На скриншоте ниже это поля 07, 08, 09, 10.
 
-![ZUS RCA][47]
+![ZUS RCA][42]
 
 В декларации с кодом 057000 в соответственных полях будет указана база и размер взноса
 на медицинское страхование (składka zdrowotna). Раздел III.C поле 04 - столько должен
 заплатить застрахованный предприниматель. На скриншоте ниже указана сумма
 699.11 zł, которая может отличаться в зависимости от вашей ситуации.
 
-![ZUS RCA][48]
+![ZUS RCA][43]
 
 ### Отправка деклараций
 
 На панели Utworzenie i walidacja dokumentów нажимаем Wyślij i zakończ.
 
-![Utworzenie i walidacja dokumentow][49]
+![Utworzenie i walidacja dokumentow][44]
 
 Подписываем документ любым из перечисленных способов.
 
-![Podpis][50]
+![Podpis][45]
 
 После подписи документ будет выслан в ZUS.
 
@@ -455,60 +455,60 @@ Nowy komplet rozliczeniowy - Dalej.
 ZUS-каникулы — это хорошая возможность немного снизить расходы на бизнес и облегчить себе жизнь.
 Просто не забудьте внимательно изучить условия и подать заявку вовремя.
 
-Более подробную информацию о льготах можно найти на официальном [сайте ZUS][52].
+Более подробную информацию о льготах можно найти на официальном [сайте ZUS][46].
 
-[1]: images/zus_vacation/zus_vacation_rws_1.png
-[2]: images/zus_vacation/zus_vacation_rws_2.png
-[3]: images/zus_vacation/zus_vacation_rws_3.png
-[4]: images/zus_vacation/zus_vacation_rws_4.png
-[5]: images/zus_vacation/zus_vacation_rws_5.png
-[6]: images/zus_vacation/zus_vacation_rws_6.png
-[7]: images/zus_vacation/zus_vacation_rws_7.png
-[8]: images/zus_vacation/zus_vacation_rws_8.png
-[9]: images/zus_vacation/zus_vacation_rws_9.png
-[10]: images/zus_vacation/zus_vacation_rws_10.png
-[11]: images/zus_vacation/zus_vacation_rws_11.png
-[12]: images/zus_vacation/zus_vacation_rws_12.png
-[13]: images/zus_vacation/zus_vacation_rws_13.png
-[14]: images/zus_vacation/zus_vacation_rws_14.png
-[15]: images/zus_vacation/zus_vacation_rws_15.png
-[16]: images/zus_vacation/zus_vacation_rws_16.png
-[17]: zus_vacation.md#ezhemesiachnye-otchety-vo-vremia-zus-kanikul
-[18]: https://t.me/KorneVa_OK
-[19]: https://sudop.uokik.gov.pl/search/aidBeneficiary
-[20]: images/zus_vacation/zus_vacation_rws2_1.png
-[21]: images/zus_vacation/zus_vacation_rws2_2.png
-[22]: images/zus_vacation/zus_vacation_rws2_3.png
-[23]: images/zus_vacation/zus_vacation_rws2_4.png
-[24]: images/zus_vacation/zus_vacation_rws2_5.png
-[25]: images/zus_vacation/zus_vacation_rws2_6.png
-[26]: images/zus_vacation/zus_vacation_rws2_7.png
-[27]: images/zus_vacation/zus_vacation_rws2_8.png
-[28]: images/zus_vacation/zus_vacation_rws2_8_2.png
-[29]: images/zus_vacation/zus_vacation_rca_1.png
-[30]: images/zus_vacation/zus_vacation_rca_2.png
-[31]: images/zus_vacation/zus_vacation_rca_3.png
-[32]: images/zus_vacation/zus_vacation_rca_4.png
-[33]: images/zus_vacation/zus_vacation_rca_5.png
-[34]: images/zus_vacation/zus_vacation_rca_6.png
-[35]: images/zus_vacation/zus_vacation_rca_7.png
-[36]: images/zus_vacation/zus_vacation_rca_8.png
-[37]: images/zus_vacation/zus_vacation_rca_9.png
-[38]: images/zus_vacation/zus_vacation_rca_10.png
-[39]: images/zus_vacation/zus_vacation_rca_11.png
-[40]: images/zus_vacation/zus_vacation_rca_12.png
-[41]: images/zus_vacation/zus_vacation_rca_13.png
-[42]: images/zus_vacation/zus_vacation_rca_14.png
-[43]: images/zus_vacation/zus_vacation_rca_15.png
-[44]: images/zus_vacation/zus_vacation_rca_16.png
-[45]: images/zus_vacation/zus_vacation_rca_17.png
-[46]: images/zus_vacation/zus_vacation_rca_18.png
-[47]: images/zus_vacation/zus_vacation_rca_19.png
-[48]: images/zus_vacation/zus_vacation_rca_20.png
-[49]: images/zus_vacation/zus_vacation_rca_21.png
-[50]: images/zus_vacation/zus_vacation_rca_22.png
-[51]: images/zus_vacation/zus_vacation_rca_23.png
-[52]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
-[53]: images/zus_vacation/zus_vacation_zasw_1.png
-[54]: images/zus_vacation/zus_vacation_zasw_2.png
-[55]: images/zus_vacation/zus_vacation_zasw_3.png
+[1]: https://t.me/KorneVa_OK
+[2]: images/zus_vacation/zus_vacation_rws_1.png
+[3]: images/zus_vacation/zus_vacation_rws_2.png
+[4]: images/zus_vacation/zus_vacation_rws_3.png
+[5]: images/zus_vacation/zus_vacation_rws2_1.png
+[6]: images/zus_vacation/zus_vacation_rws2_2.png
+[7]: images/zus_vacation/zus_vacation_rws2_3.png
+[8]: https://sudop.uokik.gov.pl/search/aidBeneficiary
+[9]: images/zus_vacation/zus_vacation_zasw_1.png
+[10]: images/zus_vacation/zus_vacation_zasw_2.png
+[11]: images/zus_vacation/zus_vacation_rws2_4.png
+[12]: images/zus_vacation/zus_vacation_rws_9.png
+[13]: images/zus_vacation/zus_vacation_rws2_5.png
+[14]: images/zus_vacation/zus_vacation_rws2_6.png
+[15]: images/zus_vacation/zus_vacation_rws2_7.png
+[16]: images/zus_vacation/zus_vacation_rws2_8.png
+[17]: images/zus_vacation/zus_vacation_rws2_8_2.png
+[18]: images/zus_vacation/zus_vacation_rws_14.png
+[19]: images/zus_vacation/zus_vacation_rws_15.png
+[20]: images/zus_vacation/zus_vacation_rws_16.png
+[21]: images/zus_vacation/zus_vacation_zasw_3.png
+[22]: zus_vacation.md#ezhemesiachnye-otchety-vo-vremia-zus-kanikul
+[23]: images/zus_vacation/zus_vacation_rca_1.png
+[24]: images/zus_vacation/zus_vacation_rca_2.png
+[25]: images/zus_vacation/zus_vacation_rca_3.png
+[26]: images/zus_vacation/zus_vacation_rca_4.png
+[27]: images/zus_vacation/zus_vacation_rca_5.png
+[28]: images/zus_vacation/zus_vacation_rca_6.png
+[29]: images/zus_vacation/zus_vacation_rca_7.png
+[30]: images/zus_vacation/zus_vacation_rca_8.png
+[31]: images/zus_vacation/zus_vacation_rca_9.png
+[32]: images/zus_vacation/zus_vacation_rca_10.png
+[33]: images/zus_vacation/zus_vacation_rca_11.png
+[34]: images/zus_vacation/zus_vacation_rca_12.png
+[35]: images/zus_vacation/zus_vacation_rca_13.png
+[36]: images/zus_vacation/zus_vacation_rca_14.png
+[37]: images/zus_vacation/zus_vacation_rca_15.png
+[38]: images/zus_vacation/zus_vacation_rca_16.png
+[39]: images/zus_vacation/zus_vacation_rca_23.png
+[40]: images/zus_vacation/zus_vacation_rca_17.png
+[41]: images/zus_vacation/zus_vacation_rca_18.png
+[42]: images/zus_vacation/zus_vacation_rca_19.png
+[43]: images/zus_vacation/zus_vacation_rca_20.png
+[44]: images/zus_vacation/zus_vacation_rca_21.png
+[45]: images/zus_vacation/zus_vacation_rca_22.png
+[46]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
+[47]: images/zus_vacation/zus_vacation_rws_4.png
+[48]: images/zus_vacation/zus_vacation_rws_5.png
+[49]: images/zus_vacation/zus_vacation_rws_6.png
+[50]: images/zus_vacation/zus_vacation_rws_7.png
+[51]: images/zus_vacation/zus_vacation_rws_8.png
+[52]: images/zus_vacation/zus_vacation_rws_10.png
+[53]: images/zus_vacation/zus_vacation_rws_11.png
+[54]: images/zus_vacation/zus_vacation_rws_12.png
+[55]: images/zus_vacation/zus_vacation_rws_13.png

@@ -15,11 +15,11 @@ Jednoosobowa działalność gospodarcza это форма бизнеса в По
 У вас есть вопросы, хотите узнать больше или помочь с редактированием гайда?
 
 !!! tip "Присоединяйтесь к нам в Telegram:"
-    - [:telegram: чат про JDG в Польше][0]
-    - [:telegram: чат контрибьюторов][5]
+    - [:telegram: чат про JDG в Польше][1]
+    - [:telegram: чат контрибьюторов][2]
 
 !!! success "Бухгалтерия для JDG"
-    [Legal Tax Level][4]
+    [Legal Tax Level][3]
 
 ## Кто может открыть JDG в Польше
 
@@ -60,18 +60,18 @@ Jednoosobowa działalność gospodarcza это форма бизнеса в По
 трехсторонний контракт с вами и вашим клиентом. Бизнес-инкубаторы берут за свои услуги ежемесячную плату.
 С бизнес-инкубатором может работать любой человек, легально проживающий в Польше.
 
-[Статья про бизнес-инкубаторы][1] от представителя одного из бизнес-инкубаторов.
+[Статья про бизнес-инкубаторы][4] от представителя одного из бизнес-инкубаторов.
 
-[:telegram: Чат про инкубаторы][2]
+[:telegram: Чат про инкубаторы][5]
 
 ### Компания (спулка)
 
 Spółka, sp.z.o.o - аналог ООО, общества с ограниченной ответственностью в СНГ.
-Открыть компанию может любой человек. Больше информации можно узнать в [:telegram: чате про спулки][3].
+Открыть компанию может любой человек. Больше информации можно узнать в [:telegram: чате про спулки][6].
 
-[0]: https://t.me/JDG_PBH
-[1]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
-[2]: https://t.me/+Lu-5LydDmcdhYjNi
-[3]: https://t.me/llc_poland
-[4]: https://legaltaxlevel.com/ip_pl
-[5]: https://t.me/+WK5ppqgHxXA3MjAy
+[1]: https://t.me/JDG_PBH
+[2]: https://t.me/+WK5ppqgHxXA3MjAy
+[3]: https://legaltaxlevel.com/ip_pl
+[4]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
+[5]: https://t.me/+Lu-5LydDmcdhYjNi
+[6]: https://t.me/llc_poland

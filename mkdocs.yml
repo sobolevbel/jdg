@@ -28,17 +28,21 @@ nav:
     - Общая информация: declarations.md
     - Отчёты ZUS: declarations_zus.md
     - Декларации VAT: declarations_vat.md
-    - JPK_V7M через e-mikrofirmę: declarations_jpk_emikrofirma.md
+    - JPK_V7M через e-mikrofirma: declarations_jpk_emikrofirma.md
     - Декларация PIT: declarations_pit.md
   - Легализация:
     - Легализация: legalization.md
-    - Легализация в Варшаве: legalization_warsaw.md
+    - Подача через MOS: legalization_mos2.md
   - Рабочий процесс: workflow.md
   - Как отправить письмо в налоговую: pismo_ogolne.md
-  - Ежемесячные операции в infakt.pl: infakt_routine.md
-  - Миграция на infakt.pl: infakt_migration.md
-  - Ежемесячные операции в wfirma.pl: wfirma_routine.md
-  - Миграция на wfirma.pl: wfirma_migration.md
+  - inFakt:    # section
+    - Настройка: infakt_settings.md
+    - Ежемесячные операции: infakt_routine.md
+    - Миграция на inFakt: infakt_migration.md
+  - wFirma:    # section
+    - Настройка: wfirma_settings.md
+    - Ежемесячные операции: wfirma_routine.md
+    - Миграция на wFirma: wfirma_migration.md
   - Словарь: glossary.md
   - F.A.Q.: faq.md
   - Что нового: whatsnew.md
@@ -105,6 +109,7 @@ plugins:
   - redirects:
       redirect_maps:
         'registration.md': 'registration_jdg.md'
+        'legalization_warsaw.md': 'legalization_mos2.md'
   - minify:
       minify_html: true
 
@@ -125,11 +130,6 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - abbr
-  - pymdownx.snippets:
-      auto_append:
-        - docs/includes/abbreviations.md
-
 extra:
   homepage: https://sobolevbel.github.io/jdg/
 

@@ -51,7 +51,7 @@ Profil Zaufany.
 ## PESEL по мельдунку
 
 Самый простой вариант. Приходим в ужонд, берем с собой договор аренды жилья, паспорт, заявление и делаем PESEL.
-Для подачи нужно заполнить заявление по форме [EL/ZC/1][6]. Нам нужна услуга мельдования, в одном окошке сразу сделают
+Для подачи нужно заполнить заявление по форме [EL/ZC/1][2]. Нам нужна услуга мельдования, в одном окошке сразу сделают
 мельдунок и выдают бумагу c номером PESEL. Дополнительно можно получить справку по мельдунку, но она стоит 17 злотых и
 ее можно сделать в любой момент, не обязательно сразу.
 
@@ -78,7 +78,7 @@ Profil Zaufany.
     DZ.U. 1997 NR 121 POZ. 769; USTAWA Z DNIA 20 SIERPNIA 1997 R. O KRAJOWYM
     REJESTRZE SĄDOWYM; ART. 35 PKT 1
 
-    [Ссылка на постановление][7]
+    [Ссылка на постановление][3]
 
 !!! Quote "Основание для детей до 3-х лет:"
     Ustawa z dnia 4 lutego 2011 r. o opiece nad dziećmi w wieku do lat 3
@@ -89,7 +89,7 @@ Profil Zaufany.
     (TJ. Z DNIA 31 PAZDZIERNIKA 2016 R. DZ. U. Z 2016 R. POZ.1943)
     ART. 92K. UST. 2 PKT 2F
 
-    [Ссылка на постановление][8]
+    [Ссылка на постановление][4]
 
 !!! Quote "Взрослые от 18-ти лет:"
     PARAGRAF 5 UST. 3, PARAGRAF 8 UST. 1 — ROZPORZĄDZENIE MINISTRA CYFRYZACJI
@@ -97,7 +97,7 @@ Profil Zaufany.
     PLATFORMY USŁUG ADMINISTRACJI PUBLICZNEJ, OPUBLIKOWANE W DZIENNIKU USTAW
     R.P. Z 2016, POZ. 1633.
 
-    [Ссылка на постановление][9]
+    [Ссылка на постановление][5]
 
 Если в каком-то ужонде отказались выдавать PESEL без мельдунка, либо
 сказали ждать 30 дней — пробуйте получить песель в другом ужонде.
@@ -113,7 +113,7 @@ Profil Zaufany.
 <!-- resources -->
 
 [1]: https://www.gov.pl/attachment/5681d5cb-3ce9-4ca0-a325-1db67a7f3c24
-[6]: https://druki.gofin.pl/elzc1-zgloszenie-pobytu-czasowego,wzor,1472,165.html
-[7]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769
-[8]: https://www.prawo.vulcan.edu.pl/przegdok.asp?qdatprz=akt&qplikid=1
-[9]: http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001633
+[2]: https://druki.gofin.pl/elzc1-zgloszenie-pobytu-czasowego,wzor,1472,165.html
+[3]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971210769
+[4]: https://www.prawo.vulcan.edu.pl/przegdok.asp?qdatprz=akt&qplikid=1
+[5]: http://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001633

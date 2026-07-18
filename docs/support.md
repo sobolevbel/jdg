@@ -16,10 +16,10 @@ tags:
 
 Хотите помочь с редактированием информации на сайте? Присоединяйтесь!
 
-[Чат контрибьюторов :fontawesome-solid-paper-plane:][5]{ .md-button }
+[Чат контрибьюторов :fontawesome-solid-paper-plane:][3]{ .md-button }
 
 [1]: https://buymeacoffee.com/devsobolev
 [2]: https://revolut.me/pointlesshenry
-[3]: https://justandrei.github.io/coffee
-[4]: https://buymeacoffee.com/verunko
-[5]: https://t.me/+WK5ppqgHxXA3MjAy
+[3]: https://t.me/+WK5ppqgHxXA3MjAy
+[4]: https://justandrei.github.io/coffee
+[5]: https://buymeacoffee.com/verunko

@@ -11,7 +11,7 @@ tags:
 
 Информация по налогам ИП в Польше.
 
-Бухгалтерия для JDG: [Legal Tax Level][20]
+Бухгалтерия для JDG: [Legal Tax Level][1]
 
 ## PIT: подоходный налог
 
@@ -43,7 +43,7 @@ tags:
 
 Сгенерировать счет для оплаты подоходного налога PIT и налога на добавленную стоимость VAT можно:
 
-- на сайте [налоговой][1] на основе своего идентификатора NIP;
+- на сайте [налоговой][2] на основе своего идентификатора NIP;
 - на сайте Urzędu Skarbowego [в разделе отчетов налогоплательщика](https://urzadskarbowy.gov.pl/taxpayer-report) (искать Mikrorachunek podatkowy). Кроме того, там же можно проверить оплату налогов на [странице оплат](https://urzadskarbowy.gov.pl/balances-and-settlements) — данные появляются через несколько дней после оплаты.
 
 ## Налоговые калькуляторы
@@ -61,15 +61,15 @@ tags:
 Переходим по ссылке [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Логинимся в свой онлайн кабинет налоговой, например через `Profil zaufany`
 и далее делаем следующее:
 
-- **Шаг 1.** Нужно разрешить e‑Correspondence, иначе в конце шага 8 вас ждет неприятный сюрприз - цикл без возможности продолжить отправку: ![e_correspondence_error][13]![11_stop_process][14]Идем в `Ustawienia` > `Zgody i powiadomienia`, и привязываем email и/или телефон.
-- **Шаг 2.** В боковом меню выбираем `Dokumenty` > `Złóż dokument`. И в списке документов находим `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![create_document][3]
-- **Шаг 3.** Выбираем тип справки - `o niezaleganiu w podatkach`, то есть справку о том что долгов нет. ![document_details][4]
-- **Шаг 4.** Выбираем для кого будет выдана справка - `za siebie`, то-есть для себя. ![who_concerns][5]
-- **Шаг 5.** Выбираем какой идентификатор будет напечатан на справке - `PESEL` если вам справка нужна как для физического лица, или `NIP` соответственно как для юридического лица. От этого будет справке меняется одна строчка _Dane identyfikacyjne podatnika_ на выбранный вариант. Данные с адресом заполняются автоматически из того что вы подали в налоговую при регистрации JDG. ![identification_data][6]
-- **Шаг 6.** В свободной форме пишем, для чего берем справку, например - `w celu uzyskania karty pobytu`. Справа можно посмотреть примеры, если нажать на `Więcej`. Похоже, что на конечный результат это не влияет. ![certificate_purpose][7]
-- **Шаг 7.** Не обязательно, но можно оставить свой телефон и почту для связи. Похоже, этот пункт тоже не влияет на результат. ![contact_details][8]
-- **Шаг 8.** Проверяем, что все данные вписаны верно и жмем кнопку `Akceptuj i wyślij` для отправки. В появившемся всплывающем окне еще раз подтверждаем нажатием кнопки `Wyślij wniosek`, что хотим отправить запрос. ![summary][9] ![submit_confirmation][10]
-- **Шаг 9.** После отправки запроса, будет написано, что рассмотрение произойдет в течение семи дней. Но похоже, что все полностью автоматизировано, и ответ приходит в течение пары минут, даже ночью и в выходные. Сообщение о готовности справки приходит на почту, а также в самом e-Urząd аккаунте. Чтобы скачать саму справку, справа в меню выбираем `Dokumenty` > `Dokumenty otrzymane`. Там будет список всех полученных документов, жмем на кнопку `Odbierz` и скачиваем pdf со справкой. Справка будет на двух страницах, ниже пример как она выглядит. ![received_documents][11] ![certificate_example][12]
+- **Шаг 1.** Нужно разрешить e‑Correspondence, иначе в конце шага 8 вас ждет неприятный сюрприз - цикл без возможности продолжить отправку: ![e_correspondence_error][3]![11_stop_process][4]Идем в `Ustawienia` > `Zgody i powiadomienia`, и привязываем email и/или телефон.
+- **Шаг 2.** В боковом меню выбираем `Dokumenty` > `Złóż dokument`. И в списке документов находим `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![create_document][5]
+- **Шаг 3.** Выбираем тип справки - `o niezaleganiu w podatkach`, то есть справку о том что долгов нет. ![document_details][6]
+- **Шаг 4.** Выбираем для кого будет выдана справка - `za siebie`, то-есть для себя. ![who_concerns][7]
+- **Шаг 5.** Выбираем какой идентификатор будет напечатан на справке - `PESEL` если вам справка нужна как для физического лица, или `NIP` соответственно как для юридического лица. От этого будет справке меняется одна строчка _Dane identyfikacyjne podatnika_ на выбранный вариант. Данные с адресом заполняются автоматически из того что вы подали в налоговую при регистрации JDG. ![identification_data][8]
+- **Шаг 6.** В свободной форме пишем, для чего берем справку, например - `w celu uzyskania karty pobytu`. Справа можно посмотреть примеры, если нажать на `Więcej`. Похоже, что на конечный результат это не влияет. ![certificate_purpose][9]
+- **Шаг 7.** Не обязательно, но можно оставить свой телефон и почту для связи. Похоже, этот пункт тоже не влияет на результат. ![contact_details][10]
+- **Шаг 8.** Проверяем, что все данные вписаны верно и жмем кнопку `Akceptuj i wyślij` для отправки. В появившемся всплывающем окне еще раз подтверждаем нажатием кнопки `Wyślij wniosek`, что хотим отправить запрос. ![summary][11] ![submit_confirmation][12]
+- **Шаг 9.** После отправки запроса, будет написано, что рассмотрение произойдет в течение семи дней. Но похоже, что все полностью автоматизировано, и ответ приходит в течение пары минут, даже ночью и в выходные. Сообщение о готовности справки приходит на почту, а также в самом e-Urząd аккаунте. Чтобы скачать саму справку, справа в меню выбираем `Dokumenty` > `Dokumenty otrzymane`. Там будет список всех полученных документов, жмем на кнопку `Odbierz` и скачиваем pdf со справкой. Справка будет на двух страницах, ниже пример как она выглядит. ![received_documents][13] ![certificate_example][14]
 
 ## VAT
 
@@ -96,11 +96,11 @@ tags:
 3. Вы хотите списывать VAT с покупок на фирму (прим. Ноутбук, телефон, мебель и прочие вещи очень нужные для работы ИП).
 
 !!! tip "Как проверить регистрацию?"
-    Это можно сделать на [сайте налоговой][16] - это так называемый белый список (biała lista) всех плательщиков VAT.
+    Это можно сделать на [сайте налоговой][15] - это так называемый белый список (biała lista) всех плательщиков VAT.
 
 !!! note "VAT заметки"
     - VAT составляет 23%
-    - На biznes.gov.pl есть отдельная [страничка про VAT][17].
+    - На biznes.gov.pl есть отдельная [страничка про VAT][16].
     - С 2026 года фактуры поэтапно переводятся в обязательную государственную систему
       [KSeF](declarations_vat.md) — с 1 апреля 2026 обязанность выставлять e-faktury касается
       практически всех, включая освобождённых от VAT.
@@ -118,7 +118,7 @@ VAT, соответственно, вы в своем инвойсе не доб
 EU VAT number.
 
 !!! tip "Как проверить регистрацию?"
-    Проверить, что ваш контрагент является VAT-EU плательщиком можно [здесь][18].
+    Проверить, что ваш контрагент является VAT-EU плательщиком можно [здесь][17].
 
 ### VAT в другие страны
 
@@ -132,24 +132,24 @@ EU VAT number.
 
 ## FAQ
 
-Также смотрите [список вопросов и ответов в разделе FAQ][15].
+Также смотрите [список вопросов и ответов в разделе FAQ][18].
 
-[1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
-[2]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx
-[3]: images/pit_zaswiadczenie_etax/00_create_document.jpg
-[4]: images/pit_zaswiadczenie_etax/01_document_details.jpg
-[5]: images/pit_zaswiadczenie_etax/02_who_concerns.jpg
-[6]: images/pit_zaswiadczenie_etax/03_identification_data.jpg
-[7]: images/pit_zaswiadczenie_etax/04_certificate_purpose.jpg
-[8]: images/pit_zaswiadczenie_etax/05_contact_details.jpg
-[9]: images/pit_zaswiadczenie_etax/06_summary.jpg
-[10]: images/pit_zaswiadczenie_etax/07_submit_confirmation.jpg
-[11]: images/pit_zaswiadczenie_etax/08_received_documents.jpg
-[12]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
-[13]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
-[14]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
-[15]: faq.md#podokhodnyi-nalog
-[16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
-[17]: https://www.biznes.gov.pl/pl/portal/00248
-[18]: https://ec.europa.eu/taxation_customs/vies/
-[20]: https://legaltaxlevel.com/ip_pl
+[1]: https://legaltaxlevel.com/ip_pl
+[2]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
+[3]: images/pit_zaswiadczenie_etax/10_e_сorrespondence_error.jpg
+[4]: images/pit_zaswiadczenie_etax/11_stop_process.jpg
+[5]: images/pit_zaswiadczenie_etax/00_create_document.jpg
+[6]: images/pit_zaswiadczenie_etax/01_document_details.jpg
+[7]: images/pit_zaswiadczenie_etax/02_who_concerns.jpg
+[8]: images/pit_zaswiadczenie_etax/03_identification_data.jpg
+[9]: images/pit_zaswiadczenie_etax/04_certificate_purpose.jpg
+[10]: images/pit_zaswiadczenie_etax/05_contact_details.jpg
+[11]: images/pit_zaswiadczenie_etax/06_summary.jpg
+[12]: images/pit_zaswiadczenie_etax/07_submit_confirmation.jpg
+[13]: images/pit_zaswiadczenie_etax/08_received_documents.jpg
+[14]: images/pit_zaswiadczenie_etax/09_certificate_example.jpg
+[15]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
+[16]: https://www.biznes.gov.pl/pl/portal/00248
+[17]: https://ec.europa.eu/taxation_customs/vies/
+[18]: faq.md#podokhodnyi-nalog
+[19]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx

@@ -21,30 +21,30 @@ tags:
 
 ## Активация бухгалтерского модуля (бесплатно)
 
-Для активации бухгалтерии откройте закладку [Księgowość][14] на главном экране. Проверьте свои данные и подтвердите номер телефона. Затем выберите из списка советника/консультанта? Из своего региона (не знаю зачем???).
+Для активации бухгалтерии откройте закладку [Księgowość][4] на главном экране. Проверьте свои данные и подтвердите номер телефона. Затем выберите из списка советника/консультанта? Из своего региона (не знаю зачем???).
 
 После активации infakt запросит недостающие данные для ведения учета и бухгалтерии. Проверьте регистрационные данные сверху страницы, заполните поля адреса и номера PESEL, затем снизу выберите свою систему учета налогов и VAT (введите свои данные).
 
-![15]
+![5]
 
 Чаще всего ИТ-шники используют *Ryczałt ewidencjonowany* в качестве системы учета и ежемесячные зачисления PIT (Płacę podatek PIT miesięcznie).
 Укажите с какого месяца собираетесь вести учет в infakt - почти всегда совпадает с месяцем начала ведения деятельности.
 
 На следующей странице введите сумму прихода с начала года, освобожденное от уплаты VAT (TODO: плательщики, объясните этот пункт)
 
-![16]
+![6]
 
 Дальше настраиваем ставку налога и сумму фактур с начала года, если ранее вели бухгалтерию где-то еще помимо infakt.
 
-![17]
+![7]
 
-На этом этапе настройка почти завершена. При заходе на страницу [Księgowość][14] infakt будет еще спрашивать некоторые вещи по настройке VAT, номер налогового счета, т.д. Эту информацию просто сохраняйте.
+На этом этапе настройка почти завершена. При заходе на страницу [Księgowość][4] infakt будет еще спрашивать некоторые вещи по настройке VAT, номер налогового счета, т.д. Эту информацию просто сохраняйте.
 
 ## Настройка данных ZUS
 
-Следующим шагом идет настройка параметров для ZUS. Перейдите на страницу [Księgowość -> Składki ZUS][18], или в настройках [Ustawienia -> Księgowość -> ZUS][19] (до окончания настроек будет светиться кнопка *Uzupełnij brakujące dane*).
+Следующим шагом идет настройка параметров для ZUS. Перейдите на страницу [Księgowość -> Składki ZUS][8], или в настройках [Ustawienia -> Księgowość -> ZUS][9] (до окончания настроек будет светиться кнопка *Uzupełnij brakujące dane*).
 
-![20]
+![10]
 
 Выбираете свои настройки. Типичные настройки для начинающих:
 
@@ -52,13 +52,13 @@ tags:
 * Preferencyjna stawka ZUS przez 24 miesiące działalności **Tak**
 * Sposób wyliczania składki zdrowotnej **Na podstawie bieżącego przychodu**
 
-Если планируете оплачивать складки через infakt, имеет смысл добавить так же номер счета ZUS. Для этого введите номер своего счета в поле *Indywidualny rachunek składkowy*. Номер счета можно узнать из письма ZUS, которое приходит после регистрации, либо на самом портале [ZUS -> Panel Płatnika -> Moje dane -> Numery rachunków składkowych][22]
+Если планируете оплачивать складки через infakt, имеет смысл добавить так же номер счета ZUS. Для этого введите номер своего счета в поле *Indywidualny rachunek składkowy*. Номер счета можно узнать из письма ZUS, которое приходит после регистрации, либо на самом портале [ZUS -> Panel Płatnika -> Moje dane -> Numery rachunków składkowych][11]
 
-![21]
+![12]
 
 ## Настройки фактур
 
-Пройдите в [Ustawienia -> Faktury -> Ogólne][4], чтобы настроить некоторые значения для фактур.
+Пройдите в [Ustawienia -> Faktury -> Ogólne][13], чтобы настроить некоторые значения для фактур.
 
 Основные настройки, влияющие на содержимое фактур, это *Domyślna waluta* (выбираем ту, что чаще используется), *Domyślny sposób płatności* (чаще всего это Przelew - банковский перевод).
 
@@ -66,9 +66,9 @@ tags:
 
 ## Настройка услуг
 
-Добавляем продукт (в нашем случае - услугу) на странице [Przychody -> Produkty -> Nowy Produkt][5]
+Добавляем продукт (в нашем случае - услугу) на странице [Przychody -> Produkty -> Nowy Produkt][14]
 
-![6]
+![15]
 
 Обычно для программистов это могут быть:
 
@@ -91,9 +91,9 @@ tags:
 
 ## Настройка контрагентов
 
-Добавляем вашего/ваших заказчиков на странице [Przychody -> Produkty -> Nowy Klient][7]
+Добавляем вашего/ваших заказчиков на странице [Przychody -> Produkty -> Nowy Klient][16]
 
-![8]
+![17]
 
 Ищем по номеру NIP либо вводим руками, если заказчик за пределами Польши, и сохраняем.
 Если клиент за пределами EU, то имеет смысл для него в поле *Domyślne uwagi do faktur dla tego klienta* сохранить комментарий:
@@ -107,9 +107,9 @@ tags:
 
 ## Настройка счетов
 
-Добавляем свой счет на станице [Ustawienia -> Faktury -> Konta bankowe][11].
+Добавляем свой счет на станице [Ustawienia -> Faktury -> Konta bankowe][18].
 
-![12]
+![19]
 
 Этот счет будет показываться на фактуре для заказчика.
 
@@ -117,9 +117,9 @@ tags:
 
 ## Подпись на фактуре
 
-Переходим в настройку шаблонов фактур на странице [Ustawienia -> Faktury -> Szablony][9]
+Переходим в настройку шаблонов фактур на странице [Ustawienia -> Faktury -> Szablony][20]
 
-![10]
+![21]
 
 Тут можно добавить изображение своей подписи и логотип фирмы, а так же поиграться с шаблонами самой фактуры (infakt предлагает какой-то выбор).
 
@@ -127,27 +127,27 @@ tags:
 
 ## Разное
 
-Если будете пользоваться сервисом infakt для высылки фактур заказчику, можно настроить тексты писем на английском и польском языках. Для этого откройте [Ustawienia -> Faktury -> Teksty][13] и отредактируйте шаблоны писем.
+Если будете пользоваться сервисом infakt для высылки фактур заказчику, можно настроить тексты писем на английском и польском языках. Для этого откройте [Ustawienia -> Faktury -> Teksty][22] и отредактируйте шаблоны писем.
 
 [1]: https://app.infakt.pl/app/ustawienia/konto/dane_firmy
 [2]: images/infakt_settings/ustawienia.png
 [3]: images/infakt_settings/nip.png
-[4]: https://app.infakt.pl/app/ustawienia/faktury/ogolne
-[5]: https://app.infakt.pl/app/produkty
-[6]: images/infakt_settings/nowy_produkt.png
-[7]: https://app.infakt.pl/app/klienci
-[8]: images/infakt_settings/nowy_klient.png
-[9]: https://app.infakt.pl/app/ustawienia/faktury/szablony
-[10]: images/infakt_settings/szablony.png
-[11]: https://app.infakt.pl/app/ustawienia/faktury/konta_bankowe
-[12]: images/infakt_settings/konto_bankowe.png
-[13]: https://app.infakt.pl/app/ustawienia/faktury/teksty
-[14]: https://app.infakt.pl/app/ksiegowosc
-[15]: images/infakt_settings/ksiegovosc_dane_podstavove.png
-[16]: images/infakt_settings/ksiegovosc_kwota.png
-[17]: images/infakt_settings/ksiegovosc_przychody.png
-[18]: https://app.infakt.pl/app/program_do_ksiegowosci/deklaracja_zus
-[19]: https://app.infakt.pl/app/ustawienia/ksiegowosc/zus
-[20]: images/infakt_settings/ksiegovosc_zus.png
-[21]: images/infakt_settings/ustawienia_zus.png
-[22]: https://www.zus.pl/portal/obszar-platnika.npi#KPL0001
+[4]: https://app.infakt.pl/app/ksiegowosc
+[5]: images/infakt_settings/ksiegovosc_dane_podstavove.png
+[6]: images/infakt_settings/ksiegovosc_kwota.png
+[7]: images/infakt_settings/ksiegovosc_przychody.png
+[8]: https://app.infakt.pl/app/program_do_ksiegowosci/deklaracja_zus
+[9]: https://app.infakt.pl/app/ustawienia/ksiegowosc/zus
+[10]: images/infakt_settings/ksiegovosc_zus.png
+[11]: https://www.zus.pl/portal/obszar-platnika.npi#KPL0001
+[12]: images/infakt_settings/ustawienia_zus.png
+[13]: https://app.infakt.pl/app/ustawienia/faktury/ogolne
+[14]: https://app.infakt.pl/app/produkty
+[15]: images/infakt_settings/nowy_produkt.png
+[16]: https://app.infakt.pl/app/klienci
+[17]: images/infakt_settings/nowy_klient.png
+[18]: https://app.infakt.pl/app/ustawienia/faktury/konta_bankowe
+[19]: images/infakt_settings/konto_bankowe.png
+[20]: https://app.infakt.pl/app/ustawienia/faktury/szablony
+[21]: images/infakt_settings/szablony.png
+[22]: https://app.infakt.pl/app/ustawienia/faktury/teksty
