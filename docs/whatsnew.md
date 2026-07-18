@@ -10,6 +10,7 @@ tags:
 ## Июль 2026
 
 - Добавлена инструкция по получению [справки о медицинском страховании из ZUS](zus.md#spravka-o-meditsinskom-strakhovanii) и обновлён раздел о [подтверждении страховки при легализации](legalization.md).
+- Добавлена инструкция по [оплате налогов через сайт Bank Millennium](infakt_routine.md#oplata-nalogov), а также ссылки на [генерацию mikrorachunku и проверку оплат](taxes.md#kak-uznat-svoi-schet-dlia-oplaty-nalogov) на urzadskarbowy.gov.pl.
 
 ## Июнь 2026
 
