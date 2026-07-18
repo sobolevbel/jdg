@@ -21,11 +21,11 @@ tags:
 - Сначала жмём на `Logowanie` в правом верхнем углу и попадаем на страницу с выбором вариант логина (как на картинке).
 - Нас интересует `Zaloguj się przez Login.gov.pl` и логинимся с использованием доверенного профиля.
 
-![Logowanie][4]
+![Страница входа biznes.gov.pl: кнопка Zaloguj się przez Login.gov.pl][4]
 
 - Выбираем в большом синем прямоугольнике `ZAREJESTRUJ FIRMĘ`:
 
-![Zarejestruj firmę][5]
+![Главная biznes.gov.pl: синяя кнопка ZAREJESTRUJ FIRMĘ][5]
 
 После этого начинается пошаговое заполнение формы на регистрацию ИП.
 
@@ -33,13 +33,13 @@ tags:
 
 ### 1. Окно информационное приветственное
 
-![Hello][6]
+![Приветственное окно формы регистрации, кнопка ROZPOCZNIJ][6]
 
 Нажимаем на ROZPOCZNIJ
 
 ### 2. Важная информация
 
-![Ważne informacje][7]
+![Окно Ważne informacje с вводной информацией, кнопка DALEJ][7]
 
 Нажимаем на `DALEJ`
 
@@ -49,11 +49,11 @@ tags:
 Удаляем польское гражданство, добавляем ваше.
 В итоге должно получиться как на картинке ниже.
 
-![Dane wnioskodawcy][8]
+![Форма CEIDG: раздел Dane wnioskodawcy, выбор гражданства заявителя][8]
 
 Дальше заполняем свои данные: имя, фамилия, имя отца, имя матери, pesel, место рождения:
 
-![Dane osobowe][9]
+![Раздел Dane osobowe: имя, фамилия, имена родителей, PESEL, место рождения][9]
 
 И ещё парочка вопросов:
 
@@ -68,7 +68,7 @@ tags:
 
 В итоге должно получиться как на картинке:
 
-![Numery identyfikacyjne][10]
+![Раздел Numery identyfikacyjne: NIP, заграничный номер, Wspólność majątkowa][10]
 
 Нажимаем на `DALEJ`
 
@@ -83,23 +83,23 @@ Białorusi vulica Zmitraka Biaduli 11 :: Mińsk::). Ещё нужно учиты
     - если есть PESEL UKR: указываете PESEL.
     - если нет - отмечаете что приехали до войны и загружаете паспорт или другой документ.
 
-![Dane cudzoziemca][11]
+![Раздел Dane cudzoziemca: номер и дата выдачи визы, выбор посольства][11]
 
 - прикладываем сканы паспорта и визы/карты побыта если вы подаетесь на основании Blue Card добавьте также скан децизии. Так же не меняйте название документов предложенные порталом иначе получите в ответ на внесок Kod błędu: -4
 Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммарный размер файлов не должен превышать 3.5mb, иначе будут проблемы с подписанием заявления)
 - выбираем чек-бокс, что вам можно иметь ИП на территории Польши:
 
-![Status cudzoziemca][12]
+![Раздел Status cudzoziemca: сканы документов и чек-бокс о праве вести ИП][12]
 
 Нажимаем на `DALEJ`
 
 ### 5. Адрес проживания
 
-![Adres zamieszkania][13]
+![Шаг Adres zamieszkania, кнопка Dodaj nowy adres][13]
 
 Нажимаем `Dodaj nowy adres`
 
-![Dodaj nowy adres][14]
+![Окно Dodaj nowy adres: поля адреса и кнопка ZAPISZ][14]
 
 Вводим адрес и жмём `ZAPISZ`.
 
@@ -109,7 +109,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 И должно получиться как на картинке.
 
-![Adres][15]
+![Шаг Adres zamieszkania с заполненным адресом проживания][15]
 
 Нажимаем на `DALEJ`
 
@@ -123,7 +123,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 если не планируете нанимать работников, то 1).
 - Также, укажите галочкой планируете ли нанимать работников с ограниченными возможностями.
 
-![Dane firmy][16]
+![Раздел Dane firmy: название фирмы, дата начала деятельности, число работников][16]
 
 - Номера REGON у вас скорее всего ещё нет.
 - Контактные данные - те которые будут видны в публичном реестре CEIDG.
@@ -133,7 +133,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
     рекомендуется не публиковать данные (поставить галочку Nie),
     иначе сразу после регистрации на вас обрушится лавина спама.
 
-![Dane kontaktowe][17]
+![Раздел Dane kontaktowe: контакты для реестра CEIDG, отказ от публикации (Nie)][17]
 
 Нажимаем на `DALEJ`
 
@@ -141,7 +141,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Нажимаем `Wybierz kod PKD`, находим подходящий код, он будет основным. Можно добавить несколько, если надо (один всё равно должен быть выбран в качестве основного)
 
-![Kody działalności][18]
+![Раздел Kody działalności: кнопка Wybierz kod PKD и выбранный основной код][18]
 
 Нажимаем на `DALEJ`
 
@@ -152,7 +152,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Нажимаем `Dodaj nowy adres` и в итоге получится как на картинке:
 
-![Adres do doręczeń][19]
+![Шаг Adres do doręczeń: адресат и адрес для корреспонденции][19]
 
 Нажимаем на `DALEJ`
 
@@ -164,20 +164,20 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
     Они юридически эквивалентны традиционной заказной почте с уведомлением о вручении.
     Каждому пользователю присваивается электронный адрес доставки (Adres do Doręczeń Elektronicznych, ADE).
     Адресат получает уведомление о новом документе и может его просмотреть через защищенный портал.
-    Подробнее можно почитать по [ссылке][20]
+    Подробнее можно почитать на [официальной странице e-Doręczenia][20]
 
 На шаге "Adres do e-Doręczeń" Вам предлагают зарегистрировать электронную доставку. Скорее всего у вас ещё нет такого адреса, поэтому выбираем первый пункт - хочу подать данные для создания адреса e-Doręczenia.
-![Adres do e-Doręczeń][21]
+![Шаг Adres do e-Doręczeń: выбран пункт создания нового адреса e-Doręczenia][21]
 
 На шаге "Dane właściciela adresu do e-Doręczeń" система покажет данные пользователя, введённые ранее, осталось только ввести адрес электронной почты, на который будут приходить уведомления.
 
-![Adres e-mail do kontaktu][22]
+![Шаг Dane właściciela adresu do e-Doręczeń: поле e-mail для уведомлений][22]
 
 Шаг "Administratorzy skrzynki e-Doręczeń".  
 Если хотите, чтобы к адресу e-Doręczeń имел доступ другой человек (администратор), добавьте его. У него будут такие же права, как и у собственника. В дальнейшем его можно будет удалить.
 Если нет, выбираем - `Nie`.
 
-![Administratorzy skrzynki e-Doręczeń][23]
+![Шаг Administratorzy skrzynki e-Doręczeń: выбран вариант Nie][23]
 
 Нажимаем на `DALEJ`
 
@@ -188,7 +188,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Если у вас такой адрес есть (реальный или виртуальный офис), тогда укажите его.
 
-![Miejsca wykonywania działalności][24]
+![Шаг Miejsca wykonywania działalności: вариант без постоянного места деятельности][24]
 
 Нажимаем на `DALEJ`
 
@@ -197,7 +197,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 Все предприниматели в Польше обязаны уплачивать ЗУС, так что выбираем его и указываем дату, с
 которой начинаем платить ZUS (скорее всего будет совпадать с датой начала деятельности):
 
-![Ubiezpieczenia społeczne][25]
+![Шаг Ubezpieczenia społeczne: выбран ZUS и дата начала уплаты взносов][25]
 
 Нажимаем на `DALEJ`
 
@@ -205,7 +205,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Подтягивается автоматически по ранее введённому адресу, если знаете, что вам в другой, то можно найти более подходящий:
 
-![Urząd skarbowy][26]
+![Шаг Urząd skarbowy: автоматически подобранная налоговая инспекция][26]
 
 Нажимаем на `DALEJ`
 
@@ -213,7 +213,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 На этом можно и закончить, но есть возможность сразу зарегистрироваться в ZUS и выбрать систему налогообложения. Чем мы и воспользуемся, выбирая первый пункт:
 
-![Dodatkowe dane][27]
+![Шаг Dodatkowe dane: выбран пункт регистрации в ZUS и выбора налогообложения][27]
 
 Нажимаем на `DALEJ`
 
@@ -221,7 +221,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Чек-бокс, что хотим зарегистрироваться и что регистрируем только себя (ну или по обстоятельствам выбираем нужные пункты), и выбираем формуляр ZUS ZZA:
 
-![Zgłoszenie do ZUS][28]
+![Шаг Zgłoszenie do ZUS: чек-боксы регистрации и выбор формуляра ZUS ZZA][28]
 
 Нажимаем на `DALEJ`
 
@@ -229,11 +229,11 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Здесь можно выбрать ульгу на старт. Также, укажите если получаете пенсию и/или имеете инвалидность:
 
-![Zgłoszenie do ubiezpieczenia][29]
+![Шаг Zgłoszenie do ubezpieczenia: ulga na start, пенсия, инвалидность][29]
 
 Нужен код деятельности, нажимаем на ссылку и ищем подходящий (например, Programista Aplikacji):
 
-![Kod zawodu][30]
+![Поиск кода профессии (Kod zawodu), например Programista Aplikacji][30]
 
 Нажимаем на `DALEJ`
 
@@ -241,7 +241,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Ищем свой отдел по месту жительства:
 
-![Oddział NFZ][31]
+![Шаг Oddział NFZ: выбор отделения NFZ по месту жительства][31]
 
 Нажимаем на `DALEJ`
 
@@ -250,7 +250,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 Адрес регистрации. Если у вас нет польского мельдунка - то укажите свой
 заграничный адрес регистрации:
 
-![Adres zameldowania][32]
+![Шаг Adres zameldowania: адрес регистрации (мельдунка)][32]
 
 Нажимаем на `DALEJ`
 
@@ -258,7 +258,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Выбираем куда будет приходить бумажная почта от ZUS, опционально указываем мэйл и телефон для связи:
 
-![Dane korespondencyjne][33]
+![Шаг Dane korespondencyjne: адрес для писем ZUS, e-mail и телефон][33]
 
 Нажимаем на `DALEJ`
 
@@ -271,7 +271,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
     Если Вы забудете сделать выбор до уплаты первого налога, по умолчанию будет считаться, что выбрана общая система (Skala podatkowa).
     Поменять выбор можно будет только с начала следующего года.
 
-![Podatki][35]
+![Шаг Podatki: выбор системы налогообложения или пропуск шага][35]
 
 Нажимаем на `DALEJ`
 
@@ -279,7 +279,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Собственно выбираем [систему налогообложения][36]:
 
-![Forma opłacania podatku dochodowego][36]
+![Шаг Forma opłacania podatku dochodowego: варианты системы налогообложения][36]
 
 Нажимаем на `DALEJ`
 
@@ -289,7 +289,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 (Zawiadam o prowadzeniu ksiąg rachunkowych - Nie).
 - Указываем, кто будет вести бухгалтерию: сами или бухгалтер. Потом эти данные можно поменять.
 
-![Dokumentacja rachunkowa][37]
+![Шаг Dokumentacja rachunkowa: кто будет вести бухгалтерию][37]
 
 Нажимаем на `DALEJ`
 
@@ -297,7 +297,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Выбираем адрес, где будут храниться бухгалтерские документы:
 
-![Adres przechowywania dokumentacji][38]
+![Шаг Adres przechowywania dokumentacji: адрес хранения бухгалтерских документов][38]
 
 Нажимаем на `DALEJ`
 
@@ -316,7 +316,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 - Если планируете использовать только личный счёт, то его можно и указать.
 - Если планируете открывать бизнес счёт, то его пока нет.
 
-![Rachunki bankowe][41]
+![Шаг Rachunki bankowe: указание банковских счетов][41]
 
 Нажимаем на `DALEJ`
 
@@ -324,7 +324,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Возможно вам нужен представитель, у которого будет от вас доверенность, на какие-то действия. Его можно добавить на этом шаге.
 
-![Pełnomocnictwa][42]
+![Шаг Pełnomocnictwa: добавление представителя с доверенностью][42]
 
 Нажимаем на `DALEJ`
 
@@ -332,7 +332,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Предупреждение об ответственности:
 
-![Oświadczenie][43]
+![Шаг Oświadczenie: заявление об ответственности, кнопка DALEJ][43]
 
 Нажимаем на `DALEJ`
 
@@ -340,7 +340,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Скорее всего вот так сразу вы деятельность приостановить не хотите:
 
-![zawieszenie działalności][44]
+![Шаг Zawieszenie działalności: вопрос о приостановке деятельности][44]
 
 Нажимаем на `DALEJ`
 
@@ -349,7 +349,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 Рассказывают, где и у кого можно получить больше информации и помощь, а также, кто
 ответственный за рассмотрение внеска.
 
-![Urząd odbierający wniosek][45]
+![Шаг Urząd odbierający wniosek: справочная информация о рассмотрении внеска][45]
 
 Нажимаем на `DALEJ`
 
@@ -357,7 +357,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Морально готовят к тому, что скоро всё закончится:
 
-![Wniosek gotowy do wysłania][46]
+![Шаг Wniosek gotowy do wysłania: итоговая информация перед отправкой][46]
 
 Нажимаем на `DALEJ`
 
@@ -370,18 +370,18 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 (PROFIL ZAUFANY и BANKOWOŚĆ ELEKTRONICZNA - скорее всего приведут к одному и тому же результату, я выбирал банковость,
 потому что профиль регистрировал через банк):
 
-![Dokument gotowy do podpisu][47]
+![Шаг Dokument gotowy do podpisu: ссылки xml и выбор способа подписания][47]
 
 Дальше переходим на собственно подписание, нужно нажать на `Podpisz podpisem zaufanym`:
 
-![Podpisywanie dokumentu][48]
+![Страница подписания: кнопка Podpisz podpisem zaufanym][48]
 
 И наконец-то можно выслать подписанные документы:
 
-![Wyślij dokument][49]
+![Отправка подписанного заявления в CEIDG][49]
 
 !!! tip "Очень рекомендуется скачать и перепроверить своё заявление"
-    - переходим по [ссылке][50]
+    - переходим в [личный кабинет konto.biznes.gov.pl][50]
     - Выбираем в своих делах запись Zarejestruj działalność gospodarczą w CEIDG
     - Рядом с 202NNNNN-NNNN-NNNN-wniosek.xml нажимаем Podgląd
     - В частности, стоит убедиться в том, что отмечена форма налогообложения, например, ryczałt (смотрим пункт 15. Oświadczenie o formie opłacania podatku dochodowego).

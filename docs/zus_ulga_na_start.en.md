@@ -43,7 +43,7 @@ Can you use Ulga na Start if you worked as a tester under an employment contract
 
 What matters: **your JDG activity must not match what you did under the employment contract**. If you were officially a tester and you now contract for programming, you **formally** stay inside the relief rules.
 
-Polish practice has write-ups of similar cases. For example, if someone was a manager and then became a developer-entrepreneur serving the same employer — relief can still apply if the new activity is different from the old one (see [source][2]).
+Polish practice has write-ups of similar cases. For example, if someone was a manager and then became a developer-entrepreneur serving the same employer — relief can still apply if the new activity is different from the old one (see the [rachunkowosc.com.pl case study][2]).
 
 - [Case write-up: working with a former employer and eligibility for ZUS reliefs][2] (PL)
 

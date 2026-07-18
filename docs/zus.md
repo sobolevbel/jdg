@@ -244,41 +244,41 @@ ZUS состоит из 2 основных частей:
 
 Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
 
-![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
+![Katalog usług elektronicznych ZUS: фильтр по запросу RWN](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
 
 ### Проверяем данные в форме
 
 Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
 
-![zus_zaswiadczenie_2.png][11]
+![PUE ZUS: форма wniosek RWN — проверка данных плательщика][11]
 
 ### Количество экземпляров справки
 
 Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
 
-![zus_zaswiadczenie_2.1.png][12]
+![PUE ZUS: форма RWN — выбор количества экземпляров справки, кнопка Zapisz][12]
 
 ### Закрываем документ и соглашаемся
 
-![zus_zaswiadczenie_2.2.png][13]
+![PUE ZUS: сообщение Dokument RWN został zapisany, кнопка Zamknij][13]
 
-![zus_zaswiadczenie_2.3.png][14]
+![PUE ZUS: вопрос Czy na pewno chcesz zamknąć formularz, кнопка Tak][14]
 
 ### Проверяем документ и нажимаем **Wyślij**
 
-![zus_zaswiadczenie_2.4.png][15]
+![PUE ZUS: просмотр документа RWN, кнопка Wyślij][15]
 
 ### Подписываем через Profil Zaufany
 
-![zus_zaswiadczenie_2.5.png][16]
+![PUE ZUS: окно Autoryzacja usługi — выбор способа подписи, кнопка Podpis ePUAP][16]
 
 Нажимаем **Ok**
 
-![zus_zaswiadczenie_2.6.png][17]
+![PUE ZUS: сообщение о перенаправлении на ePUAP для подписания, кнопка OK][17]
 
 ### Документы отправлены, ждем ОК
 
-![zus_zaswiadczenie_2.7.png][18]
+![PUE ZUS: результат отправки — liczba wysłanych dokumentów: 1][18]
 
 ### Получаем справку
 
@@ -290,21 +290,21 @@ ZUS состоит из 2 основных частей:
 !!! warning "Если у вас есть уполномоченный (например, бухгалтер)"
     Если в ZUS у предпринимателя есть уполномоченный, то входящие документы, в том числе справка о незадолженности (RWN), **сначала поступают в аккаунт уполномоченного** — в раздел Skrzynka odbiorcza. Пока уполномоченный не нажмёт **Odbierz**, документ не появится в аккаунте плательщика. Если уполномоченный ничего не делает, документ автоматически становится доступен плательщику только через 14 дней. Так что если справка «не приходит» — сначала попросите бухгалтера принять её в своей скшинке.
 
-![zus_zaswiadczenie_4.png][19]
+![PUE ZUS: раздел Korespondencja z ZUS — список входящих документов][19]
 
 ### Скачиваем справку
 
 После подтверждения появится пункт **Szczegóły**
 
-![zus_zaswiadczenie_4.1.png][20]
+![PUE ZUS: полученный документ, пункт Szczegóły][20]
 
 Открываем документ **Przeglądaj dokument**.
 
-![zus_zaswiadczenie_4.2.png][21]
+![PUE ZUS: детали документа, кнопка Przeglądaj dokument][21]
 
 Печатаем **Drukuj**.
 
-![zus_zaswiadczenie_4.3.png][22]
+![PUE ZUS: просмотр справки, кнопка Drukuj][22]
 
 ## Справка о медицинском страховании
 
@@ -339,12 +339,12 @@ ZUS состоит из 2 основных частей:
 ## Добавление ePUAP к профилю ZUS
 
 1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
-    ![zus_epuap_1.png][29]
+    ![PUE ZUS: Dane profilu, кнопка Dodaj powiązanie z ePUAP][29]
 2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
-    ![zus_epuap_2.png][30]
-    ![zus_epuap_3.png][31]
+    ![Страница входа Profil Zaufany: логин, пароль и кнопка Zaloguj się][30]
+    ![Подписание документа для связи профиля с ePUAP, кнопка Podpisz podpisem zaufanym][31]
 3. в итоге профиль ZUS будет связан с profilem zaufanym.
-    ![zus_epuap_4.png][32]
+    ![PUE ZUS: подтверждение связи профиля с profilem zaufanym (ePUAP)][32]
 
 [1]: https://www.zus.pl
 [2]: https://youtu.be/FJVhBu-_nyA

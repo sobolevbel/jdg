@@ -18,7 +18,7 @@ This guide is suitable for a typical freelancer sole proprietor (JDG) on ryczał
 
 ## Preparation
 
-The wFirma setup is described [here][1]. That page also covers setup specifics related to transitioning from another accounting system.
+The wFirma setup is described on the [wFirma setup page][1]. That page also covers setup specifics related to transitioning from another accounting system.
 
 ## Theory
 
@@ -46,7 +46,7 @@ For ryczałt this isn't mandatory, but just in case, the first thing we'll do is
 5. Date: 2026-01-01 (beginning of the year).
 6. Wartość: 0 (no goods or materials).
 
-![3]
+![wFirma: Dodaj remanent — rodzaj remanent początkowy, date 01.01, wartość 0][3]
 
 ### Migrating Exchange Rate Differences
 
@@ -57,7 +57,7 @@ Find the Dowód wewnętrzny (DW) in the previous system and add it for the first
 2. Click Inne przychody.
 3. Click Pomiń >> (Skip).
 
-    ![4]
+    ![wFirma: Przychody → Inne przychody section, Pomiń button][4]
 
 4. You'll land on the [right page](https://wfirma.pl/invoices/index/income?hideEmpty=true). Hover over Dodaj inny przychód and select Pozostałe przychody (DW) from the dropdown.
 5. In the Dodawanie nowego dowodu wewnętrznego window, on the Podstawowe informacje tab, fill in Nazwa przychodu. Sample text for a positive exchange rate difference:
@@ -67,7 +67,7 @@ Find the Dowód wewnętrzny (DW) in the previous system and add it for the first
 6. Enter the amount in the Razem field. Negative exchange rate differences are also added as Przychody, just with a minus sign.
 7. Change the data wystawienia to the date of payment receipt.
 
-    ![5]
+    ![wFirma: Dodawanie nowego dowodu wewnętrznego window — nazwa przychodu, Razem amount, data wystawienia][5]
 
 8. Go to the Zaawansowane tab to enter a shorter description that will go into the Ewidencja Przychodów. Sample text:
 
@@ -76,11 +76,11 @@ Find the Dowód wewnętrzny (DW) in the previous system and add it for the first
 9. Click the Załącz pliki button and select (or drag and drop) a file to attach a bank statement confirming the incoming payment.
 10. Click Zapisz to save.
 
-    ![6]
+    ![wFirma: Zaawansowane tab of the new DW — short description, Załącz pliki and Zapisz buttons][6]
 
 11. Verify that a new row has been added to the table. You may need to play around with the filters to see it.
 
-    ![7]
+    ![wFirma: new exchange rate difference row in the Inne przychody table][7]
 
 Done, the exchange rate difference has been migrated and will be taken into account when calculating the tax base.
 
@@ -92,7 +92,7 @@ Now let's add the invoice for services in January. Follow the ["Issuing Invoices
 2. enter the payment date in data rozliczenia faktury;
 3. select "wpłata na rachunek: walutowy" (if payment arrived in a foreign currency account) or "w PLN" (if in złoty).
 
-    ![11]
+    ![wFirma: invoice with zapłacono checked, data rozliczenia faktury and wpłata na rachunek][11]
 
 4. make sure on the "Zaawansowane" tab there is no checkmark next to "automatyczna wysyłka na adres e-mail". This is a duplicate of an old invoice — no need to send it to the client again.
 
@@ -107,7 +107,7 @@ Repeat for all existing invoices that fall within the period between the start o
     Besides, I'm not sure that if you go this route, you should enter składki społeczne (1646.47 zł) here rather than składki społeczne WITHOUT fundusz pracy (1646.47 - 127.49 = 1518.98 zł).
     I'd appreciate it if someone could verify and make corrections.
 
-    ![18]
+    ![Meme: cat in a tinfoil hat — "Actions: silly. Results: questionable"][18]
 
 1. Click Start → ZUS;
 2. Click Dodaj deklarację;
@@ -116,7 +116,7 @@ Repeat for all existing invoices that fall within the period between the start o
     - Forma opodatkowania w roku 2025 — Tax form in the previous year (ryczałt is selected in the screenshot, choose yours).
     - Składki społeczne zapłacone w styczniu 2026 — Social contributions paid in January 2026. Enter how much you paid for yourself and for osoba współpracująca in January of the new year. It doesn't matter which period it's for. What matters is that the payment date on the bank statement falls in January.
 
-    ![8]
+    ![wFirma: questions when adding a ZUS declaration — forma opodatkowania and składki społeczne zapłacone][8]
 
     The screenshot shows **ZUS = 1646.47 zł**. That's exactly how much the minimum social contributions to ZUS came to for entrepreneurs on ryczałt without benefits (full or duży ZUS) for December 2025.
 
@@ -138,19 +138,19 @@ Attention! You do NOT need to submit ZUS and VAT declarations again if they've a
 
 1. Open the ZUS DRA in preview mode. To do this, click on the ZUS DRA tile just above the blue button.
 
-    ![14]
+    ![wFirma: ZUS DRA preview — Drukuj, Wyślij do ZUS, Oznacz jako wysłana buttons][14]
 
 2. "Drukuj" button: Print to PDF.
 3. "Wyślij do ZUS" button: submit the declaration to ZUS. In this case, not needed.
 4. "Oznacz jako wysłana" button: mark as sent. Click it! And agree to the warning that says the selected declaration has already been submitted by the user outside the wFirma system (e.g. through another service or an accountant).
 
-    ![15]
+    ![wFirma: warning when marking the ZUS DRA declaration as sent][15]
 
 5. "Płatności" tab — "Dodaj" button: click it after paying ZUS, if the payment was made outside wFirma. Fill in the simple form and click Zapisz to save.
 
 Similarly, PIT zaliczki also need to be marked as paid if the payment was made outside wFirma.
 
-![16]
+![wFirma: Dodawanie płatności form for a PIT zaliczka on the Płatności tab][16]
 
 Path shown in the screenshot: Start → PIT → in the Zaliczka na podatek dochodowy za (...) window, go to the Płatności tab → Dodaj button → fill in the Dodawanie płatności za deklarację form → save.
 

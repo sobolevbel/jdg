@@ -1,5 +1,5 @@
 ---
-title: Legalization via JDG — karta pobytu
+title: Residence Permit (Karta Pobytu) in Poland via JDG
 description: How to get a karta pobytu (residence permit) based on JDG in Poland — document checklist, submission process, family reunification, processing times
 tags:
   - Legalization
@@ -52,7 +52,7 @@ for submitting the wniosek — they may only come in handy for booking odbiór k
 ## General tips for preparing documents
 
 * Documents must be translated by a sworn translator (tłumacz przysięgły). A list of all sworn translators in Poland
-  is available at this [link][9].
+  is available in the [Ministry of Justice register of sworn translators][9].
 * You need to attach copies of the original and the translation to your case file; original documents are only presented
   for verification against the copies. The office employee will certify the copies as matching the originals and stamp them.
 * Documents proving family relationships (marriage certificate, birth certificate, etc.) must be translated by a sworn
@@ -142,7 +142,7 @@ If anything from the list below is missing, your application will be left withou
 
 !!! note
     Before writing the business plan, remember how you wrote your thesis. Don't hold back your imagination, but don't go overboard either.
-    A guide for writing a business plan can be downloaded [here][14].
+    You can download a [business plan writing guide (PDF)][14].
 
 The business plan should consist of:
 
@@ -190,11 +190,11 @@ The business plan should consist of:
     [Instructions on how to get the certificate](taxes.md#podatek-dochodowy-certificate-of-no-tax-arrears).
 * PIT-37, PIT-36, PIT-36L, PIT-38, PIT-28 — for the previous calendar year, if applicable.
 * Documents related to your business (other documents not listed above).
-* Oświadczenie ob utrzymaniu. Can be downloaded [here](karta-pobytu-docs/oswiadczenie-utrzymanie.doc)
+* Oświadczenie ob utrzymaniu. You can download the [oświadczenie form (DOC)](karta-pobytu-docs/oswiadczenie-utrzymanie.doc)
 * Załącznik #1.
 
     Not required for sole proprietors (definitely not needed in Krakow and Warsaw), but may be requested in other voivodeships.
-    Fill it out for yourself. Example of how to fill it out and related information at this [link][4]. Blank form in [pdf][5].
+    Fill it out for yourself. There is an [example of how to fill it out with related information][4]. [Blank form in pdf][5].
 
 ### 3. Confirmation of 3 key residency requirements
 
@@ -292,7 +292,7 @@ with the appropriate document.
 
 Documents in a foreign language (not Polish) must be translated by a
 sworn translator (tłumacz przysięgły). A list of all sworn translators in Poland
-is available at this [link][9].
+is available in the [Ministry of Justice register of sworn translators][9].
 
 ## Checklist for the entrepreneur's family members
 

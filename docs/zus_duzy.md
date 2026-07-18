@@ -41,11 +41,11 @@ tags:
 
 Нажимаем кнопку **Podgląd**.
 
-![zus_actualni_ubezpieczeni][4]
+![ePłatnik: Rejestr ubezpieczonych → Aktualni ubezpieczeni, кнопка Podgląd][4]
 
 Открывается картотека  Kartoteka ubezpieczonego
 
-![zus_kartoteka_ubezpieczonego][5]
+![ePłatnik: Kartoteka ubezpieczonego][5]
 
 ### Шаг 2
 
@@ -58,23 +58,23 @@ tags:
 
 Нажимаем **Zmień dane**.
 
-![zus_kartoteka_ubezpieczonego_zmien_dane][7]
+![Картотека: вкладка Ubezpieczenia с текущим кодом, кнопка Zmień dane][7]
 
 На вкладке Obsługa ubezpieczonego появляется пошаговая форма для внесения изменений.
 
 На шаге "Wybierz dane do zmiany" выбираем галочку в пункте **Dane ubezpieczeń** и нажимаем кнопку **Dalej**.
 
-![zus_obsluga_ubezpieczonego][8]
+![Obsługa ubezpieczonego: шаг Wybierz dane do zmiany, галочка Dane ubezpieczeń][8]
 
 ### Шаг 3
 
 На шаге "Dane ubezpieczeń" нажимаем кнопку **Edytuj**.
 
-![zus_obsluga_ubezpieczonego_edytuj][9]
+![Шаг Dane ubezpieczeń, кнопка Edytuj][9]
 
 Появляется попап с названием "Zgłoszenie ubezpieczonego → Tytuły ubezpieczeń" с текущими данными.
 
-![zus_kod_tytulu_ubezpieczenia][10]
+![Попап Tytuły ubezpieczeń: Kod tytułu ubezpieczenia и чекбоксы взносов][10]
 
 **Актуализируем данные в левой колонке:**
 
@@ -106,7 +106,7 @@ tags:
 Попап закрывается и шаг 4 показывает обновленные данные "Dane ubezpieczeń".
 На картинке ниже пример, когда совершен переход со Składki preferencyjne на Duży ZUS.
 
-![składki_preferencyjne_to_duzy_zus][12]
+![Обновлённые Dane ubezpieczeń с кодом 051000 после перехода на Duży ZUS][12]
 
 ??? note "Перевод скриншота"
     ℹ️ Укажи актуальные данные.
@@ -128,13 +128,13 @@ tags:
 
 Нажимаем **Weryfikuj** чтобы кнопка **Wyślij i zakończ** стала активной.
 
-![dokumenty_zua_zwua][13]
+![Шаг Utworzenie i walidacja dokumentów: ZUS ZUA и ZUS ZWUA, кнопка Weryfikuj][13]
 
 После проверки ZUA получает статус "ошибка" (Status weryfikacji = Błąd), связанный с тем, что сначала должна быть обработана заявка ZWUA и лишь
 потом ZUA, но это формальность, так и должно быть. На самом деле заявки посылаются в ZUS одновременно и обрабатываются
 работником вместе, в правильном порядке.
 
-![document_zua_error][14]
+![Документ ZUA со статусом weryfikacji Błąd — это формальность][14]
 
 Нажимаем **Wyślij i zakończ** (Отправить и завершить), подписываем через ePUAP обе заявки одной подписью.
 
@@ -144,7 +144,7 @@ tags:
 
 После обработки данные в картотеке должны обновиться (см. скриншот 2).
 
-![result][15]
+![Картотека с обновлёнными данными страхования после обработки][15]
 
 Можно ещё проверить, что в картотеке в закладке **Członkowie rodziny** остались все ранее приписанные родственники.
 

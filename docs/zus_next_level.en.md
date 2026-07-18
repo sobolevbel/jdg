@@ -1,5 +1,5 @@
 ---
-title: Moving to the next ZUS regime
+title: Switching Between ZUS Contribution Regimes in Poland
 description: How and when to switch between ZUS regimes — Ulga na Start, Składki Preferencyjne, Mały ZUS+, Duży ZUS. Deadlines, codes, documents
 tags:
   - ZUS
@@ -92,7 +92,7 @@ You’ll need to enter *Kod wykonywanego zawodu* (code of the profession you per
 | **243106** | Specjalista do spraw marketingu i handlu | Marketing and sales specialist             |
 
 !!! success "Official site"
-    All codes are in the [profession description search tool][5] (Wyszukiwarka opisów zawodów).
+    All codes are in the [profession description search tool][4] (Wyszukiwarka opisów zawodów).
 
 _If you haven’t changed your line of business and just want to use the same code as before but forgot it, you can look it up in your original **ZUS ZZA** application on **zus.pl**: open **e-Płatnik**, go to **Dokumenty** → **Dokumenty w ZUS**, tick **ZUS ZZA** in the list, click **Podgląd**. In the document, find section **V. TYTUŁ UBEZPIECZENIA I KOD WYKONYWANEGO ZAWODU** and check item **02. Kod wykonywanego zawodu**._
 
@@ -100,7 +100,7 @@ _If you haven’t changed your line of business and just want to use the same co
 
 You can do it online — no need to visit a ZUS office.
 
-First log in to eZUS as described [here][6].
+First log in to eZUS as described in the [eZUS login guide][5].
 
 Then pick the step-by-step guide you need and follow it.
 
@@ -152,10 +152,6 @@ To get **Urzędowe Poświadczenie Przedłożenia** (UPP) in eZUS (formerly PUE Z
     - View the submission proof (**Poświadczenie przedłożenia**).
 6. To download the UPP, choose **Pokaż poświadczenie przedłożenia** and click **Eksportuj**.
 
-![ZUS ZZA UPP][4]
-
-TODO: the text does not match the screenshot! needs investigation.
-
 If you can’t find the UPP on eZUS, check your accounting software’s help.
 
 ### If you use iFirma
@@ -176,6 +172,5 @@ If something goes wrong, check our [error collection][1] first.
 [1]: zus_errors.md
 [2]: https://justandrei.github.io/jdg-tools/checklist/#c-zus-insurance-confirmation
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
-[4]: images/zus_next_level/ZUS_ZZA_UPP.jpg
-[5]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
-[6]: zus_login.md
+[4]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[5]: zus_login.md

@@ -42,11 +42,11 @@ Each of these steps is described in detail below.
 
 On the **zus.pl** page, in the **e-Płatnik** tab, open the *Dodaj dokument* window → select a new document of type **ZUS ZWUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
 
-![zus_obn_01][1]
+![e-Płatnik: Dodaj dokument window, selecting the ZUS ZWUA document][1]
 
 Next, in the *Obsługa ubezpieczonego* window, for *Cel obsługi* select *Wyrejestrowanie ubezpieczonego* (Deregistration of the insured person). Then click *Dalej*.
 
-![zus_obn_02][2]
+![Obsługa ubezpieczonego window: Wyrejestrowanie ubezpieczonego selected][2]
 
 #### Step 2
 
@@ -57,7 +57,7 @@ and in the *Data wyrejestrowania* field — the first day of the month in which 
 
 Click *Dalej*.
 
-![zus_obn_03][3]
+![Dane do wyrejestrowania step: Przyczyna wyrejestrowania (600) and Data wyrejestrowania][3]
 
 #### Step 3
 
@@ -92,14 +92,14 @@ On the **zus.pl** page, in the **e-Płatnik** tab, open the *Dodaj dokument* win
 
 Next, in the *Obsługa ubezpieczonego* window, for *Cel obsługi* select *Zgłoszenie ubezpieczonego* (Registration of the insured person). Then click *Dalej*.
 
-![zus_obn_04][4]
+![Obsługa ubezpieczonego window: Zgłoszenie ubezpieczonego selected][4]
 
 #### Step 2
 
 On the step "Zgłoszenie ubezpieczonego » Dane identyfikacyjne i ewidencyjne" fill in *Dane identyfikacyjne* and *Dane ewidencyjne* in both tabs. You can load the data already on file with ZUS by clicking
 "Wybierz z kartoteki".
 
-![zus_obn_05][5]
+![Dane identyfikacyjne i ewidencyjne step with Wybierz z kartoteki button][5]
 
 !!! tip "Should you provide your passport?"
     It's recommended to leave the *Typ dokumentu* and *Seria i numer dokumentu* fields empty. It's enough to provide your *PESEL*.
@@ -110,11 +110,11 @@ On the step "Zgłoszenie ubezpieczonego Adres ubezpieczonego" check your address
 
 * *Adres zameldowania* - registered address:
 
-![zus_obn_06][6]
+![ZUS ZUA form: Adres zameldowania fields][6]
 
 * *Adres zamieszkania* - residential address:
 
-![zus_obn_07][7]
+![ZUS ZUA form: Adres zamieszkania fields][7]
 
 * *Adres do korespondencji* - correspondence address.
 
@@ -124,9 +124,9 @@ Click *Dalej*.
 
 On the screen "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" you need to click *Dodaj kod tytułu ubezpieczenia*.
 
-![zus_obn_8][8]
+![Tytuły ubezpieczeń step with Dodaj kod tytułu ubezpieczenia button][8]
 
-![zus_obn_81][81]
+![Kod tytułu ubezpieczenia window: code picker button and insurance sections][81]
 
 Here, select *Kod tytułu ubezpieczenia*. As a reminder, if you're switching to składki preferencyjne, choose code **05 70**.
 
@@ -134,11 +134,11 @@ In the left column, fill in *Data powstania obowiązku ubezpieczenia* (or *Data 
 
 Click *Zatwierdź*.
 
-![zus_obn_12][12]
+![Selecting code 0570, Data zgłoszenia do ubezpieczenia field, Zatwierdź button][12]
 
 In the *Wybór schematu podlegania* window, select the appropriate insurance affiliation scheme. If you have no other sources of social insurance besides your sole proprietorship, leave the default scheme (highlighted in the screenshot).
 
-![zus_obn_82][82]
+![Wybór schematu podlegania window with the main insurance scheme highlighted][82]
 
 ??? note "Screenshot translation"
     Below are the correct insurance affiliation schemes for the selected insurance title code. The default scheme is shown in bold. Other schemes are due to overlapping insurance title codes.
@@ -168,7 +168,7 @@ In the same window, in the right column:
 
 - **Dobrowolne ubezpieczenie zdrowotne** (Voluntary health insurance). Leave empty.
 
-![zus_obn_83][83]
+![Kod tytułu ubezpieczenia window: mandatory and voluntary contributions checked][83]
 
 Don't forget to select *Kod wykonywanego zawodu* in the right section. This is needed for statistics. For more details, see the [profession codes table][23].
 
@@ -176,7 +176,7 @@ Click "Dodaj".
 
 In the dialog that appears, click "OK".
 
-![zus_obn_11][11]
+![Informacja dialog about the changed insurance scheme, OK button][11]
 
 ??? note "Screenshot translation"
     **Information**  
@@ -184,7 +184,7 @@ In the dialog that appears, click "OK".
 
 On the step "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" select the insured person (*ubezpieczonego*) you just created with code **057000**.
 
-![zus_obn_10][10]
+![Tytuły ubezpieczeń step: insured person with code 057000 selected][10]
 
 ??? note "Screenshot translation"
     **Registration of the insured » Insurance titles**   step 4 of 5
@@ -205,7 +205,7 @@ TODO: help make this guide better! add your screenshots here.
 
 Wait for ZUS to process the application. If everything is OK, it should look like this:
 
-![zus_obn_84][84]
+![eZUS Ubezpieczony panel: insurance title with code 0570 in Ubezpieczenia i płatnicy][84]
 
 ### 3. Switching accounting software settings
 

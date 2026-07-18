@@ -1,5 +1,5 @@
 ---
-title: JDG — Sole Proprietorship in Poland
+title: How to Register and Run a Sole Proprietorship (JDG) in Poland
 description: A guide to registering and running a JDG (jednoosobowa działalność gospodarcza) in Poland for foreigners — PESEL, ZUS, VAT, taxes, accounting
 tags:
   - JDG

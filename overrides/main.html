@@ -1,11 +1,26 @@
 {% extends "base.html" %}
 {% block extrahead %}
-  <meta property="og:type" content="website" />
   {% if config.theme.language == "en" %}
   <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="ru_RU" />
   {% else %}
   <meta property="og:locale" content="ru_RU" />
+  <meta property="og:locale:alternate" content="en_US" />
   {% endif %}
   <meta property="og:site_name" content="{{ config.site_name }}" />
-  <meta name="twitter:card" content="summary_large_image" />
+  {% if page and page.canonical_url %}
+  <link rel="alternate" hreflang="x-default" href="{{ page.canonical_url | replace('/jdg/en/', '/jdg/') }}" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TechArticle",
+    "headline": {{ (page.meta.title if page.meta and page.meta.title else page.title) | string | tojson }},
+    {% if page.meta and page.meta.description %}"description": {{ page.meta.description | tojson }},{% endif %}
+    "url": {{ page.canonical_url | tojson }},
+    "inLanguage": "{{ 'en' if config.theme.language == 'en' else 'ru' }}",
+    "author": { "@type": "Person", "name": "sobolevbel", "url": "https://github.com/sobolevbel" },
+    "isPartOf": { "@type": "WebSite", "name": {{ config.site_name | tojson }}, "url": {{ config.site_url | tojson }} }
+  }
+  </script>
+  {% endif %}
 {% endblock %}

@@ -41,11 +41,11 @@ In the top right corner, select the **ePłatnik** tab, then in the left menu cho
 
 Click the **Podgląd** button.
 
-![zus_actualni_ubezpieczeni][2]
+![ePłatnik: Rejestr ubezpieczonych → Aktualni ubezpieczeni, Podgląd button][2]
 
 The Kartoteka ubezpieczonego (insured person's file) opens.
 
-![zus_kartoteka_ubezpieczonego][3]
+![ePłatnik: Kartoteka ubezpieczonego][3]
 
 ### Step 2
 
@@ -58,23 +58,23 @@ You can find information about all codes for entrepreneurs in the [table][23].
 
 Click **Zmień dane**.
 
-![zus_kartoteka_ubezpieczonego_zmien_dane][4]
+![Kartoteka: Ubezpieczenia tab with the current code, Zmień dane button][4]
 
 On the Obsługa ubezpieczonego tab, a step-by-step form for making changes appears.
 
 On the "Wybierz dane do zmiany" step, check the box next to **Dane ubezpieczeń** and click **Dalej**.
 
-![zus_obsluga_ubezpieczonego][5]
+![Obsługa ubezpieczonego: Wybierz dane do zmiany step, Dane ubezpieczeń checkbox][5]
 
 ### Step 3
 
 On the "Dane ubezpieczeń" step, click **Edytuj**.
 
-![zus_obsluga_ubezpieczonego_edytuj][6]
+![Dane ubezpieczeń step, Edytuj button][6]
 
 A popup titled "Zgłoszenie ubezpieczonego → Tytuły ubezpieczeń" appears with the current data.
 
-![zus_kod_tytulu_ubezpieczenia][7]
+![Tytuły ubezpieczeń popup: Kod tytułu ubezpieczenia and contribution checkboxes][7]
 
 **Update the data in the left column:**
 
@@ -106,7 +106,7 @@ A popup titled "Zgłoszenie ubezpieczonego → Tytuły ubezpieczeń" appears wit
 The popup closes and step 4 shows the updated "Dane ubezpieczeń" data.
 The screenshot below shows an example of switching from Składki preferencyjne to Duży ZUS.
 
-![składki_preferencyjne_to_duzy_zus][9]
+![Updated Dane ubezpieczeń with code 051000 after switching to Duży ZUS][9]
 
 ??? note "Screenshot translation"
     ℹ️ Fill in the current data.
@@ -128,11 +128,11 @@ On the last step "Utworzenie i walidacja dokumentów", two automatically created
 
 Click **Weryfikuj** to make the **Wyślij i zakończ** button active.
 
-![dokumenty_zua_zwua][10]
+![Utworzenie i walidacja dokumentów step: ZUS ZUA and ZUS ZWUA, Weryfikuj button][10]
 
 After verification, ZUA gets an "error" status (Status weryfikacji = Błąd) because the ZWUA application must be processed first and only then ZUA, but this is just a formality — that's how it's supposed to be. In reality, both applications are sent to ZUS simultaneously and processed by a clerk together, in the correct order.
 
-![document_zua_error][11]
+![ZUA document with weryfikacja status Błąd — just a formality][11]
 
 Click **Wyślij i zakończ** (Send and finish), then sign both applications with a single ePUAP signature.
 
@@ -142,7 +142,7 @@ The applications are immediately moved to **Dokumenty -> Dokumenty wysłane**.
 
 After processing, the data in the file should be updated (see screenshot 2).
 
-![result][24]
+![Kartoteka with updated insurance data after processing][24]
 
 You can also verify that all previously added family members are still listed under the **Członkowie rodziny** tab in the file.
 

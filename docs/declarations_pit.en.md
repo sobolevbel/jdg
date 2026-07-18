@@ -87,7 +87,7 @@ Choose a service based on your preferences and where you kept your books last ye
 | [Twój e-PIT][84] | Government, official. Great for simple cases, e.g. PIT-37 with income from umowa o pracę. This guide has instructions for JDG. | Can get confused with foreign income, hard to automatically add it to the tax base. | [PIT-28 via Twój e-PIT](#pit-28-via-twoj-e-pit) |
 | [e-pity][85] | A tried-and-true service, handles non-standard cases well. This guide has instructions for JDG. | - | [PIT-28 via e-pity for Android](#e-pity-for-android) |
 | [fill-up][86] | Ideal for those who kept books in inFakt — allows automatic data import. Others can fill in manually. | - | [PIT in inFakt][89] |
-| [pitroczny.pl][87] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions][90] in Telegram |
+| [pitroczny.pl][87] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions for pitroczny.pl][90] in Telegram |
 | [wFirma][88] | Can generate and submit PIT on its own, no intermediaries needed. | Only free during the first year for new clients | [Official PIT-28 instructions][91] |
 
 ## e-pity Website
@@ -119,7 +119,7 @@ To be able to choose the organization you want, you need to check the boxes in t
 as shown in the screenshot, and later provide the KRS number of the organization you want to send
 your 1.5% to. If you don't check the boxes, the app will pick some default fund.
 
-![Settings][16]
+![e-pity settings: checkboxes for choosing the organization to receive 1.5% of your tax][16]
 
 ### 1. When to Submit
 
@@ -131,7 +131,7 @@ And of course, the earlier you submit, the sooner you'll get your tax refund.
 
 Now press the big button to create your declaration.
 
-![Start][17]
+![e-pity home screen with the button to create a new declaration][17]
 
 ### 2. Declaration Calculation Method
 
@@ -146,7 +146,7 @@ Here you can choose the calculation method. Options are:
 
 Also, at this step you can choose whether to create a new declaration or correct an existing one.
 
-![Rodzaj rozliczenia][18]
+![e-pity: choosing the settlement type (rodzaj rozliczenia) — individually, with a spouse, or as a single parent][18]
 
 Below is an example of a declaration with individual tax calculation.
 
@@ -157,7 +157,7 @@ an entrepreneur, you must provide your NIP, not PESEL. You also need to enter yo
 name, address, and select your tax office. If you have a karta dużej rodziny, enter it
 here — your tax refund will come faster.
 
-![Dane podstawowe][19]
+![e-pity: personal data form (dane podstawowe) — NIP, name, address, tax office selection][19]
 
 ### 4. Income Type
 
@@ -169,9 +169,9 @@ On the next screen you need to add your income. Press Pozostałe and choose your
 
 We'll choose ryczałt and PIT-28 as an example.
 
-![Przychody podatnika][20]
+![e-pity: Przychody podatnika screen, Pozostałe button for adding income][20]
 
-![Dodaj przychody podatnika][21]
+![e-pity: Dodaj przychody podatnika — choosing the tax system, Ryczałt (PIT-28) option][21]
 
 ### 5. Gross Income Amount
 
@@ -179,7 +179,7 @@ At this step you need to enter the full name of your business (which usually mat
 name), and the gross income amount excluding VAT in PLN for the entire year at the appropriate rate.
 If you worked at different rates, enter the corresponding amounts in the appropriate fields.
 
-![Przychody][22]
+![e-pity: Przychody form — company name and gross income amounts per ryczałt rate][22]
 
 Press "Zapisz" to return to the [previous screen][23], where your income info
 should now appear. Press Dalej.
@@ -197,7 +197,7 @@ Note that you need to enter contributions actually paid during the reporting yea
 Contributions paid in the new year (following the reporting year) should not be included, even if they're
 December contributions — you'll include those in next year's PIT.
 
-![Składki ZUS][24]
+![e-pity: fields for yearly ZUS contributions — społeczne and zdrowotne][24]
 
 ### 7. Taxes Paid
 
@@ -221,7 +221,7 @@ It's important to understand the difference:
 - in the first 12 fields, the taxpayer enters how much they should have paid,
 - and in the second-to-last field, how much they actually paid.
 
-![Podatki miesięczne][40]
+![e-pity: monthly ryczałt amounts and the Kwota wpłaconego ryczałtu za cały rok field][40]
 
 Press Dalej.
 
@@ -230,7 +230,7 @@ Press Dalej.
 On the next step you can use tax reliefs and deductions if you're eligible. Read about
 each one and decide whether it applies to you.
 
-![Ulgi][25]
+![e-pity: list of available reliefs and deductions (ulgi)][25]
 
 ### 9. Internet Deduction
 
@@ -245,9 +245,9 @@ This deduction covers home and mobile internet as well as payments for
 any other public internet, for example, in an internet cafe. You need to keep receipts or invoices for
 all internet payments — they may sometimes be requested.
 
-You can read more, for example, [here][26], or just google "ulga na internet".
+You can read more, for example, in the [PITax article on ulga internetowa][26], or just google "ulga na internet".
 
-![Ulga na internet][27]
+![e-pity: Ulga na internet form — choosing the relief year and entering the expenses amount][27]
 
 Select the third checkbox if you haven't used the deduction before, or the first one if you used it
 last year. In the field, enter the total of all your internet costs for the year.
@@ -257,18 +257,18 @@ last year. In the field, enter the total of all your internet costs for the year
 The next step covers specific edge cases that people might encounter.
 Nothing applies to me, so I just press Dalej.
 
-![Dodatkowe informacje][28]
+![e-pity: Dodatkowe informacje screen with special-case options][28]
 
 ### 11. Debtors and Creditors
 
 Next you can enter information about your debtors and creditors. I don't have any, so
 I just move on.
 
-![Dłużniki i wierzyciele][29]
+![e-pity: Dłużnicy i wierzyciele screen — information about debtors and creditors][29]
 
 ### 12. Enter Your Bank Account for the Refund
 
-![Rachunek][41]
+![e-pity: bank account (rachunek) and owner name fields for the tax refund][41]
 
 Enter your account number and name. You can use any account — it doesn't have to be your business one.
 If the account is shared with your spouse, you need to enter the names of all account holders.
@@ -283,12 +283,12 @@ To direct 1.5% of your tax to a fund, you need to enter its KRS number. You can 
 helping children, animals. There are funds supporting Ukraine and Belarus. Look for something that interests
 you.
 
-![OPP][31]
+![e-pity: step for donating 1.5% of tax to an OPP organization, ZMIEŃ OPP button][31]
 
 Press the **ZMIEŃ OPP** button and on the next step choose a fund you're interested in or manually
 enter the KRS number of the fund you want.
 
-![Wybierz OPP][32]
+![e-pity: choosing an OPP foundation from the list or entering a KRS number manually][32]
 
 ### 14. List of Funds
 
@@ -332,7 +332,7 @@ Here you can also download a PDF of the declaration and view the refund or under
 To see how the refund or underpayment was calculated, press the "Jak jest obliczany
 podatek?" button.
 
-![Podsumowanie][37]
+![e-pity: summary screen (podsumowanie) with the amount to be refunded or paid][37]
 
 ### 16. Submitting the Declaration to the Tax Office
 
@@ -353,11 +353,11 @@ first page of the PIT declaration, and the UPO for it. In other cities the proce
 
 Now on the main screen you can see your declaration. You can download it and visually check that everything is in order.
 
-![Deklaracja][38]
+![e-pity: home screen with the list of created declarations][38]
 
 You can manage the declaration using the button on the right.
 
-![Menu][39]
+![e-pity: declaration actions menu — send, edit, download PDF, correction][39]
 
 Using the corresponding buttons you can submit the declaration to the tax office, edit it, download the PDF,
 rename it, delete it, or submit a correction if you want to change
@@ -380,13 +380,13 @@ A page will open where you choose which PIT to submit. PIT-28 will be at the ver
 
 ### 3. Choose the Type of Activity
 
-![Step3][61]
+![Twój e-PIT: Kreator PIT-28, choosing the business activity form][61]
 
 ### 4. Enter Your Income
 
 I take it from ewidencja przychodów for the last month of the reporting year — it has the annual total.
 
-![Step4][62]
+![Twój e-PIT: yearly income (przychody) field in Kreator PIT-28][62]
 
 ### 5. Next Is the Reliefs Step
 
@@ -399,21 +399,21 @@ Since I only use the ZUS contribution deduction, I'll write about that — it ap
 - 5.5 - find składki społeczne (FUS)
 - 5.6 - enter 100% of that contribution in the form field
 
-![Step5][63]
-![Step5][64]
-![Step5][65]
+![ZUS account: navigating to the Informacje roczne section][63]
+![ZUS account: yearly document with zdrowotne (FUZ) and społeczne (FUS) contributions][64]
+![Kreator PIT-28, Ulgi i odliczenia step: Składki zdrowotne field — 50% of the paid contribution][65]
 
 ### 6. Verify Required Amounts Against Actual Payments
 
 If you paid everything on time, they'll all show up automatically. You just need to click 2 checkboxes and verify.
 
-![Step6][66]
+![Kreator PIT-28, Ryczałt należny i wpłacony step: verifying tax amounts, two checkboxes][66]
 
 ### 7. Podsumowanie
 
 You'll see the entered form results for verification.
 
-![Step7][67]
+![Kreator PIT-28: Podsumowanie page with the entered data for review][67]
 
 ### 8. Final Check Before Submission
 
@@ -422,15 +422,15 @@ As in the guide above, if you've entered data before, everything will be pre-fil
 - you can choose who gets the 1.5% of your tax — [Charity](#13-donate-1-5-of-your-paid-tax-to-charity)
 - see the overpayment amount
 
-![Step8][68]
-![Step8][69]
+![Twój e-PIT: declaration summary — przychód, ryczałt, 1.5% dla OPP, rachunek bankowy][68]
+![Twój e-PIT: kwota nadpłaty and the Akceptuj i wyślij button][69]
 
 ### 9. PIT-28 Is Ready
 
 You'll be automatically redirected to a page where you can download the PIT-28 for the year and the UPO. You'll also see the refund status there a bit later.
 
-![Step9][70]
-![Step9][77]
+![Twój e-PIT: Gratulacje message confirming the e-PIT-28 form was sent][70]
+![Twój e-PIT: Złożone dokumenty tab — PIT-28, Podgląd UPO and Status zwrotu][77]
 
 P.S. This is my favorite way to file. In practice, you only need to enter the ZUS contribution and your income. Everything else is already filled in and calculated.
 

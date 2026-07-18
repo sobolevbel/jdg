@@ -21,11 +21,11 @@ tags:
 - First, click `Logowanie` in the upper-right corner. You will be taken to a page with login options (as shown in the screenshot).
 - Select `Zaloguj się przez Login.gov.pl` and log in using your trusted profile.
 
-![Logowanie][4]
+![biznes.gov.pl login page: Zaloguj się przez Login.gov.pl option][4]
 
 - Click the large blue button `ZAREJESTRUJ FIRMĘ`:
 
-![Zarejestruj firmę][5]
+![biznes.gov.pl home page: large blue ZAREJESTRUJ FIRMĘ button][5]
 
 After that, you will be guided through a step-by-step form to register your sole proprietorship.
 
@@ -33,13 +33,13 @@ After that, you will be guided through a step-by-step form to register your sole
 
 ### 1. Welcome screen
 
-![Hello][6]
+![Registration form welcome screen with ROZPOCZNIJ button][6]
 
 Click `ROZPOCZNIJ`
 
 ### 2. Important information
 
-![Ważne informacje][7]
+![Ważne informacje screen with introductory information and DALEJ button][7]
 
 Click `DALEJ`
 
@@ -49,11 +49,11 @@ This is the `Dane wnioskodawcy` step.
 Remove Polish citizenship and add your own.
 The result should look like the screenshot below.
 
-![Dane wnioskodawcy][8]
+![CEIDG form: Dane wnioskodawcy section, applicant citizenship selection][8]
 
 Next, fill in your personal details: first name, last name, father's name, mother's name, PESEL, place of birth:
 
-![Dane osobowe][9]
+![Dane osobowe section: name, surname, parents' names, PESEL, place of birth][9]
 
 And a few more questions:
 
@@ -67,7 +67,7 @@ And a few more questions:
 
 The result should look like this:
 
-![Numery identyfikacyjne][10]
+![Numery identyfikacyjne section: NIP, foreign tax ID, Wspólność majątkowa][10]
 
 Click `DALEJ`
 
@@ -79,23 +79,23 @@ Click `DALEJ`
     - if you have a PESEL UKR: enter your PESEL.
     - if you don't — indicate that you arrived before the war and upload your passport or another document.
 
-![Dane cudzoziemca][11]
+![Dane cudzoziemca section: visa number and issue date, embassy selection][11]
 
 - Attach scans of your passport and visa/residence card. If you are applying on the basis of a Blue Card, also attach a scan of the decision. Do not rename the documents from the names suggested by the portal, otherwise you will receive the following error in response to your application: Kod błędu: -4
 Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (the total file size must not exceed 3.5 MB, otherwise you will have problems signing the application).
 - Check the box confirming that you are allowed to operate a sole proprietorship in Poland:
 
-![Status cudzoziemca][12]
+![Status cudzoziemca section: document scans and business eligibility checkbox][12]
 
 Click `DALEJ`
 
 ### 5. Residential address
 
-![Adres zamieszkania][13]
+![Adres zamieszkania step with Dodaj nowy adres button][13]
 
 Click `Dodaj nowy adres`
 
-![Dodaj nowy adres][14]
+![Dodaj nowy adres dialog: address fields and ZAPISZ button][14]
 
 Enter your address and click `ZAPISZ`.
 
@@ -104,7 +104,7 @@ Enter your address and click `ZAPISZ`.
 
 The result should look like this:
 
-![Adres][15]
+![Adres zamieszkania step with the residential address filled in][15]
 
 Click `DALEJ`
 
@@ -115,7 +115,7 @@ Click `DALEJ`
 - You also need to specify the planned number of employees including yourself (if you don't plan to hire anyone, enter 1).
 - Additionally, check the box if you plan to employ people with disabilities.
 
-![Dane firmy][16]
+![Dane firmy section: company name, start date, number of employees][16]
 
 - You most likely do not have a REGON number yet.
 - Contact details — these will be visible in the public CEIDG register. The "optional" fields are self-explanatory, and you can decline to publish them in CEIDG.
@@ -123,7 +123,7 @@ Click `DALEJ`
 !!! note
     It is recommended not to publish your contact details (select Nie), otherwise you will be flooded with spam immediately after registration.
 
-![Dane kontaktowe][17]
+![Dane kontaktowe section: contact details for the CEIDG register, Nie selected][17]
 
 Click `DALEJ`
 
@@ -131,7 +131,7 @@ Click `DALEJ`
 
 Click `Wybierz kod PKD`, find the appropriate code — it will be your primary one. You can add more if needed (but one must always be selected as the primary code).
 
-![Kody działalności][18]
+![Kody działalności section: Wybierz kod PKD button and the primary PKD code][18]
 
 Click `DALEJ`
 
@@ -141,28 +141,28 @@ Here you need to provide the recipient and correspondence address. Government ag
 
 Click `Dodaj nowy adres` and the result should look like this:
 
-![Adres do doręczeń][19]
+![Adres do doręczeń step: recipient and correspondence address][19]
 
 Click `DALEJ`
 
 ### 8a. e-Doręczenia — electronic document delivery system
 
 !!! info
-    e-Doręczenia is an electronic system for delivering official documents and correspondence. It allows organizations, entrepreneurs, and individuals to receive and send legally binding messages digitally, replacing traditional paper mail. These messages are legally equivalent to registered mail with acknowledgment of receipt. Each user is assigned an electronic delivery address (Adres do Doręczeń Elektronicznych, ADE). The recipient receives a notification about a new document and can view it through a secure portal. You can read more at [this link][20].
+    e-Doręczenia is an electronic system for delivering official documents and correspondence. It allows organizations, entrepreneurs, and individuals to receive and send legally binding messages digitally, replacing traditional paper mail. These messages are legally equivalent to registered mail with acknowledgment of receipt. Each user is assigned an electronic delivery address (Adres do Doręczeń Elektronicznych, ADE). The recipient receives a notification about a new document and can view it through a secure portal. You can read more on the [official e-Doręczenia page][20].
 
 At the `Adres do e-Doręczeń` step, you will be offered to register for electronic delivery. You most likely don't have such an address yet, so select the first option — I want to submit data to create an e-Doręczenia address.
 
-![Adres do e-Doręczeń][21]
+![Adres do e-Doręczeń step: option to create a new e-Doręczenia address selected][21]
 
 At the `Dane właściciela adresu do e-Doręczeń` step, the system will display the user data you entered earlier. All you need to do is enter the email address where notifications will be sent.
 
-![Adres e-mail do kontaktu][22]
+![Dane właściciela adresu do e-Doręczeń step: email field for notifications][22]
 
 Step `Administratorzy skrzynki e-Doręczeń`.
 If you want another person (an administrator) to have access to your e-Doręczenia address, add them here. They will have the same permissions as the owner. You can remove them later.
 If not, select `Nie`.
 
-![Administratorzy skrzynki e-Doręczeń][23]
+![Administratorzy skrzynki e-Doręczeń step with Nie selected][23]
 
 Click `DALEJ`
 
@@ -172,7 +172,7 @@ For IT professionals there is an option: "I do not have a permanent place of bus
 
 If you do have such an address (a real or virtual office), then enter it.
 
-![Miejsca wykonywania działalności][24]
+![Miejsca wykonywania działalności step: no permanent place of business option][24]
 
 Click `DALEJ`
 
@@ -180,7 +180,7 @@ Click `DALEJ`
 
 All entrepreneurs in Poland are required to pay ZUS contributions, so select ZUS and specify the date from which you will start paying (this will most likely match your business start date):
 
-![Ubiezpieczenia społeczne][25]
+![Ubezpieczenia społeczne step: ZUS selected and contribution start date][25]
 
 Click `DALEJ`
 
@@ -188,7 +188,7 @@ Click `DALEJ`
 
 This is filled in automatically based on the address you entered earlier. If you know you belong to a different tax office, you can search for the correct one:
 
-![Urząd skarbowy][26]
+![Urząd skarbowy step: automatically selected tax office][26]
 
 Click `DALEJ`
 
@@ -196,7 +196,7 @@ Click `DALEJ`
 
 You could stop here, but there is an option to register with ZUS and choose your tax system right away. Let's take advantage of that by selecting the first option:
 
-![Dodatkowe dane][27]
+![Dodatkowe dane step: ZUS registration and tax system option selected][27]
 
 Click `DALEJ`
 
@@ -204,7 +204,7 @@ Click `DALEJ`
 
 Check the box indicating that you want to register and that you are registering only yourself (or select the appropriate options depending on your situation), and choose the ZUS ZZA form:
 
-![Zgłoszenie do ZUS][28]
+![Zgłoszenie do ZUS step: registration checkboxes and ZUS ZZA form selection][28]
 
 Click `DALEJ`
 
@@ -212,11 +212,11 @@ Click `DALEJ`
 
 Here you can select the startup relief (ulga na start). Also, indicate if you receive a pension and/or have a disability:
 
-![Zgłoszenie do ubiezpieczenia][29]
+![Zgłoszenie do ubezpieczenia step: ulga na start, pension and disability options][29]
 
 You need an occupation code — click the link and search for the appropriate one (for example, Programista Aplikacji):
 
-![Kod zawodu][30]
+![Kod zawodu occupation code search, e.g. Programista Aplikacji][30]
 
 Click `DALEJ`
 
@@ -224,7 +224,7 @@ Click `DALEJ`
 
 Search for your branch based on your place of residence:
 
-![Oddział NFZ][31]
+![Oddział NFZ step: choosing an NFZ branch by place of residence][31]
 
 Click `DALEJ`
 
@@ -232,7 +232,7 @@ Click `DALEJ`
 
 This is your registered address. If you do not have a Polish zameldowanie (registration), enter your foreign registered address:
 
-![Adres zameldowania][32]
+![Adres zameldowania step: registered address][32]
 
 Click `DALEJ`
 
@@ -240,7 +240,7 @@ Click `DALEJ`
 
 Choose where ZUS paper mail should be delivered. Optionally, provide an email and phone number for contact:
 
-![Dane korespondencyjne][33]
+![Dane korespondencyjne step: address for ZUS mail, email and phone][33]
 
 Click `DALEJ`
 
@@ -251,7 +251,7 @@ You can choose your [tax system][34] right away or temporarily skip this step.
 !!! danger "Warning!"
     Only skip the tax system selection if you are absolutely sure you know what you are doing! If you forget to make a selection before paying your first tax, the default will be the general system (Skala podatkowa). You will only be able to change it from the beginning of the next year.
 
-![Podatki][35]
+![Podatki step: choose a tax system now or skip the step][35]
 
 Click `DALEJ`
 
@@ -259,7 +259,7 @@ Click `DALEJ`
 
 Select your [tax system][36]:
 
-![Forma opłacania podatku dochodowego][37]
+![Forma opłacania podatku dochodowego step: tax system options][37]
 
 Click `DALEJ`
 
@@ -268,7 +268,7 @@ Click `DALEJ`
 - If you chose the ryczałt tax system, you can opt for simplified record-keeping: (Zawiadam o prowadzeniu ksiąg rachunkowych — Nie).
 - Indicate who will handle your accounting: yourself or an accountant. You can change this later.
 
-![Dokumentacja rachunkowa][38]
+![Dokumentacja rachunkowa step: who will keep the accounting records][38]
 
 Click `DALEJ`
 
@@ -276,7 +276,7 @@ Click `DALEJ`
 
 Choose the address where your accounting documents will be kept:
 
-![Adres przechowywania dokumentacji][39]
+![Adres przechowywania dokumentacji step: accounting documents storage address][39]
 
 Click `DALEJ`
 
@@ -294,7 +294,7 @@ Click `DALEJ`
 - If you plan to use only a personal account, you can enter it here.
 - If you plan to open a business account, you don't have one yet.
 
-![Rachunki bankowe][42]
+![Rachunki bankowe step: entering bank accounts][42]
 
 Click `DALEJ`
 
@@ -302,7 +302,7 @@ Click `DALEJ`
 
 You may need a representative who will have power of attorney from you for certain actions. You can add them at this step.
 
-![Pełnomocnictwa][43]
+![Pełnomocnictwa step: adding a representative with power of attorney][43]
 
 Click `DALEJ`
 
@@ -310,7 +310,7 @@ Click `DALEJ`
 
 A statement about legal responsibility:
 
-![Oświadczenie][44]
+![Oświadczenie step: statement of legal responsibility, DALEJ button][44]
 
 Click `DALEJ`
 
@@ -318,7 +318,7 @@ Click `DALEJ`
 
 You most likely do not want to suspend your activity right away:
 
-![zawieszenie działalności][45]
+![Zawieszenie działalności step: business suspension question][45]
 
 Click `DALEJ`
 
@@ -326,7 +326,7 @@ Click `DALEJ`
 
 This section tells you where and from whom you can get more information and assistance, as well as who is responsible for reviewing your application.
 
-![Urząd odbierający wniosek][46]
+![Urząd odbierający wniosek step: information about application processing][46]
 
 Click `DALEJ`
 
@@ -334,7 +334,7 @@ Click `DALEJ`
 
 This prepares you for the fact that the process is almost over:
 
-![Wniosek gotowy do wysłania][47]
+![Wniosek gotowy do wysłania step: final summary before sending][47]
 
 Click `DALEJ`
 
@@ -345,18 +345,18 @@ If you click the XML links, you can download the forms for your records.
 
 Choose to sign with your trusted profile (`PROFIL ZAUFANY` and `BANKOWOŚĆ ELEKTRONICZNA` will most likely lead to the same result — I chose the banking option because I registered my profile through a bank):
 
-![Dokument gotowy do podpisu][48]
+![Dokument gotowy do podpisu step: XML links and signing method selection][48]
 
 Next, proceed to signing. Click `Podpisz podpisem zaufanym`:
 
-![Podpisywanie dokumentu][49]
+![Signing page with Podpisz podpisem zaufanym button][49]
 
 And finally, you can send the signed documents:
 
-![Wyślij dokument][50]
+![Sending the signed application to CEIDG][50]
 
 !!! tip "It is highly recommended to download and double-check your application"
-    - Go to [this link][51]
+    - Go to your [konto.biznes.gov.pl account][51]
     - Select the entry Zarejestruj działalność gospodarczą w CEIDG in your cases
     - Next to 202NNNNN-NNNN-NNNN-wniosek.xml, click Podgląd
     - In particular, make sure the tax system is selected — for example, ryczałt (check section 15. Oświadczenie o formie opłacania podatku dochodowego).

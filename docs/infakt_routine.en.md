@@ -1,5 +1,5 @@
 ---
-title: Monthly operations in infakt.pl
+title: Monthly Bookkeeping in infakt.pl for the Self-Employed
 description: Monthly routine for a sole proprietor on ryczałt in infakt.pl — issuing invoices, paying ZUS, submitting ZUS DRA, JPK_V7M, VAT-UE
 tags:
   - Accounting
@@ -10,7 +10,7 @@ tags:
 # Routine operations for a sole proprietor (monthly) using infakt.pl
 
 This document describes the typical monthly operations for a sole proprietor on ryczałt using infakt.pl.
-The minimum infakt setup is described [here][3].
+The minimum infakt setup is described on the [infakt setup page][3].
 
 Sign up for infakt using [our referral link][24] and get 100zł cashback.
 
@@ -37,7 +37,7 @@ In the new invoice, select/adjust the required fields (if not already filled in)
 5. quantity of the "service" (if hourly — the number of hours worked; if a fixed rate — leave it as 1, since the net amount already equals the rate)
 6. VAT rate (more details on the [VAT page][39])
 
-![4]
+![inFakt: new invoice form — client, dates, service, VAT rate][4]
 
 Click **Zapisz szkic** to save. The invoice is saved!
 
@@ -46,7 +46,7 @@ Click **Zapisz szkic** to save. The invoice is saved!
 
 To do this, go to the [invoice list][1], select the invoice, and choose **Pobierz PDF** — you'll also find language options there.
 
-![5]
+![inFakt: invoice list, Pobierz PDF option with language selection][5]
 
 After printing, the invoice status changes to `WYDRUKOWANO` and it starts counting toward the next month's tax and ZUS.
 
@@ -57,7 +57,7 @@ You can also send the invoice directly to the client's email by choosing **Wyśl
 !!! warning "Important"
     Make sure all invoices have been added and are in `WYDRUKOWANO` or `WYSŁANO` status, and that all exchange rate differences for the reporting period have been entered and accounted for.
 
-You can find your tax payment account number [here][36].
+You can find your tax payment account number using the [instructions on the taxes page][36].
 Infakt retrieves the account number automatically during setup.
 
 Tax must be paid by the 20th of the month following the reporting month.
@@ -71,7 +71,7 @@ There are two payment options:
 The second option is paid — the fee depends on the payment amount (roughly 3–5 PLN for the tax itself).
 However, it's the simplest and most convenient: just click **Opłać z inFakt** and confirm the payment depending on the payment method.
 
-![9]
+![inFakt: tax amount due, Opłać z inFakt button][9]
 
 Manual payment is done through your banking app.
 
@@ -90,7 +90,7 @@ Manual payment is done through your banking app.
 !!! example "Millenium example (bank website)"
     Go to Płatności -> Podatkowy/Celny
 
-    ![podatek_millenium_1](images/infakt_routine/podatek_millenium_1.png)
+    ![Millenium: Płatności menu, Podatkowy/Celny item](images/infakt_routine/podatek_millenium_1.png)
 
     1. select the account you're paying from (PLN)
     2. specify the payment identifier:
@@ -108,12 +108,12 @@ It makes sense to pay from the business account, since banks often require accou
 
 When done, mark the tax as paid in infakt.
 
-![10]
+![PKO: Przelew Podatkowy form — Pozostałe, symbol PPE, tax account, Okres, NIP][10]
 
 ## Preparing the ZUS DRA declaration and paying contributions
 
 You can find your ZUS micro-account number at [eskladka.pl][34].
-ZUS setup in inFakt is described [here][35].
+ZUS setup in inFakt is described in the [ZUS data settings section][35].
 
 By the 20th of each month (as of July 2022) you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. The infakt fee for ZUS payments is slightly lower (1–2 PLN).
 
@@ -125,34 +125,34 @@ To pay directly through your banking app, execute a Przelew Krajowy, select the 
 
 Enter the amount from the infakt page and complete the payment.
 
-![11]
+![PKO: ZUS contribution transfer — recipient, micro-account number, Tytuł][11]
 
 When done, mark the contribution as paid.
 
 To generate the ZUS DRA declaration file, navigate to the relevant contribution in the contributions list (`Przejdź do składki`).
 
-![12]
+![inFakt: ZUS contributions list, Przejdź do składki link][12]
 
 1. For record-keeping, it's worth attaching the ZUS payment receipt to the entry in infakt (`Dodaj załącznik`)
 2. Click `Pobierz ZUS DRA` to download the DRA file
 
-![13]
+![inFakt: contribution page — Dodaj załącznik and Pobierz ZUS DRA buttons][13]
 
 The downloaded file can be imported on the ZUS portal. Alternatively, you can create the same declaration manually, but importing the file is a bit faster.
 
 To import the file, log in to the ZUS portal, go to the [ePłatnik][14] tab under Dokumenty, and select Import KEDU.
 
-![15]
+![ZUS portal, ePłatnik: Dokumenty section, Import KEDU item][15]
 
 Review your data, click Dalej. On the next screen don't select anything, click Dalej again until you see the "Wybierz plik..." button. Click it and select the XML declaration file downloaded from infakt.
 
-![16]
+![ePłatnik, Import KEDU: Wybór dokumentów screen, Dalej button][16]
 
-![17]
+![ePłatnik, Import KEDU: Wybierz plik button and the loaded XML file][17]
 
 If a ZIPA declaration appears after the import, uncheck it and click Dalej.
 
-![18]
+![ePłatnik, Import KEDU: unchecking the ZUS ZIPA declaration][18]
 
 Now you can click Podgląd to verify that the declaration contains the figures you expect.
 Then click `Weryfikuj`, followed by `Wyślij i zakończ`. Sign the declaration with your profil zaufany and you're done. The document should appear in the `Dokumenty wysłane` folder.
@@ -185,7 +185,7 @@ To enter an exchange rate difference (`K2` != `K1`, or `K3` != `K2`), you need t
 1. Click the "hamburger button"
 2. Select `Dowód wewnętrzny`
 
-![22]
+![inFakt: invoice list, menu with the Dowód wewnętrzny option][22]
 
 Here you select:
 
@@ -194,7 +194,7 @@ Here you select:
 3. enter the exchange rate difference amount (with a minus sign if it's negative)
 4. optionally, you can add details about the rates you calculated
 
-![23]
+![inFakt: Dowód wewnętrzny form — Pozostałe przychody, exchange difference amount][23]
 
 Save the changes and the document immediately starts participating in the tax base calculation.
 
@@ -272,9 +272,9 @@ If you had no income in the year before last (or the business didn't exist yet),
 If an error is found after issuing an invoice (e.g. an incorrect invoice amount, whether higher or lower) **and taxes have not yet been paid and the ZUS DRA declaration has not been generated for that month**, there are several ways to fix it:
 
 1. Delete the issued invoice and create a new one with the correct data. Keep in mind that if you're on infakt's minimum plan, you only get 3 free invoices per month, so watch out for extra entries if you need to add other documents that same month (e.g. exchange rate differences).
-2. Edit the incorrect invoice. From the invoice list (the **Przychody** / **Lista przychodów** tab), go to the invoice page you need to edit, then click the `...` button in the upper right corner and select **Edytuj** ![][40]
+2. Edit the incorrect invoice. From the invoice list (the **Przychody** / **Lista przychodów** tab), go to the invoice page you need to edit, then click the `...` button in the upper right corner and select **Edytuj** ![inFakt: Edytuj button in the invoice menu][40]
 
-Edit your invoice and click **Zapisz** in the bottom right corner. ![][41]
+Edit your invoice and click **Zapisz** in the bottom right corner. ![inFakt: Zapisz button][41]
 
 After saving, you can verify that the corrected data was recorded properly by checking the corresponding entry in the **Ewidencja przychodów** menu on the **Księgowość** tab and confirming that the amount in the record matches the amount on the invoice.
 

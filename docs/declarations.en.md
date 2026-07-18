@@ -56,7 +56,7 @@ You still need to submit even during the pause:
 
 - VAT declarations and the ZUS DRA report for the last month when you were still active.
 - The annual PIT tax declaration.
-- The annual ZUS declaration, if you were active during the previous year. If by April of the current year (2026) you are no longer active, this will be an empty ZUS DRA 04/2026 with the insurance code filled in block X and block XII completed (as described in the [instructions][8] on Telegram).
+- The annual ZUS declaration, if you were active during the previous year. If by April of the current year (2026) you are no longer active, this will be an empty ZUS DRA 04/2026 with the insurance code filled in block X and block XII completed (as described in the [instructions for filling out the annual ZUS DRA][8] on Telegram).
 
 [Support our guide with a cup of coffee ♥][44]{ .md-button .md-button--primary }
 

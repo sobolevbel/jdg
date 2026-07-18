@@ -28,6 +28,12 @@ tags:
 - New page: ["Changing JDG data and closing a JDG"](jdg_changes.md) — PKD codes, a detailed address-change checklist, suspension vs closing, FAQ.
 - Added sections on [VAT deduction on purchases and WNT (reverse charge)](declarations_vat.md#vat-deduction-on-purchases).
 - Removed unused screenshots, optimized image sizes.
+- The site is now available in English — use the language switcher in the header.
+- All screenshots got meaningful alt texts — the site is now more accessible to blind users with screen readers.
+- SEO improvements: home page title, hreflang x-default, removed duplicate og tags.
+- Added schema.org structured data (TechArticle on all pages, FAQPage on the FAQ page).
+- Generic link texts like "here"/"source" replaced with descriptive ones.
+- The "edit this page" pencil button is back — fix the guide right from your browser, no git needed.
 
 ## June 2026
 

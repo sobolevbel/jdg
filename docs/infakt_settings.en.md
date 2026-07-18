@@ -11,11 +11,11 @@ tags:
 Before you start working with infakt, you need to do some minimal account configuration.
 Go to [Ustawienia][1]
 
-![2]
+![inFakt: Ustawienia page with company details][2]
 
 Enter your NIP number and infakt will pull your sole proprietorship details from the registry.
 
-![3]
+![inFakt: NIP field for auto-filling company data][3]
 
 Fill in the missing fields, also fill in the correspondence address (Adres korespondencyjny) and your "seller" details (Dane Sprzedawcy).
 
@@ -25,18 +25,18 @@ To activate the accounting module, open the [Księgowość][14] tab on the main 
 
 After activation, infakt will ask for missing data needed for accounting. Check the registration data at the top of the page, fill in address fields and your PESEL number, then at the bottom select your tax and VAT accounting system (enter your details).
 
-![15]
+![inFakt: accounting activation — registration data, PESEL, tax system][15]
 
 Most IT folks use *Ryczałt ewidencjonowany* as their accounting system and monthly PIT payments (Płacę podatek PIT miesięcznie).
 Specify from which month you plan to keep records in infakt — this almost always matches the month you started your business activity.
 
 On the next page, enter your income amount from the beginning of the year that is exempt from VAT (TODO: VAT payers, please explain this section)
 
-![16]
+![inFakt: year-to-date VAT-exempt income field][16]
 
 Next, configure your tax rate and invoice totals from the beginning of the year, if you previously kept books somewhere else besides infakt.
 
-![17]
+![inFakt: tax rate and year-to-date invoice totals][17]
 
 At this point the setup is mostly done. When you visit the [Księgowość][14] page, infakt will still ask a few more things about VAT settings, your tax account number, etc. Just save that information as you go.
 
@@ -44,7 +44,7 @@ At this point the setup is mostly done. When you visit the [Księgowość][14] p
 
 The next step is configuring your ZUS parameters. Go to [Księgowość -> Składki ZUS][18], or in settings [Ustawienia -> Księgowość -> ZUS][19] (until the setup is complete, you'll see the *Uzupełnij brakujące dane* button).
 
-![20]
+![inFakt: Składki ZUS settings — ulga na start, składka zdrowotna][20]
 
 Choose your settings. Typical settings for beginners:
 
@@ -54,7 +54,7 @@ Choose your settings. Typical settings for beginners:
 
 If you plan to pay your ZUS contributions through infakt, it makes sense to also add your ZUS account number. Enter it in the *Indywidualny rachunek składkowy* field. You can find the account number in the letter ZUS sends after registration, or on the portal itself at [ZUS -> Panel Płatnika -> Moje dane -> Numery rachunków składkowych][22]
 
-![21]
+![inFakt: Indywidualny rachunek składkowy field][21]
 
 ## Invoice settings
 
@@ -68,7 +68,7 @@ The main settings that affect invoice content are *Domyślna waluta* (pick the o
 
 Add a product (in our case — a service) on the [Przychody -> Produkty -> Nowy Produkt][5] page.
 
-![6]
+![inFakt: Nowy Produkt form — Nazwa, Cena netto, VAT and Ryczałt rates][6]
 
 Typical options for programmers:
 
@@ -93,7 +93,7 @@ Choose your Ryczałt rate for this service. The rate must match the PKWiU code. 
 
 Add your client(s) on the [Przychody -> Produkty -> Nowy Klient][7] page.
 
-![8]
+![inFakt: Nowy Klient form with NIP search][8]
 
 Search by NIP number or enter the details manually if the client is outside Poland, then save.
 If the client is outside the EU, it makes sense to save a comment for them in the *Domyślne uwagi do faktur dla tego klienta* field:
@@ -109,7 +109,7 @@ Add as many contractors as you need.
 
 Add your bank account on the [Ustawienia -> Faktury -> Konta bankowe][11] page.
 
-![12]
+![inFakt: Ustawienia → Faktury → Konta bankowe, adding an account][12]
 
 This account will appear on the invoice for the client.
 
@@ -119,7 +119,7 @@ If you have more than one account, the default one (*Konto domyślne*) will be s
 
 Go to the invoice template settings at [Ustawienia -> Faktury -> Szablony][9]
 
-![10]
+![inFakt: Ustawienia → Faktury → Szablony — signature and logo][10]
 
 Here you can add an image of your signature and your company logo, as well as play around with the invoice templates (infakt offers a selection).
 

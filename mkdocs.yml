@@ -4,6 +4,7 @@ site_author: "sobolevbel"
 site_url: https://sobolevbel.github.io/jdg/
 repo_url: https://github.com/sobolevbel/jdg
 repo_name: sobolevbel/jdg
+edit_uri: edit/master/docs/
 
 nav:
   - Главная: index.md
@@ -63,11 +64,11 @@ theme:
     - search.highlight
     - search.share
     - content.code.copy
+    - content.action.edit
     - toc.follow
   icon:
     repo: fontawesome/brands/github
     edit: material/pencil
-  edit_uri: edit/master/docs/
   palette:
     # Palette toggle for light mode
     - scheme: default
@@ -80,6 +81,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+
+hooks:
+  - hooks/seo_faq_schema.py
 
 plugins:
   - i18n:
@@ -115,7 +119,7 @@ plugins:
             Общая информация: Overview
             Отчёты ZUS: ZUS Reports
             Декларации VAT: VAT Declarations
-            JPK_V7M через e-mikrofirmę: JPK_V7M via e-mikrofirma
+            JPK_V7M через e-mikrofirma: JPK_V7M via e-mikrofirma
             Декларация PIT: PIT Declaration
             Легализация: Legalization
             Подача через MOS: Applying via MOS
