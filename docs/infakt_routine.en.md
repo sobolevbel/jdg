@@ -87,6 +87,23 @@ Manual payment is done through your banking app.
 
     Select the account you want to pay the tax from.
 
+!!! example "Millenium example (bank website)"
+    Go to Płatności -> Podatkowy/Celny
+
+    ![podatek_millenium_1](images/infakt_routine/podatek_millenium_1.png)
+
+    1. select the account you're paying from (PLN)
+    2. specify the payment identifier:
+        - `PPE` for income tax
+        - `VAT-7` for Polish VAT
+    3. enter your [tax payment account number][36]
+    4. enter your NIP
+    5. select Okres — Miesiąc and the corresponding year and month the tax is being paid for
+    6. enter the payment amount
+    7. optionally add a comment to the payment (optional field), e.g. `PPE za październik 2024`
+
+    At the bottom, click DALEJ and confirm the payment.
+
 It makes sense to pay from the business account, since banks often require account activity as a condition for a free account package. Enter the payment amount from the infakt page and complete the payment.
 
 When done, mark the tax as paid in infakt.
@@ -189,7 +206,7 @@ Before submitting, make sure you've entered all expenses you want to deduct VAT 
 
 Now go to the menu księgowość -> Jednolity Plik Kontrolny and select the month you want to submit the declaration for.
 
-![księgowość][25]
+![Jednolity Plik Kontrolny — list of declarations][25]
 
 Make sure the amount in the declaration matches your expectations.
 
@@ -229,6 +246,27 @@ If you're registered in the VAT-UE registry, you are required to submit a VAT-UE
 
 To submit the VAT-UE declaration, go to księgowość -> [Podatek VAT][37]. Select the desired month, verify that the correct amounts have been pulled into the declaration from your invoices, and submit by clicking **Wyślij do urzędu**.
 
+![Podatek VAT-UE — list of declarations][29]
+
+### "Weryfikacja negatywna" error when submitting
+
+When submitting the declaration, you may receive a rejection:
+
+> Weryfikacja negatywna – błąd w danych autoryzujących (np. błąd w nazwisku, pierwszym imieniu, dacie urodzenia, NIP, numerze PESEL, kwocie przychodu)
+
+To authorize the submission, the tax office checks **the income amount from your PIT declaration for the year before last** (for example, when submitting in 2025 — the income from your PIT for 2023). The amount itself has nothing to do with the contents of the VAT-UE declaration; it is used solely for identity verification.
+
+How to fix it:
+
+1. Find your PIT declaration for the year before last (for ryczałt that's PIT-28) and take the income amount from it (in PIT-28 — field 62).
+2. Enter this amount in inFakt: **Ustawienia -> Księgowość -> Podatek dochodowy -> Przychód w roku N** (N being that year).
+
+    ![Ustawienia — Przychód w roku][30]
+
+3. Submit the declaration again.
+
+If you had no income in the year before last (or the business didn't exist yet), the field should contain `0` — in that case the declaration goes out without the income amount confirmation.
+
 ## Editing an invoice
 
 If an error is found after issuing an invoice (e.g. an incorrect invoice amount, whether higher or lower) **and taxes have not yet been paid and the ZUS DRA declaration has not been generated for that month**, there are several ways to fix it:
@@ -264,10 +302,12 @@ After saving, you can verify that the corrected data was recorded properly by ch
 [22]: images/infakt_routine/dowod_wewnetrzny.png
 [23]: images/infakt_routine/dodatnia_ruznica.png
 [24]: https://www.infakt.pl/polecam/sobolevbel
-[25]: images/infakt_routine/jpk_vat/jpk_vat1.png
+[25]: images/infakt_routine/jpk_vat/jpk_v7_list.png
 [26]: images/infakt_routine/jpk_vat/jpk_vat2.jpg
 [27]: images/infakt_routine/jpk_vat/jpk_vat3.jpg
 [28]: images/infakt_routine/jpk_vat/jpk_vat4.png
+[29]: images/infakt_routine/podatek_vat_ue.png
+[30]: images/infakt_settings/ustawienia_przychod_w_roku.png
 [34]: https://eskladka.pl/Home
 [35]: infakt_settings.md#zus-settings
 [36]: taxes.md#how-to-find-your-tax-payment-account

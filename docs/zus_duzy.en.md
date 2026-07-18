@@ -142,7 +142,7 @@ The applications are immediately moved to **Dokumenty -> Dokumenty wysłane**.
 
 After processing, the data in the file should be updated (see screenshot 2).
 
-![result][22]
+![result][24]
 
 You can also verify that all previously added family members are still listed under the **Członkowie rodziny** tab in the file.
 
@@ -195,4 +195,4 @@ See [error collection][22].
 [21]: zus_next_level.md#upp-proof-of-submission
 [22]: zus_errors.md
 [23]: zus_next_level.md#zus-insurance-title-codes-table
-[22]: images/zus_duzy/duzy_zus_10.png
+[24]: images/zus_duzy/duzy_zus_10.png

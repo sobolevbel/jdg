@@ -79,8 +79,8 @@ You can switch tax offices if you need to.
 
 ![zgłoszenie o rejestrację vat][9]
 
-If you weren't registered yet — you want to register as a VAT taxpayer.
-If you were already on VAT — pick `aktualizacja`.
+If you haven't been registered yet and want to register as a VAT payer — pick `rejestracja`.
+If you have already registered for VAT or VAT-UE — pick `aktualizacja`.
 
 ## 10. Domestic Polish VAT
 

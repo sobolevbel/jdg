@@ -7,6 +7,32 @@ tags:
 
 # Site changelog
 
+## July 2026
+
+- New guide: [applying for a karta pobytu via MOS](legalization_mos2.md) — from 2026 the wniosek is filed fully electronically (the "Legalization in Warsaw" page has been replaced; the old address redirects).
+- Updated the [legalization guide](legalization.md): electronic filing via MOS instead of regional appointment systems.
+- Removed hover tooltips for terms (underlines in text) — the [glossary](glossary.md) remains a separate page.
+- Refreshed inFakt screenshots in the [monthly workflow](infakt_routine.md), [settings](infakt_settings.md), and [migration](infakt_migration.md) guides — current 2026 interface.
+- Added instructions for getting a [health insurance certificate from ZUS](zus.md#health-insurance-certificate) and updated the section on [proving insurance for legalization](legalization.md).
+- Added instructions for [paying taxes via the Bank Millennium website](infakt_routine.md#paying-taxes), plus links for [generating a mikrorachunek and checking payments](taxes.md#how-to-find-your-tax-payment-account) on urzadskarbowy.gov.pl.
+- Added a section on the [pitfalls of ZUS holidays](zus_vacation.md#pitfalls), including the catch when moving from Preferencyjne to Duży ZUS.
+- Added a warning: if you have an authorized representative, the [RWN certificate](zus.md#certificate-of-no-outstanding-zus-debt) first arrives in their Skrzynka odbiorcza.
+- Added a fix for the ["Weryfikacja negatywna" error when submitting VAT-UE](infakt_routine.md#submitting-the-vat-ue-declaration) from inFakt.
+- Clarified the [explanation of VAT rates (zw./np./art. 28b)](infakt_settings.md) when setting up services in inFakt.
+- Clarified the rejestracja/aktualizacja choice in the [VAT](registration_vat.md) and [VAT-UE](registration_vat_ue.md) registration guides.
+- Updated the [ZUS contribution and składka zdrowotna amounts for 2026](zus.md#contribution-amounts).
+- VAT exemption limit updated to [240 000 złoty](taxes.md#domestic-polish-vat) (in force since 2026).
+- Added a warning about [mandatory KSeF from 2026](declarations_vat.md).
+- New guide: [submitting JPK_V7M via the free e-mikrofirma](declarations_jpk_emikrofirma.md).
+- New guide: [migrating your accounting to inFakt](infakt_migration.md).
+- New page: ["Changing JDG data and closing a JDG"](jdg_changes.md) — PKD codes, a detailed address-change checklist, suspension vs closing, FAQ.
+- Added sections on [VAT deduction on purchases and WNT (reverse charge)](declarations_vat.md#vat-deduction-on-purchases).
+- Removed unused screenshots, optimized image sizes.
+
+## June 2026
+
+- Refreshed the [monthly wFirma workflow](wfirma_routine.md) guide.
+
 ## March 2026
 
 - Navigation: instant page loads, breadcrumbs, search suggestions, forward/back controls.

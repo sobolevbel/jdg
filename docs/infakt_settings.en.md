@@ -79,7 +79,13 @@ Typical options for programmers:
 It's important to pick something that matches your line of work and your PKWiU code.
 Depending on your contract, you may have a fixed monthly amount or an hourly rate. Enter Cena netto = your rate (per month or per hour).
 
-Select `zw.` if you are VAT-exempt — after that a selector will appear for choosing the basis, usually (zwolnienie podmiotowe), the VAT rate if you are a VAT payer, or `np.` if you provide services outside the EU (e.g. to the US).
+The VAT rate depends on who you provide the service to (if you are not a VAT payer):
+
+* service within Poland — `zw.` After selecting it, a selector will appear for choosing the exemption basis, usually zwolnienie podmiotowe.
+* contractor in another EU country — `np.` with the annotation art. 28b (the place of supply is the contractor's country).
+* contractor outside the EU (e.g. the US or Canada) — `np.`
+
+If you are a VAT payer, for services within Poland you specify your VAT rate (usually 23%) instead of `zw.`
 
 Choose your Ryczałt rate for this service. The rate must match the PKWiU code. For programmers it's 12%.
 

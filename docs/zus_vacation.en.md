@@ -414,6 +414,34 @@ Sign the document using any of the listed methods.
 
 After signing, the document will be sent to ZUS.
 
+## Pitfalls
+
+The benefit really is "free": the social insurance contributions you are exempted from
+are covered by the state budget. Nevertheless, there are a few nuances worth
+knowing about in advance:
+
+1. **Ryczałt payers, watch the annual income limit for the składka zdrowotna rate.** The vacation does not
+   reduce your income, and the amounts saved on składki społeczne do not reduce your taxable base —
+   as a result, savings of 300–1,000 zł can turn into an additional składka zdrowotna payment of 3,000–6,000 zł
+   if you cross the threshold.
+2. **Mały ZUS Plus.** If you pay reduced income-based contributions, the benefit of the vacation is noticeably smaller —
+   calculate whether it is worth the bureaucracy.
+3. **Voluntary increased contributions.** If you deliberately pay ZUS more than the minimum for the sake of
+   your future pension, for the vacation month the state only compensates the **minimum** contribution amount.
+4. **Accountants may charge extra** for filling in the RWS application and the non-standard settlement with ZUS
+   for the vacation month (we have seen 50 zł at iFirma and 200 zł at private accountants).
+5. **The effect is delayed.** Your ZUS payment will decrease not in the "vacation" month, but in the following month.
+   And a month after that, the income tax due will be slightly higher — the saved składki społeczne
+   will not reduce your taxable base.
+6. **Switching from Preferencyjne to Duży ZUS.** You will be exempted from składki społeczne
+   in the minimum amount you were supposed to pay **in the month preceding the month
+   you submit the RWS application**. In practice this means you cannot switch from Składki
+   Preferencyjne to full ZUS (Duży ZUS) and get the exemption in the full
+   Duży ZUS amount in the very first month. Nor in the second month.
+
+!!! question "Does the vacation affect applying for a residence card?"
+    It has no effect at all. What matters is that the business has no break in activity or irregular income.
+
 ## You Don't Lose Anything
 
 The state will pay your contributions for that month — this has no effect on your pension savings.
