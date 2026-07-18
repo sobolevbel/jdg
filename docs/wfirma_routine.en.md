@@ -19,7 +19,7 @@ On the last day of the month (if you have a monthly billing agreement with your 
 1. Go to the main page.
 2. Click Wystaw fakturę (Issue an invoice).
 
-![2]
+![wFirma: main page, Wystaw fakturę button][2]
 
 You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie faktury window will open.
 
@@ -54,7 +54,7 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 10. Rabat — in theory, you can specify a discount in this field.
 11. Want to list multiple services on one invoice? Click "Nowy wiersz" — a new row will appear. Repeat steps 6-10.
 
-![3]
+![wFirma: Wystawianie faktury window, Podstawowe informacje tab][3]
 
 ### Księgowe
 
@@ -62,7 +62,7 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 
 1. Schemat księgowy — Select the accounting scheme, which depends on whom and to which country you provide the service.
 
-    ![5]
+    ![wFirma: Księgowe tab, Schemat księgowy selection][5]
 
     !!! example "Export within the EU"
         For example, you need to select "Świadczenie usług w UE" if you're exporting a service under art. 28b ustawy o VAT (e.g. IT or marketing services) to a legal entity (company) with an office in another EU country (not Poland).
@@ -72,7 +72,7 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 
     In each case, wFirma will automatically add "Odwrotne obciążenie / Reverse charge" to the printed version of the invoice (double-check after saving):
 
-    ![6]
+    ![Printed invoice with the note Odwrotne obciążenie / Reverse charge][6]
 
 ### Zaawansowane
 
@@ -86,7 +86,7 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 2. Specify the bank account to receive payment (Rachunek).
 3. You can choose the invoice language (Język), e.g. Polish-English as in the screenshot.
 
-![7]
+![wFirma: Zaawansowane tab — Waluta, Rachunek and Język fields][7]
 
 ### KSeF
 
@@ -117,7 +117,7 @@ Now we need to print the invoice so it moves to "confirmed" status and is defini
 3. Click Drukuj.
 4. Click Dalej.
 
-![8]
+![wFirma: printing an invoice on the Sprzedaż page — Drukuj and Dalej buttons][8]
 
 The invoice file will download — now you can send it to the client. It's [a good idea to save][9] it somewhere for yourself.
 
@@ -130,7 +130,7 @@ When the money arrives in your account, you need to record the incoming payment.
 
     ??? info "About filters"
         If you don't see the invoice in the table, switch to the year and month when the invoice was issued using the controls below the table.
-        ![35]
+        ![wFirma: Rok and Miesiąc filters below the invoice table][35]
 
 3. Go to the Płatności tab.
 4. Click Dodaj.
@@ -139,7 +139,7 @@ When the money arrives in your account, you need to record the incoming payment.
 7. Enter the amount (Kwota). If the invoice is for $1000 but $10 less arrived due to intermediary bank fees, still enter the full amount ($1000) so the invoice shows as "fully paid".
 8. Click Zapisz.
 
-![10]
+![wFirma: Płatności tab — adding an invoice payment, Zapisz button][10]
 
 When receiving payment in a foreign currency, exchange rate differences may arise. The law requires you to account for exchange rate differences — both positive and negative.
 
@@ -152,11 +152,11 @@ After recording the payment, do the following:
 
     ??? info "About filters"
         If you don't see the invoice in the table, switch to the year and month when the invoice was issued using the controls below the table.
-        ![35]
+        ![wFirma: Rok and Miesiąc filters below the invoice table][35]
 
 3. Click Wystaw DW (exchange rate differences are recorded in accounting with a special document called "Dowód Wewnętrzny").
 
-![11]
+![wFirma: Różnice kursowe page, Wystaw DW button][11]
 
 Done, the exchange rate difference has been added and will be taken into account when calculating the tax base.
 
@@ -164,7 +164,7 @@ Done, the exchange rate difference has been added and will be taken into account
 
     On the same page, to see the full list of your DWs, you can clear all filters below the table: Rok, Miesiąc and Status.
 
-    ![36]
+    ![wFirma: clearing the Rok, Miesiąc and Status filters below the DW table][36]
 
 ## Calculating and Paying Taxes
 
@@ -172,11 +172,11 @@ Done, the exchange rate difference has been added and will be taken into account
 
 1. On the main page, if you've set up the dashboard correctly, you'll see a panel like this. Click Wylicz. You can also do this by going to Start - Podatki and clicking Wylicz podatek.
 
-    ![13]
+    ![wFirma: Podatki panel on the main page, Wylicz button][13]
 
 2. In May we pay for April. That's why on the screenshot the Miesięczna zaliczka na podatek dochodowy window shows Okres as Miesiąc: Kwiecień and Rok: 2025. Select the previous month and click Dalej.
 
-    ![14]
+    ![wFirma: Miesięczna zaliczka na podatek dochodowy window — period selection, Dalej button][14]
 
 3. Leave everything as is:
     * Stawka ryczałtu — for ryczałt, the system will use the tax rate specified on the invoices.
@@ -185,12 +185,12 @@ Done, the exchange rate difference has been added and will be taken into account
 
     ???+ example "Example 1: Report for the first month of business activity"
         Everything is zero and that's expected.
-        ![15]
+        ![wFirma: PIT advance calculation for the first month — ZUS contributions at zero][15]
 
     ??? example "Example 2: A regular month of bookkeeping in wFirma (Duży ZUS)"
         As expected, the system automatically pulls 100% of the social insurance contributions actually paid to ZUS in the previous month and 50% of the health insurance contributions actually paid to ZUS in the previous month.
         You didn't forget to mark ZUS DRA as paid, right?
-        ![37]
+        ![wFirma: PIT advance calculation — paid ZUS contributions pulled in (Duży ZUS)][37]
 
     ??? example "Special case: starting bookkeeping in wFirma not from the very beginning of JDG registration"
         You need to fill in manually. Take the amount of contributions actually paid to ZUS in the reporting month:
@@ -198,13 +198,13 @@ Done, the exchange rate difference has been added and will be taken into account
         * Enter 100% społeczne (Emerytalna + Rentowa + Wypadkowa + Chorobowa, WITHOUT składki Na Fundusz Pracy!) in the "Składki społeczne do odliczenia od przychodu" field. In the screenshot, 1518.98 zł corresponds to the ZUS for entrepreneurs on ryczałt without benefits for December 2025.
         * Enter 50% zdrowotnej in the "Składki zdrowotne do odliczenia od przychodu" field. In the screenshot, 384.72 zł corresponds to half the ZUS for entrepreneurs on ryczałt with annual income from 60,000 to 300,000 zł in 2025.
 
-        ![33]
+        ![wFirma: manual entry of składki społeczne and zdrowotne in the PIT advance calculation][33]
 
     * Click Zapisz to save.
 
 4. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month.
 
-    ![18]
+    ![wFirma: calculated PIT advance, Zapłać button][18]
 
 5. If the amount doesn't match your expectations, double-check the calculations (wFirma shows them step by step) and click Modyfikuj to make changes.
 
@@ -212,11 +212,11 @@ Done, the exchange rate difference has been added and will be taken into account
 
 1. On the main page, if you've set up the dashboard correctly, you'll see a panel like this. Click Wylicz. You can also do this by going to Start - ZUS and clicking Wylicz podatek.
 
-    ![16]
+    ![wFirma: ZUS panel on the main page, Wylicz button][16]
 
 2. In the Dodawanie deklaracji ZUS DRA window, check everything:
 
-    ![17]
+    ![wFirma: Dodawanie deklaracji ZUS DRA window, Podstawowe tab][17]
 
     ??? info "Comments on the screenshot"
         The Podstawowe tab contains the basic settings.
@@ -241,7 +241,7 @@ Done, the exchange rate difference has been added and will be taken into account
             In all other cases. I.e. if you conducted business activity in the previous year.
             It's quite possible that a ZUS surcharge awaits you based on the calculation results.
             Read more in the wFirma article: [Roczne rozliczenie składki zdrowotnej][38].
-            ![39]
+            ![wFirma: Roczne rozliczenie składki zdrowotnej checkbox in the ZUS DRA form][39]
 
     ??? note "Advanced settings"
 
@@ -249,7 +249,7 @@ Done, the exchange rate difference has been added and will be taken into account
 
         It's also worth checking that the selected method for calculating health insurance contributions (Sposób wyliczenia składki zdrowotnej) matches what you chose at the beginning of the year. If it's the beginning of the year, you're preparing ZUS DRA 01/20YY, and last year you conducted business activity the full year from start to finish, now is the time to make this choice. Pick whichever you prefer, but remember that the chosen method is locked in until the end of the current year.
 
-        ![34]
+        ![wFirma: Zaawansowane tab — Sposób wyliczenia składki zdrowotnej and Wakacje składkowe][34]
 
         The expected settings for beginning entrepreneurs as shown in the screenshot: "Sposób: Standardowy - na podstawie bieżącego przychodu", and "Wakacje składkowe" is unchecked.
 
@@ -260,7 +260,7 @@ Done, the exchange rate difference has been added and will be taken into account
     In May 2026, experienced entrepreneurs need to fill in the "Dodawanie rocznej składki zdrowotnej za 2025 rok" window.
     The other 11 months out of 12 this window doesn't pop up — just move on to the next step.
 
-    ![42]
+    ![wFirma: Dodawanie rocznej składki zdrowotnej window, Podstawowe dane roczna tab][42]
 
     ??? info "Comments on the screenshot"
         The Podstawowe dane roczna tab contains the basic settings.
@@ -278,14 +278,14 @@ Done, the exchange rate difference has been added and will be taken into account
 
             If all your ZUS DRA for the previous year are in wFirma, they are marked as paid, and the system knows your annual income for the previous year, then you're in luck — wFirma will calculate the składka zdrowotna surcharge automatically.
 
-            ![43]
+            ![wFirma: automatic annual składka zdrowotna calculation, Łączna kwota do dopłaty field][43]
 
             * Ryczałt od przychodów ewidencjonowanych — Ryczałt. Click "v" to see the calculations.
             * Łączna kwota do dopłaty — The total amount to pay extra. Double-check it.
 
             If you've only recently switched to wFirma and kept your books in some other system before that, you need to uncheck "Automatic calculation" and enter last year's data in "Parametry".
 
-            ![44]
+            ![wFirma: manual entry of annual składka zdrowotna parameters for ryczałt][44]
 
             The screenshot shows an example for ryczałt.
 
@@ -311,7 +311,7 @@ Done, the exchange rate difference has been added and will be taken into account
 
 5. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month. The screenshot shows **ZUS = 461.66 zł**. That's exactly how much the first ZUS payment comes to for entrepreneurs on ryczałt who use the Ulga na Start benefit in 2025.
 
-    ![19]
+    ![wFirma: calculated ZUS payment of 461.66 zł, Zapłać button][19]
 
     !!! note "ZUS increase"
         In 2026, the first ZUS payment on ryczałt went up to **498.35 zł**. Składka zdrowotna is tied to the average salary in Poland.
@@ -332,25 +332,25 @@ Those who had no EU clients last month can safely skip this section.
 
 1. Click Generuj.
 
-    ![20]
+    ![wFirma: VAT-UE block, Generuj button][20]
 
 2. In May we report for April. That's why on the screenshot the Dodawanie informacji VAT-UE window shows Rok: 2025 and Miesiąc: Kwiecień. Verify that the previous month is selected and click Dalej.
 
-    ![21]
+    ![wFirma: Dodawanie informacji VAT-UE window — Rok and Miesiąc selection, Dalej button][21]
 
 3. Click Wyślij.
 
-    ![22]
+    ![wFirma: generated VAT-UE declaration, Wyślij button][22]
 
 4. In the Wysyłanie deklaracji do urzędu skarbowego window, on the "Bez podpisu" tab, enter your personal details and the income amount from last year's PIT declaration. `0` if you didn't file one back then. Click Wyślij do urzędu to submit VAT UE to the tax office.
 
-    ![23]
+    ![wFirma: Wysyłanie deklaracji window, Bez podpisu tab, Wyślij do urzędu button][23]
 
 Note on the screenshot: to sign VAT UE in 2025, we need to find the PIT that was filed in 2024, i.e. the income declared in it was for 2023.
 
 After submission, check the status. Go to Start - Podatki - Podatek VAT. If it's green, everything is fine — the tax office received your declaration.
 
-![24]
+![wFirma: Start – Podatki — green status of the submitted VAT-UE declaration][24]
 
 ### ZUS DRA
 
@@ -363,15 +363,15 @@ After verifying your profile, follow these steps:
 
 1. Click Wyślij.
 
-    ![25]
+    ![wFirma: ZUS DRA declaration, Wyślij button][25]
 
 2. In the Wysyłanie deklaracji do ZUS window, on the "Podpis - wfirma.pl" tab, click Zleć do podpisu i wysyłki to submit the ZUS DRA for signing and sending.
 
-    ![26]
+    ![wFirma: Wysyłanie deklaracji do ZUS window, Zleć do podpisu i wysyłki button][26]
 
 After submission, check the status. Go to Start - ZUS - Deklaracje rozliczeniowe. If there's a green icon and the status is "Przesyłka przyjęta do ZUS", everything is fine — ZUS has accepted the declaration.
 
-![27]
+![wFirma: Start – ZUS — green status Przesyłka przyjęta do ZUS][27]
 
 You can also verify this on the ZUS portal under ePlatnik - Dokumenty - Dokumenty w ZUS, but the record may not appear there immediately — it can take at least a few days.
 
@@ -393,7 +393,7 @@ If you receive payment in a foreign currency and sell it later for expenses rela
 5. Enter the amount.
 6. Click Zapisz i drukuj to save and print.
 
-![29]
+![wFirma: Dodawanie nowego dowodu wewnętrznego window — recording an exchange rate difference][29]
 
 Done, the exchange rate difference has been added and will be taken into account when calculating the tax base.
 

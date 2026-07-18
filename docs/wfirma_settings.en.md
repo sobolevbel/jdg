@@ -20,14 +20,14 @@ Register only via this link ▶️ [https://wfirma.pl/rejestracja-przez-kody](ht
 2. Enter your NIP number during registration so that your sole trader details are automatically pulled from the registry.
 3. Read and accept the terms of service (check the box Akceptuję regulamin serwisu).
 
-![1]
+![wFirma: registration form with Kod pakietu and NIP fields][1]
 
 After registration, we move on to settings.
 
 1. Click the profile icon.
 2. Click Ustawienia (Settings).
 
-![2]
+![wFirma: profile menu with the Ustawienia item][2]
 
 ## Setting up company details
 
@@ -35,7 +35,7 @@ Company details are shown on invoices issued to your clients. Most likely, wfirm
 
 1. In the Moja firma settings panel, choose Edytuj (Edit).
 
-    ![3]
+    ![wFirma: Moja firma settings panel, Edytuj button][3]
 
 2. In the DANE PODSTAWOWE - DANE IDENTYFIKACYJNE dialog, fill in general information about yourself (tab OGÓLNE), such as:
     - full name (Nazwa pełna)
@@ -46,7 +46,7 @@ Company details are shown on invoices issued to your clients. Most likely, wfirm
     - phone
     - email
 
-    ![4]
+    ![wFirma: Dane identyfikacyjne, Ogólne tab — Nazwa, NIP, REGON][4]
 
 3. Fill in the address (tab Adres).
 
@@ -62,7 +62,7 @@ Company details are shown on invoices issued to your clients. Most likely, wfirm
 
     If you selected "no permanent place of business" when registering JDG, you can fill in the residence address, for example, the address of a rented apartment. In this case it's perfectly fine, because this address is needed for display on invoices to your clients.
 
-    ![5]
+    ![wFirma: Adres tab with five address types][5]
 
 4. Go to the bank accounts tab (Rachunki bankowe).
 5. Click the Dodaj rachunek (Add account) button.
@@ -70,7 +70,7 @@ Company details are shown on invoices issued to your clients. Most likely, wfirm
 
     You can add multiple bank accounts. Later, when issuing an invoice, you can choose which bank account to display on the invoice for your client.
 
-    ![6]
+    ![wFirma: Dodawanie rachunku bankowego dialog on the Rachunki bankowe tab][6]
 
 Click Zapisz (Save) to save the company details.
 You will receive an email from wFirma asking to confirm the changes.
@@ -89,7 +89,7 @@ Most likely wFirma will prompt you to fill in these details when you try to calc
     - Rodzaj dokumentu, numer dokumentu: type and number of identity document (seems to be optional). If filling in, as a foreigner choose "paszport" (passport) and enter your passport number (Latin letters and digits only, no spaces).
     - Data urodzenia: date of birth in YYYY-MM-DD format
 
-   ![38]
+   ![wFirma: Rodzaj firmy i właściciele dialog with owner details][38]
 
 Click Zapisz to save.
 
@@ -97,7 +97,7 @@ Click Zapisz to save.
 
 For this, we'll need the Podatki section.
 
-![7]
+![wFirma: Podatki settings section][7]
 
 ### Podatki - Ogólne
 
@@ -115,7 +115,7 @@ For this, we'll need the Podatki section.
     !!! info
         You can verify the micro-account using the official tax service [Generator mikrorachunku podatkowego](https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego/) by entering your NIP.
 
-![8]
+![wFirma: Podatki — Ogólne, business start date and mikrorachunek][8]
 
 ??? note "Additional step only for those keeping **KPiR** and **migrating bookkeeping** from another system mid-year"
 
@@ -123,7 +123,7 @@ For this, we'll need the Podatki section.
 
     To correctly calculate the advance payment, transfer the sums from KPiR prepared in another system. Status as of end of ... (the previous month, see hints from wFirma).
 
-    ![28]
+    ![wFirma: Podatki — Ogólne, KPiR totals when migrating bookkeeping][28]
 
 Click Zapisz to save.
 
@@ -156,7 +156,7 @@ Enter **exactly the same data** in wFirma settings as you provided when register
     The advanced settings (Zaawansowane) are set automatically. Don't touch them. In very rare cases, such as a pensioner-entrepreneur or a disabled entrepreneur, something may need changing here. Read more in the [wFirma documentation](https://pomoc.wfirma.pl/-zus#:~:text=musi%20go%20op%C5%82aca%C4%87%3F-,Kod%20tytu%C5%82u%20ubezpieczenia,-Po%20wyborze%20odpowiedniego).
 3. Select the [NFZ branch][21] (Oddział NFZ) that you specified when registering with ZUS. It changes if you move to a different voivodeship.
 
-![9]
+![wFirma: Podatki — ZUS, Schemat składek społecznych and Oddział NFZ][9]
 
 !!! info "Pro Tip!"
     You can right-click the help buttons (the "?" icons) and choose "Open in new tab" to read the full article instead of the brief summary that pops up when you left-click.
@@ -166,7 +166,7 @@ Click Zapisz to save.
 ??? note "Only for those migrating bookkeeping from another system mid-year"
     Open the "Podatki - ZUS" dialog again. Go to the "Składka zdrowotna" tab, click "Dodaj składnik" and fill in "Przychody narastająco" and "Suma składek społecznych zapłaconych od początku roku" following the hints.
 
-    ![27]
+    ![wFirma: Składka zdrowotna tab, Dodaj składnik button][27]
 
     Click Zapisz to save.
 
@@ -196,7 +196,7 @@ Click Zapisz to save.
     | Metoda kasowa w PIT          | Cash method in PIT                   | Income and expenses are recorded when payment is actually received (into the bank account). You need to notify the tax office of your intention to use the cash method. |
     | Metoda memoriałowa w PIT     | Accrual method in PIT                | Income and expenses are recorded at the time the obligation arises (accrual). Applied by default to all sole traders. |
 
-![10]
+![wFirma: Podatki — Podatek dochodowy, Rodzaj ewidencji and ryczałt rate][10]
 
 Click Zapisz to save.
 
@@ -231,7 +231,7 @@ Click Zapisz to save.
             - green "Tak, numer VAT aktywny" => Active VAT-UE payer => ☑ Check the box.
             - error => verify you entered the data correctly. The service may be temporarily unavailable for technical reasons.
 
-![11]
+![wFirma: Podatki — Podatek VAT, płatnik VAT and VAT-UE checkboxes][11]
 
 ### Podatki - Funkcje księgowe
 
@@ -243,7 +243,7 @@ Click Zapisz to save.
 
    In most cases it's recommended to keep this checkbox on. Unchecking it allows you to enter a document into the system that was issued before the wFirma start date, where the accounting date falls into the period when bookkeeping is already being managed in the system.
 
-![12]
+![wFirma: Podatki — Funkcje księgowe, wyliczanie różnic kursowych][12]
 
 ## Setting up services
 
@@ -270,7 +270,7 @@ This is a catalog. Services added here can be selected when issuing an invoice t
 
 You can also set the net / gross price (for VAT payers) or just the price (Cena; for VAT-exempt payers) right away. But there's a catch: at this stage there's no way to specify the currency. If you set a price and then change the currency on the invoice, the price may be automatically converted. So you can skip the price here and enter it when issuing the invoice.
 
-![13]
+![wFirma: add product dialog — Nazwa, Typ Usługa, PKWiU code][13]
 
 ## KSeF integration
 
@@ -282,7 +282,7 @@ KSeF is the national e-invoicing system (Krajowy System e-Faktur). It's a govern
 
 From here, proceed as appropriate (follow the official on-screen instructions). In general, you'll need to use an existing certificate or create a pair of new certificates, download them, and upload them to wFirma. The process is straightforward but requires attention to detail.
 
-![25]
+![wFirma: Przychody → KSeF, Konfiguracja integracji button][25]
 
 ## Setting up counterparties
 
@@ -296,7 +296,7 @@ Add a counterparty to whom you'll be issuing invoices. Added counterparties can 
 6. For example, if the counterparty is from another EU country (not Poland), in the Dodawanie nowego kontrahenta dialog you can choose "VAT UE" as the identifier, enter the VAT-UE number including the two-letter prefix in the Identyfikator field, carefully fill in the address (if the address has no postal code — enter a space in the Kod field), and select the country from the "Kraj" dropdown. Here's a [list of countries][26] that belong to the "VAT UE" group.
 7. When adding a new foreign counterparty from outside the EU, after entering the company name, select the identifier type "Inne", fill in the address (if there's no postal code — add a space), and select the country from the "Kraj" dropdown. The US or the UK, for example, fall into this "Inne" group.
 
-![14]
+![wFirma: Dodawanie nowego kontrahenta dialog — NIP, Identyfikator, Kraj][14]
 
 On the Faktury tab, there are no mandatory fields. But for your own convenience, it's recommended to fill in the following right away:
 
@@ -308,7 +308,7 @@ On the Faktury tab, there are no mandatory fields. But for your own convenience,
 6. Termin płatności - payment deadline. There's an option to set an individual payment deadline for the counterparty, counted in days from the invoice issue date.
 7. The przypominaj o niezapłaconych fakturach option — reminders about unpaid invoices. If this is unchecked, wFirma won't send reminders to this counterparty, even if the global settings say otherwise.
 
-![15]
+![wFirma: counterparty card, Faktury tab — Rachunek, Język, Metoda płatności][15]
 
 Click Zapisz to save, or Anuluj (cancel) to close the dialog without saving.
 
@@ -325,7 +325,7 @@ In the **Faktury => Serie numeracji** section, you can add a custom numbering se
 5. In the Numer początkowy field, enter the starting number for this series. Usually "1", but when migrating from another invoicing system you may want to start from a different number to keep the numbering continuous.
 6. "Resetowanie numeru: co rok" - reset the numbering every year (a sensible default).
 
-![31]
+![wFirma: Faktury → Serie numeracji, add series dialog][31]
 
 To save the changes, click Zapisz twice.
 
@@ -336,7 +336,7 @@ In the **Faktury => Szablony** section, on the Wybór szablonów tab, you can ch
 - the "Podgląd" (preview) button lets you see what the invoice will look like.
 - the blue "Wybierz" (select) button lets you pick the template to use by default. You can always change the template for a specific invoice when issuing it.
 
-![32]
+![wFirma: Faktury → Szablony, invoice template selection][32]
 
 ### Email template
 
@@ -357,7 +357,7 @@ In the **Faktury => Powiadomienia** section, on the Email tab, you can change th
 
 6. Check the "domyślny szablon" (default template) box if you want this template to always be used when automatically sending invoices.
 
-![33]
+![wFirma: Faktury → Powiadomienia, invoice email template][33]
 
 To save the changes, click Zapisz twice.
 
@@ -365,7 +365,7 @@ To save the changes, click Zapisz twice.
 
 In the **Faktury => Logo firmy** section, you can upload an image of your signature or stamp (Pieczątka / podpis) and your company logo (Logo firmy), which will be displayed on invoices.
 
-![23]
+![wFirma: Faktury → Logo firmy, uploading signature and logo][23]
 
 ## Company verification
 
@@ -374,7 +374,7 @@ To send ZUS DRA declarations from wfirma, you need to verify your profile. This 
 !!! info
     It's worth noting that verification is not mandatory. Wfirma provides one free year upon registration. If you don't verify your profile, after a year you can re-register and get another free year (provided such a promotion is still available, of course). Whether it's worth the effort is up to you. However, in that case you'll have to download the ZUS DRA file yourself and upload it to the ZUS portal.
 
-![24]
+![wFirma: Dane podstawowe → Weryfikacja firmy][24]
 
 ## Migrating bookkeeping
 
@@ -385,7 +385,7 @@ For details on migrating from another system, check the guide [Migrating to wFir
 In the **Bezpieczeństwo => Kopie zapasowe** dialog, click the "Stwórz kopię" button to create a backup of your account settings. Backups are created automatically, but this button lets you create one at any time.
 Restoring data is a risky operation and should only be used as a last resort.
 
-![30]
+![wFirma: Bezpieczeństwo → Kopie zapasowe, Stwórz kopię button][30]
 
 ## Done
 

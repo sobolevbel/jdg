@@ -232,41 +232,41 @@ Payment should be made via a standard bank transfer to your individual ZUS accou
 
 Go to the [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001) website and type `RWN` into the filter field.
 
-![images/zus_zaswiadczenie_5.1.jpeg](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
+![ZUS e-services catalog: filter with the RWN query](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
 
 ### Verify the form data
 
 You will be redirected to the **ZUS** `wniosek RWN` form. Verify the data in the form.
 
-![zus_zaswiadczenie_2.png][7]
+![PUE ZUS: wniosek RWN form — verifying the payer's details][7]
 
 ### Number of certificate copies
 
 Select the number of certificate copies and click **Zapisz**.
 
-![zus_zaswiadczenie_2.1.png][8]
+![PUE ZUS: RWN form — selecting the number of certificate copies, Zapisz button][8]
 
 ### Close the document and confirm
 
-![zus_zaswiadczenie_2.2.png][9]
+![PUE ZUS: Dokument RWN został zapisany message, Zamknij button][9]
 
-![zus_zaswiadczenie_2.3.png][10]
+![PUE ZUS: Czy na pewno chcesz zamknąć formularz prompt, Tak button][10]
 
 ### Review the document and click **Wyślij**
 
-![zus_zaswiadczenie_2.4.png][11]
+![PUE ZUS: RWN document preview, Wyślij button][11]
 
 ### Sign via Profil Zaufany
 
-![zus_zaswiadczenie_2.5.png][12]
+![PUE ZUS: Autoryzacja usługi window — signature method selection, Podpis ePUAP button][12]
 
 Click **Ok**
 
-![zus_zaswiadczenie_2.6.png][13]
+![PUE ZUS: notice about redirection to ePUAP for signing, OK button][13]
 
 ### Documents sent — wait for confirmation
 
-![zus_zaswiadczenie_2.7.png][14]
+![PUE ZUS: sending result — liczba wysłanych dokumentów: 1][14]
 
 ### Retrieve the certificate
 
@@ -278,21 +278,21 @@ Select the document and confirm receipt via Profil Zaufany.
 !!! warning "If you have an authorized representative (e.g. an accountant)"
     If the entrepreneur has an authorized representative in ZUS, incoming documents — including the certificate of no outstanding debt (RWN) — **first arrive in the representative's account**, in the Skrzynka odbiorcza section. Until the representative clicks **Odbierz**, the document will not appear in the payer's account. If the representative does nothing, the document only becomes automatically available to the payer after 14 days. So if the certificate "isn't arriving" — first ask your accountant to accept it in their inbox.
 
-![zus_zaswiadczenie_4.png][15]
+![PUE ZUS: Korespondencja z ZUS section — list of incoming documents][15]
 
 ### Download the certificate
 
 After confirmation, the **Szczegóły** option will appear.
 
-![zus_zaswiadczenie_4.1.png][16]
+![PUE ZUS: received document, Szczegóły item][16]
 
 Open the document via **Przeglądaj dokument**.
 
-![zus_zaswiadczenie_4.2.png][17]
+![PUE ZUS: document details, Przeglądaj dokument button][17]
 
 Print via **Drukuj**.
 
-![zus_zaswiadczenie_4.3.png][18]
+![PUE ZUS: certificate preview, Drukuj button][18]
 
 ## Health insurance certificate
 
@@ -327,12 +327,12 @@ To confirm your health insurance, you can obtain a certificate with an electroni
 ## Linking ePUAP to your ZUS profile
 
 1. If you have a profil zaufany, go to Panel ogólny -> Ustawienia -> Dane profilu and click Dodaj powiązanie z ePUAP.
-    ![zus_epuap_1.png][19]
+    ![PUE ZUS: Dane profilu, Dodaj powiązanie z ePUAP button][19]
 2. You will be redirected to the trusted profile login page — log in and sign with profilem zaufany.
-    ![zus_epuap_2.png][20]
-    ![zus_epuap_3.png][21]
+    ![Profil Zaufany login page: username, password and Zaloguj się button][20]
+    ![Signing the document to link the profile with ePUAP, Podpisz podpisem zaufanym button][21]
 3. As a result, your ZUS profile will be linked with profilem zaufanym.
-    ![zus_epuap_4.png][22]
+    ![PUE ZUS: confirmation that the profile is linked with ePUAP][22]
 
 [1]: https://www.zus.pl
 [2]: zus_ulga_na_start.md

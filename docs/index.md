@@ -1,5 +1,5 @@
 ---
-title: JDG — ИП в Польше
+title: Как открыть и вести ИП (JDG) в Польше — гайд для иностранцев
 description: Гайд по регистрации и ведению JDG (jednoosobowa działalność gospodarcza) в Польше для иностранцев — PESEL, ZUS, VAT, налоги, бухгалтерия
 tags:
   - JDG

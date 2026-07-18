@@ -1,11 +1,14 @@
 {% extends "base.html" %}
 {% block extrahead %}
-  <meta property="og:type" content="website" />
   {% if config.theme.language == "en" %}
   <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="ru_RU" />
   {% else %}
   <meta property="og:locale" content="ru_RU" />
+  <meta property="og:locale:alternate" content="en_US" />
   {% endif %}
   <meta property="og:site_name" content="{{ config.site_name }}" />
-  <meta name="twitter:card" content="summary_large_image" />
+  {% if page.canonical_url %}
+  <link rel="alternate" hreflang="x-default" href="{{ page.canonical_url | replace('/jdg/en/', '/jdg/') }}" />
+  {% endif %}
 {% endblock %}

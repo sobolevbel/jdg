@@ -12,7 +12,7 @@ tags:
 
 !!! bug "Login"
     The zus.pl website won't log you into your account! It hangs on Logowanie... or kicks you back to the login page:
-    ![auto-logout][6]
+    ![zus.pl: kicked back to the login page after signing in][6]
 
 Try the following solutions:
 
@@ -33,13 +33,13 @@ Try the following solutions:
 | To avoid problems with switching modes in wFirma, you should first submit the ZUS DRA for the sixth month of ulga na start and only then proceed with the switch. This matches the [algorithm in the guide][5]. |
 
 When verifying a form, look for the result on the uwagi i błędy tab. Here's a screenshot for reference:
-![uwagi i blędy][9]
+![ZUS form verification results on the uwagi i błędy tab][9]
 Let's collect the most common errors and their solutions on this page together!
 
 ### 68015101
 
 If you submitted ZUS ZUA before ZUS ZWUA was processed, you may see an error like this:
-![68015101][1]
+![Error 68015101: nie możesz wysłać zgłoszenia z kodem z grupy 05xx][1]
 
 Error text:
 > Nie możesz wysłać zgłoszenia z kodem z grupy 05xx, jeżeli jest jeszcze niewyrejstrowany okres podlegania z kodem 05XX. Jeśli wysłałeś dokument ZWUA, poczekaj z wysłaniem nowego zgłoszenia na przetworzenie dokumentu ZWUA w ZUS. (blok V pole 1) Błąd zwykły
@@ -48,7 +48,7 @@ This message says you need to wait until ZUS ZWUA is processed. But actually, yo
 
 ### 69012001
 
-![69012001][2]
+![Informacja message 69012001: zbliża się koniec okresu ulgi][2]
 
 When verifying the ZUS DRA declaration for the last month of Ulga na Start, you will likely see a status of «Informacja» and a message «Zbliża się koniec okresu ulgi (blok X pole 1)» on the uwagi i błędy tab. This is normal — ZUS is simply informing you that the relief period is ending and you need to prepare for switching to the next contribution mode.
 !!! info
@@ -57,10 +57,10 @@ When verifying the ZUS DRA declaration for the last month of Ulga na Start, you 
 ### 69004101
 
 When verifying the ZUS DRA declaration for the last month of Ulga na Start, you see a message «dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu».
-![dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][4]
+![Message «dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][4]
 
 On the uwagi i błędy tab there is an error with code 69004101 and text «brak raportu za ubezpieczonego zgłoszonego przez płatnika».
-![69004101][3]
+![Error 69004101: brak raportu za ubezpieczonego zgłoszonego przez płatnika][3]
 
 The error indicates a mismatch between the insurance code you reported to ZUS and the insurance code specified on the ZUS DRA declaration.
 

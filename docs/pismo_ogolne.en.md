@@ -31,12 +31,12 @@ Steps:
 
 - log in to your account at [e-urzad-skarbowy][1] via Profil Zaufany
 - go to `Dokumenty -> Złóż dokument` and type `pismo` in the search field -> select `Pismo ogólne`
-  ![pismo_ogolne_1][2]
+  ![e-Urząd Skarbowy: Złóż dokument — searching for pismo, selecting Pismo ogólne][2]
 - choose that you're writing the letter on your own behalf. A section with your pre-selected Urząd Skarbowy opens automatically.
   (if you need to write to a different office, pick it from the list)
-  ![pismo_ogolne_2][3]
+  ![e-Urząd Skarbowy: choosing who the letter is filed for and the Urząd Skarbowy authority][3]
 - your personal data will be pulled in automatically. If you're writing as a sole trader, select NIP. If as a private individual, select PESEL.
-  ![pismo_ogolne_3][4]
+  ![e-Urząd Skarbowy: applicant details, choosing the NIP or PESEL identifier][4]
 
 - `Szczegóły dokumentu`:
     - choose a `Rodzaj pisma` from the available options. In our case, to speed up VAT registration we want
@@ -55,10 +55,10 @@ Steps:
 If you go to `Dokumenty -> Wysłane`, you can see all sent letters and view them by clicking
 `Więcej`
 
-![pismo_ogolne_4][5]
+![e-Urząd Skarbowy: Dokumenty – Wysłane section, Więcej button][5]
 
 Here you can download your letter and the delivery confirmation in PDF format.
-![pismo_ogolne_5][6]
+![e-Urząd Skarbowy: downloading the letter and delivery confirmation as PDF][6]
 
 [1]: https://www.podatki.gov.pl/e-urzad-skarbowy/
 [2]: images/pismo_ogolne/pismo_ogolne_1.png

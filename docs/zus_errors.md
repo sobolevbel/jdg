@@ -12,7 +12,7 @@ tags:
 
 !!! bug "Login"
     Сайт zus.pl не логинит в кабинет! Зависает на Logowanie... или выбрасывает на страницу логина:
-    ![auto-logout][1]
+    ![zus.pl: возврат на страницу логина после попытки входа][1]
 
 Попробуйте следующие решения:
 
@@ -33,13 +33,13 @@ tags:
 | Чтобы избежать проблем с переходом в wFirma, следует сначала отправить ZUS DRA за шестой месяц ulga na start и только после этого выполнять переход. Это соответствует [алгоритму в гайде][2]. |
 
 При верификации формы ZUS ищите результат на вкладке uwagi i błędy. Скриншот для наглядности:
-![uwagi i blędy][3]
+![Результаты верификации формы ZUS на вкладке uwagi i błędy][3]
 Давайте вместе собирать самые распространённые ошибки и их решения на этой странице!
 
 ### 68015101
 
 Если вы отправили ZUS ZUA до обработки ZUS ZWUA, то можете видеть ошибку вроде такой:
-![68015101][4]
+![Ошибка 68015101: nie możesz wysłać zgłoszenia z kodem z grupy 05xx][4]
 
 Текст ошибки:
 > Nie możesz wysłać zgłoszenia z kodem z grupy 05xx, jeżeli jest jeszcze niewyrejstrowany okres podlegania z kodem 05XX. Jeśli wysłałeś dokument ZWUA, poczekaj z wysłaniem nowego zgłoszenia na przetworzenie dokumentu ZWUA w ZUS. (blok V pole 1) Błąd zwykły
@@ -48,7 +48,7 @@ tags:
 
 ### 69012001
 
-![69012001][5]
+![Сообщение Informacja 69012001: zbliża się koniec okresu ulgi][5]
 
 Вероятно, при верификации декларации ZUS DRA за последний месяц действия Ulgi na Start на вкладке uwagi i błędy вы увидите статус «Informacja» и сообщение «Zbliża się koniec okresu ulgi (blok X pole 1)». Это нормальная ситуация — ZUS просто информирует, что льготный период заканчивается и нужно готовиться к переходу на следующий режим.
 !!! info
@@ -57,10 +57,10 @@ tags:
 ### 69004101
 
 При верификации декларации ZUS DRA за последний месяц действия Ulgi na Start вы видите сообщение «dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu».
-![dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][6]
+![Сообщение «dla ubezpieczonego brak zgłoszenia z podanym kodem tytułu»][6]
 
 На вкладке uwagi i błędy есть ошибка с кодом 69004101 и текстом «brak raportu za ubezpieczonego zgłoszonego przez płatnika».
-![69004101][7]
+![Ошибка 69004101: brak raportu za ubezpieczonego zgłoszonego przez płatnika][7]
 
 Ошибка указывает на расхождение между кодом страхования, который вы сообщили в ZUS, и кодом страхования, указанным на декларации ZUS DRA.
 
