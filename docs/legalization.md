@@ -15,13 +15,18 @@ tags:
 
 ## Общая информация
 
-### Где регистрироваться на подачу
+### Как подаётся внесек
 
-- [https://inpol.mazowieckie.pl/login][10] Варшава.
-- [https://pio-przybysz.duw.pl][21] Вроцлав.
-- [https://infoopt.pl/](https://infoopt.pl/) Краков.
-- [https://uw.bezkolejki.eu/luwlodz/Reservation](https://uw.bezkolejki.eu/luwlodz/Reservation) Лодзь(с 1.11.2022 на 3 месяца отменили электронную запись на часовы побыт по работе).
-- [https://kolejka.gdansk.uw.gov.pl/](https://kolejka.gdansk.uw.gov.pl/) Гданьск. На данный момент можно резервировать только odbiór karty и донесение документов в Puck. Электронная запись на получение ВНЖ не работает с весны 2025.
+С 2026 года внесек на pobyt czasowy для всех воеводств подаётся **полностью электронно**
+через портал [MOS (Moduł Obsługi Spraw)](https://mos.cudzoziemcy.gov.pl/) — заполнение,
+подпись через Profil Zaufany и отправка происходят онлайн, воевода выбирается прямо
+в форме внеска.
+
+**Пошаговая инструкция: [Подача на карту побыту через MOS](legalization_mos2.md).**
+
+Региональные системы электронных очередей (inPOL в Варшаве, bezkolejki и т.п.) для
+подачи внеска больше не используются — они могут пригодиться разве что для записи
+на odbiór karty (получение готовой карты) в некоторых воеводствах.
 
 ### Перечень некоторых критериев получения ВНЖ по хозяйственной деятельности согласно законодательству
 
@@ -63,6 +68,12 @@ tags:
     - Может начать искать к чему бы придраться просто из-за того, что ему не понятны ваши документы.
 
 ## Чек-лист для предпринимателя, подающего документы на ВНЖ как JDG
+
+!!! info "При электронной подаче через MOS"
+    Если вы подали внесек [электронно через MOS](legalization_mos2.md), бумажный пакет
+    документов из этого чек-листа приносится на сдачу отпечатков (везване): распечатанный
+    внесек из MOS, оригиналы и копии всех документов. Оригиналы не отдавайте — только
+    для сверки копий.
 
 ### 1. Базовый пакет
 
@@ -395,11 +406,7 @@ tags:
 - Желательно распечатывать документы в двухстороннем виде и скреплять одинаковый тип документов степлером.
 - Необходимы копии и оригиналы следующих документов: свидетельство о браке, договор аренды. Копии отдадите, а оригиналы
   нужны для того, чтобы заверить копии. Приносите копии и оригиналы, отдайте только копии.
-- **Варшава**: перед подачей документов проверьте номер своей регистрации в личном кабинете [inpol][10].
-  Номер доступен на стартовой странице кабинета в секции *ZAPLANOWANE WIZYTY W URZĘDZIE*. Обычно номер состоит из
-  буквы X или G и нескольких цифр (например X123). Этот номер нужен для электронной очереди, по нему вас будут вызывать
-  к специалисту.
-- Есть отдельный удобный сайт с чек-листом для подачи [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/)
+- Есть отдельный удобный сайт с чек-листом для подачи [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/) — он же встроен в [гайд по подаче через MOS](legalization_mos2.md#interaktivnyi-chek-list-dokumentov).
 
 <!-- resources -->
 
@@ -412,7 +419,6 @@ tags:
 [7]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
-[10]: https://inpol.mazowieckie.pl/login
 [12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
 [13]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
 [14]: karta-pobytu-docs/business-plan-guide.pdf
@@ -422,6 +428,5 @@ tags:
 [18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
-[21]: https://pio-przybysz.duw.pl
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
 [23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
