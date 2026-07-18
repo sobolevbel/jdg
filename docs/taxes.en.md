@@ -15,7 +15,7 @@ Accounting for JDG: [Legal Tax Level][20]
 
 ## PIT: Income Tax
 
-Available personal income tax systems (PIT - Personal Income Tax) for JDG as of 2022:
+Available personal income tax systems (PIT - Personal Income Tax) for JDG as of 2026:
 
 !!! info "Skala podatkowa (general tax)"
     This is the default tax available when registering a JDG and the only one available for employees (UoP). The rate is 12% for income from 30,000 to 120,000 PLN and 32% for everything above. Income up to 30,000 PLN is tax-free. This tax allows you to reduce taxable income through business-related expenses (laptop, monitor, accounting, software, etc.). It also allows filing a joint tax return with a spouse, which — if one spouse has no income — reduces taxable income thanks to an additional 30,000 PLN tax-free allowance.
@@ -41,7 +41,10 @@ Key considerations when choosing a tax system:
 
 To pay taxes and contributions in Poland, an individual account (mikrorachunek) is used. The taxpayer identifier can be either a NIP or PESEL. For sole proprietors, it is always the NIP!
 
-You can generate your income tax payment account on the [tax authority website][1] using your NIP identifier.
+You can generate an account for paying income tax PIT and value-added tax VAT:
+
+- on the [tax authority website][1] using your NIP identifier;
+- on the Urząd Skarbowy website [in the taxpayer report section](https://urzadskarbowy.gov.pl/taxpayer-report) (look for Mikrorachunek podatkowy). In addition, you can check your tax payments there on the [balances and settlements page](https://urzadskarbowy.gov.pl/balances-and-settlements) — the data appears a few days after payment.
 
 ## Tax Calculators
 
@@ -87,7 +90,7 @@ request a refund of the 230 PLN VAT paid to the **Manufacturer** from the state.
 
 You are required to register as a VAT payer in the following cases:
 
-1. Your taxable income (the total of all business income actually received into your account) exceeds 200,000 PLN/year and the company you work with is based in Poland (Polish clients). Once you exceed this threshold, you become a VAT payer regardless of future income levels.
+1. Your taxable income (the total of all business income actually received into your account) exceeds 240,000 PLN/year (this limit applies since 2026; previously it was 200,000) and the company you work with is based in Poland (Polish clients). Once you exceed this threshold, you become a VAT payer regardless of future income levels.
 2. One of the PKD codes of your activity is consulting — 62.02.Z.
 3. You want to deduct VAT from business purchases (e.g., laptop, phone, furniture, and other items essential for your sole proprietorship).
 
@@ -97,6 +100,9 @@ You are required to register as a VAT payer in the following cases:
 !!! note "VAT notes"
     - VAT is 23%
     - There is a dedicated [VAT page on biznes.gov.pl][17].
+    - Starting from 2026, faktury are gradually being moved to the mandatory government system
+      [KSeF](declarations_vat.md) — from April 1, 2026, the obligation to issue e-faktury applies to
+      virtually everyone, including those exempt from VAT.
 
 ### VAT-EU
 

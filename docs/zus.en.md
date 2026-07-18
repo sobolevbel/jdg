@@ -49,44 +49,44 @@ The base rate depends on income:
 2. Income from 60,000 PLN to 300,000 PLN: The base rate is 100% of the average salary
 3. Income above 300,000 PLN: The base rate is 180% of the average salary
 
-In actual numbers **for 2024**, this is:
+In actual numbers **for 2026** (the average salary in the enterprise sector for Q4 2025 is 9,228.64 zł), this is:
 
-1. Income up to 60,000 PLN: 4,660.71 zł
-2. Income from 60,000 PLN to 300,000 PLN: 7,767.85 zł
-3. Income above 300,000 PLN: 13,982.13 zł
+1. Income up to 60,000 PLN: 5,537.18 zł
+2. Income from 60,000 PLN to 300,000 PLN: 9,228.64 zł
+3. Income above 300,000 PLN: 16,611.55 zł
 
 Plugging these numbers into the formula, we get the health insurance contributions:
 
-1. 4,660.71  * 9% = 419.46 zł
-2. 7,767.85 * 9% = 699.11 zł
-3. 13,982.13 * 9% = 1,258.39 zł
+1. 5,537.18 * 9% = 498.35 zł
+2. 9,228.64 * 9% = 830.58 zł
+3. 16,611.55 * 9% = 1,495.04 zł
 
 It is important to note that when a threshold is exceeded, recalculation applies retroactively to previous months.
 
 **Example:**
 
 Maksym is taxed under Ryczałt on registered income.
-In March 2024, Maksym's income exceeded 60,000 PLN, and in October it exceeded 300,000 PLN.
+In March 2026, Maksym's income exceeded 60,000 PLN, and in October it exceeded 300,000 PLN.
 What would the annual health insurance contribution calculation look like?
 
 Over the course of the year, Maksym would pay health insurance contributions as follows:
 
-- January — 419.46 zł,
-- February — 419.46 zł,
-- March — 699.11 zł (exceeded the 60,000 zł threshold),
-- April — 699.11 zł,
-- May — 699.11 zł,
-- June — 699.11 zł,
-- July — 699.11 zł,
-- August — 699.11 zł,
-- September — 699.11 zł,
-- October — 1,258.39 zł (exceeded the 300,000 zł threshold),
-- November — 1,258.39 zł,
-- December — 1,258.39 zł
+- January — 498.35 zł,
+- February — 498.35 zł,
+- March — 830.58 zł (exceeded the 60,000 zł threshold),
+- April — 830.58 zł,
+- May — 830.58 zł,
+- June — 830.58 zł,
+- July — 830.58 zł,
+- August — 830.58 zł,
+- September — 830.58 zł,
+- October — 1,495.04 zł (exceeded the 300,000 zł threshold),
+- November — 1,495.04 zł,
+- December — 1,495.04 zł
 
-Over the year, Maksym paid health insurance contributions totalling 9,507.86 PLN: `419.46 * 2 + 699.11 * 7 + 1258.39 * 3`.
+Over the year, Maksym paid health insurance contributions totalling 11,295.88 PLN: `498.35 * 2 + 830.58 * 7 + 1495.04 * 3`.
 
-Since Maksym exceeded the 300,000 PLN threshold for the calendar year, his monthly health insurance contribution should have been 1,258.39 PLN all along. Therefore, the annual contribution is: `1258.39 * 12 = 15,100.68`, but the total amount Maksym actually paid from the example above was only 9,507.86 PLN. This means that after the annual reconciliation, Maksym has an outstanding balance on his health insurance. He must pay an additional 5,592.82 PLN: `15,100.68 - 9,507.86`.
+Since Maksym exceeded the 300,000 PLN threshold for the calendar year, his monthly health insurance contribution should have been 1,495.04 PLN all along. Therefore, the annual contribution is: `1495.04 * 12 = 17,940.48`, but the total amount Maksym actually paid from the example above was only 11,295.88 PLN. This means that after the annual reconciliation, Maksym has an outstanding balance on his health insurance. He must pay an additional 6,644.60 PLN: `17,940.48 - 11,295.88`.
 
 ## ZUS contributions infographic
 
@@ -98,17 +98,16 @@ Visit the website [Składki ZUS (ryczałt)][102] (2026).
     <thead>
         <tr>
             <th class="border-r text-center">
-                Składki ZUS 2025<br>
+                Składki ZUS 2026<br>
                 Ryczałt<br>
                 <span class="text-bl">A</span> +
                 <span class="text-rd">B</span> +
                 <span class="text-green">C</span> +
                 <span class="text-gr">D</span>
             </th>
-            <th class="border-r">Annual income</th>
+            <th class="border-r">Annual revenue</th>
             <th class="border-r ulga">Ulga na start</th>
-            <th class="border-r preferencyjne-01-06">Składki preferencyjne (from 01.01 to 31.06)</th>
-            <th class="border-r preferencyjne-07-12">Składki preferencyjne (from 01.07 to 31.12)</th>
+            <th class="border-r preferencyjne">Składki preferencyjne</th>
             <th class="duzy">Duży zus</th>
         </tr>
     </thead>
@@ -118,15 +117,15 @@ Visit the website [Składki ZUS (ryczałt)][102] (2026).
                 A: Składka zdrowotna
             </th>
             <td class="border-r">0 - 60 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">461,66</td>
+            <td colspan="3" class="text-bl text-center text-bold">498,35</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">769,43</td>
+            <td colspan="3" class="text-bl text-center text-bold">830,58</td>
         </tr>
         <tr class="ulga-bg">
             <td class="border-r">&gt; 300 000</td>
-            <td colspan="4" class="text-bl text-center text-bold">1384,97</td>
+            <td colspan="3" class="text-bl text-center text-bold">1495,04</td>
         </tr>
         <tr>
             <th rowspan="4" class="border-r border-t text-rd text-bold valign-center">
@@ -134,41 +133,36 @@ Visit the website [Składki ZUS (ryczałt)][102] (2026).
             </th>
             <td class="border-r">Emerytalna</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">273,24</td>
-            <td class="border-r preferencyjne-07-12 text-center">273,24</td>
-            <td class="duzy text-center">1015,78</td>
+            <td class="border-r preferencyjne text-center">281,44</td>
+            <td class="duzy text-center">1103,27</td>
         </tr>
         <tr>
             <td class="border-r">Rentowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">111,98</td>
-            <td class="border-r preferencyjne-07-12 text-center">111,98</td>
-            <td class="duzy text-center">416,30</td>
+            <td class="border-r preferencyjne text-center">115,34</td>
+            <td class="duzy text-center">452,16</td>
         </tr>
         <tr>
             <td class="border-r">Wypadkowa</td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">23,28</td>
-            <td class="border-r preferencyjne-07-12 text-center">23,28</td>
-            <td class="duzy text-center">86,90</td>
+            <td class="border-r preferencyjne text-center">24,08</td>
+            <td class="duzy text-center">94,39</td>
         </tr>
         <tr class="text-rd">
             <td class="border-r text-bold">
                 <b>Total</b>
             </td>
             <td class="border-r ulga text-bold text-center"><b>0</b></td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center"><b>408,5</b></td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center"><b>408,5</b></td>
-            <td class="duzy text-bold text-center"><b>1518,98</b></td>
+            <td class="border-r preferencyjne text-bold text-center"><b>420,86</b></td>
+            <td class="duzy text-bold text-center"><b>1649,82</b></td>
         </tr>
         <tr class="text-green">
             <td colspan="2" class="border-r border-t text-green text-bold valign-center">
                 <b>C: Fundusz Pracy</b>
             </td>
             <td class="border-r ulga text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-center">0</td>
-            <td class="border-r preferencyjne-07-12 text-center">0</td>
-            <td class="duzy text-bold text-center">127,49</td>
+            <td class="border-r preferencyjne text-center">0</td>
+            <td class="duzy text-bold text-center">138,47</td>
         </tr>
         <tr class="text-bold">
             <th rowspan="3" class="border-r text-bold">
@@ -176,25 +170,22 @@ Visit the website [Składki ZUS (ryczałt)][102] (2026).
                 <span class="text-rd">B</span> +
                 <span class="text-green">C</span>):</b>
                 <td class="border-r">0 - 60 000</td>
-                <td class="border-r ulga text-center text-bold">461,66</td>
-                <td class="border-r preferencyjne-01-06 text-center text-bold">870,16</td>
-                <td class="border-r preferencyjne-07-12 text-center text-bold">870,16</td>
-                <td class="duzy text-bold text-center text-bold">2108,13</td>
+                <td class="border-r ulga text-center text-bold">498,35</td>
+                <td class="border-r preferencyjne text-center text-bold">919,21</td>
+                <td class="duzy text-bold text-center text-bold">2286,64</td>
             </th>
         </tr>
         <tr class="text-bold">
             <td class="border-r">60 000.01 - 300 000</td>
-            <td class="border-r ulga text-center text-bold">769,43</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1177,93</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1177,93</td>
-            <td class="duzy text-bold text-center text-bold">2415,90</td>
+            <td class="border-r ulga text-center text-bold">830,58</td>
+            <td class="border-r preferencyjne text-center text-bold">1251,44</td>
+            <td class="duzy text-bold text-center text-bold">2618,87</td>
         </tr>
         <tr class="text-bold">
             <td class="border-r">&gt; 300 000</td>
-            <td class="border-r ulga text-center text-bold">1384,97</td>
-            <td class="border-r preferencyjne-01-06 text-center text-bold">1793,47</td>
-            <td class="border-r preferencyjne-07-12 text-center text-bold">1793,47</td>
-            <td class="duzy text-bold text-center">3031,44</td>
+            <td class="border-r ulga text-center text-bold">1495,04</td>
+            <td class="border-r preferencyjne text-center text-bold">1915,90</td>
+            <td class="duzy text-bold text-center">3283,33</td>
         </tr>
         <tr class="text-gr">
             <td colspan="2" class="border-r border-t text-gr text-bold valign-center">
@@ -202,9 +193,8 @@ Visit the website [Składki ZUS (ryczałt)][102] (2026).
                 (optional)
             </td>
             <td class="border-r ulga text-bold text-center">0</td>
-            <td class="border-r preferencyjne-01-06 text-bold text-center">34,30</td>
-            <td class="border-r preferencyjne-07-12 text-bold text-center">34,30</td>
-            <td class="duzy text-bold text-center">127,49</td>
+            <td class="border-r preferencyjne text-bold text-center">35,32</td>
+            <td class="duzy text-bold text-center">138,47</td>
         </tr>
     </tbody>
 </table>
@@ -285,6 +275,9 @@ In the menu, select `Płatnik` (sometimes it arrives in the `Ogólny` tab).
 On the left, go to **Dokumenty i wiadomości** then **Korespondencja z ZUS**.
 Select the document and confirm receipt via Profil Zaufany.
 
+!!! warning "If you have an authorized representative (e.g. an accountant)"
+    If the entrepreneur has an authorized representative in ZUS, incoming documents — including the certificate of no outstanding debt (RWN) — **first arrive in the representative's account**, in the Skrzynka odbiorcza section. Until the representative clicks **Odbierz**, the document will not appear in the payer's account. If the representative does nothing, the document only becomes automatically available to the payer after 14 days. So if the certificate "isn't arriving" — first ask your accountant to accept it in their inbox.
+
 ![zus_zaswiadczenie_4.png][15]
 
 ### Download the certificate
@@ -300,6 +293,36 @@ Open the document via **Przeglądaj dokument**.
 Print via **Drukuj**.
 
 ![zus_zaswiadczenie_4.3.png][18]
+
+## Health insurance certificate
+
+To confirm your health insurance, you can obtain a certificate with an electronic signature on the [zus.pl](https://www.zus.pl/) portal.
+
+1. Go to [zus.pl](https://www.zus.pl/portal/obszar-ubezpieczonego.npi#KUB0031)
+2. Select the **Ubezpieczony** section in the site header
+3. Select **Panel Ubezpieczonego** in the side menu
+4. Select the **Zaświadczenia - ubezpieczenia** menu item
+5. Click the **Utwórz nowy** button at the bottom of the page
+   ![Generate Zaswiadczenie Ubezpieczenia 1.1][27]
+6. Tick the **Ubezpieczenie zdrowotne** checkbox
+7. Tick the **Członkowie rodziny - Wszyscy** checkbox (if the certificate is also needed for family members — in case they do not have their own health insurance)
+8. Be sure to click **Podgląd** to unlock the **Zatwierdź** button
+9. You can review the opened **Podgląd** and close it
+10. Click the **Zatwierdź** button to send the document to ZUS for signing
+    ![Generate Zaswiadczenie Ubezpieczenia 1.2][28]
+11. A new row with the status **Oczekuje** will appear in the document list. At this moment automated systems are signing the document with an electronic signature. This process takes from a couple of seconds to a couple of minutes.
+12. Click the **Odśwież** button periodically until the status changes to **Wystawiony**
+    ![Generate Zaswiadczenie Ubezpieczenia 1.3][29]
+13. Click the **Zapisz jako PDF** button and choose a location on your device to save the PDF file.
+    ![Generate Zaswiadczenie Ubezpieczenia 1.4][30]
+14. As a result, you will have a genuine electronic document from ZUS, signed with a qualified electronic signature. You can send this document via e-Doręczenia and attach it to MOS2 with a clear conscience. In this case, the electronic document is the original, and the matter is settled.
+15. To make sure the PDF is signed, you can go to any electronic signature verification service, for example, the [government document signing website](https://podpis.gov.pl/podpisz-dokument-elektronicznie/)
+16. Click **Dodaj plik**
+17. A **Sprawdź, kto podpisał** button will appear on the attached file
+    ![Generate Zaswiadczenie Ubezpieczenia 1.5][31]
+18. The modal window that opens will show information about the authority that signed the document — **Zakład Ubezpieczeń Społecznych** (ZUS)
+    ![Generate Zaswiadczenie Ubezpieczenia 1.6][32]
+19. Attach this document in MOS2 or any other electronic service whenever you need to prove that you or your family members have insurance.
 
 ## Linking ePUAP to your ZUS profile
 
@@ -334,6 +357,12 @@ Print via **Drukuj**.
 [21]: images/zus_epuap/zus_epuap_3.png
 [22]: images/zus_epuap/zus_epuap_4.png
 [23]: zus_obnizone_skladki.md
+[27]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.1.png
+[28]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.2.png
+[29]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.3.png
+[30]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.4.png
+[31]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.5.png
+[32]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.6.png
 [24]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
 [25]: https://www.biznes.gov.pl/pl/portal/00286#2
 [26]: zus_duzy.md

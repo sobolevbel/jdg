@@ -28,7 +28,7 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 (Basic information)
 
 1. Select the counterparty you're invoicing (from the Nabywca dropdown). The address and NIP or VAT UE number will be pulled automatically from the directory.
-2. Data wystawienia — the invoice issue date. "Today" or a date in the past.
+2. Data wystawienia — the invoice issue date. Previously you could choose "today" or a date in the past. But ever since the KSeF integration was configured in the wFirma account, the issue date = today (always). You cannot change this date on the invoice creation screen.
 3. Data sprzedaży — the sale date, i.e. the date the service was provided (last day of the month, or the actual date of service if it's irregular).
 
     > Nieprzerwane usługi mogą być rozliczane w ustalonych z góry okresach rozliczeniowych, takich jak miesiąc lub kwartał – w takim przypadku za datę powstania przychodu uznaje się ostatni dzień okresu rozliczeniowego określonego w umowie lub na wystawionej fakturze, ale nie rzadziej niż raz w roku.
@@ -88,7 +88,24 @@ You can also do this on the **Przychody - Sprzedaż** page. The Wystawianie fakt
 
 ![7]
 
+### KSeF
+
+The new "KSeF" tab appeared after wFirma's integration with KSeF. Here you can optionally (it's not required at all) specify the contract number.
+
+### Final Step
+
 Click Zapisz to save. The invoice is saved!
+
+If you want to visually check the invoice, first save it as a draft and use the Podgląd feature.
+
+### Invoice Number and KSeF
+
+At the moment the invoice is saved, it is automatically assigned a sequential number according to the numbering rules set in your wFirma account settings.
+
+If the KSeF integration is configured in your wFirma account, the new invoice is sent to KSeF automatically right after saving.
+
+Once the submitted document has been successfully processed in KSeF and the UPO (proof of submission) has been generated, it becomes available for download.
+This feature is available on the PRZYCHODY → SPRZEDAŻ page, where you need to select the submitted document and choose the POBIERZ UPO option.
 
 ## Printing the Invoice
 
@@ -191,8 +208,6 @@ Done, the exchange rate difference has been added and will be taken into account
 
 5. If the amount doesn't match your expectations, double-check the calculations (wFirma shows them step by step) and click Modyfikuj to make changes.
 
-5. If the amount doesn't match your expectations, double-check the calculations (wFirma shows them step by step) and click Modyfikuj to make changes.
-
 ### ZUS
 
 1. On the main page, if you've set up the dashboard correctly, you'll see a panel like this. Click Wylicz. You can also do this by going to Start - ZUS and clicking Wylicz podatek.
@@ -238,34 +253,75 @@ Done, the exchange rate difference has been added and will be taken into account
 
         The expected settings for beginning entrepreneurs as shown in the screenshot: "Sposób: Standardowy - na podstawie bieżącego przychodu", and "Wakacje składkowe" is unchecked.
 
+3. When ready, click Zapisz to save.
+
+4. (an extra step, if you checked the Roczne rozliczenie składki zdrowotnej box in the previous step) The annual recalculation in May.
+
+    In May 2026, experienced entrepreneurs need to fill in the "Dodawanie rocznej składki zdrowotnej za 2025 rok" window.
+    The other 11 months out of 12 this window doesn't pop up — just move on to the next step.
+
+    ![42]
+
+    ??? info "Comments on the screenshot"
+        The Podstawowe dane roczna tab contains the basic settings.
+        The screenshot shows ryczałt selected, for the full year (12 months).
+
+    * Forma opodatkowania, w której rozliczana jest składka zdrowotna w 20.. roku — The tax system in the previous year.
+    * Liczba miesięcy podlegania ubezpieczeniu zdrowotnemu w 20.. roku — The number of months you were covered by health insurance in the previous year. A maximum of 12, but it can be less for those who took breaks (zawieszenie działalności) or started business mid-year.
+    * Posiadam kilka firm / Jednomiesięczny okres składkowy — I have several companies / A one-month contribution period.
+
+    !!! note "Advanced settings"
+
+        On the Zaawansowane dane roczna tab, you need to verify the calculations.
+
+        1. The "Automatyczne wyliczenie rocznej składki zdrowotnej" checkbox — Automatic calculation of the annual health insurance contribution
+
+            If all your ZUS DRA for the previous year are in wFirma, they are marked as paid, and the system knows your annual income for the previous year, then you're in luck — wFirma will calculate the składka zdrowotna surcharge automatically.
+
+            ![43]
+
+            * Ryczałt od przychodów ewidencjonowanych — Ryczałt. Click "v" to see the calculations.
+            * Łączna kwota do dopłaty — The total amount to pay extra. Double-check it.
+
+            If you've only recently switched to wFirma and kept your books in some other system before that, you need to uncheck "Automatic calculation" and enter last year's data in "Parametry".
+
+            ![44]
+
+            The screenshot shows an example for ryczałt.
+
+        2. przychód z działalności gospodarczej — annual income from business activity.
+
+            !!! example "Source"
+                Ewidencja przychodów (or KPiR) for the last month of the previous year.
+        3. składki społeczne do odliczenia — social insurance contributions to deduct.
+
+            !!! example "Source"
+                The informacja roczna report from ZUS, last page, the FUS total.
+        4. suma należnych składek zdrowotnych wynikająca ze złożonych DRA za 20.. rok — the sum of health insurance contributions due according to the DRA declarations submitted for the year 20...
+
+            !!! example "Source"
+                The ZUS DRA declarations for all months of business activity in the previous insurance year. On ryczałt — from January to December (don't get confused! this refers to the reporting month; if you go by submission date, it's the period February 2025 – January 2026).
+                It's important to understand that ZUS counts the insurance year in its own way, and it doesn't coincide with the calendar year for all tax systems.
+        5. Łączna kwota do dopłaty — the total amount to pay extra.
+
+            !!! example "Quick check for those on ryczałt (rough)"
+                Based on which range (0-60k, 60k-300k, 300k-2M) your annual income falls into after deducting składki społeczne, determine your final składka zdrowotna rate. Multiply the final rate by the number of months, subtract the sum of all health insurance contributions actually paid in the previous year (go by payment date, from February of the previous year to January of the current year), excluding the May surcharge. If everything is right, the result will match wFirma's calculations (a difference of up to 6 groszy is acceptable due to the roughness of the calculation).
+
     When ready, click Zapisz to save.
 
-    ??? note "Advanced settings"
-        On the Zaawansowane tab, you can indicate that you have a ZUS holiday in the reporting month (Wakacje składkowe checkbox).
-        It's also worth checking that the selected method for calculating health insurance contributions (Sposób wyliczenia składki zdrowotnej) matches what you chose at the beginning of the year. If it's the beginning of the year, you're preparing ZUS DRA 01/20YY, and last year you conducted business activity the full year from start to finish, now is the time to make this choice. Pick whichever you prefer, but remember that the chosen method is locked in until the end of the current year.
-
-        ![34]
-
-        The expected settings for beginning entrepreneurs as shown in the screenshot: "Sposób: Standardowy - na podstawie bieżącego przychodu", and "Wakacje składkowe" is unchecked.
-
-3. Click Zapisz to save.
-
-4. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month. The screenshot shows **ZUS = 461.66 zł**. That's exactly how much the first ZUS payment comes to for entrepreneurs on ryczałt who use the Ulga na Start benefit in 2025.
+5. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month. The screenshot shows **ZUS = 461.66 zł**. That's exactly how much the first ZUS payment comes to for entrepreneurs on ryczałt who use the Ulga na Start benefit in 2025.
 
     ![19]
 
     !!! note "ZUS increase"
         In 2026, the first ZUS payment on ryczałt went up to **498.35 zł**. Składka zdrowotna is tied to the average salary in Poland.
 
-4. If the amount doesn't match your expectations, you need to investigate...
+6. If the amount doesn't match your expectations, you need to investigate...
 
     * Double-check the parameters selected in the previous step: click Modyfikuj → Zaawansowane tab
     * Double-check the health insurance contribution calculations (wFirma shows them step by step): click Modyfikuj to make changes → Zaawansowane tab → uncheck "Automatyczne wyliczenie miesięcznej składki zdrowotnej"
     * Cross-reference with the [Składki ZUS][41] website (ryczałt, 2026)
     * Double-check the [ZUS settings][40] in your account.
-
-!!! note "ZUS increase"
-    In 2026, the first ZUS payment on ryczałt went up to **498.35 zł**. Składka zdrowotna is tied to the average salary in Poland.
 
 ## Submitting Declarations
 
@@ -382,3 +438,6 @@ Done, the exchange rate difference has been added and will be taken into account
 [39]: https://pomoc.wfirma.pl/images/fx/max/679774
 [40]: wfirma_settings.md#podatki-zus
 [41]: https://justandrei.github.io/jdg-tools/zus/
+[42]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej.png
+[43]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane-auto.png
+[44]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane.png

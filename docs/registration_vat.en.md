@@ -46,6 +46,9 @@ Tick ZUS
 
 ![step-4][5]
 
+If you haven't been registered yet and want to register as a VAT payer — pick `rejestracja`.
+If you have already registered for VAT or VAT-UE — pick `aktualizacja`.
+
 ## 5. Waive the exemption
 
 You can register as a VAT payer voluntarily so you can deduct VAT on business purchases (e.g. laptop, phone, furniture).

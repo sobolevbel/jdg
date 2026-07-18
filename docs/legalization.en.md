@@ -13,15 +13,23 @@ Credit for this document goes to immigration consultant Irina from ROOT Group.
 
 This document describes the process of applying for a karta pobytu (residence permit) based on działalność gospodarcza (business activity).
 
+!!! note "Who this guide is for"
+    This guide is relevant for **third-country nationals** (non-EU citizens) who want to obtain a temporary residence permit (karta pobytu) in Poland based on running a JDG (sole proprietorship).
+
 ## General information
 
-### Where to register for submission
+### How the wniosek is submitted
 
-- [https://inpol.mazowieckie.pl/login][10] Warsaw.
-- [https://pio-przybysz.duw.pl][21] Wroclaw.
-- [https://infoopt.pl/](https://infoopt.pl/) Krakow.
-- [https://uw.bezkolejki.eu/luwlodz/Reservation](https://uw.bezkolejki.eu/luwlodz/Reservation) Lodz (since 1.11.2022, online registration for czasowy pobyt based on employment has been suspended for 3 months).
-- [https://kolejka.gdansk.uw.gov.pl/](https://kolejka.gdansk.uw.gov.pl/) Gdansk. Currently you can only book odbiór karty and document delivery in Puck. Online registration for a residence permit has not been working since spring 2025.
+Since 2026, the wniosek (application) for pobyt czasowy for all voivodeships is submitted
+**fully electronically** via the [MOS (Moduł Obsługi Spraw)](https://mos.cudzoziemcy.gov.pl/)
+portal — filling out, signing via Profil Zaufany, and sending all happen online, and the
+voivode is selected directly in the wniosek form.
+
+**Step-by-step guide: [Applying for a karta pobytu via MOS](legalization_mos2.md).**
+
+Regional electronic queue systems (inPOL in Warsaw, bezkolejki, etc.) are no longer used
+for submitting the wniosek — they may only come in handy for booking odbiór karty
+(picking up the finished card) in some voivodeships.
 
 ### Some criteria for obtaining a residence permit based on business activity according to legislation
 
@@ -34,11 +42,11 @@ This document describes the process of applying for a karta pobytu (residence pe
 2. You need to earn 12 average monthly gross salaries in `gospodarce narodowej`, published by GUS, in the voivodeship where you are submitting your residence permit application, according to [Art.  142. of the Act on Foreigners][12]
 
 !!! note
-    Officially published information about the average monthly salary by voivodeship can be found on the official GUS website in the published documents section [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Example document title: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2023 roku`.
+    Officially published information about the average monthly salary by voivodeship can be found on the official GUS website in the published documents section [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Example document title: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2024 roku`.
 
     Alternatively, you can use the [GUS search page][19] and enter the keyword `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` and select the most recent document.
 
-    As of (February 3, 2025), the [current document][20] contains the average salary by voivodeship for 2023, which shows that the equivalent of 12 salaries for Warmian-Masurian Voivodeship is **73,835** PLN, for Lodz Voivodeship — **80,327** PLN, and for Masovian Voivodeship — **101,600** PLN.
+    As of (November 19, 2025), the [current document][20] contains the average salary by voivodeship for 2024, which shows that the equivalent of 12 salaries for Warmian-Masurian Voivodeship is **85,606.80** PLN, for Lodz Voivodeship — **91,759.44** PLN, and for Masovian Voivodeship — **113,867.28** PLN.
     The page with the document contains links to similar documents from previous years, which suggests that the same link will make it easy to access the fresh document for the following year.
 
 ## General tips for preparing documents
@@ -63,6 +71,12 @@ This document describes the process of applying for a karta pobytu (residence pe
     - May start nitpicking simply because your documents are not clear to them.
 
 ## Checklist for an entrepreneur applying for a residence permit as JDG
+
+!!! info "When submitting electronically via MOS"
+    If you submitted your wniosek [electronically via MOS](legalization_mos2.md), the paper
+    document package from this checklist is brought to the fingerprints appointment (wezwanie):
+    the printed wniosek from MOS, plus originals and copies of all documents. Do not hand over
+    the originals — they are only for verifying the copies.
 
 ### 1. Basic package
 
@@ -184,17 +198,29 @@ The business plan should consist of:
 
 ### 3. Confirmation of 3 key residency requirements
 
-#### 3.1. Insurance
+#### 3.1. Health Insurance
 
-* ZUS ZUA/ZZA + ZUS DRA/RCA + ZUS ZCNA.
+According to the [law on publicly funded healthcare services (art. 66, ust. 1, pkt. 1, lit. c)](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/swiadczenia-opieki-zdrowotnej-finansowane-ze-srodkow-17127716/art-66), if you run a JDG, you are obliged to pay health insurance — except when the JDG activity is suspended (zawieszona).
 
-    ZUS ZUA/ZZA — this is your ZUS registration application (ZZA during the ulgi na start phase, ZUA after it).
+When you register a JDG, the system automatically sends a ZUS ZUA/ZZA to ZUS for registration, i.e. you have health insurance.
+Check the sent ZUA (health insurance + social insurance) or ZZA (health insurance only, in the case of Ulga na start) declarations on the ZUS.pl portal in the sent documents section.
 
-    ZUS DRA — monthly declaration (you need to attach either an electronic confirmation UPP or sign it by hand).
+If you have family members who do not have their own health insurance, you can attach them to your health insurance by sending a ZCNA declaration — this way your family members will also have health insurance and the legalization requirement will be met.
 
-    ZUS RCA — declarations for your hired employees, if any.
+What the declarations mean:
 
-    ZUS ZCNA — application for family members. If you are applying without family — this document is not needed.
+* ZUA — Zgłoszenie do ubezpieczeń/zgłoszenie zmiany danych osoby ubezpieczonej — i.e., in particular, registration for health insurance and social insurance.
+* ZCNA — Zgłoszenie danych o członkach rodziny dla celów ubezpieczenia zdrowotnego — registration of family members for health insurance.
+* DRA — Deklaracja rozliczeniowa — the declaration submitted every month, based on which ZUS calculates the contributions for the month.
+* ZZA — Zgłoszenie do ubezpieczenia zdrowotnego/zgłoszenie zmiany danych — the same as ZUA, but without social insurance. Applicable when using Ulga na start, when social insurance does not apply.
+* ZWUA — Wyrejestrowanie z ubezpieczeń — deregistration of a ZUA. Used when the JDG activity is closed, or when changing the registration code in ZUS. For example, when you leave the ZUS Preferencyjny "plan" and switch to ZUS Pełny, you fill out a ZWUA followed by a ZUA to register with the new code.
+* RCA — Imienny raport miesięczny o należnych składkach i wypłaconych świadczeniach — submitted for the employees you have hired.
+
+According to the [Act on Foreigners (art. 142, ust. 1, pkt. 1, lit. a)](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142), one of the conditions for obtaining a residence permit (zezwolenie na pobyt) is that the foreigner has health insurance.
+
+To confirm health insurance, you can get a certificate with an electronic signature on the [zus.pl](https://www.zus.pl/) portal.
+
+[Instructions on how to get the health insurance certificate](zus.md#health-insurance-certificate).
 
 **OR**
 
@@ -302,17 +328,13 @@ missing, your application will be left without consideration.
 
 ### 3. Confirmation of 3 key residency requirements
 
-#### 3.1. Insurance
+#### 3.1. Health Insurance
 
-* ZUS ZUA/ZZA + ZUS DRA/RCA + ZUS ZCNA.
+According to the [Act on Foreigners (art. 142, ust. 1, pkt. 1, lit. a)](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142), one of the conditions for obtaining a residence permit (zezwolenie na pobyt) is that the foreigner has health insurance.
 
-    ZUS ZUA/ZZA — this is your ZUS registration application (ZZA during the ulgi na start phase, ZUA after it).
+To confirm health insurance, you can get a certificate with an electronic signature on the ZUS.pl portal.
 
-    ZUS DRA — monthly declaration (you need to attach either an electronic confirmation UPP or sign it by hand).
-
-    ZUS RCA — declarations for your hired employees, if any.
-
-    ZUS ZCNA — application for family members. If you are applying without family — this document is not needed.
+[Instructions on how to get the health insurance certificate](zus.md#health-insurance-certificate).
 
 **OR**
 
@@ -387,11 +409,7 @@ with the appropriate document.
 - It is recommended to print documents double-sided and staple documents of the same type together.
 - You need copies and originals of the following documents: marriage certificate, rental agreement. You will hand over the copies, and the originals
   are needed to certify the copies. Bring both copies and originals, hand over only the copies.
-- **Warsaw**: before submitting documents, check your registration number in your personal account at [inpol][10].
-  The number is available on the main page of your account in the *ZAPLANOWANE WIZYTY W URZĘDZIE* section. Usually the number consists of
-  a letter X or G and several digits (for example X123). This number is needed for the electronic queue — they will call you
-  to the specialist by this number.
-- There is a separate convenient website with a checklist for submission [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/)
+- There is a separate convenient website with a checklist for submission [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/) — it is also embedded in the [guide on applying via MOS](legalization_mos2.md#interactive-document-checklist).
 
 <!-- resources -->
 
@@ -404,7 +422,6 @@ with the appropriate document.
 [7]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [8]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [9]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
-[10]: https://inpol.mazowieckie.pl/login
 [12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
 [13]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
 [14]: karta-pobytu-docs/business-plan-guide.pdf
@@ -414,6 +431,5 @@ with the appropriate document.
 [18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
-[21]: https://pio-przybysz.duw.pl
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
 [23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
