@@ -203,7 +203,8 @@ The health component (zdrowotna) must always be paid, even if you also have insu
 
 Social benefit entitlements depend on paying the social contributions. These include maternity leave, sick leave, and future pension payments, but these benefits are proportional to the amount on which you pay contributions.
 Sick pay and maternity benefit hinge on the voluntary składka chorobowa — it has
-[a dedicated page](zus_chorobowe.md).
+[a dedicated page](zus_chorobowe.md). How pension contributions turn into your
+future pension is covered on the [Pension page](emerytura.md).
 
 For the first 6 months you can take advantage of the "[Ulga na start][2]" relief and not pay social contributions. Accordingly, you will not be able to use social benefits either. After the startup relief expires, you can [switch][23] to the next relief — **Składki preferencyjne** — and use it for 24 months. After 30 months of activity you must [switch][26] to paying full ZUS (**duży ZUS**) — a minimum of 60% of the average salary.
 
