@@ -1,5 +1,5 @@
 ---
-title: Monthly Operations in wfirma.pl
+title: Monthly Bookkeeping in wfirma.pl for the Self-Employed
 description: Monthly routine for a sole proprietor on ryczałt in wfirma.pl — issuing invoices, paying ZUS, submitting ZUS DRA, JPK_V7M, VAT-UE
 tags:
   - Accounting
@@ -10,7 +10,7 @@ tags:
 # Routine Operations for a Sole Proprietor (Monthly) Using wfirma.pl
 
 This document covers the typical monthly operations for a sole proprietor on ryczałt in wfirma.pl.
-The minimum wFirma setup is described [here][1].
+The minimum wFirma setup is described on the [wFirma setup page][1].
 
 ## Issuing Invoices
 

@@ -1,5 +1,5 @@
 ---
-title: Monthly operations in infakt.pl
+title: Monthly Bookkeeping in infakt.pl for the Self-Employed
 description: Monthly routine for a sole proprietor on ryczałt in infakt.pl — issuing invoices, paying ZUS, submitting ZUS DRA, JPK_V7M, VAT-UE
 tags:
   - Accounting
@@ -10,7 +10,7 @@ tags:
 # Routine operations for a sole proprietor (monthly) using infakt.pl
 
 This document describes the typical monthly operations for a sole proprietor on ryczałt using infakt.pl.
-The minimum infakt setup is described [here][3].
+The minimum infakt setup is described on the [infakt setup page][3].
 
 Sign up for infakt using [our referral link][24] and get 100zł cashback.
 
@@ -57,7 +57,7 @@ You can also send the invoice directly to the client's email by choosing **Wyśl
 !!! warning "Important"
     Make sure all invoices have been added and are in `WYDRUKOWANO` or `WYSŁANO` status, and that all exchange rate differences for the reporting period have been entered and accounted for.
 
-You can find your tax payment account number [here][36].
+You can find your tax payment account number using the [instructions on the taxes page][36].
 Infakt retrieves the account number automatically during setup.
 
 Tax must be paid by the 20th of the month following the reporting month.
@@ -113,7 +113,7 @@ When done, mark the tax as paid in infakt.
 ## Preparing the ZUS DRA declaration and paying contributions
 
 You can find your ZUS micro-account number at [eskladka.pl][34].
-ZUS setup in inFakt is described [here][35].
+ZUS setup in inFakt is described in the [ZUS data settings section][35].
 
 By the 20th of each month (as of July 2022) you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. The infakt fee for ZUS payments is slightly lower (1–2 PLN).
 

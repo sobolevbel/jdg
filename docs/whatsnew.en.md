@@ -31,6 +31,8 @@ tags:
 - The site is now available in English — use the language switcher in the header.
 - All screenshots got meaningful alt texts — the site is now more accessible to blind users with screen readers.
 - SEO improvements: home page title, hreflang x-default, removed duplicate og tags.
+- Added schema.org structured data (TechArticle on all pages, FAQPage on the FAQ page).
+- Generic link texts like "here"/"source" replaced with descriptive ones.
 
 ## June 2026
 

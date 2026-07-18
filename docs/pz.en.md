@@ -1,5 +1,5 @@
 ---
-title: Profil Zaufany — trusted profile
+title: Profil Zaufany — Poland's Trusted Profile for e-Government
 description: How to set up Profil Zaufany (trusted profile) so you can sign documents and deal with Polish government services online
 tags:
   - Registration

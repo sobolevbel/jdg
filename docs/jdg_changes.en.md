@@ -48,14 +48,14 @@ below is based on community experience (the #ChangeAddress note from the "JDG in
         For a sole proprietor, the tax office branch is determined by the address of
         **residence** (zamieszkania) — the business address (siedziba firmy) only matters
         for companies. If you're moving — check whether your urząd skarbowy has changed
-        ([more details][7]).
+        ([more details at poradnikprzedsiebiorcy][7]).
 
 - **ZUS (the płatnik section)** — the address is also changed via biznes.gov.pl: when
   filling out the CEIDG-1 form, select the corresponding items (ZUS ZUA or ZUS ZZA).
 - **VAT-R** — if you're a VAT payer (Polish VAT or VAT-UE) and the move changes your
   urząd skarbowy, update the address with the VAT-R form. Attach your lease agreement,
   the owner's permission to use the address for the JDG, and an oświadczenie
-  ([example][8] on Telegram).
+  ([example documents in the chat][8]).
 
 ### Business environment
 
@@ -92,7 +92,7 @@ one (**ZUS ZUA/ZZA**). Your accountant can do this.
 
 Even after that, one place with the old address remains: Ubezpieczony -> Moje dane ->
 Dane adresowe -> **Zameldowania** (looks like a bug). It's updated with the **US-13**
-application: [online][10] / [offline][11].
+application: [US-13 online (template in the chat)][10] / [US-13 offline form][11].
 
 ### Tips
 
@@ -108,7 +108,7 @@ application: [online][10] / [offline][11].
         office replied that no such business was registered at the address — and the
         tax office **forcibly closed the JDG**, without notice.
 
-- There's a [separate note][14] in the chat about all the various JDG addresses.
+- There's a [chat note about all the various JDG addresses][14].
 
 Not business-related, but also worth doing when you move:
 
@@ -142,11 +142,11 @@ The closure is done on [biznes.gov.pl][2] with an application for wykreślenie d
 **Can I close a JDG retroactively?**
 
 Yes. But you'll have to contact ZUS so they recalculate the automatically accrued
-contributions due ([more details][3]).
+contributions due ([more details in the zawartka.pl article][3]).
 
 **Can I close a JDG with a future date?**
 
-No ([source][4]).
+No ([answer from poradnikprzedsiebiorcy][4]).
 
 **Do tax obligations to Poland end immediately after closing a JDG?**
 

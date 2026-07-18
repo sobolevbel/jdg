@@ -1,5 +1,5 @@
 ---
-title: Moving to the next ZUS regime
+title: Switching Between ZUS Contribution Regimes in Poland
 description: How and when to switch between ZUS regimes — Ulga na Start, Składki Preferencyjne, Mały ZUS+, Duży ZUS. Deadlines, codes, documents
 tags:
   - ZUS
@@ -100,7 +100,7 @@ _If you haven’t changed your line of business and just want to use the same co
 
 You can do it online — no need to visit a ZUS office.
 
-First log in to eZUS as described [here][5].
+First log in to eZUS as described in the [eZUS login guide][5].
 
 Then pick the step-by-step guide you need and follow it.
 
