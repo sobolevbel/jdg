@@ -1,0 +1,33 @@
+name: 🐞 Ошибка или устаревшая информация
+description: На странице гайда неточность, опечатка или устаревшие данные
+labels: [content]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Страница гайда
+      description: Ссылка на страницу, где нашли проблему
+      placeholder: https://sobolevbel.github.io/jdg/zus/
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Что не так
+      description: Опишите ошибку или что именно устарело
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Как должно быть (и откуда это известно)
+      description: >-
+        Правильная информация и источник — ссылка на официальный сайт
+        (zus.pl, podatki.gov.pl, biznes.gov.pl), заметку в чате или личный опыт.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: >-
+        💡 Опечатку проще исправить самостоятельно: нажмите карандаш ✏️ в шапке
+        страницы гайда — GitHub создаст Pull Request за вас.

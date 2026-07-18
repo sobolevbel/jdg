@@ -1,63 +1,66 @@
-# JDG (Jednoosobowa działalność gospodarcza)  — ИП в Польше
+# JDG — ИП в Польше
 
-[Перейти на сайт](https://sobolevbel.github.io/jdg/)
+[![Деплой](https://github.com/sobolevbel/jdg/actions/workflows/ci.yml/badge.svg)](https://github.com/sobolevbel/jdg/actions/workflows/ci.yml)
+[![Лицензия: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/sobolevbel/jdg)](https://github.com/sobolevbel/jdg/stargazers)
 
-Для сборки сайта из `markdown` файлов используется генератор статических сайтов [MkDocs](https://www.mkdocs.org/).
-С синтаксисом markdown можно ознакомиться [здесь](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Комьюнити-гайд по открытию и ведению **JDG** (jednoosobowa działalność gospodarcza — ИП)
+в Польше для иностранцев: PESEL, регистрация фирмы, ZUS, налоги, декларации,
+бухгалтерия, легализация (карта побыту).
 
-## Как поучаствовать в проекте
+**📖 Читать гайд: <https://sobolevbel.github.io/jdg/>**
 
-1. Форкните проект, создайте новую ветку и начинайте работу.
-2. Когда работа будет готова — проверьте локально что сайт собирается и запушьте ветку в репозиторий.
-3. Создайте Pull Request в master.
+Вопросы и обсуждение — в Telegram-чате [«ИП в Польше»](https://t.me/JDG_PBH).
+Для участников проекта есть [чат контрибьюторов](https://t.me/+WK5ppqgHxXA3MjAy).
 
-Пошаговые инструкции:
-1. От GitHub, на английском: [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-2. На русском [GitHub - Внесение собственного вклада в проекты](https://git-scm.com/book/ru/v2/GitHub-%D0%92%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B)
+## In English
 
-## Процесс работы
+A community-driven guide to registering and running a sole proprietorship (JDG)
+in Poland as a foreigner — PESEL, company registration, ZUS, taxes, VAT,
+accounting, residence permit. Read it at
+**<https://sobolevbel.github.io/jdg/en/>** (or use the language switcher in the
+site header).
 
-### Скриншоты
+## Как помочь проекту
 
-Чтобы скриншоты в гайде выглядели в едином стиле, оформляйте их через [screely.com](https://screely.com/):
+Нашли опечатку или устаревшую информацию? **Git не нужен:**
 
-- Window Type: **Plain Window**
-- Window Style: **Regular**
-- Background Color: **белый**
-- Padding: Vertical **4px**, Horizontal **4px**
+1. Нажмите значок карандаша ✏️ в шапке любой страницы гайда.
+2. GitHub откроет веб-редактор — поправьте текст и нажмите **Commit changes**.
+   GitHub сам создаст форк и Pull Request.
 
-Загружаете свой скриншот, применяете настройки и скачиваете результат кнопкой Download. Персональные
-данные (NIP, PESEL, номера счетов, суммы) перед публикацией замазывайте или блюрьте.
+Для правок побольше (новые страницы, скриншоты, перевод) читайте
+[руководство контрибьютора](CONTRIBUTING.md) — там соглашения по оформлению,
+стайлгайд скриншотов, правило синхронизации английской версии и инструкции по
+локальной сборке.
 
-### Нормальный способ
-Для локальной сборки сайта необходимо установить:
+Не хочется править самому — [создайте issue](https://github.com/sobolevbel/jdg/issues/new/choose).
 
-- python 3+
-- зависимости проекта
+## Локальная сборка
 
-Для установки зависимостей проекта используйте команду
+Сайт собирается генератором [MkDocs](https://www.mkdocs.org/) с темой Material.
+
+Обычный способ (нужен Python 3):
+
 ```shell
 pip install -r requirements.txt
-```
-
-Запустить проект:
-
-```shell
 python -m mkdocs serve
 ```
 
-### Docker-way 🙃
-
-Нужен:
-- docker
-
-А дальше запускаете:
+Docker-way 🙃:
 
 ```shell
 docker compose up --build
 ```
 
-```
+Сайт поднимется на <http://localhost:8000>. Подробности и линтеры — в
+[CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Лицензия
+
+[CC0 1.0](LICENSE) — материалы гайда переданы в общественное достояние.
+
+```text
   ,-.       _,---._ __  / \
  /  )    .-'       `./ /   \
 (  (   ,'            `/    /|

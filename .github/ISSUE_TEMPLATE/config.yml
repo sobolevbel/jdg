@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 Вопрос по ведению ИП
+    url: https://t.me/JDG_PBH
+    about: Вопросы «как мне сделать X» задавайте в Telegram-чате «ИП в Польше», а не в issues.
+  - name: 🛠 Чат контрибьюторов
+    url: https://t.me/+WK5ppqgHxXA3MjAy
+    about: Обсуждение работы над гайдом — идеи, черновики, помощь с PR.

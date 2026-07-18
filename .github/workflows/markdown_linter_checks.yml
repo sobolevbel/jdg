@@ -25,3 +25,9 @@ jobs:
         run: gem install mdl
       - name: Run markdown-linter
         run: mdl -s .github/workflows/markdown_linter_rules.rb docs/.
+      - name: Check image alt texts
+        run: |
+          if grep -rEn '!\[\]|!\[[0-9]+\]|!\[[^]]*\.(png|jpe?g|gif|webp)\]' docs --include='*.md'; then
+            echo "::error::Найдены картинки с пустым или бесполезным alt-текстом — опишите, что на скриншоте (см. CONTRIBUTING.md, раздел «Скриншоты»)"
+            exit 1
+          fi
