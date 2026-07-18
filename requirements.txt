@@ -63,6 +63,7 @@ mergedeep==1.3.4
     #   mkdocs-get-deps
 mkdocs==1.6.1
     # via
+    #   -r requirements.in
     #   mkdocs-git-revision-date-localized-plugin
     #   mkdocs-material
     #   mkdocs-minify-plugin
@@ -75,7 +76,7 @@ mkdocs-git-revision-date-localized-plugin==1.5.1
     # via -r requirements.in
 mkdocs-glightbox==0.5.2
     # via -r requirements.in
-mkdocs-material[imaging]==9.7.6
+mkdocs-material[imaging]==9.7.7
     # via -r requirements.in
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
