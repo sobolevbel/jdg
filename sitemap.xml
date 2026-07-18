@@ -43,6 +43,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_zus/"/>
     </url>
     <url>
+        <loc>https://sobolevbel.github.io/jdg/emerytura/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/emerytura/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/emerytura/"/>
+    </url>
+    <url>
         <loc>https://sobolevbel.github.io/jdg/faq/</loc>
         <lastmod>2026-07-18</lastmod>
         <changefreq>daily</changefreq>
@@ -300,6 +307,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/declarations_zus/"/>
         <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/declarations_zus/"/>
+    </url>
+    <url>
+        <loc>https://sobolevbel.github.io/jdg/en/emerytura/</loc>
+        <lastmod>2026-07-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sobolevbel.github.io/jdg/en/emerytura/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://sobolevbel.github.io/jdg/emerytura/"/>
     </url>
     <url>
         <loc>https://sobolevbel.github.io/jdg/en/faq/</loc>
