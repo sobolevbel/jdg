@@ -175,7 +175,7 @@ ZUS состоит из 2 основных частей:
 
 Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
 
-![Katalog usług elektronicznych ZUS: фильтр по запросу RWN](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
+![Katalog usług elektronicznych ZUS: фильтр по запросу RWN](images/zus/rwn_05_1_katalog_uslug.jpeg)
 
 ### Проверяем данные в форме
 
@@ -287,28 +287,28 @@ ZUS состоит из 2 основных частей:
 [8]: https://www.biznes.gov.pl/pl/portal/00286#2
 [9]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
 [10]: https://eskladka.pl/Home
-[11]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.png
-[12]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.1.png
-[13]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.2.png
-[14]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.3.png
-[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.4.png
-[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.5.png
-[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.6.png
-[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.7.png
-[19]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
-[20]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
-[21]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
-[22]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
-[23]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.1.png
-[24]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.2.png
-[25]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.3.png
-[26]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.4.png
-[27]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.5.png
-[28]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.6.png
-[29]: images/zus_epuap/zus_epuap_1.png
-[30]: images/zus_epuap/zus_epuap_2.png
-[31]: images/zus_epuap/zus_epuap_3.png
-[32]: images/zus_epuap/zus_epuap_4.png
+[11]: images/zus/rwn_02_dane_platnika.png
+[12]: images/zus/rwn_02_1_liczba_egzemplarzy.png
+[13]: images/zus/rwn_02_2_zapisano.png
+[14]: images/zus/rwn_02_3_zamknij_formularz.png
+[15]: images/zus/rwn_02_4_wyslij.png
+[16]: images/zus/rwn_02_5_autoryzacja.png
+[17]: images/zus/rwn_02_6_przekierowanie_epuap.png
+[18]: images/zus/rwn_02_7_wyslano.png
+[19]: images/zus/rwn_04_korespondencja.png
+[20]: images/zus/rwn_04_1_szczegoly.png
+[21]: images/zus/rwn_04_2_przegladaj.png
+[22]: images/zus/rwn_04_3_drukuj.png
+[23]: images/zus/ubezpieczenie_01_1.png
+[24]: images/zus/ubezpieczenie_01_2.png
+[25]: images/zus/ubezpieczenie_01_3.png
+[26]: images/zus/ubezpieczenie_01_4.png
+[27]: images/zus/ubezpieczenie_01_5.png
+[28]: images/zus/ubezpieczenie_01_6.png
+[29]: images/zus/epuap_01_dodaj_powiazanie.png
+[30]: images/zus/epuap_02_logowanie_pz.png
+[31]: images/zus/epuap_03_podpisz.png
+[32]: images/zus/epuap_04_potwierdzenie.png
 [33]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
-[34]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.png
-[35]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.1.png
+[34]: images/zus/rwn_01.png
+[35]: images/zus/rwn_01_1.png

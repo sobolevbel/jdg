@@ -225,22 +225,22 @@ tags:
 таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "
 TYP") или найдя свой уженд вручную на сайте.
 
-[1]: images/RegVATUE/Pastedimage20211026161902.png
-[2]: images/RegVATUE/Pastedimage20211026162200.png
-[3]: images/RegVATUE/2-1.png
-[4]: images/RegVATUE/Pastedimage20211026161622.png
-[5]: images/reg_vat_pl/vat-pl-1.png
-[6]: images/reg_vat_pl/vat-pl-2.png
-[7]: images/reg_vat_pl/vat-pl-3.png
-[8]: images/reg_vat_pl/vat-pl-4.png
+[1]: images/registration_vat_ue/wazne_informacje.png
+[2]: images/registration_vat_ue/zmiana_wpisu.png
+[3]: images/registration_vat_ue/ubezpieczenie_zus.png
+[4]: images/registration_vat_ue/dane_do_zmiany.png
+[5]: images/registration_vat/01_rejestracja_aktualizacja.png
+[6]: images/registration_vat/02_rezygnacja_zwolnienia.png
+[7]: images/registration_vat/03_tytul_obowiazku.png
+[8]: images/registration_vat/04_data_obowiazku.png
 [9]: https://poradnikprzedsiebiorcy.pl/-czy-wiesz-jak-rozliczac-faktury-metoda-kasowa
-[10]: images/reg_vat_pl/vat-pl-5.png
-[11]: images/reg_vat_pl/vat-pl-7.png
-[12]: images/reg_vat_pl/vat-pl-8.png
-[13]: images/reg_vat_pl/vat-pl-9.png
-[14]: images/reg_vat_pl/vat-pl-10.png
-[15]: images/reg_vat_pl/vat-pl-11.png
-[16]: images/reg_vat_pl/vat-pl-12.png
+[10]: images/registration_vat/05_metoda_kasowa.png
+[11]: images/registration_vat/07_taxi_zloto.png
+[12]: images/registration_vat/08_rezygnacja_vat_ue.png
+[13]: images/registration_vat/09_okres_rozliczen.png
+[14]: images/registration_vat/10_urzad_skarbowy.png
+[15]: images/registration_vat/11_bez_potwierdzenia.png
+[16]: images/registration_vat/12_oswiadczenie.png
 [17]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [18]: pismo_ogolne.md
 [19]: https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas

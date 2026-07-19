@@ -76,15 +76,15 @@ JDG выступает в нескольких ролях: как платель
 1. [общая официальная инструкция][11] на польском от ZUS
 2. [инструкция для пользователей inFakt][12] на польском
 
-[1]: images/zus_dra/zus-dra-1.png
-[2]: images/zus_dra/zus-dra-2.png
-[3]: images/zus_dra/zus-dra-3.png
-[4]: images/zus_dra/zus-dra-6.png
-[5]: images/zus_dra/zus-dra-7-new.png
-[6]: images/zus_dra/zus-dra-7-1-new.png
-[7]: images/zus_dra/zus-dra-7-2-new.png
-[8]: images/zus_dra/zus-dra-7-3-new.png
-[9]: images/zus_dra/zus-dra-8.png
-[10]: images/zus_dra/zus-dra-10.png
+[1]: images/declarations_zus/01_eplatnik.png
+[2]: images/declarations_zus/02_dodaj_dokument.png
+[3]: images/declarations_zus/03_wybierz_dra.png
+[4]: images/declarations_zus/06_okres_deklaracji.png
+[5]: images/declarations_zus/07_kod_tytulu.png
+[6]: images/declarations_zus/07_1_forma_opodatkowania.png
+[7]: images/declarations_zus/07_2_oblicz_podstawe.png
+[8]: images/declarations_zus/07_3_podstawy_minimalne.png
+[9]: images/declarations_zus/08_czlonkowie_rodziny.png
+[10]: images/declarations_zus/10_wyslij.png
 [11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
 [12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA

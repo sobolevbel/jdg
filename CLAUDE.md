@@ -45,10 +45,16 @@ python -m mkdocs serve     # local preview at :8000
 - Code blocks are **indented**, not fenced (MD046 is set to `indented`).
 - Links are reference-style `[1]` collected at the bottom of the file, numbered
   sequentially. Link text must be descriptive — never «тут»/«здесь»/"here".
-- Screenshots: `docs/images/<topic>/`; alt text in Russian, describing the screen
-  and the actionable element (≤ ~120 chars, no «Скриншот»/"image of"); frames via
-  screely.com (Plain Window, Regular, white background, 4 px padding); blur
-  personal data before committing.
+- Screenshots: `docs/images/<page-slug>/` — one directory per owning page,
+  named exactly like its `.md` file (images reused by other pages stay in the
+  owner's directory). Filenames: lowercase ASCII snake_case, extension as-is;
+  step sequences are `NN_short_slug.ext` (zero-padded, slug from the alt text);
+  when a page has several sequences, prefix each: `rwn_02_katalog.png`,
+  `epity_05_dane.jpg`. Never repeat the directory name in the filename. Alt
+  text in Russian, describing the screen and the actionable element (≤ ~120
+  chars, no «Скриншот»/"image of"); frames via screely.com (Plain Window,
+  Regular, white background, 4 px padding); blur personal data before
+  committing.
 - Admonitions `!!! info/tip/note/warning/example` are used heavily.
 - The support button («Поддержите наш гайд чашкой кофе ♥») is injected
   automatically below the content of every page (except `support.md`) by the

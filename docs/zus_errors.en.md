@@ -122,7 +122,7 @@ If you encounter an error that is not yet documented, or the suggested solutions
 [1]: images/zus_errors/zus_error_68015101.jpg
 [2]: images/zus_errors/zus_error_69012001.jpg
 [3]: images/zus_errors/zus_error_69004101.jpg
-[4]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
+[4]: images/zus_errors/zus_error_brak_zgloszenia_z_podanym_kodem.jpg
 [5]: zus_obnizone_skladki.md#wfirma
 [6]: images/zus_errors/zus_logout.jpg
 [7]: zus_contact.md

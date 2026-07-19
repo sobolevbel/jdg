@@ -178,27 +178,27 @@ tags:
 
 Так же есть [телеграм бот][24], который позволяет подписаться и отслеживать вашу регистрацию.
 
-[1]: images/RegVATUE/Pastedimage20211026161902.png
-[2]: images/RegVATUE/Pastedimage20211026162200.png
-[3]: images/RegVATUE/Pastedimage20211026161622.png
-[4]: images/RegVATUE/Pastedimage20211026161740.png
-[5]: images/RegVATUE/Pastedimage20211026162519.png
-[6]: images/RegVATUE/Pastedimage20211026162605.png
-[7]: images/RegVATUE/Pastedimage20211026162714.png
-[8]: images/RegVATUE/Pastedimage20211026162803.png
-[9]: images/RegVATUE/Pastedimage20211026162848.png
-[10]: images/RegVATUE/Pastedimage20211026162952.png
+[1]: images/registration_vat_ue/wazne_informacje.png
+[2]: images/registration_vat_ue/zmiana_wpisu.png
+[3]: images/registration_vat_ue/dane_do_zmiany.png
+[4]: images/registration_vat_ue/dane_cudzoziemca.png
+[5]: images/registration_vat_ue/adres_zamieszkania.png
+[6]: images/registration_vat_ue/ubezpieczenia_spoleczne.png
+[7]: images/registration_vat_ue/zmiana_danych_zus.png
+[8]: images/registration_vat_ue/urzad_skarbowy.png
+[9]: images/registration_vat_ue/rejestracja_aktualizacja.png
+[10]: images/registration_vat_ue/zwolnienie_vat.png
 [11]: registration_vat.md#5-otkazyvaemsia-ot-osvobozhdeniia
-[12]: images/RegVATUE/Pastedimage20211026163221.png
-[13]: images/RegVATUE/Pastedimage20211026163419.png
-[14]: images/RegVATUE/Pastedimage20211026163659.png
-[15]: images/RegVATUE/Pastedimage20211026163953.png
-[16]: images/RegVATUE/Pastedimage20211026164139.png
-[17]: images/RegVATUE/Pastedimage20211026164229.png
-[18]: images/RegVATUE/Pastedimage20211026164438.png
-[19]: images/RegVATUE/Pastedimage20211026164516.png
-[20]: images/RegVATUE/Pastedimage20211026164628.png
-[21]: images/RegVATUE/Pastedimage20211026165456.png
+[12]: images/registration_vat_ue/dane_identyfikacyjne.png
+[13]: images/registration_vat_ue/pytanie_vat_ue.png
+[14]: images/registration_vat_ue/towary_uslugi.png
+[15]: images/registration_vat_ue/dane_wnioskodawcy.png
+[16]: images/registration_vat_ue/potwierdzenie.png
+[17]: images/registration_vat_ue/oswiadczenie.png
+[18]: images/registration_vat_ue/urzad_odbierajacy.png
+[19]: images/registration_vat_ue/wniosek_gotowy.png
+[20]: images/registration_vat_ue/wybor_podpisu.png
+[21]: images/registration_vat_ue/wyslij.png
 [22]: registration_vat.md#16-uskorenie-registratsii-vat
 [23]: https://ec.europa.eu/taxation_customs/vies/vatRequest.html
 [24]: https://t.me/vies_vat_checker_bot
