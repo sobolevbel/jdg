@@ -45,8 +45,7 @@ At the urząd take a ticket for PESEL. You’ll need to fill in an application �
 You can get PESEL on these grounds:
 
 - Meldunek (residence registration)
-- Employment contract
-- For tax purposes (without meldunek and without an employment contract)
+- For tax purposes (without meldunek)
 
 ## PESEL via meldunek
 
@@ -55,15 +54,14 @@ For the application you use form [EL/ZC/1][2]. You need the meldowanie service �
 meldunek and give you a paper with your PESEL number. You can also get a meldunek certificate, but it costs 17 złoty and
 you can do that anytime, not necessarily right away.
 
-## PESEL via employment contract
-
-Go to the urząd with your employment contract, passport, application, and get PESEL.
-
-## PESEL for tax purposes (no meldunek, no employment contract)
+## PESEL for tax purposes
 
 Since 1 June 2021 foreigners can officially obtain a PESEL **for tax
 purposes** — a standard procedure recommended by the tax administration
 itself ([KAS][3]); no workarounds are needed anymore.
+
+Employed foreigners need this same PESEL. The application can be filed in person
+or via an authorized representative (przez pełnomocnika).
 
 Go to the urząd with your passport and a filled application (or fill it on
 the spot). In the application write this legal basis:
