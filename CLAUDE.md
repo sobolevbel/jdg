@@ -85,10 +85,11 @@ python -m mkdocs serve     # local preview at :8000
 ## Git and PRs
 
 - Work in a feature branch, open a PR to `master`. **Merge only when the owner
-  explicitly asks.** The repo uses merge commits (no fast-forward).
+  explicitly asks.** Merge PRs with rebase (`gh pr merge --rebase`), not merge
+  commits.
 - The gh CLI token lacks the `workflow` scope: PRs touching `.github/workflows/`
-  cannot be merged via `gh pr merge` — merge locally
-  (`git merge --no-ff <branch>` on master, then push).
+  cannot be merged via `gh pr merge` — merge locally (rebase the branch onto
+  master, fast-forward master to it, then push).
 - Pushing to a PR author's fork requires
   `git push https://x-access-token:$(gh auth token)@github.com/<fork>.git` —
   the SSH key has no access to forks.
