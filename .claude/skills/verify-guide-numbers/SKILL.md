@@ -103,6 +103,16 @@ the grep targets, not eternal truths.
 | Minimum maternity benefit floor | 1 000 zł net | świadczenie rodzicielskie level |
 | Arrears threshold blocking benefits | 1% of min wage (~48 zł) | recompute from min wage |
 
+### Legalization — file: `legalization.md` (+ `.en.md`)
+
+| Figure | 2026 | Notes |
+|---|---|---|
+| Income criterion per family member | 823 zł net/month | kryterium dochodowe (pomoc społeczna); check migrant.wsc.mazowieckie.pl "Stabilne i regularne źródło dochodu" |
+| Income criterion for a person living alone | 1 010 zł net/month | same source; both unchanged for 2026 |
+| 12 avg monthly salaries by voivodship | 85 606,80 / 91 759,44 / 113 867,28 zł (warm.-maz. / łódzkie / maz., 2024 data) | new GUS obwieszczenie every November — update figures AND the `[4]`/`[20]` link |
+| Opłata skarbowa for the decision | 340 zł | rarely changes |
+| Private insurance policy minimum | 30 000 EUR | rarely changes |
+
 ### Rarely changing (check yearly, expect no change)
 
 - De minimis aid limit 300 000 EUR / 3 years — `zus_vacation.md`

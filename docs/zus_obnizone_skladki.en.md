@@ -280,7 +280,7 @@ See [error collection][22].
 [12]: images/zus_obnizone/zus_obnizone_12.png
 [13]: images/zus_obnizone/zus_obnizone_13.png
 [14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
-[15]: declarations.md#zus-dra
+[15]: declarations_zus.md#zus-dra
 [16]: images/zus_obnizone/wFirma_kalendarz.jpg
 [17]: images/zus_obnizone/wFirma_schemat_2letni_preferencyjny_ZUS.jpg
 [18]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg

@@ -189,7 +189,7 @@ See [error collection][22].
 [11]: images/zus_duzy/duzy_zus_9.png
 [12]: https://justandrei.github.io/coffee
 [13]: zus_next_level.md#profession-codes-table
-[15]: declarations.md#zus-dra
+[15]: declarations_zus.md#zus-dra
 [19]: https://www.biznes.gov.pl/pl/portal/00274
 [20]: zus_next_level.md#deadlines-when-switching-between-regimes
 [21]: zus_next_level.md#upp-proof-of-submission

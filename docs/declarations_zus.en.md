@@ -29,7 +29,7 @@ Since 2022, with the introduction of Polski Ład, entrepreneurs are required to 
 
 4. Admire your personal data and hit Dalej.
 5. Nowy komplet rozliczeniowy -> Dalej.
-6. On the next step, select the year 2022 and the month you need, check the box confirming you're paying ZUS for yourself, and in the dropdown pick declaration type 6 — due by the 20th. If you're on **Ulga na start**, leave the field "Stopa procentowa składek na ubezpieczenie wypadkowe" empty. Otherwise, enter **1.67**. Hit Dalej. If you're using **Ulga na start**, just agree to the message about not specifying the accident insurance rate. You don't need it.
+6. On the next step, select the year and the month you need, check the box confirming you're paying ZUS for yourself, and in the dropdown pick declaration type 6 — due by the 20th. If you're on **Ulga na start**, leave the field "Stopa procentowa składek na ubezpieczenie wypadkowe" empty. Otherwise, enter **1.67**. Hit Dalej. If you're using **Ulga na start**, just agree to the message about not specifying the accident insurance rate. You don't need it.
 
     ![ZUS DRA creator: selecting year, month and declaration type 6][6]
 

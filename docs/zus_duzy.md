@@ -194,7 +194,7 @@ tags:
 [13]: images/zus_duzy/duzy_zus_8.png
 [14]: images/zus_duzy/duzy_zus_9.png
 [15]: images/zus_duzy/duzy_zus_10.png
-[16]: declarations.md#zus-dra
+[16]: declarations_zus.md#zus-dra
 [17]: zus_next_level.md#upp-podtverzhdenie-otpravki
 [18]: zus_errors.md
 [19]: https://justandrei.github.io/coffee

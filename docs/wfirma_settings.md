@@ -10,7 +10,7 @@ tags:
 
 ## Онлайн бухгалтерия wFirma первый год бесплатно 🪄
 
-Подписка для бухгалтерии ИП 2026: `MALAKSIEGOWOSC-2026` (1 год) или `PROX-KSIEGOWOSC` (3 мес.) или `K9D6ECEE29` (неизвестно) (подходит для ryczałt, skala podatkowa, liniowy).
+Подписка для бухгалтерии ИП 2026: `MALAKSIEGOWOSC-2026` (1 год) или `PROX-KSIEGOWOSC` (3 мес.) (подходит для ryczałt, skala podatkowa, liniowy).
 
 Регистрироваться только по этой ссылке ▶️ [https://wfirma.pl/rejestracja-przez-kody](https://wfirma.pl/rejestracja-przez-kody) ◀️
 
