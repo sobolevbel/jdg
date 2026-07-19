@@ -90,18 +90,13 @@ Choose a service based on your preferences and where you kept your books last ye
 | [pitroczny.pl][86] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions for pitroczny.pl][89] in Telegram |
 | [wFirma][87] | Can generate and submit PIT on its own, no intermediaries needed. | Only free during the first year for new clients | [Official PIT-28 instructions][90] |
 
-## e-pity Website
+## e-pity for Android
 
 Here I'll explain how to submit a PIT-28 declaration using a JDG with the ryczałt taxation system as an example.
 For other taxation systems the process may differ slightly, but overall it will be similar.
 
-To create and submit the declaration we'll use the free app [**e-pity**][15].
-
-coming soon...
-
-## e-pity for Android
-
-In this guide we'll be using the Android app.
+To create and submit the declaration we'll use the free app [**e-pity**][15],
+specifically its Android version.
 
 [:google-play: Google Play][13]
 

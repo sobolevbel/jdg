@@ -36,12 +36,12 @@ tags:
 ### Несколько рекомендуемых условий для легализации
 
 1. Активное ведение ИП не менее 3 месяцев
-2. Нужно заработать 12 средних месячных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воеводстве, в котором подаете заявление на ВНЖ, согласно [Art.  142. закона об иностранцах][1]
+2. Нужно заработать 12 средних месячных зарплат в `gospodarce narodowej` брутто, опубликованной GUS, в воеводстве, в котором подаете заявление на ВНЖ, согласно [Art. 142. закона об иностранцах][1]
 
 !!! note
     Официально опубликованную информацию о средней месячной зарплате по воеводствам можно найти на официальном сайте GUS в разделе опубликованных документов [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][2]. Пример названия документа: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2024 roku`.
 
-    Либо воспользоваться [страницой поиска GUS][3] и ввести ключивым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
+    Либо воспользоваться [страницей поиска GUS][3] и ввести ключевым словом `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach` и выбрать самый актуальный документ.
 
     На момент (19.11.2025) [актуальный документ][4] содержит среднюю зарплату по воеводствам за 2024 год, из которого следует, что эквивалент 12 зарплат для воеводства Варминско-Мазурского составляет **85 606,80** злотых, для Лодзинского **91 759,44** злотых, а для Мазовецкого **113 867,28** злотых.
     Страница с документом содержит ссылки на подобные документы предыдущих годов, что наводит на мысль, что по этой же ссылке можно будет легко попасть в свежий документ следующего года.
@@ -114,7 +114,7 @@ tags:
 
 * Выписка регистрации CEIDG.
 
-    Получить на [biznes.gov.pl][13]: Pobierz zaświadczenie
+    Получить на [biznes.gov.pl][20]: Pobierz zaświadczenie
     o wpisie -> Pobierz zaświadczenie z danymi niejawnymi.pdf.
 
 * Анкета предпринимателя.
@@ -248,7 +248,10 @@ tags:
 
 #### 3.3. Наличие достаточных средств для проживания
 
-  На 2022 год необходимая сумма составляет 600 zł netto на члена семьи в месяц.
+  На 2026 год доход после вычета расходов на жильё (для граждан Беларуси —
+  без вычета, см. пункт 3.2) должен превышать **823 zł** netto в месяц на
+  каждого члена семьи, а для одиноко проживающего — **1010 zł** netto
+  (критерии дохода [публикует ужонд][21]).
 
 Документы подтверждающие стабильный и регулярный доход вашего JDG:
 
@@ -325,58 +328,15 @@ tags:
 
 ### 3. Подтверждение 3 ключевых пунктов пребывания
 
-#### 3.1. Медицинское Страхование
+Требования и документы полностью совпадают с [пунктами 3.1–3.3 чек-листа
+предпринимателя](#3-podtverzhdenie-3-kliuchevykh-punktov-prebyvaniia):
+медицинское страхование (членов семьи можно прикрепить к вашей страховке
+ZUS декларацией ZCNA), место проживания и достаточные средства.
+Дополнительно:
 
-Согласно [закону об иностранцах (art. 142, ust. 1, pkt. 1, lit. a)](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142), одним из условий получения разрешения на пребывание (zezwolenie na pobyt) является наличие у иностранца медицинской страховки.
-
-Для подтверждения мед.страхования можно получить справку с электронной подписью на портале ZUS.pl.
-
-[Инструкция как получить справку о медицинском страховании](zus.md#spravka-o-meditsinskom-strakhovanii).
-
-**ИЛИ**
-
-* Частный полис на сумму не менее 30 000 EUR
-
-!!! warning "Если страховка заграничная – тоже нужен присяжный перевод"
-
-#### 3.2. Место проживания
-
-Документ, подтверждающий наличие места проживания:
-
-* Договор аренды жилья. На день подачи документов — **не менее полугода** до конца его действия.
-
-**ИЛИ**
-
-* Документы подтверждающие право собственности на жилье.
-
-**ИЛИ**
-
-* Другие документы подтверждающие право пользования жильём.
-
-!!! warning "Для граждан Беларуси стоимость жилья не вычитается из требуемого месячного дохода"
-    Основание: Dz.U. 2020 poz. 1688 Rozporządzenie Rady Ministrów z dnia 24
-    września 2020 r. w sprawie określenia państw, których obywatelom
-    ubiegającym się o udzielenie zezwolenia na pobyt czasowy przy ustalaniu
-    wysokości miesięcznych środków finansowych nie odlicza się środków
-    przeznaczonych na pokrycie kosztów zamieszkania.
-
-#### 3.3. Наличие достаточных средств для проживания
-
-  На 2022 год необходимая сумма составляет 600 zł netto на члена семьи в месяц.
-
-Документы, подтверждающие стабильный и регулярный доход вашего JDG:
-
-* CEIDG – распечатка подтверждения регистрации вашего JDG.
-* Книга приходов и расходов + налоговые декларации + фактуры за оказанные услуги.
-* Справка об отсутствии задолженности в оплате налогов.
-* PIT-37, PIT-36, PIT-36L, PIT-38, PIT-28 – за прошлый календарный год, если был.
-* Дополнительно можно приложить выписку с банковского счета о наличии средств на счету.
-  Но это само по себе не достаточное подтверждение.
-
-#### 3.4. Заявление о количестве людей, находящихся на содержании ([скачать бланк][16])
-
-Заявление заполняет основной заявитель.
-Совершеннолетние члены семьи также заполняют такой документ.
+* Заявление о количестве людей, находящихся на содержании ([скачать бланк][16]) —
+  заполняет основной заявитель; совершеннолетние члены семьи также заполняют
+  такой документ.
 
 ### 4. Дополнительные документы
 
@@ -401,11 +361,12 @@ tags:
 
 ### 6. Переводы документов на польский язык
 
+Требования такие же, как и для предпринимателя: перевод у присяжного
+переводчика (tłumacz przysięgły), см. [«Общие советы по подготовке
+документов»](#obshchie-sovety-po-podgotovke-dokumentov).
+
 ## Заметки
 
-- Желательно распечатывать документы в двухстороннем виде и скреплять одинаковый тип документов степлером.
-- Необходимы копии и оригиналы следующих документов: свидетельство о браке, договор аренды. Копии отдадите, а оригиналы
-  нужны для того, чтобы заверить копии. Приносите копии и оригиналы, отдайте только копии.
 - Есть отдельный удобный сайт с чек-листом для подачи [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/) — он же встроен в [гайд по подаче через MOS](legalization_mos2.md#interaktivnyi-chek-list-dokumentov).
 
 <!-- resources -->
@@ -413,7 +374,7 @@ tags:
 [1]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142
 [2]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [3]: https://stat.gov.pl/wyszukiwarka/szukaj.html
-[4]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
+[4]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2024-r-,295,11.html
 [5]: https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html
 [6]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
 [7]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
@@ -428,5 +389,5 @@ tags:
 [16]: https://docs.google.com/document/d/1-yNu2p0i1hCxAW5SKwCB4i8PrHjxqb2R/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [17]: https://docs.google.com/document/d/1AiJlfl2Xfev5pHmfPv5WE7LliyqX_MGP/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [18]: https://docs.google.com/document/d/1bKkQ7xaDsLxtV7rxUktJKHls3-erNs9d/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
-[19]: https://t.me/root_eu
 [20]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
+[21]: https://migrant.wsc.mazowieckie.pl/pl/slownik-pojec/stabilne-i-regularne-zrodlo-dochodu

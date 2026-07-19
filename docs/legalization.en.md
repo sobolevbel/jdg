@@ -39,7 +39,7 @@ for submitting the wniosek — they may only come in handy for booking odbiór k
 ### Several recommended conditions for legalization
 
 1. Active operation of the sole proprietorship for at least 3 months
-2. You need to earn 12 average monthly gross salaries in `gospodarce narodowej`, published by GUS, in the voivodeship where you are submitting your residence permit application, according to [Art.  142. of the Act on Foreigners][12]
+2. You need to earn 12 average monthly gross salaries in `gospodarce narodowej`, published by GUS, in the voivodeship where you are submitting your residence permit application, according to [Art. 142. of the Act on Foreigners][12]
 
 !!! note
     Officially published information about the average monthly salary by voivodeship can be found on the official GUS website in the published documents section [Opracowania sygnalne -> Komunikaty i Obwieszczenia -> Lista komunikatów i obwieszczeń][18]. Example document title: `Obwieszczenie w sprawie wysokości przeciętnego miesięcznego wynagrodzenia brutto w gospodarce narodowej w województwach w 2024 roku`.
@@ -251,7 +251,10 @@ A document confirming that you have a place of residence:
 
 #### 3.3. Sufficient funds for living
 
-  As of 2022, the required amount is 600 zł netto per family member per month.
+  As of 2026, the income after deducting housing costs (for citizens of
+  Belarus — without the deduction, see section 3.2) must exceed **823 zł**
+  netto per month per family member, or **1010 zł** netto for a person
+  living alone (the income criteria are [published by the office][21]).
 
 Documents confirming stable and regular income from your JDG:
 
@@ -328,58 +331,15 @@ missing, your application will be left without consideration.
 
 ### 3. Confirmation of 3 key residency requirements
 
-#### 3.1. Health Insurance
+The requirements and documents are exactly the same as in [sections 3.1–3.3
+of the entrepreneur's checklist](#3-confirmation-of-3-key-residency-requirements):
+health insurance (family members can be attached to your ZUS insurance with
+a ZCNA declaration), place of residence, and sufficient funds.
+Additionally:
 
-According to the [Act on Foreigners (art. 142, ust. 1, pkt. 1, lit. a)](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-142), one of the conditions for obtaining a residence permit (zezwolenie na pobyt) is that the foreigner has health insurance.
-
-To confirm health insurance, you can get a certificate with an electronic signature on the ZUS.pl portal.
-
-[Instructions on how to get the health insurance certificate](zus.md#health-insurance-certificate).
-
-**OR**
-
-* Private insurance policy for an amount of at least 30,000 EUR
-
-!!! warning "If the insurance is foreign — a sworn translation is also needed"
-
-#### 3.2. Place of residence
-
-A document confirming that you have a place of residence:
-
-* Rental agreement. On the day of document submission — **at least six months** remaining until the end of the agreement.
-
-**OR**
-
-* Documents confirming property ownership.
-
-**OR**
-
-* Other documents confirming the right to use the housing.
-
-!!! warning "For citizens of Belarus, the cost of housing is not deducted from the required monthly income"
-    Legal basis: Dz.U. 2020 poz. 1688 Rozporządzenie Rady Ministrów z dnia 24
-    września 2020 r. w sprawie określenia państw, których obywatelom
-    ubiegającym się o udzielenie zezwolenia na pobyt czasowy przy ustalaniu
-    wysokości miesięcznych środków finansowych nie odlicza się środków
-    przeznaczonych na pokrycie kosztów zamieszkania.
-
-#### 3.3. Sufficient funds for living
-
-  As of 2022, the required amount is 600 zł netto per family member per month.
-
-Documents confirming stable and regular income from your JDG:
-
-* CEIDG — printout of your JDG registration confirmation.
-* Income and expense book + tax declarations + invoices for services rendered.
-* Certificate of no outstanding tax debt.
-* PIT-37, PIT-36, PIT-36L, PIT-38, PIT-28 — for the previous calendar year, if applicable.
-* Additionally, you can attach a bank account statement showing the available balance.
-  However, this alone is not sufficient proof.
-
-#### 3.4. Declaration of the number of dependents ([download the form][6])
-
-The declaration is filled out by the main applicant.
-Adult family members also fill out such a document.
+* Declaration of the number of dependents ([download the form][6]) — filled
+  out by the main applicant; adult family members also fill out such a
+  document.
 
 ### 4. Additional documents
 
@@ -404,16 +364,16 @@ with the appropriate document.
 
 ### 6. Document translations into Polish
 
+The requirements are the same as for the entrepreneur: translation by a sworn
+translator (tłumacz przysięgły), see [General tips for preparing
+documents](#general-tips-for-preparing-documents).
+
 ## Notes
 
-- It is recommended to print documents double-sided and staple documents of the same type together.
-- You need copies and originals of the following documents: marriage certificate, rental agreement. You will hand over the copies, and the originals
-  are needed to certify the copies. Bring both copies and originals, hand over only the copies.
 - There is a separate convenient website with a checklist for submission [https://justandrei.github.io/jdg-tools/checklist/](https://justandrei.github.io/jdg-tools/checklist/) — it is also embedded in the [guide on applying via MOS](legalization_mos2.md#interactive-document-checklist).
 
 <!-- resources -->
 
-[1]: https://t.me/root_eu
 [2]: https://docs.google.com/document/d/1JIjog1ZHP9-ZqX3Z9MQQQhZrBHFAGjtL/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [3]: https://drive.google.com/file/d/1zM60Fm1tLJ16vq_GMtZ8kEZxK0KGcEov/view?usp=sharing
 [4]: https://drive.google.com/file/d/1pKr2W6odMwFu3NboFn9u_OCu7CUB2OOW/view?usp=sharing
@@ -430,6 +390,7 @@ with the appropriate document.
 [17]: https://migrant.wsc.mazowieckie.pl/wskazowki/oplaty
 [18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
-[20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2023-roku,295,10.html
+[20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2024-r-,295,11.html
+[21]: https://migrant.wsc.mazowieckie.pl/pl/slownik-pojec/stabilne-i-regularne-zrodlo-dochodu
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
 [23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow

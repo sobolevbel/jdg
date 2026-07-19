@@ -181,7 +181,7 @@ Done, the exchange rate difference has been added and will be taken into account
 3. Leave everything as is:
     * Stawka ryczałtu — for ryczałt, the system will use the tax rate specified on the invoices.
     * Składki społeczne do odliczenia od przychodu — The system will deduct 100% of the social insurance contributions actually paid to ZUS in the previous month. While you're on Ulga na Start, you're exempt from social insurance contributions, so "Razem 0,00" as in Example 1's screenshot is normal.
-    * Składki zdrowotne do odliczenia od przychodu — The system will deduct 50% of the health insurance contributions actually paid to ZUS in the previous month. The first time you'll see "Razem 0,00" — this is normal. If this month you pay 461.66 zł for health insurance, then next month expect to see 230.83 zł in this field.
+    * Składki zdrowotne do odliczenia od przychodu — The system will deduct 50% of the health insurance contributions actually paid to ZUS in the previous month. The first time you'll see "Razem 0,00" — this is normal. If this month you pay 498.35 zł for health insurance (the minimum składka zdrowotna for 2026), then next month expect to see 249.18 zł in this field.
 
     ???+ example "Example 1: Report for the first month of business activity"
         Everything is zero and that's expected.
@@ -309,12 +309,9 @@ Done, the exchange rate difference has been added and will be taken into account
 
     When ready, click Zapisz to save.
 
-5. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month. The screenshot shows **ZUS = 461.66 zł**. That's exactly how much the first ZUS payment comes to for entrepreneurs on ryczałt who use the Ulga na Start benefit in 2025.
+5. If the amount matches your expectations, click Zapłać to pay. Payment deadline: by the 20th of the month following the reporting month. The screenshot (from 2025) shows **ZUS = 461.66 zł** — the first payment for entrepreneurs on ryczałt who use the Ulga na Start benefit. In 2026 this payment is **498.35 zł**: składka zdrowotna is tied to the average salary in Poland and grows every year.
 
     ![wFirma: calculated ZUS payment of 461.66 zł, Zapłać button][19]
-
-    !!! note "ZUS increase"
-        In 2026, the first ZUS payment on ryczałt went up to **498.35 zł**. Składka zdrowotna is tied to the average salary in Poland.
 
 6. If the amount doesn't match your expectations, you need to investigate...
 
@@ -346,7 +343,7 @@ Those who had no EU clients last month can safely skip this section.
 
     ![wFirma: Wysyłanie deklaracji window, Bez podpisu tab, Wyślij do urzędu button][23]
 
-Note on the screenshot: to sign VAT UE in 2025, we need to find the PIT that was filed in 2024, i.e. the income declared in it was for 2023.
+Note: the tax office verifies the income from your PIT for the year before last. For example, to sign VAT UE in 2026, we need to find the PIT that was filed in 2025, i.e. the income declared in it was for 2024.
 
 After submission, check the status. Go to Start - Podatki - Podatek VAT. If it's green, everything is fine — the tax office received your declaration.
 
@@ -377,7 +374,8 @@ You can also verify this on the ZUS portal under ePlatnik - Dokumenty - Dokument
 
 ### VAT
 
-...
+VAT payers submit the JPK_V7M declaration monthly — the process is described in
+the [VAT declarations guide](declarations_vat.md#how-to-submit-the-declaration).
 
 ## Exchange Rate Differences from Own Funds (od środków własnych)
 

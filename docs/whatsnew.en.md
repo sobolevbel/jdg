@@ -9,6 +9,7 @@ tags:
 
 ## July 2026
 
+- Content revision: updated the minimum income for the karta pobytu ([823 zł per family member / 1010 zł for a person living alone](legalization.md#3-confirmation-of-3-key-residency-requirements) as of 2026 — the guide previously cited the 2022 figure of 600 zł), removed stale 2022–2025 amounts and years across the ZUS, tax, and accounting pages, and the [family legalization checklist](legalization.md) no longer duplicates the entrepreneur's checklist.
 - Revamped the [support page](support.md): donate via Buy Me a Coffee right on the page, a QR code for Revolut, and a section on how to help the guide without money.
 - The [support button](support.md) now shows automatically at the bottom of every page (previously it was added manually to only some pages).
 - Revamped the [home page](index.md): "I want to open a JDG" and "I already run a JDG" paths, a 2026 contribution cost summary, a block of important changes (KSeF, VAT limit, ZUS vacation), and a disclaimer.

@@ -56,7 +56,7 @@ You can generate an account for paying income tax PIT and value-added tax VAT:
 
 ## Podatek dochodowy Certificate of No Tax Arrears
 
-You can order a certificate confirming no tax debts on the [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications) website. The certificate is free of charge. This option [became available in August 2022](https://www.podatki.gov.pl/wyjasnienia/zaswiadczenia-o-niezaleganiu-w-podatkach-bez-wizyty-w-urzedzie-skarbowym/). The certificate is issued very quickly, in a fully automated manner.
+You can order a certificate confirming no tax debts on the [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications) website. The certificate is free of charge and is issued very quickly, in a fully automated manner.
 
 Go to [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Log in to your online tax office account, for example via `Profil zaufany`, and then follow these steps:
 

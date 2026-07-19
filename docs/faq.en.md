@@ -51,14 +51,10 @@ The spouse will have the right to work but will not have free access to the labo
 
 #### Which PKWiU codes qualify for the 8.5% ryczałt tax rate
 
-- 62.01.12.0 – Usługi związane z projektowaniem i rozwojem technologii informatycznych dla sieci i systemów komputerowych
+- 62.01.12.0 – Usługi związane z projektowaniem i rozwojem technologii informatycznych dla sieci i systemów komputerowych (incl. analysis of the client's systems, designing and deploying cloud infrastructure, configuring monitoring tools, deployment automation)
 - 62.02.30.0 – Usługi pomocy technicznej w zakresie technologii informatycznych i sprzętu komputerowego
 - 63.11.12.0 – Usługi zarządzania stronami internetowymi z zapewnieniem infrastruktury (hosting)
 - 63.11.19.0 – Pozostałe usługi związane z zapewnieniem infrastruktury dla technologii informatycznych i komputerowych
-- 62.01.12.0 – Analiza systemów komputerowych klienta
-- 62.01.12.0 – Projektowanie i wdrażanie infrastruktury w chmurze, tworzenie dokumentacji technicznej systemów komputerowych
-- 62.01.12.0 – Konfigurację narzędzi monitorujących dane systemy informatyczne
-- 62.01.12.0 – Automatyzacja procesów wdrożeń systemów informatycznych
 
 #### A life-hack for finding PKWiU codes
 

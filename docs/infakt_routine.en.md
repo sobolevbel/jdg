@@ -115,7 +115,7 @@ When done, mark the tax as paid in infakt.
 You can find your ZUS micro-account number at [eskladka.pl][34].
 ZUS setup in inFakt is described in the [ZUS data settings section][35].
 
-By the 20th of each month (as of July 2022) you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. The infakt fee for ZUS payments is slightly lower (1–2 PLN).
+By the 20th of each month you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. The infakt fee for ZUS payments is slightly lower (1–2 PLN).
 
 To pay directly through your banking app, execute a Przelew Krajowy, select the account to pay from (as mentioned above, it makes sense to pay from the business account):
 
@@ -254,7 +254,7 @@ When submitting the declaration, you may receive a rejection:
 
 > Weryfikacja negatywna – błąd w danych autoryzujących (np. błąd w nazwisku, pierwszym imieniu, dacie urodzenia, NIP, numerze PESEL, kwocie przychodu)
 
-To authorize the submission, the tax office checks **the income amount from your PIT declaration for the year before last** (for example, when submitting in 2025 — the income from your PIT for 2023). The amount itself has nothing to do with the contents of the VAT-UE declaration; it is used solely for identity verification.
+To authorize the submission, the tax office checks **the income amount from your PIT declaration for the year before last** (for example, when submitting in 2026 — the income from your PIT for 2024). The amount itself has nothing to do with the contents of the VAT-UE declaration; it is used solely for identity verification.
 
 How to fix it:
 

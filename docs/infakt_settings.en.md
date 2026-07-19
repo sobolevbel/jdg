@@ -21,7 +21,7 @@ Fill in the missing fields, also fill in the correspondence address (Adres kores
 
 ## Activating the accounting module (free)
 
-To activate the accounting module, open the [Księgowość][14] tab on the main screen. Check your details and confirm your phone number. Then pick an advisor/consultant from the list for your region (no idea why this is needed).
+To activate the accounting module, open the [Księgowość][14] tab on the main screen. Check your details and confirm your phone number. Then pick an advisor/consultant from the list for your region.
 
 After activation, infakt will ask for missing data needed for accounting. Check the registration data at the top of the page, fill in address fields and your PESEL number, then at the bottom select your tax and VAT accounting system (enter your details).
 

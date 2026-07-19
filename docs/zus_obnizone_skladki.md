@@ -281,7 +281,7 @@ Ustawienia => Podatki => ZUS
 [17]: images/zus_obnizone/zus_obnizone_11.png
 [18]: images/zus_obnizone/zus_obnizone_10.png
 [19]: images/zus_obnizone/zus_obnizone_084.png
-[20]: declarations.md#zus-dra
+[20]: declarations_zus.md#zus-dra
 [21]: images/zus_obnizone/wFirma_kalendarz.jpg
 [22]: images/zus_obnizone/wFirma_schemat_2letni_preferencyjny_ZUS.jpg
 [23]: images/zus_obnizone/wFirma_schemat_tylko_zdrowotne.jpg
