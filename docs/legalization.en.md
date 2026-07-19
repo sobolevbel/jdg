@@ -9,7 +9,7 @@ tags:
 
 # Legalization process for an entrepreneur and their family via sole proprietorship
 
-Credit for this document goes to immigration consultant Irina from [ROOT Group][1].
+Credit for this document goes to immigration consultant Irina from ROOT Group.
 
 This document describes the process of applying for a karta pobytu (residence permit) based on działalność gospodarcza (business activity).
 
@@ -374,7 +374,6 @@ documents](#general-tips-for-preparing-documents).
 
 <!-- resources -->
 
-[1]: https://t.me/root_eu
 [2]: https://docs.google.com/document/d/1JIjog1ZHP9-ZqX3Z9MQQQhZrBHFAGjtL/edit?usp=sharing&ouid=112481650166635701650&rtpof=true&sd=true
 [3]: https://drive.google.com/file/d/1zM60Fm1tLJ16vq_GMtZ8kEZxK0KGcEov/view?usp=sharing
 [4]: https://drive.google.com/file/d/1pKr2W6odMwFu3NboFn9u_OCu7CUB2OOW/view?usp=sharing
