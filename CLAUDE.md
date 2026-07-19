@@ -37,6 +37,11 @@ python -m mkdocs serve     # local preview at :8000
 
 - Frontmatter: `title` (SEO title), `description`, `tags`. Single H1. No trailing
   punctuation in headings (MD026).
+- Be conservative with headings: anchors are generated from them, and both other
+  guide pages and external sources (Telegram chats, search results) link to those
+  anchors. Prefer keeping an existing heading as is; if renaming is truly needed,
+  grep `docs/` for the old anchor and update inbound links — external links will
+  still break, so rename rarely.
 - Code blocks are **indented**, not fenced (MD046 is set to `indented`).
 - Links are reference-style `[1]` collected at the bottom of the file, numbered
   sequentially. Link text must be descriptive — never «тут»/«здесь»/"here".
