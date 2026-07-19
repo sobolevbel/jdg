@@ -120,5 +120,33 @@ the grep targets, not eternal truths.
   `≈ 3 975 zł`; the art. 48a example `5 652 + (10 000 − 5 652) × 5/12 ≈ 7 464 zł`.
 - `emerytura.md` — the 25-year example `1 103,27 × 12 × 25 ≈ 331 000 zł` and
   `331 000 / 222,7 ≈ 1 490 zł`; per-year capital `~3 377 / ~13 239 zł`.
-- `faq.md` — the rough ZUS ranges («от 350 злотых и до 1000…, после 2.5 лет чуть
-  больше 2000») are approximations; update only if they drift far from reality.
+- `faq.md` — the rough ZUS ranges in the JDG cons list (~500 / ~900–1300 / from
+  ~2300 as of 2026) are approximations; update only if they drift far from reality.
+
+## Registry of legal bases (check act status via the Sejm ELI API)
+
+Pages also cite statutes and regulations that can be repealed or renumbered.
+Check each act's status with:
+
+    curl -s https://api.sejm.gov.pl/eli/acts/DU/<year>/<position>
+
+and look at `status` / `inForce` (expect `IN_FORCE`). ISAP web pages block
+non-browser fetches with a CAPTCHA — use the API, not WebFetch. If an act is
+repealed, find the successor act, update the quote and the ISAP link on the
+page, and note it in whatsnew. When an act is merely amended, still verify the
+cited article number exists in the current consolidated text (via lexlege.pl).
+
+| Act (ELI id) | Cited as | Pages |
+|---|---|---|
+| Ustawa o zasadach ewidencji i identyfikacji podatników (DU/1995/702) | art. 3 ust. 1 pkt 1 — primary PESEL tax basis | `pesel.md` |
+| Ustawa o ewidencji ludności (DU/2010/1427) | art. 7 ust. 2 — PESEL tax basis | `pesel.md` |
+| Rozporządzenie MC z 29.06.2020 o profilu zaufanym (DU/2020/1194) | załącznik nr 1 pkt 1 — PESEL fallback basis | `pesel.md` |
+| Ustawa o opiece nad dziećmi do lat 3 (DU/2011/235) | art. 3a — PESEL for children under 3 | `pesel.md` |
+| Ustawa o systemie oświaty (DU/1991/425) | art. 92k ust. 2 pkt 2 lit. f — PESEL for children 3–18 | `pesel.md` |
+| Ustawa zasiłkowa (DU/1999/636) | art. 48a, art. 49 — benefit base for <12 months of coverage | `zus_chorobowe.md` |
+| Ustawa emerytalna (DU/1998/1118) | art. 5, art. 26, art. 87 | `emerytura.md` |
+| Umowa PL–Ukraina o zabezpieczeniu społecznym (DU/2013/1373) | period summation, benefit transfer | `emerytura.md` |
+| Umowa PL–Białoruś o zabezpieczeniu społecznym (DU/2022/575) | period summation, benefit transfer (in force since 01.04.2022) | `emerytura.md` |
+
+Also re-check the KAS recommendation page linked from `pesel.md` — if KAS
+changes the recommended wording of the tax basis, update the quote.
