@@ -57,7 +57,19 @@ you can do that anytime, not necessarily right away.
 
 ## PESEL via employment contract
 
-Go to the urząd with your employment contract, passport, application, and get PESEL.
+There is no separate "employment contract" basis in the law — an employed foreigner
+needs a PESEL as their **tax identifier**: without it the employer cannot correctly
+file your annual PIT-11, and you cannot log into Twój e-PIT to settle taxes
+conveniently. In practice this means:
+
+- in the application you cite the same tax basis as in the
+  [section below](#pesel-for-tax-purposes-no-meldunek-no-employment-contract);
+- bring your employment contract (umowa o pracę / zlecenie) as supporting evidence;
+- only you can file the application — the employer **cannot** do it for you
+  (nor may they demand a PESEL as a hiring condition);
+- formally the application goes to the gmina of your place of residence; if that
+  cannot be determined — to the gmina where your employer's office is located, and
+  if the employer is abroad — to the Śródmieście district office in Warsaw.
 
 ## PESEL for tax purposes (no meldunek, no employment contract)
 
