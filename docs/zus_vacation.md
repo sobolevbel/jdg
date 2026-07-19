@@ -503,12 +503,3 @@ ZUS-каникулы — это хорошая возможность немно
 [44]: images/zus_vacation/rca_21_wyslij.png
 [45]: images/zus_vacation/rca_22_wybor_podpisu.png
 [46]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
-[47]: images/zus_vacation/rws_04.png
-[48]: images/zus_vacation/rws_05.png
-[49]: images/zus_vacation/rws_06.png
-[50]: images/zus_vacation/rws_07.png
-[51]: images/zus_vacation/rws_08.png
-[52]: images/zus_vacation/rws_10.png
-[53]: images/zus_vacation/rws_11.png
-[54]: images/zus_vacation/rws_12.png
-[55]: images/zus_vacation/rws_13.png

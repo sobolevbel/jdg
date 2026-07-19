@@ -287,6 +287,3 @@ Ustawienia => Podatki => ZUS
 [23]: images/zus_obnizone_skladki/wfirma_schemat_tylko_zdrowotne.jpg
 [24]: zus_next_level.md#upp-podtverzhdenie-otpravki
 [25]: zus_errors.md
-[26]: images/zus_obnizone_skladki/09.png
-[27]: images/zus_obnizone_skladki/13.png
-[28]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
