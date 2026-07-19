@@ -45,8 +45,7 @@ At the urząd take a ticket for PESEL. You’ll need to fill in an application �
 You can get PESEL on these grounds:
 
 - Meldunek (residence registration)
-- Employment contract
-- For tax purposes (without meldunek and without an employment contract)
+- For tax purposes (without meldunek)
 
 ## PESEL via meldunek
 
@@ -55,27 +54,15 @@ For the application you use form [EL/ZC/1][2]. You need the meldowanie service �
 meldunek and give you a paper with your PESEL number. You can also get a meldunek certificate, but it costs 17 złoty and
 you can do that anytime, not necessarily right away.
 
-## PESEL via employment contract
-
-There is no separate "employment contract" basis in the law — an employed foreigner
-needs a PESEL as their **tax identifier**: without it the employer cannot correctly
-file your annual PIT-11, and you cannot log into Twój e-PIT to settle taxes
-conveniently. In practice this means:
-
-- in the application you cite the same tax basis as in the
-  [section below](#pesel-for-tax-purposes-no-meldunek-no-employment-contract);
-- bring your employment contract (umowa o pracę / zlecenie) as supporting evidence;
-- only you can file the application — the employer **cannot** do it for you
-  (nor may they demand a PESEL as a hiring condition);
-- formally the application goes to the gmina of your place of residence; if that
-  cannot be determined — to the gmina where your employer's office is located, and
-  if the employer is abroad — to the Śródmieście district office in Warsaw.
-
 ## PESEL for tax purposes (no meldunek, no employment contract)
 
 Since 1 June 2021 foreigners can officially obtain a PESEL **for tax
 purposes** — a standard procedure recommended by the tax administration
 itself ([KAS][3]); no workarounds are needed anymore.
+
+Employed foreigners need this same PESEL: the application can only be filed in
+person (your employer cannot file it for you), and you can bring your employment
+contract as supporting evidence.
 
 Go to the urząd with your passport and a filled application (or fill it on
 the spot). In the application write this legal basis:
