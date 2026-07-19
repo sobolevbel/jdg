@@ -76,7 +76,7 @@ the grep targets, not eternal truths.
 | Contributions (9% of base) | 498,35 / 830,58 / 1 495,04 zł |
 | Income thresholds | 60 000 / 300 000 zł (stable so far) |
 
-### Taxes — files: `taxes.md`, `declarations_vat.md`, `registration_vat.md`, `faq.md`
+### Taxes — files: `taxes.md`, `declarations_vat.md`, `registration_vat.md`, `faq.md`, `index.md`
 
 | Figure | 2026 | Notes |
 |---|---|---|
@@ -120,8 +120,12 @@ the grep targets, not eternal truths.
   `≈ 3 975 zł`; the art. 48a example `5 652 + (10 000 − 5 652) × 5/12 ≈ 7 464 zł`.
 - `emerytura.md` — the 25-year example `1 103,27 × 12 × 25 ≈ 331 000 zł` and
   `331 000 / 222,7 ≈ 1 490 zł`; per-year capital `~3 377 / ~13 239 zł`.
-- `faq.md` — the rough ZUS ranges in the JDG cons list (~500 / ~900–1300 / from
-  ~2300 as of 2026) are approximations; update only if they drift far from reality.
+- `faq.md` and `index.md` (cost table) — the rough ZUS ranges (~500 / ~900–1300 /
+  from ~2300 as of 2026) are approximations; update only if they drift far from
+  reality, and keep both pages consistent.
+- `index.md` — the "Что важно в 2026 году" block (KSeF dates, VAT limit
+  240 000 zł, ZUS vacation) is a snapshot of current changes: refresh its
+  contents each year and swap in whatever is newly relevant.
 
 ## Registry of legal bases (check act status via the Sejm ELI API)
 
