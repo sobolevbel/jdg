@@ -178,15 +178,15 @@ See [error collection][22].
 [Buy the author a coffee :coffee:][12]
 
 [1]: zus_login.md
-[2]: images/zus_duzy/duzy_zus_1.png
-[3]: images/zus_duzy/duzy_zus_2.png
-[4]: images/zus_duzy/duzy_zus_3.png
-[5]: images/zus_duzy/duzy_zus_4.png
-[6]: images/zus_duzy/duzy_zus_5.png
-[7]: images/zus_duzy/duzy_zus_6.png
-[9]: images/zus_duzy/duzy_zus_7.png
-[10]: images/zus_duzy/duzy_zus_8.png
-[11]: images/zus_duzy/duzy_zus_9.png
+[2]: images/zus_duzy/01_rejestr_ubezpieczonych.png
+[3]: images/zus_duzy/02_kartoteka.png
+[4]: images/zus_duzy/03_zmien_dane.png
+[5]: images/zus_duzy/04_dane_do_zmiany.png
+[6]: images/zus_duzy/05_edytuj.png
+[7]: images/zus_duzy/06_kod_tytulu.png
+[9]: images/zus_duzy/07_kod_051000.png
+[10]: images/zus_duzy/08_weryfikuj.png
+[11]: images/zus_duzy/09_status_blad.png
 [12]: https://justandrei.github.io/coffee
 [13]: zus_next_level.md#profession-codes-table
 [15]: declarations_zus.md#zus-dra
@@ -195,4 +195,4 @@ See [error collection][22].
 [21]: zus_next_level.md#upp-proof-of-submission
 [22]: zus_errors.md
 [23]: zus_next_level.md#zus-insurance-title-codes-table
-[24]: images/zus_duzy/duzy_zus_10.png
+[24]: images/zus_duzy/10_kartoteka_zaktualizowana.png

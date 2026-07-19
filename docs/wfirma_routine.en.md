@@ -427,7 +427,7 @@ Done, the exchange rate difference has been added and will be taken into account
 [30]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
 [31]: wfirma_settings.md#company-verification
 [32]: infakt_routine.md#preparing-the-zus-dra-declaration-and-paying-contributions
-[33]: images/wfirma_routine/pit_miesięczna_zaliczka_na_podatek_dochodowy.png
+[33]: images/wfirma_routine/pit_miesieczna_zaliczka_na_podatek_dochodowy.png
 [34]: images/wfirma_routine/zus_dra_zaawansowane.png
 [35]: images/wfirma_routine/faktury_filtr_rm.png
 [36]: images/wfirma_routine/kr_filtr_rms.png
@@ -436,6 +436,6 @@ Done, the exchange rate difference has been added and will be taken into account
 [39]: https://pomoc.wfirma.pl/images/fx/max/679774
 [40]: wfirma_settings.md#podatki-zus
 [41]: https://justandrei.github.io/jdg-tools/zus/
-[42]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej.png
-[43]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane-auto.png
-[44]: images/wfirma_routine/dodawanie-rocznej-skladki-zdrowotnej-zaawansowane.png
+[42]: images/wfirma_routine/dodawanie_rocznej_skladki_zdrowotnej.png
+[43]: images/wfirma_routine/dodawanie_rocznej_skladki_zdrowotnej_zaawansowane_auto.png
+[44]: images/wfirma_routine/dodawanie_rocznej_skladki_zdrowotnej_zaawansowane.png

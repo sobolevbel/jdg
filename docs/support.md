@@ -43,7 +43,7 @@ tags:
 
 [1]: https://buymeacoffee.com/devsobolev
 [2]: https://revolut.me/pointlesshenry
-[3]: images/support/revolut-pointlesshenry-qr.png
+[3]: images/support/revolut_pointlesshenry_qr.png
 [4]: https://github.com/sobolevbel/jdg
 [5]: https://github.com/sobolevbel/jdg/issues
 [6]: https://t.me/+WK5ppqgHxXA3MjAy

@@ -76,15 +76,15 @@ A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) inste
 1. [Official general instructions][11] in Polish from ZUS
 2. [Instructions for inFakt users][12] in Polish
 
-[1]: images/zus_dra/zus-dra-1.png
-[2]: images/zus_dra/zus-dra-2.png
-[3]: images/zus_dra/zus-dra-3.png
-[6]: images/zus_dra/zus-dra-6.png
-[7]: images/zus_dra/zus-dra-7-new.png
-[70]: images/zus_dra/zus-dra-7-1-new.png
-[71]: images/zus_dra/zus-dra-7-2-new.png
-[72]: images/zus_dra/zus-dra-7-3-new.png
-[8]: images/zus_dra/zus-dra-8.png
-[10]: images/zus_dra/zus-dra-10.png
+[1]: images/declarations_zus/01_eplatnik.png
+[2]: images/declarations_zus/02_dodaj_dokument.png
+[3]: images/declarations_zus/03_wybierz_dra.png
+[6]: images/declarations_zus/06_okres_deklaracji.png
+[7]: images/declarations_zus/07_kod_tytulu.png
+[70]: images/declarations_zus/07_1_forma_opodatkowania.png
+[71]: images/declarations_zus/07_2_oblicz_podstawe.png
+[72]: images/declarations_zus/07_3_podstawy_minimalne.png
+[8]: images/declarations_zus/08_czlonkowie_rodziny.png
+[10]: images/declarations_zus/10_wyslij.png
 [11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
 [12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA

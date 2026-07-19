@@ -424,13 +424,13 @@ Note: the first 2 methods are available only to logged-in users.
 [25]: images/wfirma_settings/integracja_ksef.png
 [26]: https://poradnikprzedsiebiorcy.pl/-formaty-numerow-identyfikacyjnych-vat-w-krajach-czlonkowskich-2014
 [27]: images/wfirma_settings/podatki_zus_zdrowotna.png
-[28]: images/wfirma_settings/podatki_ogolne_przenosisz_księgowość.png
+[28]: images/wfirma_settings/podatki_ogolne_przenosisz_ksiegowosc.png
 [29]: https://pomoc.wfirma.pl/-przeniesienie-ksiegowosci-w-trakcie-roku
-[30]: images/wfirma_settings/bezpieczeństwo_kopie_zapasowe.png
+[30]: images/wfirma_settings/bezpieczenstwo_kopie_zapasowe.png
 [31]: images/wfirma_settings/faktury_serie_numeracji.png
 [32]: images/wfirma_settings/faktury_szablony.png
 [33]: images/wfirma_settings/faktury_powiadomienia_email.png
 [34]: wfirma_migration.md
 [35]: https://wfirma.pl/messages/supportIssues
 [36]: mailto:buiro@wfirma.pl
-[37]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_właściciele.png
+[37]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_wlasciciele.png

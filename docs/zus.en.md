@@ -163,7 +163,7 @@ Payment should be made via a standard bank transfer to your individual ZUS accou
 
 Go to the [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001) website and type `RWN` into the filter field.
 
-![ZUS e-services catalog: filter with the RWN query](images/zus_zaswiadczenie/zus_zaswiadczenie_5.1.jpeg)
+![ZUS e-services catalog: filter with the RWN query](images/zus/rwn_05_1_katalog_uslug.jpeg)
 
 ### Verify the form data
 
@@ -269,31 +269,31 @@ To confirm your health insurance, you can obtain a certificate with an electroni
 [2]: zus_ulga_na_start.md
 [3]: https://eskladka.pl/Home
 [4]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
-[5]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.png
-[6]: images/zus_zaswiadczenie/zus_zaswiadczenie_1.1.png
-[7]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.png
-[8]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.1.png
-[9]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.2.png
-[10]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.3.png
-[11]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.4.png
-[12]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.5.png
-[13]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.6.png
-[14]: images/zus_zaswiadczenie/zus_zaswiadczenie_2.7.png
-[15]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.png
-[16]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.1.png
-[17]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.2.png
-[18]: images/zus_zaswiadczenie/zus_zaswiadczenie_4.3.png
-[19]: images/zus_epuap/zus_epuap_1.png
-[20]: images/zus_epuap/zus_epuap_2.png
-[21]: images/zus_epuap/zus_epuap_3.png
-[22]: images/zus_epuap/zus_epuap_4.png
+[5]: images/zus/rwn_01.png
+[6]: images/zus/rwn_01_1.png
+[7]: images/zus/rwn_02_dane_platnika.png
+[8]: images/zus/rwn_02_1_liczba_egzemplarzy.png
+[9]: images/zus/rwn_02_2_zapisano.png
+[10]: images/zus/rwn_02_3_zamknij_formularz.png
+[11]: images/zus/rwn_02_4_wyslij.png
+[12]: images/zus/rwn_02_5_autoryzacja.png
+[13]: images/zus/rwn_02_6_przekierowanie_epuap.png
+[14]: images/zus/rwn_02_7_wyslano.png
+[15]: images/zus/rwn_04_korespondencja.png
+[16]: images/zus/rwn_04_1_szczegoly.png
+[17]: images/zus/rwn_04_2_przegladaj.png
+[18]: images/zus/rwn_04_3_drukuj.png
+[19]: images/zus/epuap_01_dodaj_powiazanie.png
+[20]: images/zus/epuap_02_logowanie_pz.png
+[21]: images/zus/epuap_03_podpisz.png
+[22]: images/zus/epuap_04_potwierdzenie.png
 [23]: zus_obnizone_skladki.md
-[27]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.1.png
-[28]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.2.png
-[29]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.3.png
-[30]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.4.png
-[31]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.5.png
-[32]: images/zus_zaswiadczenie_ubezpieczenia/zus_zaswiadczenie_ubezpieczenia_1.6.png
+[27]: images/zus/ubezpieczenie_01_1.png
+[28]: images/zus/ubezpieczenie_01_2.png
+[29]: images/zus/ubezpieczenie_01_3.png
+[30]: images/zus/ubezpieczenie_01_4.png
+[31]: images/zus/ubezpieczenie_01_5.png
+[32]: images/zus/ubezpieczenie_01_6.png
 [24]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
 [25]: https://www.biznes.gov.pl/pl/portal/00286#2
 [26]: zus_duzy.md

@@ -124,7 +124,7 @@ tags:
 [3]: images/zus_errors/uwagi_i_bledy.jpg
 [4]: images/zus_errors/zus_error_68015101.jpg
 [5]: images/zus_errors/zus_error_69012001.jpg
-[6]: images/zus_errors/zus_error_brak_zgłoszenia_z_podanym_kodem.jpg
+[6]: images/zus_errors/zus_error_brak_zgloszenia_z_podanym_kodem.jpg
 [7]: images/zus_errors/zus_error_69004101.jpg
 [8]: zus_contact.md
 [9]: https://t.me/JDG_PBH/529911

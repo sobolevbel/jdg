@@ -61,8 +61,8 @@ Here you can download your letter and the delivery confirmation in PDF format.
 ![e-Urząd Skarbowy: downloading the letter and delivery confirmation as PDF][6]
 
 [1]: https://www.podatki.gov.pl/e-urzad-skarbowy/
-[2]: images/pismo_ogolne/pismo_ogolne_1.png
-[3]: images/pismo_ogolne/pismo_ogolne_2.png
-[4]: images/pismo_ogolne/pismo_ogolne_3.png
-[5]: images/pismo_ogolne/pismo_ogolne_4.png
-[6]: images/pismo_ogolne/pismo_ogolne_5.png
+[2]: images/pismo_ogolne/01_zloz_dokument.png
+[3]: images/pismo_ogolne/02_wybor_urzedu.png
+[4]: images/pismo_ogolne/03_dane_wnioskodawcy.png
+[5]: images/pismo_ogolne/04_wyslane.png
+[6]: images/pismo_ogolne/05_pobierz_pdf.png

@@ -302,10 +302,10 @@ After saving, you can verify that the corrected data was recorded properly by ch
 [22]: images/infakt_routine/dowod_wewnetrzny.png
 [23]: images/infakt_routine/dodatnia_ruznica.png
 [24]: https://www.infakt.pl/polecam/sobolevbel
-[25]: images/infakt_routine/jpk_vat/jpk_v7_list.png
-[26]: images/infakt_routine/jpk_vat/jpk_vat2.jpg
-[27]: images/infakt_routine/jpk_vat/jpk_vat3.jpg
-[28]: images/infakt_routine/jpk_vat/jpk_vat4.png
+[25]: images/infakt_routine/jpk_v7_list.png
+[26]: images/infakt_routine/jpk_02_wyslij.jpg
+[27]: images/infakt_routine/jpk_03_zwrot_vat.jpg
+[28]: images/infakt_routine/jpk_04_zaliczenie.png
 [29]: images/infakt_routine/podatek_vat_ue.png
 [30]: images/infakt_settings/ustawienia_przychod_w_roku.png
 [34]: https://eskladka.pl/Home
