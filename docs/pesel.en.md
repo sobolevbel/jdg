@@ -60,9 +60,8 @@ Since 1 June 2021 foreigners can officially obtain a PESEL **for tax
 purposes** — a standard procedure recommended by the tax administration
 itself ([KAS][3]); no workarounds are needed anymore.
 
-Employed foreigners need this same PESEL: the application can only be filed in
-person (your employer cannot file it for you), and you can bring your employment
-contract as supporting evidence.
+Employed foreigners need this same PESEL. The application can be filed in person
+or via an authorized representative (przez pełnomocnika).
 
 Go to the urząd with your passport and a filled application (or fill it on
 the spot). In the application write this legal basis:
