@@ -54,7 +54,7 @@ For the application you use form [EL/ZC/1][2]. You need the meldowanie service �
 meldunek and give you a paper with your PESEL number. You can also get a meldunek certificate, but it costs 17 złoty and
 you can do that anytime, not necessarily right away.
 
-## PESEL for tax purposes (no meldunek, no employment contract)
+## PESEL for tax purposes
 
 Since 1 June 2021 foreigners can officially obtain a PESEL **for tax
 purposes** — a standard procedure recommended by the tax administration
