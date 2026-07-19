@@ -272,8 +272,6 @@ tags:
 Официальные вопросы-ответы по MOS: [MOS — pytania i odpowiedzi][47] на портале
 Urzędu do Spraw Cudzoziemców.
 
-[Поддержите наш гайд чашкой кофе ♥][48]{ .md-button .md-button--primary }
-
 [1]: https://mos.cudzoziemcy.gov.pl/
 [2]: https://justandrei.github.io/jdg-tools/pdf/merger.html
 [3]: https://justandrei.github.io/jdg-tools/mos2/photo.html
@@ -321,4 +319,3 @@ Urzędu do Spraw Cudzoziemców.
 [45]: images/legalization_mos2/mos2_39_sprawdz_podpisz.png
 [46]: images/legalization_mos2/mos2_40_wyslany.png
 [47]: https://www.gov.pl/web/udsc/mos-qa
-[48]: support.md

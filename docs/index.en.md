@@ -135,8 +135,6 @@ Anyone can register a company. You can find more information in the [:telegram: 
     official sources ([biznes.gov.pl][8], [podatki.gov.pl][9],
     [zus.pl][10]) or consult an accountant.
 
-[Support our guide with a cup of coffee ♥][11]{ .md-button .md-button--primary }
-
 [1]: https://sobolevbel.github.io/jdg/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
@@ -147,4 +145,3 @@ Anyone can register a company. You can find more information in the [:telegram: 
 [8]: https://www.biznes.gov.pl/pl
 [9]: https://www.podatki.gov.pl/
 [10]: https://www.zus.pl/
-[11]: support.md

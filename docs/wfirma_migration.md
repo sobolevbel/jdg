@@ -167,8 +167,6 @@ tags:
 
 примечание: первые 2 способа доступны только для авторизованных пользователей.
 
-[Поддержите наш гайд чашкой кофе ♥][18]{ .md-button .md-button--primary }
-
 [1]: wfirma_settings.md
 [2]: https://pomoc.wfirma.pl/-przeniesienie-ksiegowosci-w-trakcie-roku
 [3]: images/wfirma_migration/remanent.png
@@ -186,4 +184,3 @@ tags:
 [15]: images/wfirma_migration/pit_zaliczka_dodawanie_płaności.png
 [16]: https://wfirma.pl/messages/supportIssues
 [17]: mailto:buiro@wfirma.pl
-[18]: support.md

@@ -111,8 +111,8 @@ Example: on Duży ZUS you declared 10,000 zł instead of the minimum 5,652 zł a
 that way for 5 full months before the birth. The benefit base is roughly
 `5,652 + (10,000 − 5,652) × 5/12 ≈ 7,464 zł` (before the 13.71% deduction), not 10,000 zł.
 If you don't yet have a single full calendar month of coverage, the base is the minimum
-base for the month in which the birth or sick leave occurred ([art. 49][7]).
-A walkthrough with worked examples is available at [Poradnik Przedsiębiorcy][8].
+base for the month in which the birth or sick leave occurred ([art. 49][6]).
+A walkthrough with worked examples is available at [Poradnik Przedsiębiorcy][7].
 
 !!! note "An old myth: “months without coverage count as zero”"
     Before 2016 the base was indeed averaged over 12 months with uninsured months
@@ -140,13 +140,10 @@ A walkthrough with worked examples is available at [Poradnik Przedsiębiorcy][8]
    [contribution holiday](zus_vacation.md) month only if you paid it in the
    preceding month.
 
-[Support our guide with a cup of coffee ♥][6]{ .md-button .md-button--primary }
-
 [1]: https://poradnikprzedsiebiorcy.pl/-zasilek-macierzynski-a-dzialalnosc-gospodarcza
 [2]: https://lexlege.pl/swiad-pieniez-z/art-48a/
 [3]: https://poradnikprzedsiebiorcy.pl/wskazniki/maksymalna-podstawa-dobrowolnego-ubezpieczenia-chorobowego
 [4]: https://zielonalinia.gov.pl/zasilek-macierzynski-dla-przedsiebiorcy-46386/
 [5]: https://www.ifirma.pl/blog/spoznienie-z-oplacaniem-skladki-chorobowej-nie-wyklucza-z-ubezpieczenia-chorobowego/
-[6]: support.md
-[7]: https://lexlege.pl/swiad-pieniez-z/art-49/
-[8]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia
+[6]: https://lexlege.pl/swiad-pieniez-z/art-49/
+[7]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia

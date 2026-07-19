@@ -204,10 +204,7 @@ UPO (Urzędowe Poświadczenie Odbioru) — официальное подтвер
 | 419 | Błąd w danych autoryzujących | Проверить имя, фамилию, дату рождения, NIP и kwotę przychodu (PIT за позапрошлый год) |
 | 420 | Нет действующей доверенности UPL-1 | Подписывать своим профилем, а не чужим, либо подать UPL-1 |
 
-[Поддержите наш гайд чашкой кофе ♥][5]{ .md-button .md-button--primary }
-
 [1]: https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania
 [2]: https://e-mikrofirma.mf.gov.pl/jpk-client/
 [3]: https://urzadskarbowy.gov.pl/
 [4]: https://e-mikrofirma.mf.gov.pl/jpk-client/status
-[5]: support.md

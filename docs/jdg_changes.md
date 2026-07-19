@@ -46,14 +46,14 @@ tags:
     !!! warning "Может смениться ваша налоговая"
         Отделение налоговой у ИП определяется по адресу **проживания** (zamieszkania) —
         адрес ведения деятельности (siedziba firmy) влияет на это только у компаний.
-        Если переезжаете — проверьте, не сменился ли ваш urząd skarbowy ([подробнее у poradnikprzedsiebiorcy][7]).
+        Если переезжаете — проверьте, не сменился ли ваш urząd skarbowy ([подробнее у poradnikprzedsiebiorcy][6]).
 
 - **ZUS (раздел płatnik)** — адрес тоже меняется через biznes.gov.pl: при заполнении
   CEIDG-1 выберите соответствующие пункты (ZUS ZUA или ZUS ZZA).
 - **VAT-R** — если вы плательщик VAT (польского или VAT-UE) и при переезде меняется
   urząd skarbowy, обновите адрес формой VAT-R. К ней приложите договор аренды,
   разрешение собственника на использование адреса для ИП и oświadczenie
-  ([пример документов в чате][8]).
+  ([пример документов в чате][7]).
 
 ### Бизнес-окружение
 
@@ -74,7 +74,7 @@ tags:
 - Переезд **в пределах воеводства**, дело о легализации не на рассмотрении, адреса на
   карте нет — воеводу уведомлять не нужно.
 - Если вы **в ожидании решения** по карте — уведомите ужонд об изменении адреса для
-  корреспонденции ([шаблон письма][9]).
+  корреспонденции ([шаблон письма][8]).
 - Если вы в ожидании решения **и переехали в другое воеводство** — дело придётся
   переносить между воеводствами (ищите «przeniesienie sprawy do innego województwa»).
 
@@ -89,22 +89,22 @@ tags:
 
 Даже после этого одно место со старым адресом остаётся: Ubezpieczony -> Moje dane ->
 Dane adresowe -> **Zameldowania** (похоже на баг). Обновляется заявлением **US-13**:
-[US-13 онлайн (шаблон в чате)][10] / [бланк US-13 офлайн][11].
+[US-13 онлайн (шаблон в чате)][9] / [бланк US-13 офлайн][10].
 
 ### Советы
 
 - Оставьте на почте заявление о перенаправлении корреспонденции со старого адреса
-  на новый — [Poczta Polska: Dosyłanie przesyłek][12] (раньше работало только для
+  на новый — [Poczta Polska: Dosyłanie przesyłek][11] (раньше работало только для
   писем, сейчас услугу расширили и на посылки).
 - С особой внимательностью отнеситесь к адресам в налоговой, ZUS и к виртуальному
   офису, если вы им пользовались.
 
     !!! danger "Забытый адрес может стоить фирмы"
-        Известен [случай][13]: на виртуальное бюро пришло письмо из налоговой для ИП,
+        Известен [случай][12]: на виртуальное бюро пришло письмо из налоговой для ИП,
         у которого закончился договор с бюро. Бюро ответило, что такой ИП по адресу
         не зарегистрирован, — и налоговая **принудительно закрыла ИП**, без уведомления.
 
-- Есть [заметка в чате про всевозможные адреса ИП][14].
+- Есть [заметка в чате про всевозможные адреса ИП][13].
 
 Не относится к бизнесу, но тоже стоит сделать при переезде:
 
@@ -113,7 +113,7 @@ Dane adresowe -> **Zameldowania** (похоже на баг). Обновляет
 - зарегистрироваться в новой пшыходне (POZ): заполнить deklarację wyboru lekarza
   rodzinnego i pielęgniarki — на месте или онлайн.
 
-📚 Источники: [блог inFakt][15], личный опыт участников чата «ИП в Польше».
+📚 Источники: [блог inFakt][14], личный опыт участников чата «ИП в Польше».
 
 ## Пауза (zawieszenie) или закрытие
 
@@ -162,20 +162,17 @@ Dane adresowe -> **Zameldowania** (похоже на баг). Обновляет
 Да, в течение **15 рабочих дней** — если у вас карта побыту (KCP), выданная для
 продолжения ведения ИП ([art. 113 ustawy o cudzoziemcach][5]). В иных ситуациях — нет.
 
-[Поддержите наш гайд чашкой кофе ♥][6]{ .md-button .md-button--primary }
-
 [1]: https://www.biznes.gov.pl/pl
 [2]: https://www.biznes.gov.pl/pl/portal/0077
 [3]: https://zawartka.pl/2023/11/09/zamkniecie-dzialalnosci-z-data-wsteczna-a-zus/
 [4]: https://poradnikprzedsiebiorcy.pl/-data-likwidacji-dzialalnosci-gospodarczej
 [5]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-113
-[6]: support.md
-[7]: https://poradnikprzedsiebiorcy.pl/-zmiana-adresu-wykonywania-dzialalnosci-i-adresu-zamieszkania-a-wlasciwosc-urzedu-skarbowego
-[8]: https://t.me/JDG_PBH/516086
-[9]: https://t.me/JDG_PBH/474043
-[10]: https://t.me/JDG_PBH/499132
-[11]: https://www.zus.pl/wzory-formularzy/pracujacy/konto-w-zus/-/asset_publisher/mhHJQUQYSi0w/content/wniosek-us-13
-[12]: https://www.poczta-polska.pl/zlec-usluge-online/dosylanie/
-[13]: https://t.me/JDG_PBH/381440
-[14]: https://t.me/JDG_PBH/105158
-[15]: https://www.infakt.pl/blog/zmiana-adresu-firmy-formalnosci/
+[6]: https://poradnikprzedsiebiorcy.pl/-zmiana-adresu-wykonywania-dzialalnosci-i-adresu-zamieszkania-a-wlasciwosc-urzedu-skarbowego
+[7]: https://t.me/JDG_PBH/516086
+[8]: https://t.me/JDG_PBH/474043
+[9]: https://t.me/JDG_PBH/499132
+[10]: https://www.zus.pl/wzory-formularzy/pracujacy/konto-w-zus/-/asset_publisher/mhHJQUQYSi0w/content/wniosek-us-13
+[11]: https://www.poczta-polska.pl/zlec-usluge-online/dosylanie/
+[12]: https://t.me/JDG_PBH/381440
+[13]: https://t.me/JDG_PBH/105158
+[14]: https://www.infakt.pl/blog/zmiana-adresu-firmy-formalnosci/

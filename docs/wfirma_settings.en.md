@@ -89,7 +89,7 @@ Most likely wFirma will prompt you to fill in these details when you try to calc
     - Rodzaj dokumentu, numer dokumentu: type and number of identity document (seems to be optional). If filling in, as a foreigner choose "paszport" (passport) and enter your passport number (Latin letters and digits only, no spaces).
     - Data urodzenia: date of birth in YYYY-MM-DD format
 
-   ![wFirma: Rodzaj firmy i właściciele dialog with owner details][38]
+   ![wFirma: Rodzaj firmy i właściciele dialog with owner details][37]
 
 Click Zapisz to save.
 
@@ -397,8 +397,6 @@ If something went wrong or you ran into issues, you can reach out to wFirma supp
 
 Note: the first 2 methods are available only to logged-in users.
 
-[Support our guide with a cup of coffee ♥][37]{ .md-button .md-button--primary }
-
 [1]: images/wfirma_settings/rejestracja.png
 [2]: images/wfirma_settings/ustawienia.png
 [3]: images/wfirma_settings/moja_firma.png
@@ -435,5 +433,4 @@ Note: the first 2 methods are available only to logged-in users.
 [34]: wfirma_migration.md
 [35]: https://wfirma.pl/messages/supportIssues
 [36]: mailto:buiro@wfirma.pl
-[37]: support.md
-[38]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_właściciele.png
+[37]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_właściciele.png

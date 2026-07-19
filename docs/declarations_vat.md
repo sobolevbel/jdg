@@ -149,8 +149,6 @@ VAT-UEK используется для исправления ранее отп
 
 Coming soon...
 
-[Поддержите наш гайд чашкой кофе ♥][14]{ .md-button .md-button--primary }
-
 [1]: https://ksef.podatki.gov.pl/etapy-wdrozenia-ksef/
 [2]: https://www.biznes.gov.pl/pl/portal/00237
 [3]: https://e-mikrofirma.mf.gov.pl/jpk-form/
@@ -164,5 +162,3 @@ Coming soon...
 [11]: https://pomoc.wfirma.pl/-jak-zaksiegowac-zakup-towarow-od-kontrahenta-z-ue
 [12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-100
 [13]: https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/#VAT-UE
-
-[14]: https://buymeacoffee.com/devsobolev

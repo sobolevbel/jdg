@@ -107,7 +107,7 @@ Repeat for all existing invoices that fall within the period between the start o
     Besides, I'm not sure that if you go this route, you should enter składki społeczne (1646.47 zł) here rather than składki społeczne WITHOUT fundusz pracy (1646.47 - 127.49 = 1518.98 zł).
     I'd appreciate it if someone could verify and make corrections.
 
-    ![Meme: cat in a tinfoil hat — "Actions: silly. Results: questionable"][18]
+    ![Meme: cat in a tinfoil hat — "Actions: silly. Results: questionable"][17]
 
 1. Click Start → ZUS;
 2. Click Dodaj deklarację;
@@ -167,8 +167,6 @@ If something went wrong or you ran into issues, you can reach out to wFirma supp
 
 Note: the first 2 methods are only available for authorized users.
 
-[Support our guide with a cup of coffee ♥][17]{ .md-button .md-button--primary }
-
 [1]: wfirma_settings.md
 [2]: https://pomoc.wfirma.pl/-przeniesienie-ksiegowosci-w-trakcie-roku
 [3]: images/wfirma_migration/remanent.png
@@ -185,5 +183,4 @@ Note: the first 2 methods are only available for authorized users.
 [14]: images/wfirma_migration/zus_dra_podgłąd.png
 [15]: images/wfirma_migration/zus_dra_wysłana_uwaga.png
 [16]: images/wfirma_migration/pit_zaliczka_dodawanie_płaności.png
-[17]: support.md
-[18]: images/wfirma_migration/cat.jpg
+[17]: images/wfirma_migration/cat.jpg

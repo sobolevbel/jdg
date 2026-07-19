@@ -176,8 +176,6 @@ VAT-UE number is your NIP with a PL prefix. Shows up a couple of weeks after fil
 
 There's also a [Telegram bot][24] you can use to track your registration.
 
-[Buy us a coffee for this guide ♥][25]{ .md-button .md-button--primary }
-
 [1]: images/RegVATUE/Pastedimage20211026161902.png
 [2]: images/RegVATUE/Pastedimage20211026162200.png
 [3]: images/RegVATUE/Pastedimage20211026161622.png
@@ -202,4 +200,3 @@ There's also a [Telegram bot][24] you can use to track your registration.
 [22]: registration_vat.md#16-speeding-up-vat-registration
 [23]: https://ec.europa.eu/taxation_customs/vies/vatRequest.html
 [24]: https://t.me/vies_vat_checker_bot
-[25]: support.md

@@ -178,8 +178,6 @@ tags:
 
 Так же есть [телеграм бот][24], который позволяет подписаться и отслеживать вашу регистрацию.
 
-[Поддержите наш гайд чашкой кофе ♥][25]{ .md-button .md-button--primary }
-
 [1]: images/RegVATUE/Pastedimage20211026161902.png
 [2]: images/RegVATUE/Pastedimage20211026162200.png
 [3]: images/RegVATUE/Pastedimage20211026161622.png
@@ -204,4 +202,3 @@ tags:
 [22]: registration_vat.md#16-uskorenie-registratsii-vat
 [23]: https://ec.europa.eu/taxation_customs/vies/vatRequest.html
 [24]: https://t.me/vies_vat_checker_bot
-[25]: support.md

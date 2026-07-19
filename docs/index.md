@@ -135,8 +135,6 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
     официальных источниках ([biznes.gov.pl][8], [podatki.gov.pl][9],
     [zus.pl][10]) или консультируйтесь с бухгалтером.
 
-[Поддержите наш гайд чашкой кофе ♥][11]{ .md-button .md-button--primary }
-
 [1]: https://sobolevbel.github.io/jdg/en/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
@@ -147,4 +145,3 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
 [8]: https://www.biznes.gov.pl/pl
 [9]: https://www.podatki.gov.pl/
 [10]: https://www.zus.pl/
-[11]: support.md

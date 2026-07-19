@@ -108,8 +108,8 @@ rodzicielskiego ([подробнее у Zielona Linia][4]).
 и платили так 5 полных месяцев до родов. База пособия ≈
 `5 652 + (10 000 − 5 652) × 5/12 ≈ 7 464 zł` (до вычета 13,71%), а не 10 000 zł.
 Если нет ещё ни одного полного календарного месяца страховки, за базу берут
-минимальную базу месяца, в котором наступили роды или больничный ([art. 49][7]).
-Разбор с примерами расчёта — у [Poradnika Przedsiębiorcy][8].
+минимальную базу месяца, в котором наступили роды или больничный ([art. 49][6]).
+Разбор с примерами расчёта — у [Poradnika Przedsiębiorcy][7].
 
 !!! note "Старый миф: «месяцы без страховки считаются за ноль»"
     До 2016 года базу действительно усредняли по 12 месяцам, считая месяцы без
@@ -136,13 +136,10 @@ rodzicielskiego ([подробнее у Zielona Linia][4]).
 3. **ZUS-каникулы.** Государство компенсирует складку chorobową за месяц
    [каникул](zus_vacation.md) только если вы платили её в предыдущем месяце.
 
-[Поддержите наш гайд чашкой кофе ♥][6]{ .md-button .md-button--primary }
-
 [1]: https://poradnikprzedsiebiorcy.pl/-zasilek-macierzynski-a-dzialalnosc-gospodarcza
 [2]: https://lexlege.pl/swiad-pieniez-z/art-48a/
 [3]: https://poradnikprzedsiebiorcy.pl/wskazniki/maksymalna-podstawa-dobrowolnego-ubezpieczenia-chorobowego
 [4]: https://zielonalinia.gov.pl/zasilek-macierzynski-dla-przedsiebiorcy-46386/
 [5]: https://www.ifirma.pl/blog/spoznienie-z-oplacaniem-skladki-chorobowej-nie-wyklucza-z-ubezpieczenia-chorobowego/
-[6]: support.md
-[7]: https://lexlege.pl/swiad-pieniez-z/art-49/
-[8]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia
+[6]: https://lexlege.pl/swiad-pieniez-z/art-49/
+[7]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia

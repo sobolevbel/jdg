@@ -45,15 +45,15 @@ Since 2022, with the introduction of Polski Ład, entrepreneurs are required to 
 
     Note: you fill in either the current year field or the previous year field. If you fill in both, you'll get an error. Enter your total income from the start of the year through the end of the month you're filing for (before taxes, excluding VAT). So if you're filing in August for July, enter your income from the start of the year through July 31.
 
-    ![Selecting taxation form and income for the składka zdrowotna calculation][71]
+    ![Selecting taxation form and income for the składka zdrowotna calculation][70]
 
     Now scroll all the way down and hit the **Oblicz** button — the site will calculate the basis for your health contribution.
 
-    ![Oblicz button and the calculated składka zdrowotna basis][72]
+    ![Oblicz button and the calculated składka zdrowotna basis][71]
 
     All that's left is to scroll back up and check the "Podstawy minimalne" box in the first form to calculate all contributions.
 
-    ![Podstawy minimalne checkbox to calculate all contributions][73]
+    ![Podstawy minimalne checkbox to calculate all contributions][72]
 
     Hit Dalej. The site will ask if you want to pay into the Fundusz pracy. You can decline.
 
@@ -69,8 +69,6 @@ Since 2022, with the introduction of Polski Ład, entrepreneurs are required to 
 
 You can find your submitted declarations on the Dokumenty -> Dokumenty wysłane page.
 
-[Support our guide with a cup of coffee ♥][44]
-
 ### Korekta (correction)
 
 A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) instead of 1 (initial filing).
@@ -78,19 +76,15 @@ A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) inste
 1. [Official general instructions][11] in Polish from ZUS
 2. [Instructions for inFakt users][12] in Polish
 
-[Support our guide with a cup of coffee ♥][44]{ .md-button .md-button--primary }
-
 [1]: images/zus_dra/zus-dra-1.png
 [2]: images/zus_dra/zus-dra-2.png
 [3]: images/zus_dra/zus-dra-3.png
 [6]: images/zus_dra/zus-dra-6.png
 [7]: images/zus_dra/zus-dra-7-new.png
-[71]: images/zus_dra/zus-dra-7-1-new.png
-[72]: images/zus_dra/zus-dra-7-2-new.png
-[73]: images/zus_dra/zus-dra-7-3-new.png
+[70]: images/zus_dra/zus-dra-7-1-new.png
+[71]: images/zus_dra/zus-dra-7-2-new.png
+[72]: images/zus_dra/zus-dra-7-3-new.png
 [8]: images/zus_dra/zus-dra-8.png
 [10]: images/zus_dra/zus-dra-10.png
 [11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
 [12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA
-
-[44]: https://buymeacoffee.com/devsobolev

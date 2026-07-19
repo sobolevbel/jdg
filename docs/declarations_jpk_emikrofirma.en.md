@@ -208,10 +208,7 @@ you can send it without e-mikrofirma — directly via [Klient JPK_WEB][2]:
 | 419 | Błąd w danych autoryzujących | Check the first name, last name, date of birth, NIP, and kwota przychodu (PIT for the year before last) |
 | 420 | No valid UPL-1 power of attorney | Sign with your own profile, not someone else's, or file a UPL-1 |
 
-[Support our guide with a cup of coffee ♥][5]{ .md-button .md-button--primary }
-
 [1]: https://www.podatki.gov.pl/podatki-firmowe/jednolity-plik-kontrolny/jpk_vat-z-deklaracja/pliki-do-pobrania
 [2]: https://e-mikrofirma.mf.gov.pl/jpk-client/
 [3]: https://urzadskarbowy.gov.pl/
 [4]: https://e-mikrofirma.mf.gov.pl/jpk-client/status
-[5]: support.md

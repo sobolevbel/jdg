@@ -146,8 +146,6 @@ A pension earned in Poland is not lost:
   it to such countries — it is paid to a Polish bank account (or to an
   authorized person).
 
-[Support our guide with a cup of coffee ♥][11]{ .md-button .md-button--primary }
-
 [1]: https://lexlege.pl/ustawa-o-emeryturach-i-rentach-z-funduszu-ubezpieczen-spolecznych/art-26/
 [2]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-tablicy-sredniego-dalszego-trwania-zycia-kobiet-i-mezczyzn,285,14.html
 [3]: https://poradnikprzedsiebiorcy.pl/-ile-wynosi-najnizsza-emerytura-i-kto-ma-do-niej-prawo
@@ -158,4 +156,3 @@ A pension earned in Poland is not lost:
 [8]: https://www.zus.pl/o-zus/wspolpraca-miedzynarodowa-zus/umowy-miedzynarodowe-o-zabezpieczeniu-spolecznym
 [9]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001373
 [10]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000575
-[11]: support.md
