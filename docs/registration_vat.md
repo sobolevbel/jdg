@@ -225,8 +225,6 @@ tags:
 таблицу `Baza teleadresowa jednostek KAS.xls` (у искомого уженда кроме нужного адреса должен быть тип "US" в столбце "
 TYP") или найдя свой уженд вручную на сайте.
 
-[Поддержите наш гайд чашкой кофе ♥][20]{ .md-button .md-button--primary }
-
 [1]: images/RegVATUE/Pastedimage20211026161902.png
 [2]: images/RegVATUE/Pastedimage20211026162200.png
 [3]: images/RegVATUE/2-1.png
@@ -246,4 +244,3 @@ TYP") или найдя свой уженд вручную на сайте.
 [17]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [18]: pismo_ogolne.md
 [19]: https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas
-[20]: support.md

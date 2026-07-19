@@ -69,16 +69,12 @@ JDG выступает в нескольких ролях: как платель
 
 Найти отправленные декларации можно на странице Dokumenty -> Dokumenty wysłane.
 
-[Поддержите наш гайд чашкой кофе ♥][11]
-
 ### Коректа
 
 Коректа ZUS DRA - это такой же ZUS DRA, только версия 2 (тип корректа) вместо 1 (первичная подача).
 
-1. [общая официальная инструкция][12] на польском от ZUS
-2. [инструкция для пользователей inFakt][13] на польском
-
-[Поддержите наш гайд чашкой кофе ♥][11]{ .md-button .md-button--primary }
+1. [общая официальная инструкция][11] на польском от ZUS
+2. [инструкция для пользователей inFakt][12] на польском
 
 [1]: images/zus_dra/zus-dra-1.png
 [2]: images/zus_dra/zus-dra-2.png
@@ -90,7 +86,5 @@ JDG выступает в нескольких ролях: как платель
 [8]: images/zus_dra/zus-dra-7-3-new.png
 [9]: images/zus_dra/zus-dra-8.png
 [10]: images/zus_dra/zus-dra-10.png
-[12]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
-[13]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA
-
-[11]: https://buymeacoffee.com/devsobolev
+[11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
+[12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA

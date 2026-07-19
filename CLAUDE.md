@@ -45,8 +45,9 @@ python -m mkdocs serve     # local preview at :8000
   screely.com (Plain Window, Regular, white background, 4 px padding); blur
   personal data before committing.
 - Admonitions `!!! info/tip/note/warning/example` are used heavily.
-- Pages end with the support button:
-  `[Поддержите наш гайд чашкой кофе ♥][N]{ .md-button .md-button--primary }` → `support.md`.
+- The support button («Поддержите наш гайд чашкой кофе ♥») is injected
+  automatically below the content of every page (except `support.md`) by the
+  `content` block override in `overrides/main.html` — never add it manually.
 - Every user-facing change gets a bullet in `docs/whatsnew.md` **and**
   `docs/whatsnew.en.md` (current-month section, newest month on top).
 

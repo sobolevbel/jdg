@@ -58,8 +58,6 @@ tags:
 - годовую налоговую декларацию PIT.
 - годовую декларацию ZUS, если в предыдущем году велась деятельность. Если в апреле текущего года (2026) уже не велась деятельность, то это будет пустой ZUS DRA 04/2026 с заполненным кодом страхования в блоке X и заполненным блоком XII (как описано в [инструкции по заполнению годовой ZUS DRA][8] в Telegram).
 
-[Поддержите наш гайд чашкой кофе ♥][9]{ .md-button .md-button--primary }
-
 [1]: registration_jdg.md
 [2]: registration_vat.md
 [3]: registration_vat_ue.md
@@ -68,5 +66,3 @@ tags:
 [6]: declarations_vat.md
 [7]: declarations_pit.md
 [8]: https://t.me/JDG_PBH/542098
-
-[9]: https://buymeacoffee.com/devsobolev

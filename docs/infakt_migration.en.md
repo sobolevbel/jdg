@@ -126,8 +126,6 @@ If everything matches — the migration was successful.
 
 From here on it's the usual routine: [monthly operations in infakt.pl][9].
 
-[Support our guide with a cup of coffee ♥][10]{ .md-button .md-button--primary }
-
 [1]: https://www.infakt.pl/
 [2]: infakt_settings.md
 [3]: infakt_routine.md#weryfikacja-negatywna-error-when-submitting
@@ -137,4 +135,3 @@ From here on it's the usual routine: [monthly operations in infakt.pl][9].
 [7]: infakt_settings.md#zus-settings
 [8]: images/infakt_routine/zus_dra.png
 [9]: infakt_routine.md
-[10]: support.md

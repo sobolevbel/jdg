@@ -24,3 +24,18 @@
   </script>
   {% endif %}
 {% endblock %}
+
+{% block content %}
+  {{ super() }}
+  {% set is_en = config.theme.language == "en" %}
+  {% set support_url = "en/support/" if is_en else "support/" %}
+  {% if page and page.file and not page.url.endswith("support/") %}
+  <a class="md-button md-button--primary" href="{{ support_url | url }}">
+    {%- if is_en -%}
+      Support our guide with a cup of coffee ♥
+    {%- else -%}
+      Поддержите наш гайд чашкой кофе ♥
+    {%- endif -%}
+  </a>
+  {% endif %}
+{% endblock %}

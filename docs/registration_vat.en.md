@@ -222,8 +222,6 @@ You can find your `Urząd Skarbowy` email on the [Ministry of Finance contact pa
 the `Baza teleadresowa jednostek KAS.xls` spreadsheet (for your office you want type "US" in the "
 TYP" column besides the address) or by finding your office manually on the site.
 
-[Buy us a coffee for this guide ♥][20]{ .md-button .md-button--primary }
-
 [1]: images/RegVATUE/Pastedimage20211026161902.png
 [2]: images/RegVATUE/Pastedimage20211026162200.png
 [3]: images/RegVATUE/2-1.png
@@ -243,4 +241,3 @@ TYP" column besides the address) or by finding your office manually on the site.
 [17]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [18]: pismo_ogolne.md
 [19]: https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas
-[20]: support.md

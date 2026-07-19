@@ -278,8 +278,6 @@ the documents you have prepared. All marks are saved in the browser.
 Official questions and answers about MOS: [MOS — pytania i odpowiedzi][47] on the
 Urząd do Spraw Cudzoziemców portal.
 
-[Support our guide with a cup of coffee ♥][48]{ .md-button .md-button--primary }
-
 [1]: https://mos.cudzoziemcy.gov.pl/
 [2]: https://justandrei.github.io/jdg-tools/pdf/merger.html
 [3]: https://justandrei.github.io/jdg-tools/mos2/photo.html
@@ -327,4 +325,3 @@ Urząd do Spraw Cudzoziemców portal.
 [45]: images/legalization_mos2/mos2_39_sprawdz_podpisz.png
 [46]: images/legalization_mos2/mos2_40_wyslany.png
 [47]: https://www.gov.pl/web/udsc/mos-qa
-[48]: support.md

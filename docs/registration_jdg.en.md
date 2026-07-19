@@ -374,8 +374,6 @@ You can verify all your company data on [biznes.gov.pl][52]
 
 If something went wrong or you encountered problems, you can write to the [chat on biznes.gov.pl][53] and ask your question.
 
-[Support our guide with a cup of coffee ♥][54]{ .md-button .md-button--primary }
-
 [1]: pesel.md
 [2]: pz.md
 [3]: https://www.biznes.gov.pl/pl
@@ -429,4 +427,3 @@ If something went wrong or you encountered problems, you can write to the [chat 
 [51]: https://konto.biznes.gov.pl/pl/moje-konto
 [52]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
 [53]: https://www.biznes.gov.pl/pl/portal/03175
-[54]: support.md
