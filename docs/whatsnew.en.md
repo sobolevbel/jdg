@@ -9,6 +9,7 @@ tags:
 
 ## July 2026
 
+- Revamped the [home page](index.md): "I want to open a JDG" and "I already run a JDG" paths, a 2026 contribution cost summary, a block of important changes (KSeF, VAT limit, ZUS vacation), and a disclaimer.
 - Updated the [legal bases for obtaining a PESEL](pesel.md): the official tax-purposes basis (KAS recommendation) is now primary; the repealed 2016 regulation and the KRS-act basis were removed.
 - The [glossary](glossary.md) gained pension and benefit terms: IKE/IKZE/OFE, subkonto, waloryzacja, zasiłki, okres wyczekiwania and more.
 - New page: [pension in Poland for JDG](emerytura.md) — the calculation formula, the minimum pension and insurance record, what ZUS reliefs cost your future pension, IKE/IKZE, and what happens to the pension if you move abroad.
