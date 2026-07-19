@@ -12,10 +12,10 @@ tags:
 After 6 full months of using **Ulga na start**, you can take advantage of reduced ZUS contributions (the "Obniżone składki" benefit, also known as **Składki preferencyjne**) for 24 full months. The benefit is that the minimum social contributions are calculated based on 30% of the minimum wage.
 
 !!! success "Official website"
-    [Obniżone składki ZUS przez 24 miesiące][19]
+    [Obniżone składki ZUS przez 24 miesiące][20]
 
 !!! question "When to switch to składki preferencyjne"
-    See [Deadlines for switching between regimes][20]
+    See [Deadlines for switching between regimes][21]
 
 ## What you need to do (in a nutshell)
 
@@ -34,7 +34,7 @@ No accountant? Read the instructions below ⬇️
 Each of these steps is described in detail below.
 
 !!! question "How to access the ZUS payer's online portal?"
-    See [available methods][24].
+    See [available methods][25].
 
 ### 1. Deregistration (ZUS ZWUA)
 
@@ -126,7 +126,7 @@ On the screen "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" you need to c
 
 ![Tytuły ubezpieczeń step with Dodaj kod tytułu ubezpieczenia button][8]
 
-![Kod tytułu ubezpieczenia window: code picker button and insurance sections][81]
+![Kod tytułu ubezpieczenia window: code picker button and insurance sections][9]
 
 Here, select *Kod tytułu ubezpieczenia*. As a reminder, if you're switching to składki preferencyjne, choose code **05 70**.
 
@@ -134,11 +134,11 @@ In the left column, fill in *Data powstania obowiązku ubezpieczenia* (or *Data 
 
 Click *Zatwierdź*.
 
-![Selecting code 0570, Data zgłoszenia do ubezpieczenia field, Zatwierdź button][12]
+![Selecting code 0570, Data zgłoszenia do ubezpieczenia field, Zatwierdź button][15]
 
 In the *Wybór schematu podlegania* window, select the appropriate insurance affiliation scheme. If you have no other sources of social insurance besides your sole proprietorship, leave the default scheme (highlighted in the screenshot).
 
-![Wybór schematu podlegania window with the main insurance scheme highlighted][82]
+![Wybór schematu podlegania window with the main insurance scheme highlighted][10]
 
 ??? note "Screenshot translation"
     Below are the correct insurance affiliation schemes for the selected insurance title code. The default scheme is shown in bold. Other schemes are due to overlapping insurance title codes.
@@ -168,15 +168,15 @@ In the same window, in the right column:
 
 - **Dobrowolne ubezpieczenie zdrowotne** (Voluntary health insurance). Leave empty.
 
-![Kod tytułu ubezpieczenia window: mandatory and voluntary contributions checked][83]
+![Kod tytułu ubezpieczenia window: mandatory and voluntary contributions checked][11]
 
-Don't forget to select *Kod wykonywanego zawodu* in the right section. This is needed for statistics. For more details, see the [profession codes table][23].
+Don't forget to select *Kod wykonywanego zawodu* in the right section. This is needed for statistics. For more details, see the [profession codes table][24].
 
 Click "Dodaj".
 
 In the dialog that appears, click "OK".
 
-![Informacja dialog about the changed insurance scheme, OK button][11]
+![Informacja dialog about the changed insurance scheme, OK button][14]
 
 ??? note "Screenshot translation"
     **Information**  
@@ -184,7 +184,7 @@ In the dialog that appears, click "OK".
 
 On the step "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" select the insured person (*ubezpieczonego*) you just created with code **057000**.
 
-![Tytuły ubezpieczeń step: insured person with code 057000 selected][10]
+![Tytuły ubezpieczeń step: insured person with code 057000 selected][13]
 
 ??? note "Screenshot translation"
     **Registration of the insured » Insurance titles**   step 4 of 5
@@ -205,7 +205,7 @@ TODO: help make this guide better! add your screenshots here.
 
 Wait for ZUS to process the application. If everything is OK, it should look like this:
 
-![eZUS Ubezpieczony panel: insurance title with code 0570 in Ubezpieczenia i płatnicy][84]
+![eZUS Ubezpieczony panel: insurance title with code 0570 in Ubezpieczenia i płatnicy][12]
 
 ### 3. Switching accounting software settings
 
@@ -214,7 +214,7 @@ Try not to let your ZUS settings on zus.pl get out of sync with the ZUS settings
 This month you'll be sending several different declarations to ZUS:
 
 !!! abstract "DRA"
-    Pay ZUS and send the [ZUS DRA][15] between the 1st and 20th of the month following the reporting period.
+    Pay ZUS and send the [ZUS DRA][16] between the 1st and 20th of the month following the reporting period.
 
 !!! abstract "ZWUA and ZUA/ZZA"
     ZUS ZWUA and ZUS ZUA/ZZA must be sent to ZUS between the 1st and 7th of the month in which you started using the składki preferencyjne benefit.
@@ -243,24 +243,24 @@ So it's better to do it this way:
 
 !!! tip "Hint"
     The wFirma calendar will tell you when to switch the settings.
-    ![wFirma calendar][16]
+    ![wFirma calendar][17]
 
 Ustawienia => Podatki => ZUS
 
 Replace "Tylko zdrowotne — 6-miesięczna ulga na start" with "2-letni preferencyjny ZUS".
-![2-letni preferencyjny ZUS][17]
+![2-letni preferencyjny ZUS][18]
 
 **Exception:** if you run your business in parallel with employment under Umowa o Pracę (UoP), and your UoP salary is at or above the minimum wage, then your employer pays the składki społeczne for you. In this case you're exempt from paying składki społeczne for yourself as JDG — choose "Tylko zdrowotne — 2-letni preferencyjny ZUS". You did submit ZUS ZZA in the previous step, right? The same applies to entrepreneurs who receive a pension.
 
-![Tylko zdrowotne — 2-letni preferencyjny ZUS][18]
+![Tylko zdrowotne — 2-letni preferencyjny ZUS][19]
 
 ## UPP - sending confirmation
 
-See [UPP][21].
+See [UPP][22].
 
 ## Common mistakes
 
-See [error collection][22].
+See [error collection][23].
 
 [1]: images/zus_obnizone_skladki/01_wybor_zwua.png
 [2]: images/zus_obnizone_skladki/02_wyrejestrowanie.png
@@ -270,23 +270,20 @@ See [error collection][22].
 [6]: images/zus_obnizone_skladki/06_adres_zameldowania.png
 [7]: images/zus_obnizone_skladki/07_adres_zamieszkania.png
 [8]: images/zus_obnizone_skladki/08_dodaj_kod_tytulu.png
-[81]: images/zus_obnizone_skladki/08_1_kod_tytulu.jpg
-[82]: images/zus_obnizone_skladki/08_2_schemat_podlegania.jpg
-[83]: images/zus_obnizone_skladki/08_3_skladki.png
-[84]: images/zus_obnizone_skladki/08_4_kod_0570.png
-[9]: images/zus_obnizone_skladki/09.png
-[10]: images/zus_obnizone_skladki/10_kod_057000.png
-[11]: images/zus_obnizone_skladki/11_informacja.png
-[12]: images/zus_obnizone_skladki/12_wybor_kodu_0570.png
-[13]: images/zus_obnizone_skladki/13.png
-[14]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
-[15]: declarations_zus.md#zus-dra
-[16]: images/zus_obnizone_skladki/wfirma_kalendarz.jpg
-[17]: images/zus_obnizone_skladki/wfirma_schemat_2letni_preferencyjny_zus.jpg
-[18]: images/zus_obnizone_skladki/wfirma_schemat_tylko_zdrowotne.jpg
-[19]: https://www.biznes.gov.pl/pl/portal/00286
-[20]: zus_next_level.md#deadlines-when-switching-between-regimes
-[21]: zus_next_level.md#upp-proof-of-submission
-[22]: zus_errors.md
-[23]: zus_next_level.md#profession-codes-table
-[24]: zus_login.md
+[9]: images/zus_obnizone_skladki/08_1_kod_tytulu.jpg
+[10]: images/zus_obnizone_skladki/08_2_schemat_podlegania.jpg
+[11]: images/zus_obnizone_skladki/08_3_skladki.png
+[12]: images/zus_obnizone_skladki/08_4_kod_0570.png
+[13]: images/zus_obnizone_skladki/10_kod_057000.png
+[14]: images/zus_obnizone_skladki/11_informacja.png
+[15]: images/zus_obnizone_skladki/12_wybor_kodu_0570.png
+[16]: declarations_zus.md#zus-dra
+[17]: images/zus_obnizone_skladki/wfirma_kalendarz.jpg
+[18]: images/zus_obnizone_skladki/wfirma_schemat_2letni_preferencyjny_zus.jpg
+[19]: images/zus_obnizone_skladki/wfirma_schemat_tylko_zdrowotne.jpg
+[20]: https://www.biznes.gov.pl/pl/portal/00286
+[21]: zus_next_level.md#deadlines-when-switching-between-regimes
+[22]: zus_next_level.md#upp-proof-of-submission
+[23]: zus_errors.md
+[24]: zus_next_level.md#profession-codes-table
+[25]: zus_login.md

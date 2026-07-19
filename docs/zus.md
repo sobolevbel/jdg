@@ -246,25 +246,25 @@ ZUS состоит из 2 основных частей:
 3. Выберите Panel **Ubezpieczonego** в боковом меню
 4. Выберите пункт меню **Zaświadczenia - ubezpieczenia**
 5. Нажмите кнопку **Utwórz nowy** снизу страницы
-   ![Generate Zaswiadczenie Ubezpieczenia 1.1][23]
+   ![PUE ZUS, раздел Zaświadczenia — ubezpieczenia: кнопка Utwórz nowy][23]
 6. Выберите чекбокс **Ubezpieczenie zdrowotne**
 7. Выберите чекбокс **Członkowie rodziny - Wszyscy** (если справка нужна и для членов семьи — в случае, если у них нет своей мед.страховки)
 8. Обязательно нажмите **Podgląd**, чтобы разблокировать кнопку **Zatwierdź**
 9. Открывшийся **Podgląd** можно изучить и закрыть
 10. Нажмите на кнопку **Zatwierdź**, чтобы отправить документ на подписание в ZUS
-    ![Generate Zaswiadczenie Ubezpieczenia 1.2][24]
+    ![Форма справки: чекбоксы Ubezpieczenie zdrowotne и Członkowie rodziny, кнопки Podgląd и Zatwierdź][24]
 11. В списке документов появится новая строка со статусом **Oczekuje**. Автоматизированные системы в данный момент подписывают документ электронной подписью. Этот процесс занимает от пары секунд до пары минут.
 12. Периодически нажимайте на кнопку **Odśwież**, пока статус не сменится на **Wystawiony**
-    ![Generate Zaswiadczenie Ubezpieczenia 1.3][25]
+    ![Список документов: статус Oczekuje сменится на Wystawiony, кнопка Odśwież][25]
 13. Нажмите на кнопку **Zapisz jako PDF** и выберите место на своем устройстве для сохранения PDF файла.
-    ![Generate Zaswiadczenie Ubezpieczenia 1.4][26]
+    ![Кнопка Zapisz jako PDF для сохранения подписанной справки][26]
 14. В итоге у вас будет настоящий электронный документ от ZUS, подписанный квалифицированной электронной подписью. Этот документ можно высылать через e-Doręczenia и прикреплять к MOS2 без зазрения совести. Электронный документ в этом случае и будет оригиналом, вопрос будет закрыт.
 15. Чтобы убедиться, что PDF подписан, можно перейти на любой сервис проверки электронных подписей, например, на [государственный сайт подписывания документов](https://podpis.gov.pl/podpisz-dokument-elektronicznie/)
 16. Нажмите **Dodaj plik**
 17. В прикрепленном файле появится кнопка **Sprawdź, kto podpisał**
-    ![Generate Zaswiadczenie Ubezpieczenia 1.5][27]
+    ![podpis.gov.pl: кнопка Sprawdź, kto podpisał у загруженного PDF][27]
 18. В открывшемся модальном окне будет информация об органе, который подписал документ — **Zakład Ubezpieczeń Społecznych** (ZUS)
-    ![Generate Zaswiadczenie Ubezpieczenia 1.6][28]
+    ![Szczegóły podpisów: документ подписан Zakład Ubezpieczeń Społecznych, podpis kwalifikowany][28]
 19. Этот документ прикрепляем в MOS2 или в любой другой электронный сервис, когда необходимо показать наличие страховки на себя или на членов семьи.
 
 ## Добавление ePUAP к профилю ZUS
@@ -299,16 +299,13 @@ ZUS состоит из 2 основных частей:
 [20]: images/zus/rwn_04_1_szczegoly.png
 [21]: images/zus/rwn_04_2_przegladaj.png
 [22]: images/zus/rwn_04_3_drukuj.png
-[23]: images/zus/ubezpieczenie_01_1.png
-[24]: images/zus/ubezpieczenie_01_2.png
-[25]: images/zus/ubezpieczenie_01_3.png
-[26]: images/zus/ubezpieczenie_01_4.png
-[27]: images/zus/ubezpieczenie_01_5.png
-[28]: images/zus/ubezpieczenie_01_6.png
+[23]: images/zus/ubezpieczenie_01_utworz_nowy.png
+[24]: images/zus/ubezpieczenie_02_zatwierdz.png
+[25]: images/zus/ubezpieczenie_03_wystawiony.png
+[26]: images/zus/ubezpieczenie_04_zapisz_pdf.png
+[27]: images/zus/ubezpieczenie_05_sprawdz_podpis.png
+[28]: images/zus/ubezpieczenie_06_podpis_zus.png
 [29]: images/zus/epuap_01_dodaj_powiazanie.png
 [30]: images/zus/epuap_02_logowanie_pz.png
 [31]: images/zus/epuap_03_podpisz.png
 [32]: images/zus/epuap_04_potwierdzenie.png
-[33]: https://www.biznes.gov.pl/pl/firma/zus/chce-rozliczac-zus/proc_750-zaswiadczenie-o-niezaleganiu-zus
-[34]: images/zus/rwn_01.png
-[35]: images/zus/rwn_01_1.png

@@ -33,7 +33,7 @@ Answer: At year-end, Ryczałt is declared separately in PIT-28. Skala podatkowa 
 > Jeżeli prowadzisz działalność gospodarczą opodatkowaną ryczałtem od przychodów ewidencjonowanych i jednocześnie osiągasz przychody z innych źródeł, na przykład z umowy o pracę, umowy zlecenia, umowy o dzieło, emerytury, najmu prywatnego opodatkowanego na zasadach ogólnych, albo z tytułu sprzedaży innych rzeczy, musisz odrębnie opodatkować i rozliczyć dochody z działalności gospodarczej oraz dochody osiągnięte z pozostałych tytułów.
 > W tym przypadku dochody z działalności gospodarczej nie łączą się z dochodami uzyskanymi w ramach innych źródeł przychodów.
 
-📚 Source: [Jak rozliczać przychody z różnych źródeł][78]
+📚 Source: [Jak rozliczać przychody z różnych źródeł][57]
 
 ## Joint PIT
 
@@ -65,10 +65,10 @@ A joint PIT with a child can be filed by a parent or guardian raising a child al
 
 !!! info "Useful links"
 
-    📜 Law: [Art. 6 - Podatek dochodowy od osób fizycznych][79].  
-    📚 [Wspólne rozliczenie małżonków][80] - tax office website  
-    📚 [Wspólne rozliczenie małżonków PIT][81] - e-pity  
-    📚 [Osoba samotnie wychowująca dziecko][82] - tax office website  
+    📜 Law: [Art. 6 - Podatek dochodowy od osób fizycznych][58].  
+    📚 [Wspólne rozliczenie małżonków][59] - tax office website  
+    📚 [Wspólne rozliczenie małżonków PIT][60] - e-pity  
+    📚 [Osoba samotnie wychowująca dziecko][61] - tax office website  
 
 ## Ways to File PIT
 
@@ -84,23 +84,23 @@ Choose a service based on your preferences and where you kept your books last ye
 
 | Service | Advantages | Disadvantages | Instructions |
 |--------|--------------|------------|------------|
-| [Twój e-PIT][83] | Government, official. Great for simple cases, e.g. PIT-37 with income from umowa o pracę. This guide has instructions for JDG. | Can get confused with foreign income, hard to automatically add it to the tax base. | [PIT-28 via Twój e-PIT](#pit-28-via-twoj-e-pit) |
-| [e-pity][84] | A tried-and-true service, handles non-standard cases well. This guide has instructions for JDG. | - | [PIT-28 via e-pity for Android](#e-pity-for-android) |
-| [fill-up][85] | Ideal for those who kept books in inFakt — allows automatic data import. Others can fill in manually. | - | [PIT in inFakt][88] |
-| [pitroczny.pl][86] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions for pitroczny.pl][89] in Telegram |
-| [wFirma][87] | Can generate and submit PIT on its own, no intermediaries needed. | Only free during the first year for new clients | [Official PIT-28 instructions][90] |
+| [Twój e-PIT][62] | Government, official. Great for simple cases, e.g. PIT-37 with income from umowa o pracę. This guide has instructions for JDG. | Can get confused with foreign income, hard to automatically add it to the tax base. | [PIT-28 via Twój e-PIT](#pit-28-via-twoj-e-pit) |
+| [e-pity][63] | A tried-and-true service, handles non-standard cases well. This guide has instructions for JDG. | - | [PIT-28 via e-pity for Android](#e-pity-for-android) |
+| [fill-up][64] | Ideal for those who kept books in inFakt — allows automatic data import. Others can fill in manually. | - | [PIT in inFakt][67] |
+| [pitroczny.pl][65] | A service for those who kept books in iFirma. | Opens late: approximately after March 9 | [Instructions for pitroczny.pl][68] in Telegram |
+| [wFirma][66] | Can generate and submit PIT on its own, no intermediaries needed. | Only free during the first year for new clients | [Official PIT-28 instructions][69] |
 
 ## e-pity for Android
 
 Here I'll explain how to submit a PIT-28 declaration using a JDG with the ryczałt taxation system as an example.
 For other taxation systems the process may differ slightly, but overall it will be similar.
 
-To create and submit the declaration we'll use the free app [**e-pity**][15],
+To create and submit the declaration we'll use the free app [**e-pity**][3],
 specifically its Android version.
 
-[:google-play: Google Play][13]
+[:google-play: Google Play][1]
 
-[:app-store: App Store][14]
+[:app-store: App Store][2]
 
 ### 0. Settings and the 1.5% Tax
 
@@ -114,7 +114,7 @@ To be able to choose the organization you want, you need to check the boxes in t
 as shown in the screenshot, and later provide the KRS number of the organization you want to send
 your 1.5% to. If you don't check the boxes, the app will pick some default fund.
 
-![e-pity settings: checkboxes for choosing the organization to receive 1.5% of your tax][16]
+![e-pity settings: checkboxes for choosing the organization to receive 1.5% of your tax][4]
 
 ### 1. When to Submit
 
@@ -126,7 +126,7 @@ And of course, the earlier you submit, the sooner you'll get your tax refund.
 
 Now press the big button to create your declaration.
 
-![e-pity home screen with the button to create a new declaration][17]
+![e-pity home screen with the button to create a new declaration][5]
 
 ### 2. Declaration Calculation Method
 
@@ -141,7 +141,7 @@ Here you can choose the calculation method. Options are:
 
 Also, at this step you can choose whether to create a new declaration or correct an existing one.
 
-![e-pity: choosing the settlement type (rodzaj rozliczenia) — individually, with a spouse, or as a single parent][18]
+![e-pity: choosing the settlement type (rodzaj rozliczenia) — individually, with a spouse, or as a single parent][6]
 
 Below is an example of a declaration with individual tax calculation.
 
@@ -152,7 +152,7 @@ an entrepreneur, you must provide your NIP, not PESEL. You also need to enter yo
 name, address, and select your tax office. If you have a karta dużej rodziny, enter it
 here — your tax refund will come faster.
 
-![e-pity: personal data form (dane podstawowe) — NIP, name, address, tax office selection][19]
+![e-pity: personal data form (dane podstawowe) — NIP, name, address, tax office selection][7]
 
 ### 4. Income Type
 
@@ -164,9 +164,9 @@ On the next screen you need to add your income. Press Pozostałe and choose your
 
 We'll choose ryczałt and PIT-28 as an example.
 
-![e-pity: Przychody podatnika screen, Pozostałe button for adding income][20]
+![e-pity: Przychody podatnika screen, Pozostałe button for adding income][8]
 
-![e-pity: Dodaj przychody podatnika — choosing the tax system, Ryczałt (PIT-28) option][21]
+![e-pity: Dodaj przychody podatnika — choosing the tax system, Ryczałt (PIT-28) option][9]
 
 ### 5. Gross Income Amount
 
@@ -174,9 +174,9 @@ At this step you need to enter the full name of your business (which usually mat
 name), and the gross income amount excluding VAT in PLN for the entire year at the appropriate rate.
 If you worked at different rates, enter the corresponding amounts in the appropriate fields.
 
-![e-pity: Przychody form — company name and gross income amounts per ryczałt rate][22]
+![e-pity: Przychody form — company name and gross income amounts per ryczałt rate][10]
 
-Press "Zapisz" to return to the [previous screen][23], where your income info
+Press "Zapisz" to return to the [previous screen][11], where your income info
 should now appear. Press Dalej.
 
 ### 6. ZUS Contributions
@@ -192,7 +192,7 @@ Note that you need to enter contributions actually paid during the reporting yea
 Contributions paid in the new year (following the reporting year) should not be included, even if they're
 December contributions — you'll include those in next year's PIT.
 
-![e-pity: fields for yearly ZUS contributions — społeczne and zdrowotne][24]
+![e-pity: fields for yearly ZUS contributions — społeczne and zdrowotne][12]
 
 ### 7. Taxes Paid
 
@@ -216,7 +216,7 @@ It's important to understand the difference:
 - in the first 12 fields, the taxpayer enters how much they should have paid,
 - and in the second-to-last field, how much they actually paid.
 
-![e-pity: monthly ryczałt amounts and the Kwota wpłaconego ryczałtu za cały rok field][40]
+![e-pity: monthly ryczałt amounts and the Kwota wpłaconego ryczałtu za cały rok field][27]
 
 Press Dalej.
 
@@ -225,7 +225,7 @@ Press Dalej.
 On the next step you can use tax reliefs and deductions if you're eligible. Read about
 each one and decide whether it applies to you.
 
-![e-pity: list of available reliefs and deductions (ulgi)][25]
+![e-pity: list of available reliefs and deductions (ulgi)][13]
 
 ### 9. Internet Deduction
 
@@ -240,9 +240,9 @@ This deduction covers home and mobile internet as well as payments for
 any other public internet, for example, in an internet cafe. You need to keep receipts or invoices for
 all internet payments — they may sometimes be requested.
 
-You can read more, for example, in the [PITax article on ulga internetowa][26], or just google "ulga na internet".
+You can read more, for example, in the [PITax article on ulga internetowa][14], or just google "ulga na internet".
 
-![e-pity: Ulga na internet form — choosing the relief year and entering the expenses amount][27]
+![e-pity: Ulga na internet form — choosing the relief year and entering the expenses amount][15]
 
 Select the third checkbox if you haven't used the deduction before, or the first one if you used it
 last year. In the field, enter the total of all your internet costs for the year.
@@ -252,18 +252,18 @@ last year. In the field, enter the total of all your internet costs for the year
 The next step covers specific edge cases that people might encounter.
 Nothing applies to me, so I just press Dalej.
 
-![e-pity: Dodatkowe informacje screen with special-case options][28]
+![e-pity: Dodatkowe informacje screen with special-case options][16]
 
 ### 11. Debtors and Creditors
 
 Next you can enter information about your debtors and creditors. I don't have any, so
 I just move on.
 
-![e-pity: Dłużnicy i wierzyciele screen — information about debtors and creditors][29]
+![e-pity: Dłużnicy i wierzyciele screen — information about debtors and creditors][17]
 
 ### 12. Enter Your Bank Account for the Refund
 
-![e-pity: bank account (rachunek) and owner name fields for the tax refund][41]
+![e-pity: bank account (rachunek) and owner name fields for the tax refund][28]
 
 Enter your account number and name. You can use any account — it doesn't have to be your business one.
 If the account is shared with your spouse, you need to enter the names of all account holders.
@@ -278,12 +278,12 @@ To direct 1.5% of your tax to a fund, you need to enter its KRS number. You can 
 helping children, animals. There are funds supporting Ukraine and Belarus. Look for something that interests
 you.
 
-![e-pity: step for donating 1.5% of tax to an OPP organization, ZMIEŃ OPP button][31]
+![e-pity: step for donating 1.5% of tax to an OPP organization, ZMIEŃ OPP button][19]
 
 Press the **ZMIEŃ OPP** button and on the next step choose a fund you're interested in or manually
 enter the KRS number of the fund you want.
 
-![e-pity: choosing an OPP foundation from the list or entering a KRS number manually][32]
+![e-pity: choosing an OPP foundation from the list or entering a KRS number manually][20]
 
 ### 14. List of Funds
 
@@ -291,31 +291,31 @@ Below is a list of funds that might interest you.
 
 Cel szczególowy is not always required. Enter it without quotation marks, exactly as shown.
 
-- 0000507234 - Belarusian initiative [Partyzanka][54] (cel szczegółowy: **85537**). Helping refugees from Belarus and Ukraine.
-- 0000030279 - Polish fund [Ocalenie][42], actively helping refugees from Belarus, Ukraine, and other countries.
-- 0000190607 - [Towarzystwo][34] przyjaciół Ukrainy.
-- 0000507234 - Fundacja [Stand with Ukraine][50] (cel szczegółowy: **83905**). Helping war victims.
-- 0000017257 - Animal shelter [fund][35] Fundacja św. Franciszka.
-- 0000348880 - School for children with disabilities [Bona Fide][45].
-- 0000883672 - [Center][36] for Belarusian Solidarity.
-- 0000270261 - [Belarusian Youth Hub][51] (cel szczegółowy: **HUB Warszawa 11876**).
-- 0000507234 - [Zerkalo][52] (cel szczegółowy: **84784**).
-- 0000507234 - [Dzik pic, devby.io][53] (cel szczegółowy: **85644**).
+- 0000507234 - Belarusian initiative [Partyzanka][39] (cel szczegółowy: **85537**). Helping refugees from Belarus and Ukraine.
+- 0000030279 - Polish fund [Ocalenie][29], actively helping refugees from Belarus, Ukraine, and other countries.
+- 0000190607 - [Towarzystwo][21] przyjaciół Ukrainy.
+- 0000507234 - Fundacja [Stand with Ukraine][35] (cel szczegółowy: **83905**). Helping war victims.
+- 0000017257 - Animal shelter [fund][22] Fundacja św. Franciszka.
+- 0000348880 - School for children with disabilities [Bona Fide][30].
+- 0000883672 - [Center][23] for Belarusian Solidarity.
+- 0000270261 - [Belarusian Youth Hub][36] (cel szczegółowy: **HUB Warszawa 11876**).
+- 0000507234 - [Zerkalo][37] (cel szczegółowy: **84784**).
+- 0000507234 - [Dzik pic, devby.io][38] (cel szczegółowy: **85644**).
 
 Children's medical treatment:
 
-- 0000396361 - [Paulina][77] Danilchanka - cel szczegółowy: **0890517 Paulina**
-- 0000396361 - [Yeudakim][59] Zakharevich - cel szczegółowy: **0451161 Yeudakim**
-- 0000396361 - [Anastasiya][58] Liaszczewicz - cel szczegółowy: **0491365 Anastasiya**
-- 0000396361 - [Margarita][57] Datskiewicz - cel szczegółowy: **0104216 Margarita**
-- 0000037904 - [Artur][56] Nikanau - cel szczegółowy: **44133 NIKANAU ARTUR**
-- 0000396361 - [Artem][55] Padzialowski - cel szczegółowy: **0568766 Artyom**
-- 0000037904 - [Zlatoslava][49] Mytnik - cel szczegółowy: **40923 Mytnik Zlatoslava**
-- 0000396361 - [Vasilisa][48] Loban - cel szczegółowy: **0165621 Vasilisa**
-- 0000037904 - [Dzmitry][47] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
-- 0000037904 - [Petr][46] Vakhrameyev - cel szczegółowy: **42671 Vakhrameyev Petr**
+- 0000396361 - [Paulina][56] Danilchanka - cel szczegółowy: **0890517 Paulina**
+- 0000396361 - [Yeudakim][44] Zakharevich - cel szczegółowy: **0451161 Yeudakim**
+- 0000396361 - [Anastasiya][43] Liaszczewicz - cel szczegółowy: **0491365 Anastasiya**
+- 0000396361 - [Margarita][42] Datskiewicz - cel szczegółowy: **0104216 Margarita**
+- 0000037904 - [Artur][41] Nikanau - cel szczegółowy: **44133 NIKANAU ARTUR**
+- 0000396361 - [Artem][40] Padzialowski - cel szczegółowy: **0568766 Artyom**
+- 0000037904 - [Zlatoslava][34] Mytnik - cel szczegółowy: **40923 Mytnik Zlatoslava**
+- 0000396361 - [Vasilisa][33] Loban - cel szczegółowy: **0165621 Vasilisa**
+- 0000037904 - [Dzmitry][32] Kharutski - cel szczegółowy: **43917 Kharutski Dzmitry**
+- 0000037904 - [Petr][31] Vakhrameyev - cel szczegółowy: **42671 Vakhrameyev Petr**
 
-[List of funds][30] from e-pity.pl.
+[List of funds][18] from e-pity.pl.
 
 If you check the box to share your data with the fund, they'll send you a report next year on how they spent your money.
 
@@ -327,7 +327,7 @@ Here you can also download a PDF of the declaration and view the refund or under
 To see how the refund or underpayment was calculated, press the "Jak jest obliczany
 podatek?" button.
 
-![e-pity: summary screen (podsumowanie) with the amount to be refunded or paid][37]
+![e-pity: summary screen (podsumowanie) with the amount to be refunded or paid][24]
 
 ### 16. Submitting the Declaration to the Tax Office
 
@@ -348,11 +348,11 @@ first page of the PIT declaration, and the UPO for it. In other cities the proce
 
 Now on the main screen you can see your declaration. You can download it and visually check that everything is in order.
 
-![e-pity: home screen with the list of created declarations][38]
+![e-pity: home screen with the list of created declarations][25]
 
 You can manage the declaration using the button on the right.
 
-![e-pity: declaration actions menu — send, edit, download PDF, correction][39]
+![e-pity: declaration actions menu — send, edit, download PDF, correction][26]
 
 Using the corresponding buttons you can submit the declaration to the tax office, edit it, download the PDF,
 rename it, delete it, or submit a correction if you want to change
@@ -367,7 +367,7 @@ Here's a picture guide.
 
 ### 1. Login
 
-Go to [https://urzadskarbowy.gov.pl/services][83]: log in via your bank, profil zaufany, or using last year's data, and select Twój e-PIT.
+Go to [https://urzadskarbowy.gov.pl/services][62]: log in via your bank, profil zaufany, or using last year's data, and select Twój e-PIT.
 
 ### 2. Choosing a Declaration
 
@@ -375,13 +375,13 @@ A page will open where you choose which PIT to submit. PIT-28 will be at the ver
 
 ### 3. Choose the Type of Activity
 
-![Twój e-PIT: Kreator PIT-28, choosing the business activity form][60]
+![Twój e-PIT: Kreator PIT-28, choosing the business activity form][45]
 
 ### 4. Enter Your Income
 
 I take it from ewidencja przychodów for the last month of the reporting year — it has the annual total.
 
-![Twój e-PIT: yearly income (przychody) field in Kreator PIT-28][61]
+![Twój e-PIT: yearly income (przychody) field in Kreator PIT-28][46]
 
 ### 5. Next Is the Reliefs Step
 
@@ -394,21 +394,21 @@ Since I only use the ZUS contribution deduction, I'll write about that — it ap
 - 5.5 - find składki społeczne (FUS)
 - 5.6 - enter 100% of that contribution in the form field
 
-![ZUS account: navigating to the Informacje roczne section][62]
-![ZUS account: yearly document with zdrowotne (FUZ) and społeczne (FUS) contributions][63]
-![Kreator PIT-28, Ulgi i odliczenia step: Składki zdrowotne field — 50% of the paid contribution][64]
+![ZUS account: navigating to the Informacje roczne section][47]
+![ZUS account: yearly document with zdrowotne (FUZ) and społeczne (FUS) contributions][48]
+![Kreator PIT-28, Ulgi i odliczenia step: Składki zdrowotne field — 50% of the paid contribution][49]
 
 ### 6. Verify Required Amounts Against Actual Payments
 
 If you paid everything on time, they'll all show up automatically. You just need to click 2 checkboxes and verify.
 
-![Kreator PIT-28, Ryczałt należny i wpłacony step: verifying tax amounts, two checkboxes][65]
+![Kreator PIT-28, Ryczałt należny i wpłacony step: verifying tax amounts, two checkboxes][50]
 
 ### 7. Podsumowanie
 
 You'll see the entered form results for verification.
 
-![Kreator PIT-28: Podsumowanie page with the entered data for review][66]
+![Kreator PIT-28: Podsumowanie page with the entered data for review][51]
 
 ### 8. Final Check Before Submission
 
@@ -417,15 +417,15 @@ As in the guide above, if you've entered data before, everything will be pre-fil
 - you can choose who gets the 1.5% of your tax — [Charity](#13-donate-1-5-of-your-paid-tax-to-charity)
 - see the overpayment amount
 
-![Twój e-PIT: declaration summary — przychód, ryczałt, 1.5% dla OPP, rachunek bankowy][67]
-![Twój e-PIT: kwota nadpłaty and the Akceptuj i wyślij button][68]
+![Twój e-PIT: declaration summary — przychód, ryczałt, 1.5% dla OPP, rachunek bankowy][52]
+![Twój e-PIT: kwota nadpłaty and the Akceptuj i wyślij button][53]
 
 ### 9. PIT-28 Is Ready
 
 You'll be automatically redirected to a page where you can download the PIT-28 for the year and the UPO. You'll also see the refund status there a bit later.
 
-![Twój e-PIT: Gratulacje message confirming the e-PIT-28 form was sent][69]
-![Twój e-PIT: Złożone dokumenty tab — PIT-28, Podgląd UPO and Status zwrotu][76]
+![Twój e-PIT: Gratulacje message confirming the e-PIT-28 form was sent][54]
+![Twój e-PIT: Złożone dokumenty tab — PIT-28, Podgląd UPO and Status zwrotu][55]
 
 P.S. This is my favorite way to file. In practice, you only need to enter the ZUS contribution and your income. Everything else is already filled in and calculated.
 
@@ -442,17 +442,17 @@ Zero PIT for those under 26 at the time of receiving income DOES NOT APPLY TO JD
 
 ## Getting Help
 
-When the annual filing season starts, search in your city for accountants on duty ([dyżur podatkowy PIT warszawa][91]). Such events are organized periodically: free help filling out your PIT in exchange for 1.5% going to their OPP. For example, here's the schedule for [Ursynów, Warsaw][92].
+When the annual filing season starts, search in your city for accountants on duty ([dyżur podatkowy PIT warszawa][70]). Such events are organized periodically: free help filling out your PIT in exchange for 1.5% going to their OPP. For example, here's the schedule for [Ursynów, Warsaw][71].
 
 ## Checking Status
 
-On the [Status e-Deklaracji][93] page you can check the status of your submitted declaration and download the UPO.
+On the [Status e-Deklaracji][72] page you can check the status of your submitted declaration and download the UPO.
 
 ## Correction
 
 After submitting your PIT you have 5 full years to make corrections. That is, declarations for 2025 can be corrected until the end of 2031.
 
-Source: [Korekta zeznania][94].
+Source: [Korekta zeznania][73].
 
 In the field "6. Cel złożenia formularza (zaznaczyć właściwy kwadrat)":
 
@@ -489,92 +489,90 @@ It's quite expected that due to rounding of monthly advances, the annual calcula
 
 Pay to the same mikrorachunek as your tax advances, but choose a different symbol formularza: it should match the name of the PIT declaration (as a reminder, for ryczałt it's PIT-28).
 
-Instructions: [How to find your tax payment account?][95].
+Instructions: [How to find your tax payment account?][74].
 
 You must pay the tax by 30.04 regardless of when you filed the PIT declaration. After that date, late payment interest is charged.
 
 ## Useful Links
 
 !!! question "Where does it say you can deduct 100% of the social contribution?"
-    ⚖ [Art. 11. - Odliczenia od przychodów - Zryczałtowany podatek dochodowy od niektórych przychodów][96], ust. 1
+    ⚖ [Art. 11. - Odliczenia od przychodów - Zryczałtowany podatek dochodowy od niektórych przychodów][75], ust. 1
 
 !!! question "Where does it say you can deduct 50% of the health contribution?"
-    ⚖ [Art. 11. - Odliczenia od przychodów - Zryczałtowany podatek dochodowy od niektórych przychodów][96], ust. 1a
+    ⚖ [Art. 11. - Odliczenia od przychodów - Zryczałtowany podatek dochodowy od niektórych przychodów][75], ust. 1a
 
-[11]: https://www.biznes.gov.pl/pl/portal/00237
-[12]: https://e-mikrofirma.mf.gov.pl/jpk-form/
-[13]: https://play.google.com/store/apps/details?id=com.efile.epitymobile
-[14]: https://apps.apple.com/us/app/e-pity/id1213410455
-[15]: https://www.e-pity.pl
-[16]: images/declarations_pit/epity_01_ustawienia_opp.jpg
-[17]: images/declarations_pit/epity_02_nowa_deklaracja.jpg
-[18]: images/declarations_pit/epity_03_rodzaj_rozliczenia.jpg
-[19]: images/declarations_pit/epity_04_dane_podstawowe.jpg
-[20]: images/declarations_pit/epity_05_przychody.jpg
-[21]: images/declarations_pit/epity_06_wybor_ryczaltu.jpg
-[22]: images/declarations_pit/epity_07_kwoty_przychodow.jpg
-[23]: #4-income-type
-[24]: images/declarations_pit/epity_08_skladki_zus.jpg
-[25]: images/declarations_pit/epity_09_ulgi.jpg
-[26]: https://www.pitax.pl/wiedza/mniejsze-podatki/ulga-internetowa
-[27]: images/declarations_pit/epity_10_ulga_internet.jpg
-[28]: images/declarations_pit/epity_11_dodatkowe_informacje.jpg
-[29]: images/declarations_pit/epity_12_dluznicy.jpg
-[30]: https://www.e-pity.pl/wykaz-opp/
-[31]: images/declarations_pit/epity_13_zmien_opp.jpg
-[32]: images/declarations_pit/epity_14_wybor_opp.jpg
-[34]: https://tpu.org.pl/
-[35]: https://www.facebook.com/fundacja.sw.franciszka/
-[36]: https://belaruscenter.eu/by/
-[37]: images/declarations_pit/epity_15_podsumowanie.jpg
-[38]: images/declarations_pit/epity_16_lista_deklaracji.jpg
-[39]: images/declarations_pit/epity_17_akcje_deklaracji.jpg
-[40]: images/declarations_pit/epity_08_1_wplacony_ryczalt.jpg
-[41]: images/declarations_pit/epity_18_rachunek_zwrotu.jpg
-[42]: https://en.ocalenie.org.pl
-[45]: https://t.me/JDG_PBH/372301
-[46]: https://dzieciom.pl/podopieczni/42671
-[47]: https://dzieciom.pl/podopieczni/43917
-[48]: https://www.siepomaga.pl/vasilisa-loban
-[49]: https://dzieciom.pl/podopieczni/40923
-[50]: https://fanimani.pl/standwithukraine/
-[51]: https://www.facebook.com/bmhuborg
-[52]: https://news.zerkalo.io/economics/91472.html
-[53]: https://devby.io/news/support-devby24
-[54]: https://t.me/partyzanka_rb_pl/650
-[55]: https://www.siepomaga.pl/artem-padzialowski
-[56]: https://dzieciom.pl/podopieczni/44133
-[57]: https://www.siepomaga.pl/margarita
-[58]: https://www.siepomaga.pl/nastka-liaszczewicz
-[59]: https://www.siepomaga.pl/yeudakim-zacharewicz
-[60]: images/declarations_pit/eurzad_01_forma_dzialalnosci.png
-[61]: images/declarations_pit/eurzad_02_przychody.png
-[62]: images/declarations_pit/eurzad_zus_01_informacje_roczne.png
-[63]: images/declarations_pit/eurzad_zus_02_skladki_roczne.png
-[64]: images/declarations_pit/eurzad_03_skladki_zdrowotne.png
-[65]: images/declarations_pit/eurzad_04_ryczalt_wplacony.png
-[66]: images/declarations_pit/eurzad_05_podsumowanie.png
-[67]: images/declarations_pit/eurzad_06_przeglad_deklaracji.png
-[68]: images/declarations_pit/eurzad_07_akceptuj_wyslij.png
-[69]: images/declarations_pit/eurzad_08_wyslano.png
-[76]: images/declarations_pit/eurzad_09_zlozone_dokumenty.png
-[77]: https://www.siepomaga.pl/paulina-danilchanka
-[78]: https://www.biznes.gov.pl/pl/portal/00235#5
-[79]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-dochodowy-od-osob-fizycznych-16794311/art-6
-[80]: https://www.podatki.gov.pl/poradniki-i-informatory/wspolne-rozliczenie-malzonkow/
-[81]: https://www.e-pity.pl/wspolne-rozliczenie-malzonkow-pit/
-[82]: https://www.podatki.gov.pl/poradniki-i-informatory/osoba-samotnie-wychowujaca-dziecko/
-[83]: https://urzadskarbowy.gov.pl/services
-[84]: https://www.e-pity.pl
-[85]: https://fill-up.pl
-[86]: https://www.pitroczny.pl
-[87]: https://wfirma.pl
-[88]: https://pomoc.infakt.pl/hc/pl/articles/115000185250-Gdzie-znale%C5%BA%C4%87-PIT-roczny-w-aplikacji
-[89]: https://t.me/JDG_PBH/515049
-[90]: https://pomoc.wfirma.pl/-zeznanie-roczne-pit-28-jak-wygenerowac-i-uzupelnic-w-systemie
-[91]: https://www.google.com/search?q=dy%C5%BCur+podatkowy+PIT+warszawa
-[92]: https://ursynow.um.warszawa.pl/-/dyzur-pracownikow-urzedu-skarbowego-na-ursynowie
-[93]: https://klient-eformularz.mf.gov.pl/declaration-client/status
-[94]: https://www.pit.pl/korekta-zeznania/
-[95]: taxes.md#how-to-find-your-tax-payment-account
-[96]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zryczaltowany-podatek-dochodowy-od-niektorych-przychodow-16832090/art-11
+[1]: https://play.google.com/store/apps/details?id=com.efile.epitymobile
+[2]: https://apps.apple.com/us/app/e-pity/id1213410455
+[3]: https://www.e-pity.pl
+[4]: images/declarations_pit/epity_01_ustawienia_opp.jpg
+[5]: images/declarations_pit/epity_02_nowa_deklaracja.jpg
+[6]: images/declarations_pit/epity_03_rodzaj_rozliczenia.jpg
+[7]: images/declarations_pit/epity_04_dane_podstawowe.jpg
+[8]: images/declarations_pit/epity_05_przychody.jpg
+[9]: images/declarations_pit/epity_06_wybor_ryczaltu.jpg
+[10]: images/declarations_pit/epity_07_kwoty_przychodow.jpg
+[11]: #4-income-type
+[12]: images/declarations_pit/epity_08_skladki_zus.jpg
+[13]: images/declarations_pit/epity_09_ulgi.jpg
+[14]: https://www.pitax.pl/wiedza/mniejsze-podatki/ulga-internetowa
+[15]: images/declarations_pit/epity_10_ulga_internet.jpg
+[16]: images/declarations_pit/epity_11_dodatkowe_informacje.jpg
+[17]: images/declarations_pit/epity_12_dluznicy.jpg
+[18]: https://www.e-pity.pl/wykaz-opp/
+[19]: images/declarations_pit/epity_13_zmien_opp.jpg
+[20]: images/declarations_pit/epity_14_wybor_opp.jpg
+[21]: https://tpu.org.pl/
+[22]: https://www.facebook.com/fundacja.sw.franciszka/
+[23]: https://belaruscenter.eu/by/
+[24]: images/declarations_pit/epity_15_podsumowanie.jpg
+[25]: images/declarations_pit/epity_16_lista_deklaracji.jpg
+[26]: images/declarations_pit/epity_17_akcje_deklaracji.jpg
+[27]: images/declarations_pit/epity_08_1_wplacony_ryczalt.jpg
+[28]: images/declarations_pit/epity_18_rachunek_zwrotu.jpg
+[29]: https://en.ocalenie.org.pl
+[30]: https://t.me/JDG_PBH/372301
+[31]: https://dzieciom.pl/podopieczni/42671
+[32]: https://dzieciom.pl/podopieczni/43917
+[33]: https://www.siepomaga.pl/vasilisa-loban
+[34]: https://dzieciom.pl/podopieczni/40923
+[35]: https://fanimani.pl/standwithukraine/
+[36]: https://www.facebook.com/bmhuborg
+[37]: https://news.zerkalo.io/economics/91472.html
+[38]: https://devby.io/news/support-devby24
+[39]: https://t.me/partyzanka_rb_pl/650
+[40]: https://www.siepomaga.pl/artem-padzialowski
+[41]: https://dzieciom.pl/podopieczni/44133
+[42]: https://www.siepomaga.pl/margarita
+[43]: https://www.siepomaga.pl/nastka-liaszczewicz
+[44]: https://www.siepomaga.pl/yeudakim-zacharewicz
+[45]: images/declarations_pit/eurzad_01_forma_dzialalnosci.png
+[46]: images/declarations_pit/eurzad_02_przychody.png
+[47]: images/declarations_pit/eurzad_zus_01_informacje_roczne.png
+[48]: images/declarations_pit/eurzad_zus_02_skladki_roczne.png
+[49]: images/declarations_pit/eurzad_03_skladki_zdrowotne.png
+[50]: images/declarations_pit/eurzad_04_ryczalt_wplacony.png
+[51]: images/declarations_pit/eurzad_05_podsumowanie.png
+[52]: images/declarations_pit/eurzad_06_przeglad_deklaracji.png
+[53]: images/declarations_pit/eurzad_07_akceptuj_wyslij.png
+[54]: images/declarations_pit/eurzad_08_wyslano.png
+[55]: images/declarations_pit/eurzad_09_zlozone_dokumenty.png
+[56]: https://www.siepomaga.pl/paulina-danilchanka
+[57]: https://www.biznes.gov.pl/pl/portal/00235#5
+[58]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-dochodowy-od-osob-fizycznych-16794311/art-6
+[59]: https://www.podatki.gov.pl/poradniki-i-informatory/wspolne-rozliczenie-malzonkow/
+[60]: https://www.e-pity.pl/wspolne-rozliczenie-malzonkow-pit/
+[61]: https://www.podatki.gov.pl/poradniki-i-informatory/osoba-samotnie-wychowujaca-dziecko/
+[62]: https://urzadskarbowy.gov.pl/services
+[63]: https://www.e-pity.pl
+[64]: https://fill-up.pl
+[65]: https://www.pitroczny.pl
+[66]: https://wfirma.pl
+[67]: https://pomoc.infakt.pl/hc/pl/articles/115000185250-Gdzie-znale%C5%BA%C4%87-PIT-roczny-w-aplikacji
+[68]: https://t.me/JDG_PBH/515049
+[69]: https://pomoc.wfirma.pl/-zeznanie-roczne-pit-28-jak-wygenerowac-i-uzupelnic-w-systemie
+[70]: https://www.google.com/search?q=dy%C5%BCur+podatkowy+PIT+warszawa
+[71]: https://ursynow.um.warszawa.pl/-/dyzur-pracownikow-urzedu-skarbowego-na-ursynowie
+[72]: https://klient-eformularz.mf.gov.pl/declaration-client/status
+[73]: https://www.pit.pl/korekta-zeznania/
+[74]: taxes.md#how-to-find-your-tax-payment-account
+[75]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/zryczaltowany-podatek-dochodowy-od-niektorych-przychodow-16832090/art-11

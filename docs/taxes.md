@@ -152,4 +152,3 @@ EU VAT number.
 [16]: https://www.biznes.gov.pl/pl/portal/00248
 [17]: https://ec.europa.eu/taxation_customs/vies/
 [18]: faq.md#podokhodnyi-nalog
-[19]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx

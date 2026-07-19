@@ -11,7 +11,7 @@ tags:
 
 Information on taxes for sole proprietors (JDG) in Poland.
 
-Accounting for JDG: [Legal Tax Level][20]
+Accounting for JDG: [Legal Tax Level][18]
 
 ## PIT: Income Tax
 
@@ -60,15 +60,15 @@ You can order a certificate confirming no tax debts on the [urzadskarbowy.gov.pl
 
 Go to [urzadskarbowy.gov.pl](https://urzadskarbowy.gov.pl/submitDocument/applications). Log in to your online tax office account, for example via `Profil zaufany`, and then follow these steps:
 
-- **Step 1.** You need to enable e-Correspondence, otherwise at the end of Step 8 you will encounter an unpleasant surprise — a loop with no way to proceed with the submission: ![e-Urząd Skarbowy: error caused by disabled e-Korespondencja][13]![Submission stuck in a loop with no way to continue][14] Go to `Ustawienia` > `Zgody i powiadomienia` and link your email and/or phone number.
-- **Step 2.** In the side menu, select `Dokumenty` > `Złóż dokument`. In the list of documents, find `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![Dokumenty → Złóż dokument: selecting Zaświadczenie o niezaleganiu][3]
-- **Step 3.** Select the certificate type — `o niezaleganiu w podatkach`, i.e. a certificate confirming that you have no debts. ![Choosing the certificate type — o niezaleganiu w podatkach][4]
-- **Step 4.** Select who the certificate is for — `za siebie`, i.e. for yourself. ![Choosing who the certificate is for — za siebie][5]
-- **Step 5.** Choose which identifier will be printed on the certificate — `PESEL` if you need it as an individual, or `NIP` if you need it as a business entity. This changes one line on the certificate — _Dane identyfikacyjne podatnika_ — to the selected option. The address details are filled in automatically from what you submitted to the tax office when registering your JDG. ![Choosing PESEL or NIP identifier to print on the certificate][6]
-- **Step 6.** In a free-text field, write the purpose of the certificate, for example — `w celu uzyskania karty pobytu`. You can see examples on the right by clicking `Więcej`. This does not appear to affect the final result. ![Certificate purpose field, examples under the Więcej link][7]
-- **Step 7.** Optional, but you can leave your phone number and email for contact. This step also does not appear to affect the result. ![Optional contact details — phone and email][8]
-- **Step 8.** Verify that all details are correct and click the `Akceptuj i wyślij` button to submit. In the pop-up window, confirm once more by clicking `Wyślij wniosek` to send the request. ![Application summary and the Akceptuj i wyślij button][9] ![Confirming submission with the Wyślij wniosek button][10]
-- **Step 9.** After submitting the request, a message will say that processing takes up to seven days. However, it appears to be fully automated, and the response arrives within a couple of minutes, even at night and on weekends. A notification about the ready certificate is sent to your email and also appears in your e-Urząd account. To download the certificate, select `Dokumenty` > `Dokumenty otrzymane` in the right-side menu. There you will see a list of all received documents — click the `Odbierz` button and download the PDF certificate. The certificate will be two pages long; below is an example of what it looks like. ![Dokumenty otrzymane: Odbierz button to download the certificate][11] ![Example of the issued o niezaleganiu w podatkach certificate][12]
+- **Step 1.** You need to enable e-Correspondence, otherwise at the end of Step 8 you will encounter an unpleasant surprise — a loop with no way to proceed with the submission: ![e-Urząd Skarbowy: error caused by disabled e-Korespondencja][12]![Submission stuck in a loop with no way to continue][13] Go to `Ustawienia` > `Zgody i powiadomienia` and link your email and/or phone number.
+- **Step 2.** In the side menu, select `Dokumenty` > `Złóż dokument`. In the list of documents, find `Zaświadczenie o niezaleganiu lub stanie zaległości w podatkach`. ![Dokumenty → Złóż dokument: selecting Zaświadczenie o niezaleganiu][2]
+- **Step 3.** Select the certificate type — `o niezaleganiu w podatkach`, i.e. a certificate confirming that you have no debts. ![Choosing the certificate type — o niezaleganiu w podatkach][3]
+- **Step 4.** Select who the certificate is for — `za siebie`, i.e. for yourself. ![Choosing who the certificate is for — za siebie][4]
+- **Step 5.** Choose which identifier will be printed on the certificate — `PESEL` if you need it as an individual, or `NIP` if you need it as a business entity. This changes one line on the certificate — _Dane identyfikacyjne podatnika_ — to the selected option. The address details are filled in automatically from what you submitted to the tax office when registering your JDG. ![Choosing PESEL or NIP identifier to print on the certificate][5]
+- **Step 6.** In a free-text field, write the purpose of the certificate, for example — `w celu uzyskania karty pobytu`. You can see examples on the right by clicking `Więcej`. This does not appear to affect the final result. ![Certificate purpose field, examples under the Więcej link][6]
+- **Step 7.** Optional, but you can leave your phone number and email for contact. This step also does not appear to affect the result. ![Optional contact details — phone and email][7]
+- **Step 8.** Verify that all details are correct and click the `Akceptuj i wyślij` button to submit. In the pop-up window, confirm once more by clicking `Wyślij wniosek` to send the request. ![Application summary and the Akceptuj i wyślij button][8] ![Confirming submission with the Wyślij wniosek button][9]
+- **Step 9.** After submitting the request, a message will say that processing takes up to seven days. However, it appears to be fully automated, and the response arrives within a couple of minutes, even at night and on weekends. A notification about the ready certificate is sent to your email and also appears in your e-Urząd account. To download the certificate, select `Dokumenty` > `Dokumenty otrzymane` in the right-side menu. There you will see a list of all received documents — click the `Odbierz` button and download the PDF certificate. The certificate will be two pages long; below is an example of what it looks like. ![Dokumenty otrzymane: Odbierz button to download the certificate][10] ![Example of the issued o niezaleganiu w podatkach certificate][11]
 
 ## VAT
 
@@ -95,11 +95,11 @@ You are required to register as a VAT payer in the following cases:
 3. You want to deduct VAT from business purchases (e.g., laptop, phone, furniture, and other items essential for your sole proprietorship).
 
 !!! tip "How to verify registration?"
-    You can do this on the [tax authority website][16] — this is the so-called white list (biała lista) of all VAT payers.
+    You can do this on the [tax authority website][15] — this is the so-called white list (biała lista) of all VAT payers.
 
 !!! note "VAT notes"
     - VAT is 23%
-    - There is a dedicated [VAT page on biznes.gov.pl][17].
+    - There is a dedicated [VAT page on biznes.gov.pl][16].
     - Starting from 2026, faktury are gradually being moved to the mandatory government system
       [KSeF](declarations_vat.md) — from April 1, 2026, the obligation to issue e-faktury applies to
       virtually everyone, including those exempt from VAT.
@@ -117,7 +117,7 @@ After registering in the VAT EU payer database (wniosek VAT-R), add the prefix P
 EU VAT number.
 
 !!! tip "How to verify registration?"
-    You can verify that your counterpart is a VAT-EU payer in the [European Commission's VIES database][18].
+    You can verify that your counterpart is a VAT-EU payer in the [European Commission's VIES database][17].
 
 ### VAT for Other Countries
 
@@ -131,24 +131,23 @@ be sure to include the following comment:
 
 ## FAQ
 
-Also see the [list of questions and answers in the FAQ section][15].
+Also see the [list of questions and answers in the FAQ section][14].
 
 [1]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
-[2]: https://docs.google.com/spreadsheets/d/e/2PACX-1vQmVuip8ZT3PR-Zqo6z1wi47lfMz9kHWD6m1MJNSzfZ4C8wDVv-OKyf53wK3MPPTQ/pub?output=xlsx
-[3]: images/taxes/zaswiadczenie_00_create_document.jpg
-[4]: images/taxes/zaswiadczenie_01_document_details.jpg
-[5]: images/taxes/zaswiadczenie_02_who_concerns.jpg
-[6]: images/taxes/zaswiadczenie_03_identification_data.jpg
-[7]: images/taxes/zaswiadczenie_04_certificate_purpose.jpg
-[8]: images/taxes/zaswiadczenie_05_contact_details.jpg
-[9]: images/taxes/zaswiadczenie_06_summary.jpg
-[10]: images/taxes/zaswiadczenie_07_submit_confirmation.jpg
-[11]: images/taxes/zaswiadczenie_08_received_documents.jpg
-[12]: images/taxes/zaswiadczenie_09_certificate_example.jpg
-[13]: images/taxes/zaswiadczenie_10_e_correspondence_error.jpg
-[14]: images/taxes/zaswiadczenie_11_stop_process.jpg
-[15]: faq.md#income-tax
-[16]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
-[17]: https://www.biznes.gov.pl/pl/portal/00248
-[18]: https://ec.europa.eu/taxation_customs/vies/
-[20]: https://legaltaxlevel.com/ip_pl
+[2]: images/taxes/zaswiadczenie_00_create_document.jpg
+[3]: images/taxes/zaswiadczenie_01_document_details.jpg
+[4]: images/taxes/zaswiadczenie_02_who_concerns.jpg
+[5]: images/taxes/zaswiadczenie_03_identification_data.jpg
+[6]: images/taxes/zaswiadczenie_04_certificate_purpose.jpg
+[7]: images/taxes/zaswiadczenie_05_contact_details.jpg
+[8]: images/taxes/zaswiadczenie_06_summary.jpg
+[9]: images/taxes/zaswiadczenie_07_submit_confirmation.jpg
+[10]: images/taxes/zaswiadczenie_08_received_documents.jpg
+[11]: images/taxes/zaswiadczenie_09_certificate_example.jpg
+[12]: images/taxes/zaswiadczenie_10_e_correspondence_error.jpg
+[13]: images/taxes/zaswiadczenie_11_stop_process.jpg
+[14]: faq.md#income-tax
+[15]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
+[16]: https://www.biznes.gov.pl/pl/portal/00248
+[17]: https://ec.europa.eu/taxation_customs/vies/
+[18]: https://legaltaxlevel.com/ip_pl

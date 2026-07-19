@@ -89,7 +89,7 @@ Most likely wFirma will prompt you to fill in these details when you try to calc
     - Rodzaj dokumentu, numer dokumentu: type and number of identity document (seems to be optional). If filling in, as a foreigner choose "paszport" (passport) and enter your passport number (Latin letters and digits only, no spaces).
     - Data urodzenia: date of birth in YYYY-MM-DD format
 
-   ![wFirma: Rodzaj firmy i właściciele dialog with owner details][37]
+   ![wFirma: Rodzaj firmy i właściciele dialog with owner details][36]
 
 Click Zapisz to save.
 
@@ -325,7 +325,7 @@ In the **Faktury => Serie numeracji** section, you can add a custom numbering se
 5. In the Numer początkowy field, enter the starting number for this series. Usually "1", but when migrating from another invoicing system you may want to start from a different number to keep the numbering continuous.
 6. "Resetowanie numeru: co rok" - reset the numbering every year (a sensible default).
 
-![wFirma: Faktury → Serie numeracji, add series dialog][31]
+![wFirma: Faktury → Serie numeracji, add series dialog][30]
 
 To save the changes, click Zapisz twice.
 
@@ -336,7 +336,7 @@ In the **Faktury => Szablony** section, on the Wybór szablonów tab, you can ch
 - the "Podgląd" (preview) button lets you see what the invoice will look like.
 - the blue "Wybierz" (select) button lets you pick the template to use by default. You can always change the template for a specific invoice when issuing it.
 
-![wFirma: Faktury → Szablony, invoice template selection][32]
+![wFirma: Faktury → Szablony, invoice template selection][31]
 
 ### Email template
 
@@ -357,7 +357,7 @@ In the **Faktury => Powiadomienia** section, on the Email tab, you can change th
 
 6. Check the "domyślny szablon" (default template) box if you want this template to always be used when automatically sending invoices.
 
-![wFirma: Faktury → Powiadomienia, invoice email template][33]
+![wFirma: Faktury → Powiadomienia, invoice email template][32]
 
 To save the changes, click Zapisz twice.
 
@@ -378,22 +378,22 @@ To send ZUS DRA declarations from wfirma, you need to verify your profile. This 
 
 ## Migrating bookkeeping
 
-For details on migrating from another system, check the guide [Migrating to wFirma][34].
+For details on migrating from another system, check the guide [Migrating to wFirma][33].
 
 ## Backups
 
 In the **Bezpieczeństwo => Kopie zapasowe** dialog, click the "Stwórz kopię" button to create a backup of your account settings. Backups are created automatically, but this button lets you create one at any time.
 Restoring data is a risky operation and should only be used as a last resort.
 
-![wFirma: Bezpieczeństwo → Kopie zapasowe, Stwórz kopię button][30]
+![wFirma: Bezpieczeństwo → Kopie zapasowe, Stwórz kopię button][29]
 
 ## Done
 
 If something went wrong or you ran into issues, you can reach out to wFirma support:
 
 - Pomoc: click the (?) icon in the top right corner.
-- Asysta: [assistant][35]
-- email: [buiro@wfirma.pl][36]
+- Asysta: [assistant][34]
+- email: [buiro@wfirma.pl][35]
 
 Note: the first 2 methods are available only to logged-in users.
 
@@ -425,12 +425,11 @@ Note: the first 2 methods are available only to logged-in users.
 [26]: https://poradnikprzedsiebiorcy.pl/-formaty-numerow-identyfikacyjnych-vat-w-krajach-czlonkowskich-2014
 [27]: images/wfirma_settings/podatki_zus_zdrowotna.png
 [28]: images/wfirma_settings/podatki_ogolne_przenosisz_ksiegowosc.png
-[29]: https://pomoc.wfirma.pl/-przeniesienie-ksiegowosci-w-trakcie-roku
-[30]: images/wfirma_settings/bezpieczenstwo_kopie_zapasowe.png
-[31]: images/wfirma_settings/faktury_serie_numeracji.png
-[32]: images/wfirma_settings/faktury_szablony.png
-[33]: images/wfirma_settings/faktury_powiadomienia_email.png
-[34]: wfirma_migration.md
-[35]: https://wfirma.pl/messages/supportIssues
-[36]: mailto:buiro@wfirma.pl
-[37]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_wlasciciele.png
+[29]: images/wfirma_settings/bezpieczenstwo_kopie_zapasowe.png
+[30]: images/wfirma_settings/faktury_serie_numeracji.png
+[31]: images/wfirma_settings/faktury_szablony.png
+[32]: images/wfirma_settings/faktury_powiadomienia_email.png
+[33]: wfirma_migration.md
+[34]: https://wfirma.pl/messages/supportIssues
+[35]: mailto:buiro@wfirma.pl
+[36]: images/wfirma_settings/ustawienia_rodzaj_firmy_i_wlasciciele.png
