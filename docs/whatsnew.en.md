@@ -9,6 +9,7 @@ tags:
 
 ## July 2026
 
+- Revamped the [support page](support.md): donate via Buy Me a Coffee right on the page, a QR code for Revolut, and a section on how to help the guide without money.
 - The [support button](support.md) now shows automatically at the bottom of every page (previously it was added manually to only some pages).
 - Revamped the [home page](index.md): "I want to open a JDG" and "I already run a JDG" paths, a 2026 contribution cost summary, a block of important changes (KSeF, VAT limit, ZUS vacation), and a disclaimer.
 - Updated the [legal bases for obtaining a PESEL](pesel.md): the official tax-purposes basis (KAS recommendation) is now primary; the repealed 2016 regulation and the KRS-act basis were removed.
