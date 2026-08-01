@@ -138,7 +138,7 @@ Anyone can register a company. You can find more information in the [:telegram: 
 [1]: https://sobolevbel.github.io/jdg/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
-[4]: https://legaltaxlevel.com/ip_pl
+[4]: https://legaltaxlevel.com/ippl-en
 [5]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
 [6]: https://t.me/+Lu-5LydDmcdhYjNi
 [7]: https://t.me/llc_poland
