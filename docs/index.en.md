@@ -10,8 +10,7 @@ tags:
 # Welcome to the JDG Guide
 
 Jednoosobowa działalność gospodarcza is a form of business in Poland, similar to
-a sole proprietorship in other countries. This guide is also available
-[in Russian][1].
+a sole proprietorship in other countries.
 
 Have questions, want to learn more, or help edit this guide?
 
@@ -135,7 +134,6 @@ Anyone can register a company. You can find more information in the [:telegram: 
     official sources ([biznes.gov.pl][8], [podatki.gov.pl][9],
     [zus.pl][10]) or consult an accountant.
 
-[1]: https://sobolevbel.github.io/jdg/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
 [4]: https://legaltaxlevel.com/ippl-en
