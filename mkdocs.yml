@@ -38,6 +38,7 @@ nav:
     - Легализация: legalization.md
     - Подача через MOS: legalization_mos2.md
   - Рабочий процесс: workflow.md
+  - Бухгалтер под ключ: accounting.md
   - Как отправить письмо в налоговую: pismo_ogolne.md
   - inFakt:    # section
     - Настройка: infakt_settings.md
@@ -128,6 +129,7 @@ plugins:
             Легализация: Legalization
             Подача через MOS: Applying via MOS
             Рабочий процесс: Workflow
+            Бухгалтер под ключ: Full-Service Accounting
             Как отправить письмо в налоговую: Letter to Tax Office
             Настройка: Setup
             Ежемесячные операции: Monthly Operations

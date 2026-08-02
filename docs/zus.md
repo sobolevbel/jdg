@@ -1,6 +1,6 @@
 ---
-title: ZUS — социальное страхование для JDG
-description: Страховые взносы ZUS для ИП в Польше — składki społeczne и zdrowotne, режимы оплаты, Ulga na Start, Preferencyjne, Duży ZUS
+title: Взносы ZUS в Польше на 2026 год — социальное страхование ИП
+description: Сколько платить ZUS в 2026 году — таблица взносов для JDG, składki społeczne и zdrowotne, льготы Ulga na Start и Preferencyjne, как оплатить
 tags:
   - ZUS
   - Взносы

@@ -1,6 +1,6 @@
 ---
-title: Self-Employment Taxes in Poland (JDG)
-description: Taxes for sole proprietors in Poland — ryczałt, skala podatkowa, podatek liniowy, VAT. Tax rates, calculators, payment accounts
+title: JDG Taxes in Poland 2026 — Ryczałt, PIT, VAT and Calculators
+description: What taxes a sole proprietor pays in Poland in 2026 — ryczałt, skala podatkowa, podatek liniowy, VAT. Rates, tax calculators, mikrorachunek and deadlines
 tags:
   - Taxes
   - JDG
@@ -11,7 +11,10 @@ tags:
 
 Information on taxes for sole proprietors (JDG) in Poland.
 
-Accounting for JDG: [Legal Tax Level][18]
+!!! success "Don't want to do the tax math yourself"
+    The guide's partner [Legal Tax Level][18] runs your JDG end-to-end
+    from 225 PLN/month — details on the
+    [Full-Service Accounting](accounting.md) page.
 
 ## PIT: Income Tax
 
@@ -150,4 +153,4 @@ Also see the [list of questions and answers in the FAQ section][14].
 [15]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
 [16]: https://www.biznes.gov.pl/pl/portal/00248
 [17]: https://ec.europa.eu/taxation_customs/vies/
-[18]: https://legaltaxlevel.com/ip_pl
+[18]: https://legaltaxlevel.com/ippl-en?utm_source=jdg-guide&utm_medium=referral&utm_campaign=accounting&utm_content=taxes-en

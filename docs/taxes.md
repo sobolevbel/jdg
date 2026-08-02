@@ -1,6 +1,6 @@
 ---
-title: Налоги для JDG в Польше
-description: Налоги для ИП в Польше — ryczałt, skala podatkowa, podatek liniowy, VAT. Ставки, калькуляторы, счета для оплаты налогов
+title: Налоги ИП (JDG) в Польше 2026 — ryczałt, PIT, VAT и калькуляторы
+description: Какие налоги платит ИП в Польше в 2026 году — ryczałt, skala podatkowa, podatek liniowy, VAT. Ставки, налоговые калькуляторы, mikrorachunek и сроки оплаты
 tags:
   - Налоги
   - JDG
@@ -11,7 +11,10 @@ tags:
 
 Информация по налогам ИП в Польше.
 
-Бухгалтерия для JDG: [Legal Tax Level][1]
+!!! success "Не хотите считать налоги сами"
+    Партнёр гайда [Legal Tax Level][1] ведёт JDG под ключ по-русски
+    от 225 zł/мес — подробности на странице
+    [«Бухгалтер под ключ»](accounting.md).
 
 ## PIT: подоходный налог
 
@@ -134,7 +137,7 @@ EU VAT number.
 
 Также смотрите [список вопросов и ответов в разделе FAQ][18].
 
-[1]: https://legaltaxlevel.com/ip_pl
+[1]: https://legaltaxlevel.com/ip_pl?utm_source=jdg-guide&utm_medium=referral&utm_campaign=accounting&utm_content=taxes
 [2]: https://www.podatki.gov.pl/generator-mikrorachunku-podatkowego
 [3]: images/taxes/zaswiadczenie_10_e_correspondence_error.jpg
 [4]: images/taxes/zaswiadczenie_11_stop_process.jpg

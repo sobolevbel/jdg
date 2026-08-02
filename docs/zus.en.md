@@ -1,6 +1,6 @@
 ---
-title: ZUS — Social Insurance for the Self-Employed in Poland
-description: ZUS insurance contributions for sole traders in Poland — składki społeczne and zdrowotne, payment modes, Ulga na Start, Preferencyjne, Duży ZUS
+title: ZUS Contributions in Poland 2026 — Rates for the Self-Employed
+description: How much ZUS to pay in 2026 — contribution table for JDG, składki społeczne and zdrowotne, Ulga na Start and Preferencyjne reliefs, how to pay
 tags:
   - ZUS
   - Contributions
