@@ -25,6 +25,11 @@ As a JDG, you are obligated to issue an invoice (faktura) every month if you pro
     !!! abstract "VAT-UE"
         If you provide services to a person or entity within the EU — due by the 25th of each month
 
+!!! success "Don't want to do this yourself every month"
+    All the routine — invoices, declarations, payments — can be handed
+    over to [full-service accounting](accounting.md) from the guide's
+    partner, from 225 PLN/month, no Polish required.
+
 ## Plan
 
 1. You provide the service.

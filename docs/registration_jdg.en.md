@@ -374,6 +374,13 @@ You can verify all your company data on [biznes.gov.pl][52]
 
 If something went wrong or you encountered problems, you can write to the [chat on biznes.gov.pl][53] and ask your question.
 
+!!! success "Registration is only the beginning"
+    Invoices, ZUS contributions and declarations await you every month.
+    The [workflow](workflow.md) page will help you handle it yourself,
+    and if you'd rather delegate — there is
+    [full-service accounting](accounting.md) from the guide's partner,
+    no Polish required.
+
 [1]: pesel.md
 [2]: pz.md
 [3]: https://www.biznes.gov.pl/pl

@@ -7,6 +7,11 @@ tags:
 
 # Site changelog
 
+## August 2026
+
+- New page: [Full-Service Accounting](accounting.md) — when it makes sense to delegate the books, the terms of the guide's partner Legal Tax Level, and an honest section on alternatives.
+- The [Profil Zaufany](pz.md) page expanded: what you need it for, how to log in (including when the profile was created through a bank and there is no password), how to reset the password and extend its validity.
+
 ## July 2026
 
 - Content revision: updated the minimum income for the karta pobytu ([823 zł per family member / 1010 zł for a person living alone](legalization.md#3-confirmation-of-3-key-residency-requirements) as of 2026 — the guide previously cited the 2022 figure of 600 zł), removed stale 2022–2025 amounts and years across the ZUS, tax, and accounting pages, and the [family legalization checklist](legalization.md) no longer duplicates the entrepreneur's checklist.

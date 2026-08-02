@@ -19,7 +19,9 @@ Have questions, want to learn more, or help edit this guide?
     - [:telegram: contributors chat][3]
 
 !!! success "Accounting for JDG"
-    [Legal Tax Level][4]
+    No time to do the books yourself? The guide's partner
+    [Legal Tax Level][4] runs your JDG end-to-end from 225 PLN/month —
+    terms and details on the [Full-Service Accounting](accounting.md) page.
 
 ## Where to start
 
@@ -136,7 +138,7 @@ Anyone can register a company. You can find more information in the [:telegram: 
 
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
-[4]: https://legaltaxlevel.com/ippl-en
+[4]: https://legaltaxlevel.com/ippl-en?utm_source=jdg-guide&utm_medium=referral&utm_campaign=accounting&utm_content=index-en
 [5]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
 [6]: https://t.me/+Lu-5LydDmcdhYjNi
 [7]: https://t.me/llc_poland

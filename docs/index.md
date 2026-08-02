@@ -20,7 +20,9 @@ Jednoosobowa działalność gospodarcza это форма бизнеса в По
     - [:telegram: чат контрибьюторов][3]
 
 !!! success "Бухгалтерия для JDG"
-    [Legal Tax Level][4]
+    Нет времени вести учёт самому? Партнёр гайда [Legal Tax Level][4]
+    ведёт JDG под ключ по-русски от 225 zł/мес — условия и детали на
+    странице [«Бухгалтер под ключ»](accounting.md).
 
 ## С чего начать
 
@@ -138,7 +140,7 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
 [1]: https://sobolevbel.github.io/jdg/en/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
-[4]: https://legaltaxlevel.com/ip_pl
+[4]: https://legaltaxlevel.com/ip_pl?utm_source=jdg-guide&utm_medium=referral&utm_campaign=accounting&utm_content=index
 [5]: https://telegra.ph/CHto-vybrat-programmistu-v-2022-godu-inkubator-IP-ili-OOO-01-31
 [6]: https://t.me/+Lu-5LydDmcdhYjNi
 [7]: https://t.me/llc_poland
