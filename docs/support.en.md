@@ -1,6 +1,6 @@
 ---
 title: Support the project
-description: Help grow the JDG in Poland guide — donate via Buy Me a Coffee right on the page, Revolut, a GitHub star, or content contributions
+description: Help grow the JDG in Poland guide — donate via Buy Me a Coffee, Revolut, a GitHub star, or content contributions
 tags:
   - Reference
 ---
@@ -17,12 +17,7 @@ way helps.
 
 Donate to Jaŭhien S., the creator of the guide:
 
-<iframe src="https://buymeacoffee.com/widget/page/devsobolev"
-        title="Donate via Buy Me a Coffee"
-        style="width: 100%; max-width: 480px; height: 700px; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px;"
-        loading="lazy"></iframe>
-
-If the widget doesn't load, use the [Buy Me a Coffee page][1].
+[:coffee: Donate via Buy Me a Coffee][1]{ .md-button .md-button--primary }
 
 ### Revolut
 

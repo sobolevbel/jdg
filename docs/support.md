@@ -1,6 +1,6 @@
 ---
 title: Поддержать проект
-description: Поддержите развитие гайда по JDG в Польше — донат через Buy Me a Coffee прямо на странице, Revolut, звезда на GitHub, помощь с правками
+description: Поддержите развитие гайда по JDG в Польше — донат через Buy Me a Coffee, Revolut, звезда на GitHub, помощь с правками
 tags:
   - Справочник
 ---
@@ -14,14 +14,9 @@ tags:
 
 ### Buy Me a Coffee
 
-Донат создателю гайда Jaŭhien S. прямо в окошке ниже:
+Донат создателю гайда Jaŭhien S.:
 
-<iframe src="https://buymeacoffee.com/widget/page/devsobolev"
-        title="Донат через Buy Me a Coffee"
-        style="width: 100%; max-width: 480px; height: 700px; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px;"
-        loading="lazy"></iframe>
-
-Если окошко не загрузилось — [страница Buy Me a Coffee][1].
+[:coffee: Задонатить через Buy Me a Coffee][1]{ .md-button .md-button--primary }
 
 ### Revolut
 
