@@ -10,6 +10,7 @@ tags:
 ## August 2026
 
 - New page: [Full-Service Accounting](accounting.md) — when it makes sense to delegate the books, the terms of the guide's partner Legal Tax Level, and an honest section on alternatives.
+- Removed the "Support our guide" button from below page content — the [support page](support.md) remains in the menu.
 - The [Profil Zaufany](pz.md) page expanded: what you need it for, how to log in (including when the profile was created through a bank and there is no password), how to reset the password and extend its validity.
 
 ## July 2026

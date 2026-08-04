@@ -56,9 +56,8 @@ python -m mkdocs serve     # local preview at :8000
   Regular, white background, 4 px padding); blur personal data before
   committing.
 - Admonitions `!!! info/tip/note/warning/example` are used heavily.
-- The support button («Поддержите наш гайд чашкой кофе ♥») is injected
-  automatically below the content of every page (except `support.md`) by the
-  `content` block override in `overrides/main.html` — never add it manually.
+- There is no support button below page content (removed in August 2026 as
+  ineffective) — do not add one; the support page lives only in the nav.
 - Every user-facing change gets a bullet in `docs/whatsnew.md` **and**
   `docs/whatsnew.en.md` (current-month section, newest month on top).
 
