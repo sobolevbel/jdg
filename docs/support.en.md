@@ -21,25 +21,21 @@ Donate to Jaŭhien S., the creator of the guide:
 
 ### Revolut
 
-Donate to Henry (@pointless_henry), one of the chat regulars — via the
-button, or scan the QR code with your phone:
+Donate to Henry (pointless_henry), one of the chat regulars:
 
-[Donate via Revolut][2]{ .md-button .md-button--primary }
-
-![QR code for donating to Henry via Revolut (revolut.me/pointlesshenry)][3]{ width="220" }
+[:simple-revolut: Donate via Revolut][2]{ .md-button .md-button--primary }
 
 ## Without money
 
-- Star the [guide's GitHub repository][4] - it helps more people find it.
+- Star the [guide's GitHub repository][3] - it helps more people find it.
 - Spotted an error or an outdated figure? Click the pencil at the top of
-  the page and suggest an edit, or open an [issue][5].
-- Join the [contributors chat][6] - help with texts, screenshots, and
+  the page and suggest an edit, or open an [issue][4].
+- Join the [contributors chat][5] - help with texts, screenshots, and
   translations is always welcome.
 - Tell your friends and relevant chats about the guide.
 
 [1]: https://buymeacoffee.com/devsobolev
 [2]: https://revolut.me/pointlesshenry
-[3]: images/support/revolut_pointlesshenry_qr.png
-[4]: https://github.com/sobolevbel/jdg
-[5]: https://github.com/sobolevbel/jdg/issues
-[6]: https://t.me/+WK5ppqgHxXA3MjAy
+[3]: https://github.com/sobolevbel/jdg
+[4]: https://github.com/sobolevbel/jdg/issues
+[5]: https://t.me/+WK5ppqgHxXA3MjAy
