@@ -10,7 +10,7 @@ tags:
 
 ## Онлайн бухгалтерия wFirma первый год бесплатно 🪄
 
-Подписка для бухгалтерии ИП 2026: `MALAKSIEGOWOSC-2026` (1 год) или `K9D6ECEE29` (реферальный код pointless_henry, активиста чата) (подходит для ryczałt, skala podatkowa, liniowy).
+Подписка для бухгалтерии ИП 2026: `MALAKSIEGOWOSC-2026` (1 год) (подходит для ryczałt, skala podatkowa, liniowy).
 
 Регистрироваться только по этой ссылке ▶️ [https://wfirma.pl/rejestracja-przez-kody](https://wfirma.pl/rejestracja-przez-kody) ◀️
 
