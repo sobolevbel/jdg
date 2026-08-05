@@ -117,9 +117,9 @@ tags:
 [6]: infakt_routine.md#poluchenie-oplaty-i-uchet-kursovykh-raznits
 [7]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
 [8]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
-[9]: https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx
+[9]: https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/archiwum-tabela-a-csv-xls/
 [10]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
-[11]: https://www.podatki.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+[11]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
 [12]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [13]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
 [14]: https://sobolevbel.github.io/jdg/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul

@@ -4,15 +4,19 @@
       "urls": [
         "https://docs.github.com/",
         "https://aplikacja.ceidg.gov.pl/",
-        "https://www.podatki.gov.pl/"
+        "https://www.podatki.gov.pl/",
+        "https://podatki-arch.mf.gov.pl/"
       ],
       "headers": {
         "Accept-Encoding": "zstd, br, gzip, deflate"
       }
     }
   ],
-  "aliveStatusCodes": [200, 204],
+  "aliveStatusCodes": [200, 202, 204],
   "ignorePatterns": [
+    {
+      "pattern": "^#"
+    },
     {
       "pattern": "^https://.*\\.infakt\\.pl"
     },
@@ -30,6 +34,18 @@
     },
     {
       "pattern": "^https://buymeacoffee.com"
+    },
+    {
+      "pattern": "^https://(www\\.)?nbp\\.pl"
+    },
+    {
+      "pattern": "^https://eskladka\\.pl"
+    },
+    {
+      "pattern": "^https://mos\\.cudzoziemcy\\.gov\\.pl"
+    },
+    {
+      "pattern": "^https://ursynow\\.um\\.warszawa\\.pl"
     }
   ]
 }

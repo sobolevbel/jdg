@@ -116,9 +116,9 @@ List of documents:
 [5]: infakt_routine.md#receiving-payment-and-accounting-for-exchange-rate-differences
 [6]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
 [7]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
-[8]: https://www.nbp.pl/home.aspx?c=/ascx/archa.ascx
+[8]: https://nbp.pl/en/statistic-and-financial-reporting/rates/archive-table-a-csv-xls/
 [9]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
-[10]: https://www.podatki.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+[10]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
 [11]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [12]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
 [13]: https://sobolevbel.github.io/jdg/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul
