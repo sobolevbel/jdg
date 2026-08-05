@@ -10,7 +10,7 @@ tags:
 
 ## wFirma online bookkeeping — first year free 🪄
 
-Subscription for sole trader bookkeeping 2026: `MALAKSIEGOWOSC-2026` (1 year) or `PROX-KSIEGOWOSC` (3 months) (works for ryczałt, skala podatkowa, liniowy).
+Subscription for sole trader bookkeeping 2026: `MALAKSIEGOWOSC-2026` (1 year) or `K9D6ECEE29` (referral code from pointless_henry, one of the chat regulars) (works for ryczałt, skala podatkowa, liniowy).
 
 Register only via this link ▶️ [https://wfirma.pl/rejestracja-przez-kody](https://wfirma.pl/rejestracja-przez-kody) ◀️
 
