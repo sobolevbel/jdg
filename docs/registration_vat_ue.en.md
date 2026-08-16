@@ -104,16 +104,12 @@ We want to register as a VAT-UE taxpayer.
 
 ## 13. Registering as a VAT UE taxpayer
 
-![Rejestracja podatnika VAT-UE: goods and services checkboxes, registration date][14]
+![Rejestracja podatnika VAT UE: info box on the registration title and the intra-community transactions start date field][14]
 
-- First checkbox — if you're going to buy or sell goods.
-- Second checkbox — if you're going to buy or sell services.
+This step used to have checkboxes for picking what exactly you'll be doing (goods or services), but CEIDG simplified the form: now it's just an info box explaining what VAT-UE registration allows, and the only thing to fill in is `Przewidywana data rozpoczęcia transakcji wewnątrzwspólnotowych` — the expected date you'll start transactions with EU counterparties.
 
-We know we're selling services, so we definitely tick the second one.
-For buying stuff, apparently you don't have to be registered. So if you're sure you're not exporting goods for sale, one checkbox is enough.
-
-The VAT registration date must be at least one day after you submit the application.
-Example: if you send it on 28 April, the earliest registration date is 29 April.
+The date must be at least one day after you submit the application.
+Example: if you send it on 28 April, the earliest date is 29 April.
 
 ## 14. Applicant information
 
@@ -189,7 +185,7 @@ There's also a [Telegram bot][24] you can use to track your registration.
 [11]: registration_vat.md#5-waive-the-exemption
 [12]: images/registration_vat_ue/dane_identyfikacyjne.png
 [13]: images/registration_vat_ue/pytanie_vat_ue.png
-[14]: images/registration_vat_ue/towary_uslugi.png
+[14]: images/registration_vat_ue/data_transakcji.png
 [15]: images/registration_vat_ue/dane_wnioskodawcy.png
 [16]: images/registration_vat_ue/potwierdzenie.png
 [17]: images/registration_vat_ue/oswiadczenie.png
