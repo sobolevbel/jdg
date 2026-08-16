@@ -46,6 +46,9 @@
     },
     {
       "pattern": "^https://ursynow\\.um\\.warszawa\\.pl"
+    },
+    {
+      "pattern": "^https://news\\.zerkalo\\.io"
     }
   ]
 }
