@@ -8,6 +8,11 @@ max_concurrency = 64
 max_retries = 2
 timeout = 30
 
+# Slow-from-CI sites (gofin.pl, poland-consult.com...) time out intermittently
+# on GitHub runners while being fine in a browser. Dead links virtually always
+# fail with 404/DNS errors rather than timeouts, so timeouts don't fail the run.
+accept_timeouts = true
+
 # Same set as the old aliveStatusCodes [200, 202, 204], plus the codes in between.
 accept = ["200..=204"]
 
