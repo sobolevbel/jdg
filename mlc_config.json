@@ -52,6 +52,12 @@
     },
     {
       "pattern": "^https://mojafirma\\.org"
+    },
+    {
+      "pattern": "^https://psz\\.praca\\.gov\\.pl"
+    },
+    {
+      "pattern": "^https://programistanaswoim\\.pl"
     }
   ]
 }
