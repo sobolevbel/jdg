@@ -291,7 +291,6 @@ PIT-28 с доходами от аренды является исключени
 
 Cel szczególowy не всегда обязателен. Вводить его нужно без кавычек, ровно так, как указано.
 
-- 0000507234 - Беларуская инициатива [Partyzanka][35] (cel szczegółowy: **85537**). Помощь беженцам Беларуси и Украины.
 - 0000030279 - Польский фонд [Ocalenie][36], активно помогающий беженцам Беларуси, Украины и других стран.
 - 0000190607 - [Towarzystwo][37] przyjaciół Ukrainy.
 - 0000507234 - Fundacja [Stand with Ukraine][38] (cel szczegółowy: **83905**). Помощь жертвам войны.
@@ -535,7 +534,6 @@ p.s. Это мой любимый способ декларирования. Т�
 [32]: images/declarations_pit/epity_18_rachunek_zwrotu.jpg
 [33]: images/declarations_pit/epity_13_zmien_opp.jpg
 [34]: images/declarations_pit/epity_14_wybor_opp.jpg
-[35]: https://t.me/partyzanka_rb_pl/650
 [36]: https://en.ocalenie.org.pl
 [37]: https://tpu.org.pl/
 [38]: https://fanimani.pl/standwithukraine/

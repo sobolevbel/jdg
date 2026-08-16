@@ -291,7 +291,6 @@ Below is a list of funds that might interest you.
 
 Cel szczególowy is not always required. Enter it without quotation marks, exactly as shown.
 
-- 0000507234 - Belarusian initiative [Partyzanka][39] (cel szczegółowy: **85537**). Helping refugees from Belarus and Ukraine.
 - 0000030279 - Polish fund [Ocalenie][29], actively helping refugees from Belarus, Ukraine, and other countries.
 - 0000190607 - [Towarzystwo][21] przyjaciół Ukrainy.
 - 0000507234 - Fundacja [Stand with Ukraine][35] (cel szczegółowy: **83905**). Helping war victims.
@@ -539,7 +538,6 @@ You must pay the tax by 30.04 regardless of when you filed the PIT declaration. 
 [36]: https://www.facebook.com/bmhuborg
 [37]: https://news.zerkalo.io/economics/91472.html
 [38]: https://devby.io/news/support-devby24
-[39]: https://t.me/partyzanka_rb_pl/650
 [40]: https://www.siepomaga.pl/artem-padzialowski
 [41]: https://dzieciom.pl/podopieczni/44133
 [42]: https://www.siepomaga.pl/margarita
