@@ -14,10 +14,11 @@ python -m mkdocs serve     # local preview at :8000
 ```
 
 - Lint: `mdl -s .github/workflows/markdown_linter_rules.rb docs/.`
-- CI on every PR: mdl lint, mkdocs build, markdown-link-check, alt-text check
-  (rejects `![]`, `![N]` and filename-like alts).
+- CI on every PR: mdl lint, mkdocs build, lychee link check (config in
+  `lychee.toml`), alt-text check (rejects `![]`, `![N]` and filename-like alts).
 - Verify every new external link returns 200 (`curl -sI`) before adding — the CI
-  link checker fails the PR otherwise.
+  link checker fails the PR otherwise. Sites that are alive in a browser but
+  block bots go into `exclude` in `lychee.toml`.
 
 ## Bilingual structure (mkdocs-static-i18n, suffix mode)
 

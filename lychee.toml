@@ -1,0 +1,35 @@
+# Link checker configuration (lychee), used by .github/workflows/markdown_link_check.yml.
+# Migrated from mlc_config.json (markdown-link-check).
+
+# Browser-like UA: many sites (gov.pl, news outlets) reject requests with bot user agents.
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+
+max_concurrency = 64
+max_retries = 2
+timeout = 30
+
+# Same set as the old aliveStatusCodes [200, 202, 204], plus the codes in between.
+accept = ["200..=204"]
+
+# Sites that are alive in a browser but block or reset non-browser clients,
+# plus mkdocs-generated absolute paths that only exist on the published site.
+exclude = [
+  "^https://.*\\.infakt\\.pl",
+  "^https://.*mazowieckie\\.pl",
+  "^https://pio-przybysz\\.duw\\.pl",
+  "^https://arch-bip\\.ms\\.gov\\.pl",
+  "^/jdg/",
+  "^https://buymeacoffee\\.com",
+  "^https://(www\\.)?nbp\\.pl",
+  "^https://eskladka\\.pl",
+  "^https://mos\\.cudzoziemcy\\.gov\\.pl",
+  "^https://ursynow\\.um\\.warszawa\\.pl",
+  "^https://news\\.zerkalo\\.io",
+  "^https://mojafirma\\.org",
+  "^https://psz\\.praca\\.gov\\.pl",
+  "^https://programistanaswoim\\.pl",
+  "^https://(www\\.)?facebook\\.com",
+  "^https://aplikacja\\.ceidg\\.gov\\.pl",
+  "^https://pz\\.gov\\.pl",
+  "^https://www\\.gov\\.pl/web/gov/przedluz-waznosc-profilu-zaufanego",
+]
