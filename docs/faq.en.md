@@ -238,7 +238,7 @@ Yes. However, when (or if) you register as a VAT payer, the tax office (Urząd S
 [4]: https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx
 [5]: https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know
 [6]: https://www.biznes.gov.pl/pl/portal/0077#5
-[7]: https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content
+[7]: https://poland-consult.com/biznes/likvidacija-biznesa.html
 [8]: https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow
 [9]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/prawo-przedsiebiorcow-18701388/art-19
 [10]: https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview

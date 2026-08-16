@@ -261,7 +261,7 @@ TL;DR Нет.
 [3]: https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx
 [4]: https://www.biznes.gov.pl/en/firma/doing-business-in-poland/termination-of-activity/terminating-your-activity-what-should-you-know
 [5]: https://www.biznes.gov.pl/pl/portal/0077#5
-[6]: https://poland-consult.com/praca/biznes/likvidacija-biznesa.html#kak-zakryt-ip-v-pol-she-?utm_source=table_of_content
+[6]: https://poland-consult.com/biznes/likvidacija-biznesa.html
 [7]: https://docs.google.com/spreadsheets/u/1/d/1kurqi18ONvt9xWohW6Xi62zmvWnlUHqu1cTeDyobbwI/htmlview
 [8]: https://t.me/JDG_PBH
 [9]: https://poradnikprzedsiebiorcy.pl/-obowiazkowy-rachunek-firmowy-dla-wszystkich-przedsiebiorcow
