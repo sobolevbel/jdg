@@ -105,9 +105,9 @@ References:
 <!-- resources -->
 
 [1]: https://aplikacja.ceidg.gov.pl/CEIDG/Index.aspx
-[2]: https://mojafirma.org/nomer-nip-v-polshe
+[2]: https://mojafirma.org/ru/nomer-nip-v-polshe/
 [3]: pesel.md
-[4]: https://mojafirma.org/chto-takoe-nomer-regon-v-polshe
+[4]: https://mojafirma.org/ru/chto-takoe-nomer-regon-v-polshe/
 [5]: https://www.biznes.gov.pl/pl/portal/00226
 [6]: zus.md
 [7]: https://infoopt.pl/praca-wysokie-kwalifikacje-blue-card/

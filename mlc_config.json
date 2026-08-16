@@ -49,6 +49,9 @@
     },
     {
       "pattern": "^https://news\\.zerkalo\\.io"
+    },
+    {
+      "pattern": "^https://mojafirma\\.org"
     }
   ]
 }
