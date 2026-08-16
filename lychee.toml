@@ -31,6 +31,6 @@ exclude = [
   "^https://(www\\.)?facebook\\.com",
   "^https://aplikacja\\.ceidg\\.gov\\.pl",
   "^https://pz\\.gov\\.pl",
-  "^https://www\\.gov\\.pl/web/gov/przedluz-waznosc-profilu-zaufanego",
+  "^https://www\\.gov\\.pl",
   "^https://poland-consult\\.com",
 ]
