@@ -1,9 +1,24 @@
 # CLAUDE.md
 
 Community guide "ИП в Польше" (running a sole proprietorship / JDG in Poland).
-MkDocs Material site published to GitHub Pages: <https://sobolevbel.github.io/jdg/>
+MkDocs Material site published to GitHub Pages: <https://twojajdg.pl/>
 (English mirror at `/en/`). Content language is Russian (canonical) + English mirror.
-There is **no custom domain** — the github.io URL above is the only canonical one.
+
+## Custom domain
+
+`twojajdg.pl` is an apex custom domain (registrar + DNS: OVH), live since
+August 2026. The `CNAME` file lives in **`docs/`**, not the repo root — CI
+deploys with `mkdocs gh-deploy --force`, which rewrites the whole `gh-pages`
+branch, so a root-level CNAME would be wiped on every deploy and GitHub would
+unset the domain. Apex needs four A records to `185.199.108–111.153` (plus AAAA
+`2606:50c0:8000–8003::153`); `www` is a CNAME to `sobolevbel.github.io`.
+GitHub then 301-redirects both `sobolevbel.github.io/jdg/` and `www` to the
+apex — that redirect is why every absolute URL (`site_url`, `extra.homepage`,
+the sitemap line in `docs/robots.txt`, in-content links) must point at
+`https://twojajdg.pl/` and never at the old github.io path. Own-domain links
+are excluded in `lychee.toml`: they only resolve after a deploy, and CI checks
+the PR before it. GA (`G-65Z83YVGT1`) pins `cookie_domain` in
+`docs/javascript/extra.js` — it must match the live host or nothing is tracked.
 
 ## Build and checks
 

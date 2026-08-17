@@ -17,8 +17,10 @@ accept_timeouts = true
 accept = ["200..=204"]
 
 # Sites that are alive in a browser but block or reset non-browser clients,
-# plus mkdocs-generated absolute paths that only exist on the published site.
+# plus our own absolute links and mkdocs-generated absolute paths, which only
+# resolve on the published site (a PR is checked before it is deployed).
 exclude = [
+  "^https://twojajdg\\.pl",
   "^https://.*\\.infakt\\.pl",
   "^https://.*mazowieckie\\.pl",
   "^https://pio-przybysz\\.duw\\.pl",

@@ -137,7 +137,7 @@ Enter **exactly the same data** in wFirma settings as you provided when register
         You can verify it using the official service [e-Składka](https://eskladka.pl/Home).
 
 2. Select the [contribution scheme][20] (Schemat składek społecznych).
-    * If you're just starting your sole trader adventure, this is most likely [Ulga na start](https://sobolevbel.github.io/jdg/zus/#ulga-na-start) (startup relief; make sure you're eligible for this relief!).
+    * If you're just starting your sole trader adventure, this is most likely [Ulga na start](https://twojajdg.pl/zus/#ulga-na-start) (startup relief; make sure you're eligible for this relief!).
     * If you're already an experienced entrepreneur, wFirma will additionally ask you to choose "Voluntary sickness contributions: YES/NO" (Dobrowolne chorobowe).
     * Here are all available options:
 
