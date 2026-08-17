@@ -87,6 +87,8 @@ theme:
 
 hooks:
   - hooks/seo_faq_schema.py
+  - hooks/i18n_redirects.py
+  - hooks/i18n_404.py
 
 plugins:
   - i18n:
@@ -161,12 +163,12 @@ plugins:
   - tags
   - glightbox
   - open-in-new-tab
+  # Canonical (Russian) pairs only — hooks/i18n_redirects.py mirrors them into
+  # the localized builds, which a '.en.md' key here cannot address.
   - redirects:
       redirect_maps:
         'registration.md': 'registration_jdg.md'
         'legalization_warsaw.md': 'legalization_mos2.md'
-        'registration.en.md': 'registration_jdg.en.md'
-        'legalization_warsaw.en.md': 'legalization_mos2.en.md'
   - minify:
       minify_html: true
 
