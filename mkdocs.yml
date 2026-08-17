@@ -1,7 +1,7 @@
 site_name: "JDG — ИП в Польше"
 site_description: "Гайд по регистрации и ведению JDG (ИП) в Польше"
 site_author: "sobolevbel"
-site_url: https://sobolevbel.github.io/jdg/
+site_url: https://twojajdg.pl/
 repo_url: https://github.com/sobolevbel/jdg
 repo_name: sobolevbel/jdg
 edit_uri: edit/master/docs/
@@ -188,7 +188,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 extra:
-  homepage: https://sobolevbel.github.io/jdg/
+  homepage: https://twojajdg.pl/
 
   consent:
     title: Cookie consent

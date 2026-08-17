@@ -9,7 +9,7 @@
   {% endif %}
   <meta property="og:site_name" content="{{ config.site_name }}" />
   {% if page and page.canonical_url %}
-  <link rel="alternate" hreflang="x-default" href="{{ page.canonical_url | replace('/jdg/en/', '/jdg/') }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ page.canonical_url | replace(config.site_url ~ 'en/', config.site_url) }}" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",

@@ -137,7 +137,7 @@ Spółka, sp.z.o.o - аналог ООО, общества с ограничен
     официальных источниках ([biznes.gov.pl][8], [podatki.gov.pl][9],
     [zus.pl][10]) или консультируйтесь с бухгалтером.
 
-[1]: https://sobolevbel.github.io/jdg/en/
+[1]: https://twojajdg.pl/en/
 [2]: https://t.me/JDG_PBH
 [3]: https://t.me/+WK5ppqgHxXA3MjAy
 [4]: https://legaltaxlevel.com/ip_pl?utm_source=jdg-guide&utm_medium=referral&utm_campaign=accounting&utm_content=index

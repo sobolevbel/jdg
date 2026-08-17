@@ -9,6 +9,7 @@ tags:
 
 ## August 2026
 
+- The guide moved to its own domain — `twojajdg.pl`. The old `sobolevbel.github.io/jdg/…` addresses redirect to the new ones automatically, so existing bookmarks and links shared in chats keep working.
 - Updated the [VAT-UE registration step in CEIDG](registration_vat_ue.md#13-registering-as-a-vat-ue-taxpayer): the goods/services checkboxes are gone from the form — now you only enter the expected start date of intra-community transactions (screenshot refreshed).
 - New page: [Full-Service Accounting](accounting.md) — when it makes sense to delegate the books, the terms of the guide's partner Legal Tax Level, and an honest section on alternatives.
 - The [Profil Zaufany](pz.md) page expanded: what you need it for, how to log in (including when the profile was created through a bank and there is no password), how to reset the password and extend its validity.

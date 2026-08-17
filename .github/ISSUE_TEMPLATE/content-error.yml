@@ -7,7 +7,7 @@ body:
     attributes:
       label: Страница гайда
       description: Ссылка на страницу, где нашли проблему
-      placeholder: https://sobolevbel.github.io/jdg/zus/
+      placeholder: https://twojajdg.pl/zus/
     validations:
       required: true
   - type: textarea

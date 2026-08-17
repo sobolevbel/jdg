@@ -122,4 +122,4 @@ tags:
 [11]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
 [12]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [13]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
-[14]: https://sobolevbel.github.io/jdg/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul
+[14]: https://twojajdg.pl/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul

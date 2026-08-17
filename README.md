@@ -8,7 +8,7 @@
 в Польше для иностранцев: PESEL, регистрация фирмы, ZUS, налоги, декларации,
 бухгалтерия, легализация (карта побыту).
 
-**📖 Читать гайд: <https://sobolevbel.github.io/jdg/>**
+**📖 Читать гайд: <https://twojajdg.pl/>**
 
 Вопросы и обсуждение — в Telegram-чате [«ИП в Польше»](https://t.me/JDG_PBH).
 Для участников проекта есть [чат контрибьюторов](https://t.me/+WK5ppqgHxXA3MjAy).
@@ -18,7 +18,7 @@
 A community-driven guide to registering and running a sole proprietorship (JDG)
 in Poland as a foreigner — PESEL, company registration, ZUS, taxes, VAT,
 accounting, residence permit. Read it at
-**<https://sobolevbel.github.io/jdg/en/>** (or use the language switcher in the
+**<https://twojajdg.pl/en/>** (or use the language switcher in the
 site header).
 
 ## Как помочь проекту
