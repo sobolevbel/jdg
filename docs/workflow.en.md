@@ -121,5 +121,5 @@ List of documents:
 [10]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
 [11]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [12]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
-[13]: https://twojajdg.pl/zus_vacation/#ezhemesiachnye-otchioty-vo-vremia-zus-kanikul
+[13]: zus_vacation.md#monthly-reports-during-zus-vacation
 [14]: declarations.md#zus-dra
