@@ -49,6 +49,14 @@ for submitting the wniosek — they may only come in handy for booking odbiór k
     As of (November 19, 2025), the [current document][20] contains the average salary by voivodeship for 2024, which shows that the equivalent of 12 salaries for Warmian-Masurian Voivodeship is **85,606.80** PLN, for Lodz Voivodeship — **91,759.44** PLN, and for Masovian Voivodeship — **113,867.28** PLN.
     The page with the document contains links to similar documents from previous years, which suggests that the same link will make it easy to access the fresh document for the following year.
 
+!!! info "For citizens of Ukraine with PESEL UKR"
+    For citizens of Ukraine with UKR status who run a JDG registered in CEIDG,
+    the office does not apply the art. 142 ust. 1 pkt 3 requirement on the
+    "size or quality" of the business — including the 12-average-salaries
+    criterion. This exemption from the special act was kept after its
+    wind-down on 5 March 2026
+    ([announcement of the Masovian voivodeship office][24]).
+
 ## General tips for preparing documents
 
 * Documents must be translated by a sworn translator (tłumacz przysięgły). A list of all sworn translators in Poland
@@ -97,6 +105,9 @@ If anything from the list below is missing, your application will be left withou
     data in Latin script and photo), in Lower Silesian — three copies.
 
 * Opłata skarbowa — stamp duty for issuing the decision (in this case — 340 zł) — pay and print the payment confirmation (in Polish).
+  For applications filed from 5 March 2026 onwards, the fee is **not refunded**
+  if the application is refused or the proceedings are discontinued
+  ([UdSC announcement][25]).
 
 !!! warning "Important"
     Payment details sometimes change. There may be multiple pages with payment details at the same time, old and new.
@@ -254,7 +265,9 @@ A document confirming that you have a place of residence:
   As of 2026, the income after deducting housing costs (for citizens of
   Belarus — without the deduction, see section 3.2) must exceed **823 zł**
   netto per month per family member, or **1010 zł** netto for a person
-  living alone (the income criteria are [published by the office][21]).
+  living alone (the income criteria are set by a
+  [regulation of the Council of Ministers][21] and revised every three
+  years, with the next revision due by 2028).
 
 Documents confirming stable and regular income from your JDG:
 
@@ -323,7 +336,8 @@ missing, your application will be left without consideration.
     in Pomorskie they ask for one copy + two copies of the last page (with passport
     data in Latin script and photo), in Lower Silesian — three copies.
 
-* Opłata skarbowa — stamp duty for issuing the decision (in this case — 340 zł).
+* Opłata skarbowa — stamp duty for issuing the decision (in this case — 340 zł;
+  from 5 March 2026 it is not refunded on refusal).
 
 ### 2. Proof of purpose of stay
 
@@ -391,6 +405,8 @@ documents](#general-tips-for-preparing-documents).
 [18]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/
 [19]: https://stat.gov.pl/wyszukiwarka/szukaj.html
 [20]: https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/obwieszczenie-w-sprawie-wysokosci-przecietnego-miesiecznego-wynagrodzenia-brutto-w-gospodarce-narodowej-w-wojewodztwach-w-2024-r-,295,11.html
-[21]: https://migrant.wsc.mazowieckie.pl/pl/slownik-pojec/stabilne-i-regularne-zrodlo-dochodu
+[21]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001044
 [22]: https://www.gov.pl/web/dolnoslaski-uw/numery-rachunkow-bankowych
 [23]: https://www.gov.pl/web/uw-pomorski/oplaty-do-wnioskow
+[24]: https://migrant.wsc.mazowieckie.pl/pl/komunikaty/zmiany-w-szczegolnych-zasadach-dotyczacych-legalnosci-pobytu-obywateli-ukrainy-na
+[25]: https://www.gov.pl/web/udsc/brak-zwrotu-oplaty-skarbowej-w-przypadku-odmowy-udzielenia-zezwolenia-pobytowego-odmowy-zmiany-zezwolenia-na-pobyt-czasowy-i-prace-odmowy-przedluzenia-wizy-lub-odmowy-wydania-wizy-schengen-na-granicy-i-w-przypadku-umorzenia-postepowania-w-takiej-sprawie

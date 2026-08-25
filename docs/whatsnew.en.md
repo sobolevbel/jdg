@@ -9,6 +9,7 @@ tags:
 
 ## August 2026
 
+- Audited the guide's figures: all 2026 amounts and limits were checked against official sources (ZUS, GUS, podatki.gov.pl) — no discrepancies found. The [legalization page](legalization.md) now reflects the changes of 5 March 2026: the opłata skarbowa (340 zł) is no longer refunded on refusal, and the 12-average-salaries criterion does not apply to citizens of Ukraine with PESEL UKR.
 - Fixed links that did not work: the jumps to [Ulga na start](zus_ulga_na_start.md) and to [monthly reports during ZUS vacation](zus_vacation.md#monthly-reports-during-zus-vacation) opened the page at the top instead of the section, and the old English addresses `/en/registration/` and `/en/legalization_warsaw/` led to a non-existent page instead of the new one. English pages also get their own "not found" page.
 - The guide moved to its own domain — `twojajdg.pl`. The old `sobolevbel.github.io/jdg/…` addresses redirect to the new ones automatically, so existing bookmarks and links shared in chats keep working.
 - Updated the [VAT-UE registration step in CEIDG](registration_vat_ue.md#13-registering-as-a-vat-ue-taxpayer): the goods/services checkboxes are gone from the form — now you only enter the expected start date of intra-community transactions (screenshot refreshed).
