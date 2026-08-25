@@ -40,4 +40,5 @@ exclude = [
   "^https://pz\\.gov\\.pl",
   "^https://www\\.gov\\.pl",
   "^https://poland-consult\\.com",
+  "^https://legaltaxlevel\\.com",
 ]
