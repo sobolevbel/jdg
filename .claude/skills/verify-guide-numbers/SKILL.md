@@ -107,11 +107,18 @@ the grep targets, not eternal truths.
 
 | Figure | 2026 | Notes |
 |---|---|---|
-| Income criterion per family member | 823 zł net/month | kryterium dochodowe (pomoc społeczna); check migrant.wsc.mazowieckie.pl "Stabilne i regularne źródło dochodu" |
-| Income criterion for a person living alone | 1 010 zł net/month | same source; both unchanged for 2026 |
-| 12 avg monthly salaries by voivodship | 85 606,80 / 91 759,44 / 113 867,28 zł (warm.-maz. / łódzkie / maz., 2024 data) | new GUS obwieszczenie every November — update figures AND the `[4]`/`[20]` link |
-| Opłata skarbowa for the decision | 340 zł | rarely changes |
+| Income criterion per family member | 823 zł net/month | kryterium dochodowe (pomoc społeczna), rozporządzenie RM Dz.U. 2024 poz. 1044; revised every 3 years, next revision for 2028. Do NOT check migrant.wsc.mazowieckie.pl "Stabilne i regularne źródło dochodu" — that glossary still shows pre-2025 amounts (776/600 zł) as of Aug 2026 |
+| Income criterion for a person living alone | 1 010 zł net/month | same rozporządzenie; both unchanged for 2026 |
+| 12 avg monthly salaries by voivodship | 85 606,80 / 91 759,44 / 113 867,28 zł (warm.-maz. / łódzkie / maz., 2024 data) | new GUS obwieszczenie every November — update figures AND the `[4]`/`[20]` link. Not applied to citizens of Ukraine with PESEL UKR running a CEIDG JDG (art. 142 ust. 1 pkt 3 exemption kept after the specustawa wind-down of 5.03.2026) — re-check that exemption still holds |
+| Opłata skarbowa for the decision | 340 zł | rarely changes; for applications filed from 5.03.2026 it is not refunded on refusal/discontinuation (noted on the page) |
 | Private insurance policy minimum | 30 000 EUR | rarely changes |
+
+### Partner terms — file: `accounting.md` (+ `.en.md`)
+
+| Figure | As of 2026-08 | Notes |
+|---|---|---|
+| Legal Tax Level pricing | 225 zł netto/month (276,75 zł brutto), 1 200 zł netto per 6 months prepaid | commercial terms, NOT verifiable against official sources — confirm with the owner/partner; the page dates them («Условия на август 2026 года») |
+| Biuro rachunkowe typical price range | 150–300 zł/month | rough market range, update only if far off |
 
 ### Rarely changing (check yearly, expect no change)
 
