@@ -122,7 +122,7 @@ pymdown-extensions==10.21
     # via mkdocs-material
 python-dateutil==2.9.0.post0
     # via ghp-import
-python-slugify==8.0.4
+python-slugify==9.1.2
     # via -r requirements.in
 pyyaml==6.0.3
     # via
