@@ -7,6 +7,10 @@ tags:
 
 # Site changelog
 
+## October 2026
+
+- The [switching to składki preferencyjne](zus_obnizone_skladki.md) page now has screenshots of the deregistration (ZWUA) and registration (ZUA) steps — thanks to @MasterOfLaptops.
+
 ## August 2026
 
 - Audited the guide's figures: all 2026 amounts and limits were checked against official sources (ZUS, GUS, podatki.gov.pl) — no discrepancies found. The [legalization page](legalization.md) now reflects the changes of 5 March 2026: the opłata skarbowa (340 zł) is no longer refunded on refusal, and the 12-average-salaries criterion does not apply to citizens of Ukraine with PESEL UKR.
