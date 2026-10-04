@@ -63,6 +63,8 @@ Click *Dalej*.
 
 Next, select the person being deregistered with *Kod tytułu ubezpieczenia* **054000** and click *Dalej*.
 
+![Ubezpieczeni do wyrejestrowania step: person with code 054000 checked, Dalej button][26]
+
 #### Step 4
 
 ZUS automatically generates a set of documents: not only the ZWUA is created, but also a ZCNA for removing dependents from the register.
@@ -72,9 +74,9 @@ ZUS automatically generates a set of documents: not only the ZWUA is created, bu
 
 #### Step 5
 
-Review, verify, and send the ZWUA document to ZUS.
+Review, verify, and send the ZWUA document to ZUS: *Podgląd* → *Weryfikuj* → *Wyślij i zakończ*.
 
-TODO: help make this guide better! add your screenshots here.
+![Utworzenie i walidacja dokumentów step: ZUS ZWUA, Weryfikuj and Wyślij i zakończ buttons][27]
 
 #### Step 6
 
@@ -89,6 +91,8 @@ Don't rush to submit the ZUA application right after the ZWUA — until the manu
 #### Step 1
 
 On the **zus.pl** page, in the **e-Płatnik** tab, open the *Dodaj dokument* window → select a new document of type **ZUS ZUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
+
+![e-Płatnik: Dodaj dokument window, selecting the ZUS ZUA document][28]
 
 Next, in the *Obsługa ubezpieczonego* window, for *Cel obsługi* select *Zgłoszenie ubezpieczonego* (Registration of the insured person). Then click *Dalej*.
 
@@ -197,9 +201,9 @@ Click *Dalej*.
 
 #### Step 5
 
-Review, verify, and send the document to ZUS.
+Review, verify, and send the document to ZUS: *Podgląd* → *Weryfikuj* → *Wyślij i zakończ*.
 
-TODO: help make this guide better! add your screenshots here.
+![Utworzenie i walidacja dokumentów step: ZUS ZUA, Weryfikuj and Wyślij i zakończ buttons][29]
 
 #### Step 6
 
@@ -287,3 +291,7 @@ See [error collection][23].
 [23]: zus_errors.md
 [24]: zus_next_level.md#profession-codes-table
 [25]: zus_login.md
+[26]: images/zus_obnizone_skladki/13_zwua_ubezpieczony.png
+[27]: images/zus_obnizone_skladki/14_zwua_weryfikacja.png
+[28]: images/zus_obnizone_skladki/15_wybor_zua.png
+[29]: images/zus_obnizone_skladki/16_zua_weryfikacja.png
