@@ -61,9 +61,9 @@ Click *Dalej*.
 
 #### Step 3
 
-Next, select the person being deregistered with *Kod tytułu ubezpieczenia* **054000** and click *Dalej*.
+Next, find yourself in the list (the row with *Kod tytułu ubezpieczenia* **054000**), tick *Wybór* and click *Dalej*.
 
-![Ubezpieczeni do wyrejestrowania step: person with code 054000 checked, Dalej button][26]
+![Ubezpieczeni do wyrejestrowania step: row with code 054000 checked, Dalej button][26]
 
 #### Step 4
 
@@ -186,9 +186,9 @@ In the dialog that appears, click "OK".
     **Information**  
     The insurance type selections you made have caused a change to the previously selected affiliation scheme.
 
-On the step "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" select the insured person (*ubezpieczonego*) you just created with code **057000**.
+On the step "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" select the row you just added with code **057000**.
 
-![Tytuły ubezpieczeń step: insured person with code 057000 selected][13]
+![Tytuły ubezpieczeń step: row with code 057000 selected][13]
 
 ??? note "Screenshot translation"
     **Registration of the insured » Insurance titles**   step 4 of 5
