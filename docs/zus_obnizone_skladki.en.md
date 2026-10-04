@@ -29,7 +29,8 @@ No accountant? Read the instructions below ⬇️
 
     b. Otherwise use the **ZUS ZUA** form with the new code 0570 xx. If you're switching from ulga na start to składki preferencyjne, your old code is: **0540**, and the new one is: **0570**.
 
-3. Switch the settings in inFakt/wFirma/iFirma to składki preferencyjne.
+3. If family members are covered by your health insurance, register them again under the new code (**ZUS ZCNA**).
+4. Switch the settings in inFakt/wFirma/iFirma to składki preferencyjne.
 
 Each of these steps is described in detail below.
 
@@ -67,22 +68,20 @@ Next, find yourself in the list (the row with *Kod tytułu ubezpieczenia* **0540
 
 #### Step 4
 
-ZUS automatically generates a set of documents: not only the ZWUA is created, but also a ZCNA for removing dependents from the register.
+ZUS automatically generates a set of documents. If family members are covered by your health insurance, besides the ZWUA it also creates a ZCNA that deregisters them from the old code.
 
 !!! danger "Important!"
-    To avoid having to re-add dependents after registration, do NOT send the ZCNA in the next step!
+    Send this ZCNA together with the ZWUA. The guide used to advise deleting it so your family members would "stay"
+    with you, but in 2026 the chat saw many cases where family members dropped out of NFZ after such a switch: ZUS
+    still lists them, but IKP shows no insurance. The rules say family members must be
+    [registered again every time your insurance title changes][30] — you do that in [step 7](#step-7) after
+    registering with the new code.
 
 #### Step 5
 
-Review, verify, and send the ZWUA document to ZUS: *Podgląd* → *Weryfikuj* → *Wyślij i zakończ*.
+Review, verify, and send the ZWUA (and the ZCNA, if there is one) to ZUS: *Podgląd* → *Weryfikuj* → *Wyślij i zakończ*.
 
 ![Utworzenie i walidacja dokumentów step: ZUS ZWUA, Weryfikuj and Wyślij i zakończ buttons][27]
-
-#### Step 6
-
-If you have dependents: go to Dokumenty -> Dokumenty robocze, select the ZCNA and delete them using the Usuń button.
-
-TODO: help make this guide better! add your screenshots here.
 
 ### 2. Registration (ZUS ZUA) with code 05 70
 
@@ -211,6 +210,24 @@ Wait for ZUS to process the application. If everything is OK, it should look lik
 
 ![eZUS Ubezpieczony panel: insurance title with code 0570 in Ubezpieczenia i płatnicy][12]
 
+#### Step 7
+
+This step is only for those whose family members (spouse, children) are covered by their health insurance.
+
+Once ZUS has processed the ZUA with the new code, register them again: *Dodaj dokument* → **ZUS ZCNA** → *Wybierz* →
+*Przejdz do kreatora*. For each family member, enter:
+
+- record type **zgłoszenie** (code `1`, not `2` — wyrejestrowanie);
+- relationship: `01` — spouse, `11` — child;
+- the date — the first day of the month from which the new code applies (the same date as in the ZWUA and ZUA).
+
+TODO: help make this guide better! add your screenshots here.
+
+!!! tip "How to check that everything is fine"
+    After 1–2 weeks, check each family member's insurance status in the [Internetowe Konto Pacjenta][31] or the
+    mojeIKP app (eWUŚ should be green). If the insurance is gone, write to ZUS via eZUS and ask them to sort out
+    the zgłoszenia członków rodziny: ZUS can file the missing ZCNA itself — for one reader it took a few days.
+
 ### 3. Switching accounting software settings
 
 Try not to let your ZUS settings on zus.pl get out of sync with the ZUS settings in your accounting software. So after you've reported the switch to the new benefit in ZUS, go into your software settings.
@@ -295,3 +312,5 @@ See [error collection][23].
 [27]: images/zus_obnizone_skladki/14_zwua_weryfikacja.png
 [28]: images/zus_obnizone_skladki/15_wybor_zua.png
 [29]: images/zus_obnizone_skladki/16_zua_weryfikacja.png
+[30]: https://pacjent.gov.pl/jak-ubezpieczyc-czlonka-rodziny
+[31]: https://pacjent.gov.pl/internetowe-konto-pacjenta/sprawdz-ubezpieczenie

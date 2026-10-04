@@ -9,6 +9,7 @@ tags:
 
 ## October 2026
 
+- Family members on your health insurance: when switching [from Ulga na start to składki preferencyjne](zus_obnizone_skladki.md) and [to duży ZUS](zus_duzy.md), you now deregister and re-register them (ZCNA) instead of deleting the generated ZCNA — the old approach left many family members uninsured in NFZ. Added how to check their insurance in IKP.
 - The [switching to składki preferencyjne](zus_obnizone_skladki.md) page now has screenshots of the deregistration (ZWUA) and registration (ZUA) steps — thanks to @MasterOfLaptops.
 
 ## August 2026
