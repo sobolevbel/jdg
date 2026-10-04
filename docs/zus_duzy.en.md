@@ -159,9 +159,13 @@ So once the ZUA and ZWUA are processed, send two ZCNA forms (*Dodaj dokument* �
 1. one deregistering the family members — record type `2` (wyrejestrowanie);
 2. once the first is processed, one registering them again — type `1` (zgłoszenie), relationship `01` — spouse, `11` — child.
 
-In both, enter the first day of the month from which duży ZUS applies (the same date as in the ZUA and ZWUA). After
-1–2 weeks, check each family member's insurance status in the [Internetowe Konto Pacjenta][26] or the mojeIKP app.
-If the insurance is gone, write to ZUS via eZUS and ask them to sort out the zgłoszenia członków rodziny.
+In both, enter the first day of the month from which duży ZUS applies (the same date as in the ZUA and ZWUA).
+
+!!! warning "Don't replace the ZCNA with a check"
+    After deregistration, family members keep access to NFZ for another **30 days**, so a green status in the first
+    weeks proves nothing. Always send the ZCNA, and check each family member's insurance status as a safeguard — no
+    earlier than 31 days after the switch date, in the [Internetowe Konto Pacjenta][26] or the mojeIKP app. If the
+    insurance is gone, write to ZUS via eZUS and ask them to sort out the zgłoszenia członków rodziny.
 
 ### Switching your accounting service settings
 
