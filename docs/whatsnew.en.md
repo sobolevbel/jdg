@@ -7,6 +7,10 @@ tags:
 
 # Site changelog
 
+## October 2026
+
+- New [FAQ](faq.md#how-to-invite-a-relative-or-friend-to-poland-zaproszenie) entry on the voivode's invitation (zaproszenie): who can invite, how much money you need to show, and the housing requirements some voivodeships add.
+
 ## August 2026
 
 - Audited the guide's figures: all 2026 amounts and limits were checked against official sources (ZUS, GUS, podatki.gov.pl) — no discrepancies found. The [legalization page](legalization.md) now reflects the changes of 5 March 2026: the opłata skarbowa (340 zł) is no longer refunded on refusal, and the 12-average-salaries criterion does not apply to citizens of Ukraine with PESEL UKR.

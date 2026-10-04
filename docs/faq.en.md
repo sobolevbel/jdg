@@ -30,6 +30,33 @@ For example, if you live in the Małopolskie voivodeship, you can apply not only
 Family members applying based on a JDG holder's status should apply under "other circumstances." In the explanation, write `POBYT Z MĘŻEM`.
 The spouse will have the right to work but will not have free access to the labor market. This means an oświadczenie or zezwolenie for employment will be required. So if the spouse finds a job, there is no obligation to reapply for a work-based residence permit.
 
+### How to invite a relative or friend to Poland (zaproszenie)
+
+A voivode's invitation (zaproszenie) confirms that you'll cover your guest's accommodation, food and return trip.
+The guest uses it to get a visa, but it doesn't give the right to work. It's valid for the period stated in it, up
+to 1 year. The fee is 27 zł. You file it at the Urząd Wojewódzki of the voivodeship where you live.
+
+A foreigner can invite someone after living in Poland legally and continuously for at least 5 years, or with a
+permanent residence (pobyt stały) or EU long-term resident permit
+([Act on Foreigners, chapter on invitations][19]).
+
+**Money** ([MSWiA regulation, Dz.U. 2023 poz. 637][20]): 515 zł per month for yourself, each dependent family
+member and each person invited for that period, including invitations already issued. For close relatives
+(parents, children, spouse, siblings, spouse's parents and children) it's 200 zł per month. On top of that you
+need money for the return trip: at least 200 zł to a neighbouring country, 500 zł to another European country and
+2,500 zł to a non-European one, or a return ticket. You prove it with a bank statement covering the full amount or
+a certificate of monthly income.
+
+!!! example "Example"
+    You invite a friend from Belarus for 6 months and have no dependents.
+    Required balance: `515 zł × 2 × 6 + 200 zł = 6,380 zł`.
+
+**Accommodation.** You need a document proving your right to the flat: a property deed, a land register
+(księga wieczysta) extract, or a rental agreement plus the owner's consent for the guest to stay. The law sets no
+floor-area minimum, but some voivodeships add their own. For example, [Podlaskie][21] requires at least 7 m² of
+living area per registered resident and per invited guest (not applied to close relatives), while
+[Mazowieckie][22] doesn't mention floor area at all. Check your Urząd Wojewódzki's website.
+
 ## JDG
 
 ### PKWiU codes
@@ -250,3 +277,7 @@ Yes. However, when (or if) you register as a VAT payer, the tax office (Urząd S
 [16]: https://www.gov.pl/web/gov/klauzula-przetwarzania-danych-osobowych-udostepnionych-droga-elektroniczna
 [17]: https://poradnikprzedsiebiorcy.pl/-czy-siedziba-firmy-w-mieszkaniu-to-wyzszy-podatek-od-nieruchomosci
 [18]: https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Gd0Kl1l-9St-xgG62V784__KfYYnQqggbCqf2wAfYfMXPzQO6hMQdE-wAJtlX4VM6utlZLcNay8J/pubhtml
+[19]: https://lexlege.pl/ustawa-o-cudzoziemcach/rozdzial-3-zaproszenia/7998
+[20]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000637
+[21]: https://www.gov.pl/web/uw-podlaski/zaproszenie-cudzoziemca
+[22]: https://bip.mazowieckie.pl/sprawa/s-404-zaproszenia

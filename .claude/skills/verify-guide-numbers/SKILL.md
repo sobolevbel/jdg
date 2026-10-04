@@ -113,6 +113,15 @@ the grep targets, not eternal truths.
 | Opłata skarbowa for the decision | 340 zł | rarely changes; for applications filed from 5.03.2026 it is not refunded on refusal/discontinuation (noted on the page) |
 | Private insurance policy minimum | 30 000 EUR | rarely changes |
 
+### Invitations (zaproszenie) — file: `faq.md` (+ `.en.md`)
+
+| Figure | 2026 | Notes |
+|---|---|---|
+| Funds per person per month / close relative | 515 / 200 zł | rozporządzenie MSWiA Dz.U. 2023 poz. 637; cross-check bip.mazowieckie.pl KI-WSC/09 |
+| Return-trip minimum (neighbour / Europe / other) | 200 / 500 / 2 500 zł | same rozporządzenie; also recompute the 6 380 zł example |
+| Opłata skarbowa | 27 zł | ustawa o opłacie skarbowej |
+| Podlaskie floor-area rule | 7 m² per resident and guest | office practice, not statute — re-check gov.pl/web/uw-podlaski/zaproszenie-cudzoziemca |
+
 ### Partner terms — file: `accounting.md` (+ `.en.md`)
 
 | Figure | As of 2026-08 | Notes |
