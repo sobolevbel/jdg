@@ -28,7 +28,8 @@ No accountant? Read the instructions below ⬇️
 
     b. Otherwise use the **ZUS ZUA** form. If you're switching from składki preferencyjne to duży ZUS, your old code is **0570** and the new one is **0510**.
 
-3. Switch to duży ZUS in your inFakt/wFirma/iFirma settings.
+3. If family members are covered by your health insurance, re-register them (**ZUS ZCNA**).
+4. Switch to duży ZUS in your inFakt/wFirma/iFirma settings.
 
 Each of these steps is described in detail below.
 
@@ -144,9 +145,23 @@ After processing, the data in the file should be updated (see screenshot 2).
 
 ![Kartoteka with updated insurance data after processing][24]
 
-You can also verify that all previously added family members are still listed under the **Członkowie rodziny** tab in the file.
-
 After some time, the applications will appear in **Dokumenty w ZUS**.
+
+### Family members (ZCNA)
+
+If family members (spouse, children) are covered by your health insurance, they must be
+[registered again when your insurance title changes][25]. The *Zmień dane* path doesn't create a ZCNA, and family
+members still being listed under the **Członkowie rodziny** tab doesn't mean NFZ sees them: the chat has seen many
+cases where their insurance disappeared after the switch.
+
+So once the ZUA and ZWUA are processed, send two ZCNA forms (*Dodaj dokument* → **ZUS ZCNA**):
+
+1. one deregistering the family members — record type `2` (wyrejestrowanie);
+2. once the first is processed, one registering them again — type `1` (zgłoszenie), relationship `01` — spouse, `11` — child.
+
+In both, enter the first day of the month from which duży ZUS applies (the same date as in the ZUA and ZWUA). After
+1–2 weeks, check each family member's insurance status in the [Internetowe Konto Pacjenta][26] or the mojeIKP app.
+If the insurance is gone, write to ZUS via eZUS and ask them to sort out the zgłoszenia członków rodziny.
 
 ### Switching your accounting service settings
 
@@ -196,3 +211,5 @@ See [error collection][22].
 [22]: zus_errors.md
 [23]: zus_next_level.md#zus-insurance-title-codes-table
 [24]: images/zus_duzy/10_kartoteka_zaktualizowana.png
+[25]: https://pacjent.gov.pl/jak-ubezpieczyc-czlonka-rodziny
+[26]: https://pacjent.gov.pl/internetowe-konto-pacjenta/sprawdz-ubezpieczenie
