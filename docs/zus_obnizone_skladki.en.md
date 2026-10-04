@@ -71,6 +71,7 @@ Next, find yourself in the list (the row with *Kod tytułu ubezpieczenia* **0540
 ZUS automatically generates a set of documents. If family members are covered by your health insurance, besides the ZWUA it also creates a ZCNA that deregisters them from the old code.
 
 !!! danger "Important!"
+    **If family members are on your health insurance, re-registering them via ZCNA is required whichever way you switch.**
     Send this ZCNA together with the ZWUA. The guide used to advise deleting it so your family members would "stay"
     with you, but in 2026 the chat saw many cases where family members dropped out of NFZ after such a switch: ZUS
     still lists them, but IKP shows no insurance. The rules say family members must be
@@ -223,10 +224,13 @@ Once ZUS has processed the ZUA with the new code, register them again: *Dodaj do
 
 TODO: help make this guide better! add your screenshots here.
 
-!!! tip "How to check that everything is fine"
-    After 1–2 weeks, check each family member's insurance status in the [Internetowe Konto Pacjenta][31] or the
-    mojeIKP app (eWUŚ should be green). If the insurance is gone, write to ZUS via eZUS and ask them to sort out
-    the zgłoszenia członków rodziny: ZUS can file the missing ZCNA itself — for one reader it took a few days.
+!!! warning "Don't replace the ZCNA with a check"
+    After deregistration, family members keep access to NFZ for another **30 days**, so a green status in the first
+    weeks proves nothing: the problem surfaces on day 31, often at the clinic's reception desk. Always send the ZCNA,
+    and treat the check as a safeguard — no earlier than 31 days after the switch date, in the
+    [Internetowe Konto Pacjenta][31] or the mojeIKP app (eWUŚ should be green). If the insurance is gone, write to
+    ZUS via eZUS and ask them to sort out the zgłoszenia członków rodziny: ZUS can file the missing ZCNA itself —
+    for one reader it took a few days.
 
 ### 3. Switching accounting software settings
 
