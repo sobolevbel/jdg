@@ -159,8 +159,6 @@ Payment should be made via a standard bank transfer to your individual ZUS accou
 - You can physically go to any ZUS branch (any branch, not necessarily your district's) and obtain all certificates with wet stamps
 - You can request an electronic certificate in [your eZUS account][11].
 
-The new RWN wizard below was checked in November 2026.
-
 ### Select the RWN application
 
 Sign in to eZUS and [choose Konto płatnika for your JDG][11]. Open [Katalog usług][12] in the left menu and enter `RWN` in **Wyszukaj sprawę**. Expand **Złóż wniosek o zaświadczenie o niezaleganiu w opłacaniu składek (RWN)** and click **Przejdź do usługi**.
