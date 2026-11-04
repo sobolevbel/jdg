@@ -11,7 +11,7 @@ tags:
 
 !!! question "Why register for Polish VAT"
     You need Polish VAT if you provide services to Polish clients
-    and have exceeded the annual threshold of 240_000 złoty. Or you want to reclaim VAT on business purchases.
+    and have exceeded the annual threshold of 240_000 złoty (2026 limit). Or you want to reclaim VAT on business purchases.
 
 !!! note
     By this point you should already have your NIP and REGON numbers.
@@ -21,49 +21,57 @@ We need the `Zmień dane w CEIDG` option.
 
 ## 1. An important notice first
 
-![CEIDG: important notice page before changing data, DALEJ button][1]
+Open **Zmień dane w CEIDG** in the **Usługi CEIDG** block, then **Rozpocznij**. If **Podpowiadanie danych** appears, choose your profile.
 
-Read it through and click `DALEJ`
+Read **Ważne informacje** and click **Dalej**.
+
+![Важная информация перед изменением данных CEIDG][1]
 
 ## 2. Purpose of submitting the form
 
-![CEIDG: purpose of the application — changing data, date field][2]
+Choose **Chcę edytować wpis, wysłać dokumenty do ZUS lub urzędu skarbowego** and enter the date of the CEIDG change. This is a separate field from the start date of Polish VAT obligations.
 
-We only need to edit the data. The date can be today or in the past.
-Pick today’s date.
+![Цель изменения записи CEIDG и дата изменения][2]
 
 ## 2.1. Declaring insurance
 
-![CEIDG: insurance selection, ZUS checkbox ticked][3]
+Later in the wizard, **Ubezpieczenia społeczne** asks for your current insurance institution. Choose **ZUS** if that is where you are insured.
 
-Tick ZUS
+![Раздел Ubezpieczenia społeczne с выбранным ZUS][3]
+
+Do not add ZUS registration applications solely to register VAT.
 
 ## 3. Choose the data you want to change
 
-![CEIDG: list of data that can be changed][4]
+Under **Załączniki**, select **Podatek VAT: VAT-R**. The wizard also includes mandatory social insurance, tax-office and e-Doręczenia screens and may select related contact and address fields.
+
+![Раздел Załączniki: приложение Podatek VAT: VAT-R][4]
+
+Check the supplied details and keep unchanged information as it is. Non-EU citizens should follow the wizard's instruction to include **Dane osobowe, obywatelstwo** and current residence document details.
+
+The address, contact and e-Doręczenia screens are described in [the VAT-UE guide][5]; they are shared with this process.
 
 ## 4. Pick the VAT payer registration option
 
-![CEIDG: VAT payer registration item — choosing rejestracja or aktualizacja][5]
+Choose **Rejestracja podatnika VAT** if you have not previously registered for active or exempt VAT. If Polish VAT or VAT-UE is already registered, choose **Aktualizacja danych podatnika VAT**.
 
-If you haven't been registered yet and want to register as a VAT payer — pick `rejestracja`.
-If you have already registered for VAT or VAT-UE — pick `aktualizacja`.
+![Цель VAT-R: регистрация или актуализация данных плательщика][6]
 
 ## 5. Waive the exemption
 
-You can register as a VAT payer voluntarily so you can deduct VAT on business purchases (e.g. laptop, phone, furniture).
+For active Polish VAT registration, choose **Nie** under **Chcę zarejestrować się jako zwolniony podatnik VAT**.
 
-Here you need to waive the VAT exemption (the 240_000 threshold) — otherwise you won’t become a `czynnym` (active) payer.
+![Регистрация активного польского VAT: выбран вариант Nie][7]
 
-!!! warning "Heads-up"
-    From the moment you register as a VAT payer you must issue invoices with VAT to Polish clients
-    and pay that VAT accordingly.
+On **Dane identyfikacyjne**, provide your father's and mother's names.
 
-![VAT-R form: waiving the VAT exemption (zwolnienie)][6]
+![Идентификационные данные VAT-R: обязательные имена родителей][8]
+
+If updating VAT-R, the wizard also asks whether the tax office is changing. Answer according to your actual circumstances.
 
 ## 6. Reason for registering as a VAT payer
 
-Choose **Tytuł obowiązku podatkowego**.
+Click **Wybierz tytuł podatkowy**, select the applicable reason or reasons, then **Zapisz**. Use the wording, not just the item number.
 
 Below is a rundown of the options most often discussed in the “sole props in Poland” Telegram chat (Rose bot note tag: #WhenVATIsRequired).
 
@@ -72,7 +80,7 @@ Below is a rundown of the options most often discussed in the “sole props in P
 | Nazwa i Podstawa prawna                                                                                                  | Opis                                                                                                                                                                                                                           |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  podatnik rozpoczynający działalność gospodarczą nie ma prawa do zwolnienia, o którym mowa w art. 113 ust. 1 lub 9 ustawy | Sole trader starts business but has no right to the income-based exemption. (if you’re not allowed to operate without VAT, e.g. activity is consulting-related or your PKD code implies mandatory VAT registration) |
-|  podatnik rezygnuje (zrezygnował) ze zwolnienia, o którym mowa w art. 113 ust. 1 lub 9 ustawy                             | Sole trader voluntarily gives up the income-based exemption. (if you hit the 240,000 zł income threshold / voluntary registration)                                                                                      |
+|  podatnik rezygnuje (zrezygnował) ze zwolnienia, o którym mowa w art. 113 ust. 1 lub 9 ustawy                             | Sole trader voluntarily gives up the income-based exemption. (voluntary registration before losing the exemption)                                                                                      |
 |  podatnik traci (utracił) zwolnienie, o którym mowa w art. 113 ust. 1 lub 9 ustawy                                        | Sole trader lost the right to the income-based exemption. (e.g. exceeded the 240,000 zł limit).                                                                                                                                             |
 |  podatnik wykonuje czynności, o których mowa w art. 113 ust. 13 ustawy                                                    | Sole trader carries out transactions that rule out the income-based exemption. (e.g. trade in excise goods).                                                                                                                         |
 
@@ -81,74 +89,77 @@ Below is a rundown of the options most often discussed in the “sole props in P
 |  Nazwa i Podstawa prawna                                                                                                                                       | Opis                                                                                                     |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 |  podatnik będzie dokonywał (dokonuje) sprzedaży wyłącznie zwolnionej od podatku od towarów i usług na podstawie art. 43 ust. 1, z wył. pkt 3, i art. 82 ustawy | Sole trader only carries out transactions exempt from VAT by nature of the activity.                         |
-|  podatnik będzie korzystał (korzysta) ze zwolnienia, o którym mowa w art. 43 ust. 1 pkt 3 ustawy                                                               | Sole trader uses activity-based exemption, e.g. education or `finansowe` services. |
-|  podatnik rezygnuje (zrezygnował) ze zwolnienia, o którym mowa w art. 43 ust. 1 pkt 3 ustawy                                                                   | Sole trader voluntarily gives up the activity-based exemption.                                   |
+|  podatnik będzie korzystał (korzysta) ze zwolnienia, o którym mowa w art. 43 ust. 1 pkt 3 ustawy                                                               | Exemption for a flat-rate farmer (rolnik ryczałtowy), not the general education or financial-services exemption. |
+|  podatnik rezygnuje (zrezygnował) ze zwolnienia, o którym mowa w art. 43 ust. 1 pkt 3 ustawy                                                                   | A flat-rate farmer waives the exemption under Article 43(1)(3).                                   |
 
 !!! note
     We don’t list serial numbers because they change — read the descriptions carefully and pick what fits you.
 
-![VAT-R form: choosing Tytuł obowiązku podatkowego — the reason for VAT registration][7]
+![Список оснований регистрации VAT: выбор подходящего пункта и Zapisz][9]
+
+The options referring to **art. 43 ust. 1 pkt 3** concern flat-rate farmers. Check the legal basis of your own exemption in [the VAT Act][10].
 
 ## 7. Start date of VAT obligations
 
-The start date of your VAT obligations must be at least one day after you submit the application. For example, if you send it on 28 April, the earliest registration date is 29 April.
+Enter **Data rozpoczęcia tytułu obowiązku podatkowego** according to the selected registration reason. This is not automatically the day after you file. For initial registration, file VAT-R before the activities for which registration is required.
 
-From that date you must issue invoices with VAT, file returns, and you’re entitled to deduct VAT
-on business purchases for your activity even if you’re not yet on the VAT white list.
+From the applicable date, account for VAT and file the required returns; an update that only adds VAT-UE must not restart your Polish VAT registration.
 
-![VAT-R form: start date field for VAT obligations][8]
+![Основание и дата начала обязанности по польскому VAT][11]
 
 ### 7.1 The `Zwolnienie usług finansowych` item
 
-Under this item (it sits below the date) **you don’t need to select anything** — but if you ticked it by mistake, you can’t reset it to the initial state;
-you’ll have to go one step back and go through again.
+**Leave this block empty: do not select either option** under **Zwolnienie usług finansowych** in the ordinary registration scenario described here. This concerns a separate financial-services exemption, not the usual turnover-based exemption.
+
+![Zwolnienie usług finansowych: оба варианта оставлены пустыми][12]
 
 ## 8. Metoda kasowa
 
-You can read about this in the [poradnikprzedsiebiorcy article on metoda kasowa][9], but honestly we don’t need it. Decline it.
+For the ordinary initial registration without the [cash method][13], choose **Nie** under **Wybieram metodę kasową rozliczania podatku VAT**.
 
-![VAT-R form: declining metoda kasowa][10]
+![Первичная регистрация VAT: Nie для метода kasowa][14]
+
+When updating an existing VAT registration, the choices differ: choose **Bez zmian** if you are keeping your current method. **Rezygnuję z kasowej metody** means an actual change.
 
 ## 9. Gold and taxis
 
-State that you don’t run a business related to taxis and gold trading (unless you really do, of course).
+If you are not registering taxi or investment-gold activity, choose **Nie dotyczy** under **Szczególne rodzaje działalności gospodarczej**.
 
-![VAT-R form: declaring no taxi or gold trading activity][11]
+![Первичная регистрация VAT: Nie dotyczy для специальных процедур][15]
+
+For an update with no changes to these procedures, choose **Bez zmian**.
 
 ## 10. VAT-UE
 
-You can register for VAT-UE at the same time as domestic VAT. If you need it, continue
-[via this link](registration_vat_ue.md). If not — decline and move on.
+You can register VAT-UE at the same time. If you need it, follow [the VAT-UE instructions][5]. Otherwise choose **Nie chcę rejestrować się do VAT-UE**.
 
-![VAT-R form: declining VAT-UE registration][12]
+![Польский VAT без VAT-UE: выбран отказ от регистрации VAT-UE][16]
 
 ## 11. Choose the return filing frequency
 
-You can file returns monthly or quarterly.
-I recommend monthly returns.
-For the period covered by the first return,
-pick the month your VAT obligation starts
-(section 7 of this guide).
+For an ordinary initial active VAT registration with monthly returns, select **miesięczna deklaracja VAT**. Enter the month and year of the first Polish VAT return, corresponding to the start of the VAT obligation.
 
-![VAT-R form: choosing monthly or quarterly returns and the first period][13]
+![Ежемесячная декларация VAT и первый отчётный месяц и год][17]
+
+Quarterly filing has separate eligibility conditions. When merely updating an existing registration, preserve the applicable filing arrangement; **Bez zmian** on the quarterly-period question does not mean a switch to quarterly returns.
 
 ## 12. Pick your tax office
 
-![VAT-R form: picking your tax office (urząd skarbowy)][14]
+Check the tax office on **Informacje o zgłoszeniu rejestracyjnym podatnika VAT**. E-mail and phone are optional contact fields.
+
+![Налоговая и необязательные контактные данные для VAT-R][18]
 
 ## 13. Confirmation of VAT registration
 
-You can skip paying for a hard-copy confirmation of VAT registration.
-You’ll probably never need it.
+You may decline the separate paid paper confirmation; registration itself is free.
 
-![VAT-R form: declining the paid confirmation of VAT registration][15]
+![Отказ от платного бумажного подтверждения регистрации VAT][19]
 
 ## 14. Oświadczenie
 
-Next you confirm you’re entitled to use the address you live at
-(e.g. a lease) and that none of the restrictions mentioned in the cited law apply to you.
+Read **Oświadczenie**. Confirm it only if the statements about the right to use the listed addresses and the absence of business prohibitions are true.
 
-![CEIDG: oświadczenie confirming the right to use the address and no legal restrictions][16]
+![Oświadczenie перед подписанием заявления CEIDG][20]
 
 ## 15. Signature
 
@@ -157,7 +168,7 @@ for registration or a letter from the tax office asking for details. If things
 drag — email the office or walk in and
 find out what they’re missing.
 
-You can check you’ve been registered on [this site][17].
+You can check you’ve been registered on [this site][21].
 That’s the so-called white list, `biała lista`, the list of all VAT payers.
 Until the date you set under `Start date of VAT obligations` there’s little point checking
 whether you’re already on the white list — you won’t appear there before that date even if the office
@@ -214,30 +225,34 @@ as `.pdf`, `.docx`, or a scan.
 
 **Preferred method — `pismo ogólne` via the `e-Urząd Skarbowy` site** (staff at `Urząd Skarbowy` asked people to send documents that way — several users confirmed).
 
-How to do it is described in the [pismo ogólne guide][18]
+How to do it is described in the [pismo ogólne guide][22]
 
 **Alternative — send an email.**
 
-You can find your `Urząd Skarbowy` email on the [Ministry of Finance contact page for units][19], by downloading
+You can find your `Urząd Skarbowy` email on the [Ministry of Finance contact page for units][23], by downloading
 the `Baza teleadresowa jednostek KAS.xls` spreadsheet (for your office you want type "US" in the "
 TYP" column besides the address) or by finding your office manually on the site.
 
-[1]: images/registration_vat_ue/wazne_informacje.png
-[2]: images/registration_vat_ue/zmiana_wpisu.png
-[3]: images/registration_vat_ue/ubezpieczenie_zus.png
-[4]: images/registration_vat_ue/dane_do_zmiany.png
-[5]: images/registration_vat/01_rejestracja_aktualizacja.png
-[6]: images/registration_vat/02_rezygnacja_zwolnienia.png
-[7]: images/registration_vat/03_tytul_obowiazku.png
-[8]: images/registration_vat/04_data_obowiazku.png
-[9]: https://poradnikprzedsiebiorcy.pl/-czy-wiesz-jak-rozliczac-faktury-metoda-kasowa
-[10]: images/registration_vat/05_metoda_kasowa.png
-[11]: images/registration_vat/07_taxi_zloto.png
-[12]: images/registration_vat/08_rezygnacja_vat_ue.png
-[13]: images/registration_vat/09_okres_rozliczen.png
-[14]: images/registration_vat/10_urzad_skarbowy.png
-[15]: images/registration_vat/11_bez_potwierdzenia.png
-[16]: images/registration_vat/12_oswiadczenie.png
-[17]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
-[18]: pismo_ogolne.md
-[19]: https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas
+[1]: images/registration_vat_ue/ceidg_01_wazne.jpg
+[2]: images/registration_vat_ue/ceidg_02_cel.jpg
+[3]: images/registration_vat_ue/ceidg_10_zus.jpg
+[4]: images/registration_vat_ue/ceidg_04_vat_r.jpg
+[5]: registration_vat_ue.md
+[6]: images/registration_vat/01_rejestracja.jpg
+[7]: images/registration_vat/02_bez_zwolnienia.jpg
+[8]: images/registration_vat/03_dane_identyfikacyjne.jpg
+[9]: images/registration_vat/04_tytul_lista.jpg
+[10]: https://eli.gov.pl/api/acts/DU/2026/1263/text.html
+[11]: images/registration_vat/05_tytul_data.jpg
+[12]: images/registration_vat/06_uslugi_finansowe.jpg
+[13]: https://poradnikprzedsiebiorcy.pl/-czy-wiesz-jak-rozliczac-faktury-metoda-kasowa
+[14]: images/registration_vat/07_metoda_kasowa.jpg
+[15]: images/registration_vat/08_procedury.jpg
+[16]: images/registration_vat/09_vat_ue.jpg
+[17]: images/registration_vat/10_deklaracje.jpg
+[18]: images/registration_vat/11_urzad.jpg
+[19]: images/registration_vat/12_potwierdzenie.jpg
+[20]: images/registration_vat/13_oswiadczenie.jpg
+[21]: https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka
+[22]: pismo_ogolne.md
+[23]: https://www.gov.pl/web/kas/dane-teleadresowe-jednostek-kas

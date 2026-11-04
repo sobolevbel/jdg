@@ -19,20 +19,30 @@ the **Zmień dane w CEIDG** application.
 
 ## Changing PKD codes
 
-How to add, remove, or change a JDG activity code:
+1. Open **Zmień dane w CEIDG** in **Usługi CEIDG** on [Biznes.gov.pl][1], then **Rozpocznij**. Select your profile if asked.
+2. After **Ważne informacje**, choose **Chcę edytować wpis, wysłać dokumenty do ZUS lub urzędu skarbowego** and enter the date of the change.
+3. On **Edycja wpisu w CEIDG**, select **Kody PKD**. Follow the page's instruction about current residence-document details if you are a non-EU citizen.
 
-1. Go to the site where you registered the JDG: [biznes.gov.pl][1]
-2. Select **Zmień dane w CEIDG**
-3. Log in with your profil zaufany
-4. Check the **Kody PKD** box
-5. Choose what you need: removing a PKD code, adding a PKD code, or changing the main PKD code
-6. Enter the PKD code
-7. Sign and submit the application
+    ![Список разделов CEIDG: выберите Kody PKD][2]
 
-You must have one main code. You can list an unlimited number of additional codes,
-but don't add codes "just in case" — the list of codes in CEIDG can be updated
-when you actually need it. If your type of activity has changed, you must add the new
-PKD codes or remove the outdated ones within 7 days of the change.
+4. On **Kody PKD - zakres zmian**, select the changes you actually need: remove a code, add a code and/or change the main code.
+
+    ![Изменение PKD: выбран пункт добавления нового кода][3]
+
+5. For an addition, click **Wybierz kod PKD**, search by code or activity, select the appropriate code and click **Zapisz**.
+
+    ![Поиск PKD по виду деятельности, выбор кода и кнопка Zapisz][4]
+
+6. Check the added codes. On the next screen, also check the main code.
+
+    ![Выбранный код PKD в разделе добавления][5]
+
+7. Complete the other required screens. Social insurance, the tax office and e-Doręczenia are included even when you only change PKD. Keep the correct existing data. If the e-Doręczenia address is already registered and no administrators are changing, leave the administrator checkboxes empty.
+8. Review the generated application, sign it and send it. Check the submission confirmation and case number.
+
+Keep one main PKD code. Additional codes should describe your actual activities; do not add codes “just in case”. You can update them when needed and must report a change within 7 days after starting or stopping the relevant activity.
+
+Do not add VAT-R, income-tax changes or additional ZUS forms solely for a PKD change. The shared address, contact and e-Doręczenia screens are described in [the CEIDG/VAT-UE guide][6].
 
 ## Changing your address
 
@@ -48,14 +58,14 @@ below is based on community experience (the #ChangeAddress note from the "JDG in
         For a sole proprietor, the tax office branch is determined by the address of
         **residence** (zamieszkania) — the business address (siedziba firmy) only matters
         for companies. If you're moving — check whether your urząd skarbowy has changed
-        ([more details at poradnikprzedsiebiorcy][6]).
+        ([more details at poradnikprzedsiebiorcy][7]).
 
 - **ZUS (the płatnik section)** — the address is also changed via biznes.gov.pl: when
   filling out the CEIDG-1 form, select the corresponding items (ZUS ZUA or ZUS ZZA).
 - **VAT-R** — if you're a VAT payer (Polish VAT or VAT-UE) and the move changes your
   urząd skarbowy, update the address with the VAT-R form. Attach your lease agreement,
   the owner's permission to use the address for the JDG, and an oświadczenie
-  ([example documents in the chat][7]).
+  ([example documents in the chat][8]).
 
 ### Business environment
 
@@ -76,7 +86,7 @@ below is based on community experience (the #ChangeAddress note from the "JDG in
 - Moving **within the same voivodeship**, no legalization case pending, no address on
   the card — no need to notify the voivode.
 - If you're **awaiting a decision** on the card — notify the urząd about the change of
-  correspondence address ([letter template][8]).
+  correspondence address ([letter template][9]).
 - If you're awaiting a decision **and moved to another voivodeship** — the case will
   have to be transferred between voivodeships (search for "przeniesienie sprawy do
   innego województwa").
@@ -92,23 +102,23 @@ one (**ZUS ZUA/ZZA**). Your accountant can do this.
 
 Even after that, one place with the old address remains: Ubezpieczony -> Moje dane ->
 Dane adresowe -> **Zameldowania** (looks like a bug). It's updated with the **US-13**
-application: [US-13 online (template in the chat)][9] / [US-13 offline form][10].
+application: [US-13 online (template in the chat)][10] / [US-13 offline form][11].
 
 ### Tips
 
 - Leave a request at the post office to forward correspondence from your old address
-  to the new one — [Poczta Polska: Dosyłanie przesyłek][11] (it used to work only for
+  to the new one — [Poczta Polska: Dosyłanie przesyłek][12] (it used to work only for
   letters, but the service has since been extended to parcels).
 - Pay special attention to the addresses at the tax office, ZUS, and your virtual
   office, if you used one.
 
     !!! danger "A forgotten address can cost you the company"
-        There is a known [case][12]: a letter from the tax office arrived at a virtual
+        There is a known [case][13]: a letter from the tax office arrived at a virtual
         office for a sole proprietor whose contract with the office had expired. The
         office replied that no such business was registered at the address — and the
         tax office **forcibly closed the JDG**, without notice.
 
-- There's a [chat note about all the various JDG addresses][13].
+- There's a [chat note about all the various JDG addresses][14].
 
 Not business-related, but also worth doing when you move:
 
@@ -117,7 +127,7 @@ Not business-related, but also worth doing when you move:
 - register at a new przychodnia (POZ): fill out the deklarację wyboru lekarza
   rodzinnego i pielęgniarki — in person or online.
 
-📚 Sources: [inFakt blog][14], personal experience of "JDG in Poland" chat members.
+📚 Sources: [inFakt blog][15], personal experience of "JDG in Poland" chat members.
 
 ## Suspension (zawieszenie) or closure
 
@@ -129,7 +139,7 @@ to these benefits.
 
 ## Closing a JDG
 
-The closure is done on [biznes.gov.pl][2] with an application for wykreślenie działalności from CEIDG.
+The closure is done on [biznes.gov.pl][16] with an application for wykreślenie działalności from CEIDG.
 
 !!! info "Insurance after closing"
     If you stay in Poland after closing the JDG, remember: foreigners are required to
@@ -142,11 +152,11 @@ The closure is done on [biznes.gov.pl][2] with an application for wykreślenie d
 **Can I close a JDG retroactively?**
 
 Yes. But you'll have to contact ZUS so they recalculate the automatically accrued
-contributions due ([more details in the zawartka.pl article][3]).
+contributions due ([more details in the zawartka.pl article][17]).
 
 **Can I close a JDG with a future date?**
 
-No ([answer from poradnikprzedsiebiorcy][4]).
+No ([answer from poradnikprzedsiebiorcy][18]).
 
 **Do tax obligations to Poland end immediately after closing a JDG?**
 
@@ -164,19 +174,24 @@ insurance — with the **ZCNA** form. You have 7 days to make the changes.
 **Am I obliged to notify the urząd about ceasing business activity?**
 
 Yes, within **15 business days** — if you have a karta pobytu (KCP) issued for
-continuing to run a JDG ([art. 113 ustawy o cudzoziemcach][5]). In other situations — no.
+continuing to run a JDG ([art. 113 ustawy o cudzoziemcach][19]). In other situations — no.
 
 [1]: https://www.biznes.gov.pl/pl
-[2]: https://www.biznes.gov.pl/pl/portal/0077
-[3]: https://zawartka.pl/2023/11/09/zamkniecie-dzialalnosci-z-data-wsteczna-a-zus/
-[4]: https://poradnikprzedsiebiorcy.pl/-data-likwidacji-dzialalnosci-gospodarczej
-[5]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-113
-[6]: https://poradnikprzedsiebiorcy.pl/-zmiana-adresu-wykonywania-dzialalnosci-i-adresu-zamieszkania-a-wlasciwosc-urzedu-skarbowego
-[7]: https://t.me/JDG_PBH/516086
-[8]: https://t.me/JDG_PBH/474043
-[9]: https://t.me/JDG_PBH/499132
-[10]: https://www.zus.pl/wzory-formularzy/pracujacy/konto-w-zus/-/asset_publisher/mhHJQUQYSi0w/content/wniosek-us-13
-[11]: https://www.poczta-polska.pl/zlec-usluge-online/dosylanie/
-[12]: https://t.me/JDG_PBH/381440
-[13]: https://t.me/JDG_PBH/105158
-[14]: https://www.infakt.pl/blog/zmiana-adresu-firmy-formalnosci/
+[2]: images/jdg_changes/pkd_00_wybor.jpg
+[3]: images/jdg_changes/pkd_01_zakres.jpg
+[4]: images/registration_jdg/15_kody_pkd.jpg
+[5]: images/jdg_changes/pkd_02_dodany.jpg
+[6]: registration_vat_ue.md
+[7]: https://poradnikprzedsiebiorcy.pl/-zmiana-adresu-wykonywania-dzialalnosci-i-adresu-zamieszkania-a-wlasciwosc-urzedu-skarbowego
+[8]: https://t.me/JDG_PBH/516086
+[9]: https://t.me/JDG_PBH/474043
+[10]: https://t.me/JDG_PBH/499132
+[11]: https://www.zus.pl/wzory-formularzy/pracujacy/konto-w-zus/-/asset_publisher/mhHJQUQYSi0w/content/wniosek-us-13
+[12]: https://www.poczta-polska.pl/zlec-usluge-online/dosylanie/
+[13]: https://t.me/JDG_PBH/381440
+[14]: https://t.me/JDG_PBH/105158
+[15]: https://www.infakt.pl/blog/zmiana-adresu-firmy-formalnosci/
+[16]: https://www.biznes.gov.pl/pl/portal/0077
+[17]: https://zawartka.pl/2023/11/09/zamkniecie-dzialalnosci-z-data-wsteczna-a-zus/
+[18]: https://poradnikprzedsiebiorcy.pl/-data-likwidacji-dzialalnosci-gospodarczej
+[19]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/cudzoziemcy-18053962/art-113

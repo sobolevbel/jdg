@@ -18,14 +18,13 @@ tags:
 
 [Ссылка на портал][3]
 
-- Сначала жмём на `Logowanie` в правом верхнем углу и попадаем на страницу с выбором вариант логина (как на картинке).
-- Нас интересует `Zaloguj się przez Login.gov.pl` и логинимся с использованием доверенного профиля.
+- Перейдите ко входу из верхней части портала. На **Login.gov.pl** выберите **Profil zaufany** или **Bankowość elektroniczna**.
 
-![Страница входа biznes.gov.pl: кнопка Zaloguj się przez Login.gov.pl][4]
+![Login.gov.pl: вход через Profil zaufany или банк][4]
 
-- Выбираем в большом синем прямоугольнике `ZAREJESTRUJ FIRMĘ`:
+- Выбираем в блоке **Usługi CEIDG** `ZAREJESTRUJ FIRMĘ`:
 
-![Главная biznes.gov.pl: синяя кнопка ZAREJESTRUJ FIRMĘ][5]
+![Главная Biznes.gov.pl: карточки регистрации JDG и изменения CEIDG][5]
 
 После этого начинается пошаговое заполнение формы на регистрацию ИП.
 
@@ -33,27 +32,27 @@ tags:
 
 ### 1. Окно информационное приветственное
 
-![Приветственное окно формы регистрации, кнопка ROZPOCZNIJ][6]
+![Начало регистрации JDG: кнопка Rozpocznij][6]
 
-Нажимаем на ROZPOCZNIJ
+Нажмите **Rozpocznij**. Если появляется **Podpowiadanie danych**, выберите свой профиль: мастер может использовать уже введённые данные.
+
+![Выбор профиля для подстановки данных в заявление CEIDG][7]
 
 ### 2. Важная информация
 
-![Окно Ważne informacje с вводной информацией, кнопка DALEJ][7]
+Прочитайте **Ważne informacje** и нажмите **Dalej**. Набор и порядок следующих экранов зависят от ответов и выбранных приложений.
 
-Нажимаем на `DALEJ`
+![Важная информация перед регистрацией JDG, кнопка Dalej][8]
 
 ### 3. Данные заявителя
 
-Шаг "Dane wnioskodawcy".  
-Удаляем польское гражданство, добавляем ваше.
-В итоге должно получиться как на картинке ниже.
+На **Dane wnioskodawcy** выберите вариант по своей ситуации. Для непольского гражданства — **Mam kilka obywatelstw lub inne obywatelstwo niż polskie**, затем добавьте все свои гражданства. Польское гражданство не удаляйте, если оно у вас действительно есть.
 
-![Форма CEIDG: раздел Dane wnioskodawcy, выбор гражданства заявителя][8]
+![Выбор гражданства заявителя и кнопка добавления гражданства][9]
 
-Дальше заполняем свои данные: имя, фамилия, имя отца, имя матери, pesel, место рождения:
+Проверьте имя, фамилию, имена родителей, PESEL и место рождения. Часть полей подставляется из данных входа автоматически.
 
-![Раздел Dane osobowe: имя, фамилия, имена родителей, PESEL, место рождения][9]
+![Личные данные заявителя и обязательные поля CEIDG][10]
 
 И ещё парочка вопросов:
 
@@ -68,82 +67,50 @@ tags:
 
 В итоге должно получиться как на картинке:
 
-![Раздел Numery identyfikacyjne: NIP, заграничный номер, Wspólność majątkowa][10]
+![Раздел Numery identyfikacyjne: NIP, заграничный номер, Wspólność majątkowa][11]
 
 Нажимаем на `DALEJ`
 
 ### 4. Данные иностранца
 
-- Те кто на визе PBH вписывают номер визы и дату выдачи визы, оставляем чек-бокс с консулом, нажимаем на Wyszukaj и
-выбираем там посольство, которое выдало визу (например для Минска: Ambasada Rzeczypospolitej Polskiej w Republice
-Białorusi vulica Zmitraka Biaduli 11 :: Mińsk::). Ещё нужно учитывать, что страница ищет по польским названиям, поэтому Minsk просто так не находится, а Mińsk - находится.
-- Если открываете по карте поляка - то указываете, соответственно, данные карты поляка и
-организации, выдавшей карту.
-- У украинцев такой диалог вообще не появляется, но если появится - есть две опции:
-    - если есть PESEL UKR: указываете PESEL.
-    - если нет - отмечаете что приехали до войны и загружаете паспорт или другой документ.
+Укажите номер и дату выдачи актуального документа, подтверждающего ваше право вести JDG в Польше. Выберите орган, указанный в документе. Для **Konsul lub Wojewoda** появляется **Wyszukaj urząd**; искать нужно по польскому названию органа.
 
-![Раздел Dane cudzoziemca: номер и дата выдачи визы, выбор посольства][11]
+![Данные документа иностранца: номер, дата и орган выдачи][12]
 
-- прикладываем сканы паспорта и визы/карты побыта если вы подаетесь на основании Blue Card добавьте также скан децизии. Так же не меняйте название документов предложенные порталом иначе получите в ответ на внесок Kod błędu: -4
-Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммарный размер файлов не должен превышать 3.5mb, иначе будут проблемы с подписанием заявления)
-- выбираем чек-бокс, что вам можно иметь ИП на территории Польши:
+Приложите документы, подтверждающие ваше основание для ведения деятельности. Портал ограничивает суммарный размер приложений **3,5 МБ**. Для карты побыту проверьте, какие децизия и документ подтверждают ваше право; не переносите в заявление старый пример с визой, если он уже не соответствует вашей ситуации.
 
-![Раздел Status cudzoziemca: сканы документов и чек-бокс о праве вести ИП][12]
+Прочитайте **Oświadczenie o statusie cudzoziemca** и ответьте по своему действительному статусу.
 
-Нажимаем на `DALEJ`
+![Приложение документов и заявление о статусе иностранца][13]
 
 ### 5. Адрес проживания
 
-![Шаг Adres zamieszkania, кнопка Dodaj nowy adres][13]
+Нажмите **Dodaj nowy adres**, укажите фактический адрес проживания и сохраните адрес кнопкой **Zapisz**. В списке стран можно выбрать и заграничный адрес, если вы действительно там живёте.
 
-Нажимаем `Dodaj nowy adres`
+![Адрес проживания: поля страны, индекса, населённого пункта и улицы][14]
 
-![Окно Dodaj nowy adres: поля адреса и кнопка ZAPISZ][14]
+Выберите сохранённый адрес и нажмите **Dalej**.
 
-Вводим адрес и жмём `ZAPISZ`.
-
-!!! note
-    Здесь можно вводить заграничный адрес если на данный момент живете за границей. Потом
-    его можно будет поменять. На ведении деятельности это никак не отразится.
-
-И должно получиться как на картинке.
-
-![Шаг Adres zamieszkania с заполненным адресом проживания][15]
-
-Нажимаем на `DALEJ`
+![Выбор сохранённого адреса проживания в CEIDG][15]
 
 ### 6. Данные фирмы
 
-- Полное название фирмы должно содержать как минимум ваше имя и фамилию латиницей.
-Краткое название может быть любым. Для простоты рекомендую полное и краткое название указать в виде
-"Имя Фамилия".
-- Дата начала деятельности может быть как сегодня, так и в будущем. Потом ее можно будет поменять.
-- Еще нужно указать планируемое количество работников вместе с вами (то есть
-если не планируете нанимать работников, то 1).
-- Также, укажите галочкой планируете ли нанимать работников с ограниченными возможностями.
+Полное название фирмы должно содержать ваши имя и фамилию. Краткое название может быть без них. Укажите дату начала деятельности и планируемое число работающих вместе с вами: **1**, если будете работать один.
 
-![Раздел Dane firmy: название фирмы, дата начала деятельности, число работников][16]
+![Полное и краткое название фирмы, дата начала деятельности][16]
 
-- Номера REGON у вас скорее всего ещё нет.
-- Контактные данные - те которые будут видны в публичном реестре CEIDG.
-Опционально - говорит само за себя, и можно не соглашаться на публикацию в CEIDG.
+Согласие на публикацию задаётся отдельно для e-mail, сайта, телефона и других контактов. При указании e-mail нужно ответить и на вопрос о его публикации; **Nie posiadam adresu e-mail** — вариант для тех, у кого его действительно нет. Для каждого указанного контакта, который не хотите публиковать в CEIDG, выбирайте **Nie**.
+
+![Контакты фирмы: отдельное согласие на публикацию e-mail][17]
 
 !!! note
-    рекомендуется не публиковать данные (поставить галочку Nie),
-    иначе сразу после регистрации на вас обрушится лавина спама.
-
-![Раздел Dane kontaktowe: контакты для реестра CEIDG, отказ от публикации (Nie)][17]
-
-Нажимаем на `DALEJ`
+    Публикация контактов часто приводит к спаму.
 
 ### 7. Коды деятельности
 
-Нажимаем `Wybierz kod PKD`, находим подходящий код, он будет основным. Можно добавить несколько, если надо (один всё равно должен быть выбран в качестве основного)
+Нажмите **Wybierz kod PKD**, найдите код по номеру или описанию деятельности, отметьте подходящие пункты и нажмите **Zapisz**. Один код должен быть основным; дополнительные выбирайте для деятельности, которой действительно собираетесь заниматься.
 
-![Раздел Kody działalności: кнопка Wybierz kod PKD и выбранный основной код][18]
-
-Нажимаем на `DALEJ`
+![Поиск актуальных PKD, выбор кода и кнопка Zapisz][18]
 
 ### 8. Почтовый адрес
 
@@ -152,7 +119,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Нажимаем `Dodaj nowy adres` и в итоге получится как на картинке:
 
-![Шаг Adres do doręczeń: адресат и адрес для корреспонденции][19]
+![Адресат и выбор адреса для бумажной корреспонденции][19]
 
 Нажимаем на `DALEJ`
 
@@ -181,6 +148,12 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Нажимаем на `DALEJ`
 
+Если адрес e-Doręczenia фирмы уже существует, вместо создания нового мастер показывает текущий адрес и данные владельца. Проверьте их. На **Administratorzy skrzynki e-Doręczeń** оставьте чекбоксы изменений пустыми, если не добавляете и не удаляете администраторов.
+
+![Проверка владельца уже существующего адреса e-Doręczenia][24]
+
+![Существующие администраторы e-Doręczenia: изменений нет][25]
+
 ### 9. Адрес ведения деятельности
 
 У IT есть опция: не имею постоянного места ведения деятельности, выбирайте ее.
@@ -188,24 +161,21 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Если у вас такой адрес есть (реальный или виртуальный офис), тогда укажите его.
 
-![Шаг Miejsca wykonywania działalności: вариант без постоянного места деятельности][24]
+![Место ведения деятельности: вариант без постоянного адреса][26]
 
 Нажимаем на `DALEJ`
 
 ### 10. Выбираем способ страхования
 
-Все предприниматели в Польше обязаны уплачивать ЗУС, так что выбираем его и указываем дату, с
-которой начинаем платить ZUS (скорее всего будет совпадать с датой начала деятельности):
+Выберите **ZUS**, если это ваш вид страхования. Если мастер запрашивает дату начала страхования, укажите фактическое начало обязанности; поле даты есть и в самом приложении ZUS.
 
-![Шаг Ubezpieczenia społeczne: выбран ZUS и дата начала уплаты взносов][25]
-
-Нажимаем на `DALEJ`
+![Выбор вида страхования: ZUS, KRUS или страхование за границей][27]
 
 ### 11. Скарбовы ужонд
 
 Подтягивается автоматически по ранее введённому адресу, если знаете, что вам в другой, то можно найти более подходящий:
 
-![Шаг Urząd skarbowy: автоматически подобранная налоговая инспекция][26]
+![Проверка своей налоговой и кнопка Wyszukaj urząd][28]
 
 Нажимаем на `DALEJ`
 
@@ -213,75 +183,76 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 На этом можно и закончить, но есть возможность сразу зарегистрироваться в ZUS и выбрать систему налогообложения. Чем мы и воспользуемся, выбирая первый пункт:
 
-![Шаг Dodatkowe dane: выбран пункт регистрации в ZUS и выбора налогообложения][27]
+![Шаг Dodatkowe dane: выбран пункт регистрации в ZUS и выбора налогообложения][29]
 
 Нажимаем на `DALEJ`
+
+Если эти пункты представлены списком разделов, отметьте необходимые заявления ZUS и выбор налогообложения. При изменении уже существующей записи такой список называется **Edycja wpisu w CEIDG**.
 
 ### 13. Регистрация в ZUS
 
-Чек-бокс, что хотим зарегистрироваться и что регистрируем только себя (ну или по обстоятельствам выбираем нужные пункты), и выбираем формуляр ZUS ZZA:
+Для первичного заявления в страхование выберите подходящую форму ZUS. **ZUS ZZA** — только медицинское страхование, например при наличии права на **Ulga na start**. **ZUS ZUA** — социальное и медицинское страхование. Не выбирайте форму только потому, что она отмечена в примере.
 
-![Шаг Zgłoszenie do ZUS: чек-боксы регистрации и выбор формуляра ZUS ZZA][28]
+![Выбор ZUS ZZA для примера регистрации только в медицинском страховании][30]
 
-Нажимаем на `DALEJ`
+Проверьте **Dane identyfikacyjne płatnika składek**, затем **Dane osoby ubezpieczonej**. Во втором разделе есть фамилия при рождении и данные удостоверяющего личность документа; выбирайте свой действительный тип документа.
+
+![Проверка идентификационных данных плательщика ZUS][31]
+
+![Данные застрахованного: фамилия при рождении и тип документа][32]
 
 ### 14. Детали ZUS
 
-Здесь можно выбрать ульгу на старт. Также, укажите если получаете пенсию и/или имеете инвалидность:
+На **Informacje o obowiązkowym ubezpieczeniu** укажите дату возникновения обязанности страхования. **Ulga na start - 0540** выбирайте только при наличии права на льготу; на вопросы о пенсии и документе об инвалидности отвечайте по своим документам.
 
-![Шаг Zgłoszenie do ubezpieczenia: ulga na start, пенсия, инвалидность][29]
+![Выбор ulga na start и сведений для кода страхования][33]
 
-Нужен код деятельности, нажимаем на ссылку и ищем подходящий (например, Programista Aplikacji):
+В отдельное поле впишите шестизначный **Kod wykonywanego zawodu**. Найти код профессии можно в [официальном справочнике PSZ][34]. Это код профессии, а не код деятельности PKD.
 
-![Поиск кода профессии (Kod zawodu), например Programista Aplikacji][30]
-
-Нажимаем на `DALEJ`
+![Поле Kod wykonywanego zawodu с примером кода программиста][35]
 
 ### 15. Выбор отдела NFZ
 
 Ищем свой отдел по месту жительства:
 
-![Шаг Oddział NFZ: выбор отделения NFZ по месту жительства][31]
+![Отделение NFZ по месту проживания и кнопка выбора][36]
 
 Нажимаем на `DALEJ`
 
 ### 16. Адрес мельдования
 
-Адрес регистрации. Если у вас нет польского мельдунка - то укажите свой
-заграничный адрес регистрации:
+На **Adres zameldowania na stałe miejsce pobytu** ответьте на **Podaję adres zameldowania** по своей ситуации. При **Tak** выберите или добавьте фактический адрес регистрации. Если польского мельдунка нет, портал позволяет указать заграничный адрес регистрации; не подставляйте произвольный адрес.
 
-![Шаг Adres zameldowania: адрес регистрации (мельдунка)][32]
-
-Нажимаем на `DALEJ`
+![Наличие адреса zameldowania и кнопка добавления адреса][37]
 
 ### 17. Адрес для корреспонденции
 
 Выбираем куда будет приходить бумажная почта от ZUS, опционально указываем мэйл и телефон для связи:
 
-![Шаг Dane korespondencyjne: адрес для писем ZUS, e-mail и телефон][33]
+![Адрес корреспонденции ZUS и необязательные контакты][38]
 
 Нажимаем на `DALEJ`
 
 ### 18. Налоги
 
-Можно сразу выбрать [систему налогообложения][34] или временно пропустить этот шаг.
+Можно сразу выбрать [систему налогообложения][39] или временно пропустить этот шаг.
 
 !!! danger "Внимание!"
     Пропускайте шаг выбора налоговой системы только в том случае, если Вы точно знаете, что делаете!
     Если Вы забудете сделать выбор до уплаты первого налога, по умолчанию будет считаться, что выбрана общая система (Skala podatkowa).
     Поменять выбор можно будет только с начала следующего года.
 
-![Шаг Podatki: выбор системы налогообложения или пропуск шага][35]
+![Шаг Podatki: выбор системы налогообложения или пропуск шага][40]
 
 Нажимаем на `DALEJ`
 
 ### 19. Выбор системы налогообложения
 
-Собственно выбираем [систему налогообложения][36]:
+Выберите свою [систему налогообложения][39].
 
-![Шаг Forma opłacania podatku dochodowego: варианты системы налогообложения][36]
+![Форма налогообложения: общая система, liniowy или ryczałt][41]
 
-Нажимаем на `DALEJ`
+Нажмите **Dalej**.
 
 ### 20. Ведение бухгалтерии
 
@@ -289,7 +260,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 (Zawiadam o prowadzeniu ksiąg rachunkowych - Nie).
 - Указываем, кто будет вести бухгалтерию: сами или бухгалтер. Потом эти данные можно поменять.
 
-![Шаг Dokumentacja rachunkowa: кто будет вести бухгалтерию][37]
+![Полная бухгалтерия и выбор самостоятельного ведения или biuro rachunkowe][42]
 
 Нажимаем на `DALEJ`
 
@@ -297,7 +268,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Выбираем адрес, где будут храниться бухгалтерские документы:
 
-![Шаг Adres przechowywania dokumentacji: адрес хранения бухгалтерских документов][38]
+![Адрес хранения бухгалтерских документов и кнопка добавления][43]
 
 Нажимаем на `DALEJ`
 
@@ -311,36 +282,35 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
     - вы зарегистрированы как плательщик НДС (czynny płatnik VAT). При расчётах сможете использовать механизм разделённого платежа (mechanizm podzielonej płatności (MPP)).
     - стоимость одной сделки с другим предпринимателем превышает 15 000 PLN (даже если вы оплатите счет по частям).
     - чувствительные операции: по закону некоторые операции считаются "чувствительными" и требуют наличия счета компании. Список таких операций можно найти в Приложении 15 к Закону об НДС.
-    Подробнее на [Biznes.gov.pl - MPP](https://www.biznes.gov.pl/pl/portal/00227), [https://t.me/JDG_PBH/9236][39] и [https://t.me/JDG_PBH/18806][40]
+    Подробнее на [Biznes.gov.pl - MPP](https://www.biznes.gov.pl/pl/portal/00227), [https://t.me/JDG_PBH/9236][44] и [https://t.me/JDG_PBH/18806][45]
 
-- Если планируете использовать только личный счёт, то его можно и указать.
-- Если планируете открывать бизнес счёт, то его пока нет.
+Если фирменный счёт уже есть, используйте **Dodaj rachunek**. Если ещё не открыт — его можно добавить позже.
 
-![Шаг Rachunki bankowe: указание банковских счетов][41]
+![Добавление фирменного банковского счёта в CEIDG][46]
 
-Нажимаем на `DALEJ`
+Для счёта в формате IBAN выберите **Tak**, укажите IBAN и **Waluta rachunku**. Польский IBAN начинается с **PL**. Выбирайте действительную валюту счёта и сохраните диалог.
+
+![Поля номера IBAN и валюты фирменного счёта][47]
 
 ### 23. Представительство
 
 Возможно вам нужен представитель, у которого будет от вас доверенность, на какие-то действия. Его можно добавить на этом шаге.
 
-![Шаг Pełnomocnictwa: добавление представителя с доверенностью][42]
+![Шаг Pełnomocnictwa: добавление представителя с доверенностью][48]
 
 Нажимаем на `DALEJ`
 
 ### 24. Заявление
 
-Предупреждение об ответственности:
+Прочитайте **Oświadczenie** и подтвердите его только в том случае, если сведения о праве пользоваться адресами и отсутствии запретов на деятельность соответствуют действительности.
 
-![Шаг Oświadczenie: заявление об ответственности, кнопка DALEJ][43]
-
-Нажимаем на `DALEJ`
+![Oświadczenie о праве пользоваться адресами и отсутствии запретов][49]
 
 ### 25. Приостановка деятельности
 
 Скорее всего вот так сразу вы деятельность приостановить не хотите:
 
-![Шаг Zawieszenie działalności: вопрос о приостановке деятельности][44]
+![Шаг Zawieszenie działalności: вопрос о приостановке деятельности][50]
 
 Нажимаем на `DALEJ`
 
@@ -349,7 +319,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 Рассказывают, где и у кого можно получить больше информации и помощь, а также, кто
 ответственный за рассмотрение внеска.
 
-![Шаг Urząd odbierający wniosek: справочная информация о рассмотрении внеска][45]
+![Шаг Urząd odbierający wniosek: справочная информация о рассмотрении внеска][51]
 
 Нажимаем на `DALEJ`
 
@@ -357,7 +327,7 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 Морально готовят к тому, что скоро всё закончится:
 
-![Шаг Wniosek gotowy do wysłania: итоговая информация перед отправкой][46]
+![Шаг Wniosek gotowy do wysłania: итоговая информация перед отправкой][52]
 
 Нажимаем на `DALEJ`
 
@@ -370,18 +340,18 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 (PROFIL ZAUFANY и BANKOWOŚĆ ELEKTRONICZNA - скорее всего приведут к одному и тому же результату, я выбирал банковость,
 потому что профиль регистрировал через банк):
 
-![Шаг Dokument gotowy do podpisu: ссылки xml и выбор способа подписания][47]
+![Шаг Dokument gotowy do podpisu: ссылки xml и выбор способа подписания][53]
 
 Дальше переходим на собственно подписание, нужно нажать на `Podpisz podpisem zaufanym`:
 
-![Страница подписания: кнопка Podpisz podpisem zaufanym][48]
+![Страница подписания: кнопка Podpisz podpisem zaufanym][54]
 
 И наконец-то можно выслать подписанные документы:
 
-![Отправка подписанного заявления в CEIDG][49]
+![Отправка подписанного заявления в CEIDG][55]
 
 !!! tip "Очень рекомендуется скачать и перепроверить своё заявление"
-    - переходим в [личный кабинет konto.biznes.gov.pl][50]
+    - переходим в [личный кабинет konto.biznes.gov.pl][56]
     - Выбираем в своих делах запись Zarejestruj działalność gospodarczą w CEIDG
     - Рядом с 202NNNNN-NNNN-NNNN-wniosek.xml нажимаем Podgląd
     - В частности, стоит убедиться в том, что отмечена форма налогообложения, например, ryczałt (смотрим пункт 15. Oświadczenie o formie opłacania podatku dochodowego).
@@ -395,9 +365,9 @@ Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (суммар
 
 NIP может быть присвоен в течении одно-двух дней. REGON надо ждать больше - может выдаваться до недели. Если в процессе есть какие ошибки, то будет сообщение с просьбой исправить.
 
-Проверить все данные вашей фирмы можно на [biznes.gov.pl][51]
+Проверить все данные вашей фирмы можно на [biznes.gov.pl][57]
 
-Если что-то пошло не так, столкнулись с проблемами - можете написать в [чат на biznes.gov.pl][52] и задать
+Если что-то пошло не так, столкнулись с проблемами - можете написать в [чат на biznes.gov.pl][58] и задать
 вопрос.
 
 !!! success "Регистрация — только начало"
@@ -409,52 +379,58 @@ NIP может быть присвоен в течении одно-двух д�
 [1]: pesel.md
 [2]: pz.md
 [3]: https://www.biznes.gov.pl/pl
-[4]: images/registration_jdg/01_login.png
-[5]: images/registration_jdg/02_zarejestruj_firme.png
-[6]: images/registration_jdg/03_rozpocznij.png
-[7]: images/registration_jdg/04_wazne_informacje.png
-[8]: images/registration_jdg/05_dane_wnioskodawcy.png
-[9]: images/registration_jdg/06_dane_osobowe.png
-[10]: images/registration_jdg/07_numery_identyfikacyjne.png
-[11]: images/registration_jdg/08_dane_cudzoziemca.png
-[12]: images/registration_jdg/09_status_cudzoziemca.png
-[13]: images/registration_jdg/10_adres_zamieszkania.png
-[14]: images/registration_jdg/11_dodaj_adres.png
-[15]: images/registration_jdg/12_adres_wypelniony.png
-[16]: images/registration_jdg/13_dane_firmy.png
-[17]: images/registration_jdg/14_dane_kontaktowe.png
-[18]: images/registration_jdg/15_kody_pkd.png
-[19]: images/registration_jdg/16_adres_doreczen.png
+[4]: images/registration_jdg/01_login_gov.jpg
+[5]: images/registration_jdg/02_uslugi_ceidg.jpg
+[6]: images/registration_jdg/03_rozpocznij.jpg
+[7]: images/registration_jdg/profil_01_wybor.jpg
+[8]: images/registration_jdg/04_wazne_informacje.jpg
+[9]: images/registration_jdg/05_dane_wnioskodawcy.jpg
+[10]: images/registration_jdg/06_dane_osobowe.jpg
+[11]: images/registration_jdg/07_numery_identyfikacyjne.png
+[12]: images/registration_jdg/08_dane_cudzoziemca.jpg
+[13]: images/registration_jdg/09_status_cudzoziemca.jpg
+[14]: images/registration_jdg/11_dodaj_adres.jpg
+[15]: images/registration_vat_ue/ceidg_05_adres.jpg
+[16]: images/registration_jdg/13_dane_firmy.jpg
+[17]: images/registration_vat_ue/ceidg_06_kontakty.jpg
+[18]: images/registration_jdg/15_kody_pkd.jpg
+[19]: images/registration_jdg/16_adres_doreczen.jpg
 [20]: https://www.gov.pl/web/e-doreczenia
 [21]: images/registration_jdg/16a_e_doreczenia.png
 [22]: images/registration_jdg/16b_e_doreczenia_email.png
 [23]: images/registration_jdg/16c_administratorzy.png
-[24]: images/registration_jdg/17_miejsca_dzialalnosci.png
-[25]: images/registration_jdg/18_ubezpieczenia_spoleczne.png
-[26]: images/registration_jdg/19_urzad_skarbowy.png
-[27]: images/registration_jdg/20_dodatkowe_dane.png
-[28]: images/registration_jdg/21_zgloszenie_zus.png
-[29]: images/registration_jdg/22_ulga_na_start.png
-[30]: images/registration_jdg/23_kod_zawodu.png
-[31]: images/registration_jdg/24_oddzial_nfz.png
-[32]: images/registration_jdg/25_adres_zameldowania.png
-[33]: images/registration_jdg/26_dane_korespondencyjne.png
-[34]: taxes.md#pit-podokhodnyi-nalog
-[35]: images/registration_jdg/27_podatki.png
-[36]: images/registration_jdg/28_forma_podatku.png
-[37]: images/registration_jdg/29_dokumentacja_rachunkowa.png
-[38]: images/registration_jdg/30_adres_dokumentacji.png
-[39]: https://t.me/JDG_PBH/9236
-[40]: https://t.me/JDG_PBH/18806
-[41]: images/registration_jdg/31_rachunki_bankowe.png
-[42]: images/registration_jdg/32_pelnomocnictwa.png
-[43]: images/registration_jdg/33_oswiadczenie.png
-[44]: images/registration_jdg/34_zawieszenie.png
-[45]: images/registration_jdg/35_urzad_odbierajacy.png
-[46]: images/registration_jdg/36_wniosek_gotowy.png
-[47]: images/registration_jdg/37_wybor_podpisu.png
-[48]: images/registration_jdg/38_podpisz.png
-[49]: images/registration_jdg/39_wyslij.png
-[50]: https://konto.biznes.gov.pl/pl/moje-konto
-[51]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
-[52]: https://www.biznes.gov.pl/pl/portal/03175
+[24]: images/registration_vat_ue/ceidg_08_wlasciciel.jpg
+[25]: images/registration_vat_ue/ceidg_09_administratorzy.jpg
+[26]: images/registration_jdg/17_miejsca_dzialalnosci.jpg
+[27]: images/registration_vat_ue/ceidg_10_zus.jpg
+[28]: images/registration_vat_ue/ceidg_11_urzad.jpg
+[29]: images/registration_jdg/20_dodatkowe_dane.png
+[30]: images/registration_jdg/21_zgloszenie_zus.jpg
+[31]: images/registration_jdg/zus_01_platnik.jpg
+[32]: images/registration_jdg/zus_02_osoba.jpg
+[33]: images/registration_jdg/22_ulga_na_start.jpg
+[34]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[35]: images/registration_jdg/23_kod_zawodu.jpg
+[36]: images/registration_jdg/24_oddzial_nfz.jpg
+[37]: images/registration_jdg/25_adres_zameldowania.jpg
+[38]: images/registration_jdg/26_dane_korespondencyjne.jpg
+[39]: taxes.md#pit-podokhodnyi-nalog
+[40]: images/registration_jdg/27_podatki.png
+[41]: images/registration_jdg/28_forma_podatku.jpg
+[42]: images/registration_jdg/29_dokumentacja_rachunkowa.jpg
+[43]: images/registration_jdg/30_adres_dokumentacji.jpg
+[44]: https://t.me/JDG_PBH/9236
+[45]: https://t.me/JDG_PBH/18806
+[46]: images/registration_jdg/31_dodaj_rachunek.jpg
+[47]: images/registration_jdg/32_iban.jpg
+[48]: images/registration_jdg/32_pelnomocnictwa.png
+[49]: images/registration_vat/13_oswiadczenie.jpg
+[50]: images/registration_jdg/34_zawieszenie.png
+[51]: images/registration_jdg/35_urzad_odbierajacy.png
+[52]: images/registration_jdg/36_wniosek_gotowy.png
+[53]: images/registration_jdg/37_wybor_podpisu.png
+[54]: images/registration_jdg/38_podpisz.png
+[55]: images/registration_jdg/39_wyslij.png
+[56]: https://konto.biznes.gov.pl/pl/moje-konto
+[57]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
+[58]: https://www.biznes.gov.pl/pl/portal/03175
