@@ -15,7 +15,7 @@ tags:
 !!! note
     К этому моменту у вас уже должны быть номера NIP и REGON. [Условия регистрации VAT-UE][1].
 
-## 0. С чего начать { #0-dlia-chego-voobshche-nuzhna-registratsiia-vat-ue }
+## 0. С чего начать
 
 На [Biznes.gov.pl][2] в блоке **Usługi CEIDG** выбираем **Zmień dane w CEIDG**, затем нажимаем **Rozpocznij**.
 
