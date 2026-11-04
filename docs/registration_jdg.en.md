@@ -40,17 +40,17 @@ Click **Rozpocznij**. If **Podpowiadanie danych** appears, select your own profi
 
 ### 2. Important information
 
-Read **Ważne informacje**, then click **Dalej**. The set and order of subsequent screens depend on your answers and the selected applications.
+Click `DALEJ`
 
 ![Важная информация перед регистрацией JDG, кнопка Dalej][8]
 
 ### 3. Applicant details
 
-On **Dane wnioskodawcy**, select the citizenship option that matches your situation. For a non-Polish citizenship, use **Mam kilka obywatelstw lub inne obywatelstwo niż polskie** and add all your citizenships. Keep Polish citizenship if you actually hold it.
+For non-Polish or multiple citizenships, choose **Mam kilka obywatelstw lub inne obywatelstwo niż polskie** and add your citizenships.
 
 ![Выбор гражданства заявителя и кнопка добавления гражданства][9]
 
-Check your name, surname, parents’ names, PESEL and place of birth. Some fields are supplied automatically from your login details.
+Next, fill in your name, surname, parents’ names, PESEL and place of birth. Some details are filled in automatically.
 
 ![Личные данные заявителя и обязательные поля CEIDG][10]
 
@@ -76,7 +76,7 @@ Enter the number and issue date of the current document confirming your right to
 
 ![Данные документа иностранца: номер, дата и орган выдачи][12]
 
-Attach the documents confirming your applicable basis for running the business. The total attachment size must not exceed **3.5 MB**, as indicated by the portal. For a residence permit, check which decision and document establish your entitlement; do not copy an old visa example if it no longer matches your situation.
+Attach the documents confirming your right to run a JDG. The total size must not exceed **3.5 MB**.
 
 Read **Oświadczenie o statusie cudzoziemca** and answer according to your actual status.
 
@@ -94,16 +94,18 @@ Select the saved address and click **Dalej**.
 
 ### 6. Company details
 
-The full company name must include your first and last name. The short name does not have to include them. Enter the business start date and planned number of people working, including yourself: **1** if you will work alone.
+- The full company name must include at least your first and last name in Latin characters. The short name can be anything. For simplicity, it is recommended to use "First Name Last Name" for both the full and short names.
+- The start date of activity can be today or a future date. You can change it later.
+- You also need to specify the planned number of employees including yourself (if you don't plan to hire anyone, enter 1).
 
 ![Полное и краткое название фирмы, дата начала деятельности][16]
 
-Contact-publication consent is separate for e-mail, website, phone and other contact details. Providing an e-mail requires answering the associated publication question; **Nie posiadam adresu e-mail** is for someone who actually has no e-mail. Select **Nie** for each supplied contact you do not want published in CEIDG.
+Publication consent is now separate for e-mail, website, phone and other contact details.
 
 ![Контакты фирмы: отдельное согласие на публикацию e-mail][17]
 
 !!! note
-    Publishing contact details can attract unsolicited messages.
+    We recommend choosing Nie to keep your contact details private and avoid a flood of spam after registration.
 
 ### 7. Activity codes
 
@@ -196,7 +198,7 @@ Check **Dane identyfikacyjne płatnika składek**, then **Dane osoby ubezpieczon
 
 ### 14. ZUS details
 
-On **Informacje o obowiązkowym ubezpieczeniu**, enter the date your insurance obligation starts. Choose **Ulga na start - 0540** only if you qualify, and answer the pension and disability-certificate questions according to your own documents.
+Enter the insurance start date, select any relief you qualify for (such as **Ulga na start - 0540**), and provide your pension and disability details.
 
 ![Выбор ulga na start и сведений для кода страхования][33]
 
@@ -214,7 +216,7 @@ Click `DALEJ`
 
 ### 16. Registration address (zameldowanie)
 
-On **Adres zameldowania na stałe miejsce pobytu**, answer **Podaję adres zameldowania** according to your circumstances. With **Tak**, select or add the actual registration address. The portal allows a foreign registration address if you do not have one in Poland; do not substitute an arbitrary address.
+Enter your registration address. If you do not have a Polish one, use your foreign registration address. To add an address, choose **Tak** under **Podaję adres zameldowania**.
 
 ![Наличие адреса zameldowania и кнопка добавления адреса][37]
 
@@ -291,7 +293,9 @@ Click `DALEJ`
 
 ### 24. Declaration
 
-Read **Oświadczenie** and confirm it only if the statements about the right to use the addresses and the absence of business prohibitions are true.
+A statement about legal responsibility:
+
+Click `DALEJ`
 
 ![Oświadczenie о праве пользоваться адресами и отсутствии запретов][49]
 

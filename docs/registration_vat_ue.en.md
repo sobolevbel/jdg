@@ -10,10 +10,10 @@ tags:
 # Registering as a VAT-UE taxpayer
 
 !!! question "Why register for VAT-UE"
-    Register before transactions for which VAT-UE is required: for example, supplying B2B services to an EU customer under the general place-of-supply rule, or importing services covered by Article 28b. Registration for VAT-UE does not itself remove your Polish VAT exemption.
+    If you plan to provide services to companies in other EU countries, you generally need to register for VAT-UE before starting.
 
 !!! note
-    You need a NIP. If you already have Polish VAT registration, submit an update to VAT-R rather than a new registration. See [the Ministry of Finance guidance][1].
+    By this point you should already have NIP and REGON. See [the VAT-UE registration requirements][1].
 
 ## 0. What VAT-UE registration is actually for
 
@@ -27,7 +27,7 @@ Open [Biznes.gov.pl][3] and choose **Zmień dane w CEIDG** in **Usługi CEIDG**,
 
 ## 1. Important information first
 
-Read **Ważne informacje** and click **Dalej**.
+Read it, then hit `DALEJ`
 
 ![Важная информация перед изменением CEIDG, кнопка Dalej][4]
 
@@ -35,7 +35,7 @@ Read **Ważne informacje** and click **Dalej**.
 
 Choose **Chcę edytować wpis, wysłać dokumenty do ZUS lub urzędu skarbowego** and enter **Data powstania zmiany**.
 
-This is the CEIDG change date, not the date of your original Polish VAT registration or the planned start of EU transactions.
+This is the CEIDG change date, not the VAT registration date.
 
 ![Цель изменения CEIDG и поле Data powstania zmiany][5]
 
@@ -53,7 +53,7 @@ Leave unrelated changes, including PIT and additional ZUS forms, unselected.
 
 ## 4. Foreigner's data
 
-If this section is included, provide the details of the document confirming your right to run a JDG in Poland and its issuing authority. Complete the status declaration according to your actual circumstances; the fields depend on citizenship and the selected sections.
+Enter the document that gives you the right to run a JDG in Poland and its issuing authority.
 
 ![Данные документа иностранца и выбор органа выдачи][8]
 
@@ -61,7 +61,7 @@ See [the JDG registration guide][9] for the document fields.
 
 ## 5. Residential address
 
-Check your actual residential address. If it has not changed, keep the correct address selected; you do not need to change it to register VAT-UE.
+Change your residential address if needed.
 
 ![Адрес проживания: выбор адреса и кнопка Dodaj nowy adres][10]
 
@@ -87,15 +87,13 @@ Select your current insurance institution, normally **ZUS**.
 
 ![Социальное страхование: выбран ZUS][14]
 
-VAT-UE registration itself does not require changing your ZUS insurance.
-
 ## 7. Changing ZUS data
 
-Do not select additional ZUS applications solely to register VAT-UE. In **Edycja wpisu w CEIDG**, leave **Zgłoszenie dotyczy ubezpieczenia przedsiębiorcy**, employee and family applications unselected unless you actually need those changes. The separate insurance-registration screens will then be skipped.
+If you are not changing your insurance, leave the forms under **Zgłoszenia do ZUS** unselected.
 
 ## 8. Tax office
 
-Check the tax office already supplied by the wizard. Use **Wyszukaj urząd** only if you need to correct it.
+You can switch tax offices if you need to.
 
 ![Выбор налоговой инспекции перед заполнением VAT-R][15]
 
@@ -107,19 +105,19 @@ Choose **Rejestracja podatnika VAT** if you have not previously registered as an
 
 ## 10. Domestic Polish VAT
 
-The **Podatnik zwolniony z VAT** screen asks whether you want exempt VAT status.
+Choose whether you will use the Polish VAT exemption.
 
-- If you retain the usual turnover-based exemption for a JDG established in Poland, choose **Tak**, then **podatnik będzie korzystał (korzysta) ze zwolnienia, o którym mowa w art. 113 ust. 1 lub 9 ustawy**. Enter the date from which that exemption applies.
-- If you are already an active Polish VAT taxpayer, choose **Nie**. Do not switch yourself to exempt status just to add VAT-UE.
+- If you do not need Polish VAT, choose **Tak**, then **art. 113 ust. 1 lub 9 ustawy**. Enter the exemption start date.
+- If you already have active Polish VAT registration, choose **Nie**.
 - If you want to register for active Polish VAT at the same time, use [the Polish VAT registration instructions][17].
 
 ![Освобождение от польского VAT: Tak, art. 113 и дата начала освобождения][18]
 
-The separate **[art. 113a][19]** option concerns the SME exemption for a business established in another EU country. Having EU customers does not by itself make this the appropriate option.
+The **[art. 113a][19]** option is for businesses established in another EU country.
 
 ## 11. Identification data
 
-Enter your father's and mother's names.
+Father's and mother's names. Best if the Latin spelling matches what's in their documents. Just in case.
 
 ![Идентификационные данные VAT-R: имена родителей][20]
 
@@ -131,18 +129,17 @@ On **Aktualizacja danych podatnika VAT**, answer **Nie** to the tax-office chang
 
 On **Obowiązek podatkowy w zakresie podatku od towarów i usług (VAT)**:
 
-1. Open **Wybierz tytuł podatkowy** and repeat the reason you stated in your previous Polish VAT-R.
-2. In **Data rozpoczęcia tytułu obowiązku podatkowego**, repeat the original date for that reason. Do not enter today's date or the planned VAT-UE date.
-3. Check the previous VAT-R or your accountant's records instead of guessing the original entries.
+1. Under **Wybierz tytuł podatkowy**, choose the same reason as in your original Polish VAT registration.
+2. Under **Data rozpoczęcia tytułu obowiązku podatkowego**, enter the same date. Check your old VAT-R or ask your accountant.
 
 ![Прежнее основание польского VAT и дата начала налоговой обязанности][22]
 
 !!! warning "Leave financial services unselected"
-    In **Zwolnienie usług finansowych**, select neither option. Leave both **Podatnik rezygnuje ze zwolnienia** and **Podatnik będzie ponownie korzystał ze zwolnienia** empty in this scenario. This is not the ordinary turnover-based VAT exemption.
+    Leave both options under **Zwolnienie usług finansowych** unselected.
 
 ![Блок Zwolnienie usług finansowych: оба варианта не отмечены][23]
 
-If you are not changing the cash method, special procedures or quarterly filing, choose **Bez zmian** in each corresponding group. Do not select **Rezygnuję** merely to continue: it declares a change to the existing arrangement.
+For the cash method, special procedures and quarterly returns, choose **Bez zmian** if you are keeping the existing settings.
 
 ![Актуализация VAT-R: Bez zmian для метода, процедур и квартальных деклараций][24]
 
@@ -167,11 +164,11 @@ This screen depends on your Polish VAT status.
 
 ![VAT-UE для активного плательщика польского VAT: поле даты операций][27]
 
-Enter **Przewidywana data rozpoczęcia transakcji wewnątrzwspólnotowych**, the planned start of EU transactions. It is separate from the original Polish VAT date. File the application before the transactions for which VAT-UE registration is required.
+Under **Przewidywana data rozpoczęcia transakcji wewnątrzwspólnotowych**, enter the planned start date of EU transactions, not your original Polish VAT registration date.
 
 ### VAT returns for an existing Polish VAT taxpayer
 
-If **Rodzaj składanych deklaracji VAT** appears, keep the return type appropriate to your existing Polish VAT registration. Do not treat the VAT-UE start date as a new first Polish VAT return period.
+If **Rodzaj składanych deklaracji VAT** appears, keep the existing return type and first Polish VAT return period. Adding VAT-UE does not change them.
 
 ![Тип польской декларации VAT и первый отчётный период][28]
 
@@ -179,37 +176,40 @@ For the exempt services-only route above, this screen is skipped.
 
 ## 14. Applicant information
 
-Check the tax office for VAT-R. You may add an e-mail address and phone number to help the office contact you; these fields are optional.
+You can pick another tax office and add contact details if you want. Optional — but it can make talking to the office easier.
 
 ![Налоговая и необязательные контактные данные в VAT-R][29]
 
 ## 15. Confirmation of VAT taxpayer registration
 
-You can decline the separate paid paper confirmation. This does not cancel the VAT-UE application.
+You probably don't need this.
 
 ![Отказ от платного подтверждения регистрации VAT][30]
 
 ## 16. Liability warning
 
-Read **Oświadczenie** and confirm it only if the statements about your right to use the addresses and the absence of business prohibitions are true.
+On your own head be it — you confirm you want to file and you're not up to anything shady.
 
 ![Oświadczenie: заявление о праве на адреса и отсутствии запретов][31]
 
 ## 17. Where to get more info
 
-Read any information about the receiving authority and continue with **Dalej** if the wizard shows this screen.
+Just hit `DALEJ`
 
 ## 18. Summary screen
 
-Before signing, check the generated CEIDG application and VAT-R. In particular, verify the purpose of VAT-R, the existing Polish VAT status and date, the VAT-UE transactions and their planned date.
+Just hit `DALEJ`
 
 ## 19. Signing documents
 
-Download the generated forms for your records before signing. Choose a signing method offered by the portal, such as **Profil Zaufany** or a qualified electronic signature, and complete the signing steps.
+!!! tip
+    Click the xml links to download the forms for your records.
+
+Pick how you sign. Trusted profile and bank login are basically the same thing. If you set up trusted profile through a bank, you can use bank login.
 
 ## 20. Sending documents
 
-After signing, send the application. Check that the portal displays a submission confirmation and case number. A signed document alone has not necessarily been sent.
+After a quick sign-and-send, you're done.
 
 ## 21. Speeding up VAT-UE registration
 
