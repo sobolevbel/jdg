@@ -140,19 +140,21 @@ UPP = Urzędowe Poświadczenie Przedłożenia — подтверждение п�
 
 ### Для пользователей eZUS
 
-Чтобы получить Urzędowe Poświadczenie Przedłożenia (UPP) через eZUS (бывший PUE ZUS):
+Для деклараций ZUA/ZZA/ZWUA, DRA и RCA, отправленных через ePłatnik:
 
-1. Зайдите на сайт [eZUS](https://www.zus.pl/) и авторизуйтесь.
-2. В главном меню выберите раздел **Dokumenty i wiadomości Korespondencja z ZUS**.
-3. Перейдите в подраздел **Dokumenty wysłane**.
-4. Найдите нужную декларацию и нажмите кнопку **Szczegóły**.
-5. В открывшемся окне можно:
-    - Просмотреть документ,
-    - Экспортировать его на диск,
-    - Просмотреть подтверждение отправки (**Poświadczenie przedłożenia**).
-6. Для скачивания UPP выберите **Pokaż poświadczenie przedłożenia** и нажмите кнопку **Eksportuj**.
+1. [Войдите в eZUS и выберите Konto płatnika][6]. В левом меню откройте **ePłatnik**.
+2. В прежнем интерфейсе выберите **Dokumenty → Dokumenty wysłane**.
+3. Выделите нужную декларацию и нажмите **Podgląd poświadczenia przedłożenia**. На фото показан пример с DRA; для ZUA/ZZA/ZWUA выберите строку своей декларации.
 
-Если не удаётся найти UPP на сайте eZUS, обратитесь к инструкции вашего бухгалтерского ПО.
+    ![ePłatnik: выбранная декларация в Dokumenty wysłane и кнопка Podgląd poświadczenia przedłożenia][7]
+
+4. В открывшемся окне **Urzędowe Poświadczenie Przedłożenia** нажмите **Eksportuj**, чтобы сохранить подтверждение, или **Drukuj**, если нужна печатная копия.
+
+    ![Окно UPP в ePłatnik: кнопки Drukuj и Eksportuj для печати и сохранения подтверждения][8]
+
+Сохраните UPP у себя: ePłatnik предупреждает, что отправленные документы удаляются из кабинета через два года. Если декларацию отправляли из другой программы, запросите UPP у отправителя или найдите его в этой программе.
+
+Для заявлений **RWS/RWN** в новом Płatnik используется другой путь: [**Sprawy płatnika → Według statusu → Wysłane**][9] → нужное заявление → **Zobacz szczegóły → Podsumowanie → UPP (XML)**.
 
 ### Для пользователей iFirma
 
@@ -174,3 +176,7 @@ Deklaracji → e-Deklaracji ZUS → таблица Deklaracje zgłoszeniowe → 
 [3]: zus_login.md
 [4]: https://justandrei.github.io/jdg-tools/checklist/#c-zus-insurance-confirmation
 [5]: zus_errors.md
+[6]: zus_login.md
+[7]: images/zus_next_level/upp_01_dokumenty_wyslane.jpg
+[8]: images/zus_next_level/upp_02_eksport.jpg
+[9]: zus_login.md#otpravlennye-zaiavleniia-i-chernoviki

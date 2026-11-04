@@ -1,6 +1,6 @@
 ---
 title: ZUS Vacation (Wakacje od ZUS) for JDG
-description: Wakacje od ZUS — exemption from składki społeczne for 1 month per year. Eligibility, who can apply, and how to submit an application through ZUS PUE
+description: Wakacje od ZUS — exemption from składki społeczne for 1 month per year. Eligibility, who can apply, and how to submit an application through the new eZUS account
 tags:
   - ZUS
   - Contributions
@@ -19,14 +19,16 @@ If your Ulga na Start hasn't ended yet, you can skip the details for now and com
 
 ## Eligibility for ZUS Vacation
 
-To receive the exemption, you must meet the following requirements:
+Under the [ZUS conditions for 2026][1]:
 
-- During the month preceding the application month, the entrepreneur must have been insured in ZUS for at least 1 day.
-- For the month preceding the application month, the entrepreneur must have paid the contributions they want to be exempted from. _(i.e. you can't game the system and have the state pay your voluntary składka chorobowa during the vacation if you weren't paying it yourself before that)_
-- Have no more than 9 employees.
-- Annual turnover below 2 million euros.
-- The entrepreneur did not provide services to a former employer for whom, in the year of business registration and the year prior, they worked under an employment contract (w ramach stosunku pracy) or another contract (spółdzielczego stosunku pracy), in the same field as their current business activity.
-- Has not already used ZUS vacation this year.
+- In the month before applying, you were covered for at least one day by retirement, disability and accident insurance (emerytalne, rentowe i wypadkowe) through your JDG.
+- In that month, you had no more than 10 counted insured people **including yourself**. This includes employees, zleceniobiorcy and cooperating persons; the ZUS guidance lists exceptions to the count.
+- In the two years before the application year, you had no JDG revenue, or annual revenue in at least one of those years did not exceed the equivalent of EUR 2 million.
+- In the previous calendar year and the current year up to the application date, you did not perform the same activities for a former employer as under an employment or cooperative employment contract in the year you started the JDG or the preceding year.
+- Exemption from **voluntary składka chorobowa** requires at least one day of that insurance **in both the application month and the preceding month**.
+- You have not used the vacation for the selected calendar year and have sufficient remaining de minimis allowance.
+
+Outstanding ZUS debt does not by itself prevent you from using the vacation — [ZUS explicitly explains this in its FAQ][2].
 
 ## Which Contributions Are Exempt
 
@@ -40,30 +42,29 @@ In terms of numbers, the ZUS vacation savings work out the same as the "Ulga na 
 
 ## How to Apply for ZUS Vacation
 
-You can only apply **online** through the PUE ZUS / eZUS portal.
-The original version of this guide was developed by [:telegram: Olga Korneva][9].
+Apply **online** from **Konto płatnika** in eZUS, in the month before your vacation month. For example, an application for December 2026 must be submitted in November 2026.
+The original version of this guide was developed by [:telegram: Olga Korneva][3].
+
+The interface below was checked in November 2026. The answers in the pictures illustrate the form: choose the options that match your own situation.
 
 ### Creating the Document
 
-Go to the Płatnik panel (top right), then select - Dokumenty i wiadomości
-(left column) - Dokumenty robocze, and at the bottom click Utwórz nowy.
+Sign in to eZUS and [choose Konto płatnika for your JDG][4]. Open **Katalog usług** in the left menu.
 
-![PUE ZUS: Dokumenty robocze section, Utwórz nowy button][1]
+!!! info "If you interrupt the application"
+    The wizard saves a draft. Resume it through **Sprawy płatnika → Według statusu → Robocze**. Leaving the form does not mean a previously saved draft has been deleted.
 
 ### Selecting RWS
 
-At this step, you need to find the right application form. First, increase the number of
-documents per page (at the bottom, select 50 or 100) and scroll to find the form, or page
-through and look for: Wniosek RWS - Wniosek o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc.
-Select it and click Utwórz dokument at the bottom.
+Enter `RWS` in **Wyszukaj sprawę**. Expand **Złóż wniosek o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc (RWS)** and click **Przejdź do usługi**. The card may appear under **Wakacje składkowe** or among recently used services.
 
-![Document type list: Wniosek RWS, Utwórz dokument button][2]
+![Каталог eZUS: поиск RWS, нужная услуга и кнопка Przejdź do usługi][5]
 
 ### Selecting the Type
 
 Select the document type Wniosek.
 
-![RWS form: document type Wniosek selected][3]
+![Форма RWS: варианты Wniosek, Uzupełnienie/korekta wniosku и Wycofanie wniosku][6]
 
 The screenshot shows the first of 3 available options:
 
@@ -75,33 +76,27 @@ Click Dalej to proceed to the next screen.
 
 ### Personal Information
 
-Fill in the JDG information. It will most likely be pre-filled already; you can optionally add a phone number.
+Check the automatically filled NIP, PESEL, first name and surname. These fields cannot be edited in the wizard. The phone number is optional. Click **Dalej**.
 
-![RWS form: JDG payer details][11]
+![Форма RWS: данные плательщика, необязательный телефон и кнопка Dalej][7]
 
 ### Selecting the Indicated Month
 
-![RWS form: selecting the month and year of the exemption][12]
+In **Treść wniosku**, the month and year are filled automatically: the month after the application. The picture shows **12 / 2026** for an application in November 2026. This step does not offer an arbitrary month selector. Check the period and click **Dalej**.
 
-!!! quote "Request content"
-    I am requesting an exemption from paying social insurance contributions and the Labour Fund and Solidarity Fund for the month:
-
-    Month `1` Year `2025`
-
-    If you are not required to pay contributions to the Labour Fund and the Solidarity Fund for the month you indicated in your application, we will consider your application only with regard to the exemption from paying social insurance contributions.
+![Форма RWS: автоматически указанный месяц освобождения и кнопка Dalej][8]
 
 ### Declaring the Use of De Minimis Aid
 
-ZUS vacation is a form of de minimis aid, which means the entrepreneur must declare all
-government subsidies and business benefits received during the current year.
-The total de minimis aid limit is 300,000 euros over three years.
+ZUS vacation is de minimis aid. Declare de minimis aid received over the **past three years**, not just the current calendar year.
+The total limit is EUR 300,000 over a rolling three-year period; the remaining allowance must cover the requested exemption. Previous ZUS vacations also count as this aid.
 
-![RWS form: declaration of received de minimis aid][13]
+![Форма RWS: полученная помощь de minimis, выбор zaświadczenia и кнопка Dalej][9]
 
 !!! quote
     I declare that:
 
-    - for the last two calendar years preceding the year of application, I did not receive income from non-agricultural economic activity, or in at least one year of the last two calendar years preceding the year of application, I received annual income from non-agricultural economic activity that did not exceed the equivalent in zlotys of 2 million euros;
+    - for the last two calendar years preceding the year of application, I did not receive revenue from non-agricultural economic activity, or in at least one year of the last two calendar years preceding the year of application, I received annual revenue from non-agricultural economic activity that did not exceed the equivalent in zlotys of 2 million euros;
     - as an insured person in the calendar year preceding the year of application and from the beginning of the calendar year in which I submit the application until the date of its submission, I did not conduct non-agricultural business activity for a former employer for whom, in the calendar year of starting business activity or in the previous calendar year, I performed, within the framework of employment or cooperative employment relationships, activities falling within the scope of the business activity;
     - Over the past 3 years:
          - [ ] I did not use de minimis state aid
@@ -111,7 +106,7 @@ The total de minimis aid limit is 300,000 euros over three years.
          - [x] certificates
 
      :warning: Before submitting the application, attach the certificates as appendices.
-     You will be able to do this on the last page of the creator.
+     Use the separate **Załączniki** step before **Podsumowanie**.
 
      **I am aware of criminal liability for making a false declaration.**
 
@@ -132,17 +127,19 @@ A file will be generated listing all individually received benefits along with t
 
 _"Where do I get the de minimis aid certificate?"_
 
-In PUE ZUS, panel Platnik - Dokumenty i wiadomości - Skrzynka odbiorcza. In the list of received documents, find all relevant documents named RWS - Informacja o przyznaniu zwolnienia. For each such document, go to Szczegóły.
+In **Sprawy płatnika → Według tematyki**, open **Zobacz więcej → Wakacje składkowe**. Find the processed application with a positive result and choose **⋯ → Zobacz szczegóły**. Under **Odpowiedzi z ZUS**, open the received reply using **⋯ → Zobacz szczegóły**.
 
-![Skrzynka odbiorcza: RWS document — Informacja o przyznaniu zwolnienia, Szczegóły button][44]
+![Дело RWS: раздел Odpowiedzi z ZUS и действие Zobacz szczegóły у полученного ответа][11]
 
-On the Szczegóły panel, in the Załączniki section, look for the document _Zaświadczenie_rws-r-zasw.pdf_. To download the document, click Pobierz. Adding documents is described in the last step of filling out the application.
+In the reply’s **Podsumowanie**, download **Zaświadczenie_rws-r-zasw.pdf**. **Informacja_rws-inf-zwol.pdf**, the information granting the exemption, is available there too.
 
-![Szczegóły panel, Załączniki section: zaświadczenie file, Pobierz button][45]
+![Ответ ZUS по RWS: файлы Informacja_rws-inf-zwol.pdf и Zaświadczenie_rws-r-zasw.pdf][12]
+
+The certificate for the new aid is **in the ZUS reply**. Attachments to the original RWS application contain the documents you submitted, including certificates for earlier vacations.
 
 ### Entrepreneur Categories
 
-![RWS form, Wielkość podmiotu section: mikroprzedsiębiorca selected][14]
+![Форма RWS: выбор размера предприятия в разделе Wielkość podmiotu][13]
 
 Translation of the content with category explanations
 !!! quote "Translation"
@@ -167,25 +164,19 @@ Translation of the content with category explanations
 
 **Other entrepreneur** — who does not fall into any of the above categories.
 
-In the example, **Micro entrepreneur** is selected. This is the only correct answer in the sense that if you have 10 or more employees, ZUS vacation is not for you.
-Select the option that applies to you.
+The example selects **Micro entrepreneur**. Choose the category that matches your business. The insured-person limit for the vacation and the enterprise-size classification are separate conditions. Click **Dalej**.
 
 ### Activity Class
 
-![RWS form, Klasa działalności section: PKD code field][14]
+In **Klasa działalności**, open the PKD picker with the magnifying-glass button. In **Wybór kodu PKD**, check **Wersja PKD**: classifications **2007** and **2025** are available. Use the classification under which your activity is registered in CEIDG. Find your code, select its row and click **Wybierz**, then **Dalej**.
 
-!!! quote "Translation"
-    Indicate the PKD of the activity for which you are subject to social insurance in the Social Insurance Fund. Activity class, in accordance with [the Regulation of the Council of Ministers of December 18, 2024 on the Polish Classification of Activities](https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/polska-klasyfikacja-dzialalnosci-pkd-22092046) (PKD = the Polish equivalent of industry classification codes) (Dz. U. z 2024 r. poz. 1936)
+![Выбор PKD в RWS: поиск кода, выбранная строка 6210B и кнопка Wybierz][14]
 
-In the popup window, select the appropriate activity code.
-
-![PKD code selection popup, 62.10.B selected][4]
-
-In the example, activity code 62.10.B is selected (other software development activities). Select the option that applies to you.
+The picture illustrates **6210B (62.10.B)** from PKD 2025 — select your own activity code.
 
 ### Relationships with Other Entrepreneurs
 
-![RWS form: questions about relationships with other entrepreneurs, all answers Nie][15]
+![Форма RWS: вопросы о связях с другими предпринимателями и кнопка Dalej][15]
 
 !!! quote "Translation"
     Is there a relationship between the entity and other entrepreneurs, consisting of the fact that:
@@ -200,7 +191,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About the Entity's Origin
 
-![RWS form: questions about the entity's origin, all answers Nie][16]
+![Форма RWS: вопросы о возникновении предприятия и кнопка Dalej][16]
 
 !!! quote "Translation"
     In the past 3 years, the entity:
@@ -214,7 +205,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About Specific Activity Categories
 
-![RWS form: questions about agriculture and fishery activities, answers Nie][17]
+![Форма RWS: вопросы о сельском хозяйстве и рыболовстве, кнопка Dalej][17]
 
 !!! quote "Translation"
     Information about business activity conducted by the entity to which de minimis aid is to be granted
@@ -230,39 +221,35 @@ In the example, all categories are marked as negative. Select the options that a
 
 ### Signing and Sending
 
-![Last step of the RWS form: Dodaj załączniki and Podpisz i wyślij buttons][18]
+In the separate **Załączniki** step, attach certificates if you selected **korzystałem z pomocy publicznej de minimis → zaświadczenia**. Click **Kliknij tutaj, aby dodać plik**. With that confirmation option selected, the wizard will not let you continue without an attachment.
 
-If at step 3 you selected the option "korzystałem z pomocy publicznej de minimis" + the option
-"zaświadczenia", then now, at the last step before submitting the application, you need to
-attach the certificates (zaświadczenia) using the "Dodaj załączniki..." button.
+![Форма RWS: отдельный шаг Załączniki, загрузка файла и кнопка Dalej][18]
 
-![Last step of the RWS form with a zaświadczenie attached][19]
+Click **Dalej**. In **Podsumowanie**, review the application in **Widok danych dokumentu** or download its PDF using **Pobierz**. Then click **Podpisz i wyślij**.
 
-Sign and send the document using the Podpisz i wyślij button.
+![Сводка RWS: просмотр данных, скачивание PDF и кнопка Podpisz i wyślij][19]
 
-![Signature method selection window, first option — Podpis profilem PUE][5]
+**Wybierz metodę podpisu** opens. To sign through the current account, select **eZUS** and click **Podpisz**. **podpisem zaufanym (PZ)**, a qualified signature and e-dowód are also available. The former option name **Podpis profilem PUE** is no longer used.
 
-The first option "Podpis profilem PUE" is recommended as the simplest to use.
+![Подпись RWS: выбран способ eZUS, выделена кнопка Podpisz][20]
 
 #### Success Criteria
 
-You will see this message:
+After sending, open [**Sprawy płatnika → Według statusu → Wysłane**][21], enter `RWS` in the search field and choose **⋯ → Zobacz szczegóły** for your application.
 
-![Message confirming the application was sent to ZUS][6]
+![Отправленные дела: поиск RWS и действие Zobacz szczegóły у заявления][22]
 
-And in the sent documents (Dokumenty wysłane), the Wniosek RWS will appear:
+**Podsumowanie** provides **Urzędowe poświadczenie przedłożenia UPP (XML)** and its **Podgląd**. This confirms submission. Check the ZUS reply separately for the application outcome.
 
-![Dokumenty wysłane section: the sent Wniosek RWS][7]
+![Детали отправленного RWS: Urzędowe poświadczenie przedłożenia UPP и кнопка Podgląd][23]
 
 ### What's Next
 
-Wait for a response from ZUS in your PUE/eZUS account. This may take several days.
-You will receive a notification about new messages at the email address or phone number
-you provided in PUE/eZUS.
+Wait for the reply in eZUS. Find a new application under **Sprawy płatnika → Według statusu → Wysłane**. Processed RWS applications are also available through **Według tematyki → Zobacz więcej → Wakacje składkowe**; a positive result displays **Zwolnienie przyznane**. Open **⋯ → Zobacz szczegóły**.
 
-First, you will receive Zawiadomienie o możliwości czynnego udziału w sprawie — this is an informational letter from ZUS that your application has been accepted for review. After that, within a few days, you will receive either a positive or negative decision about participating in ZUS vacation. In the case of a positive decision, the document is called Informacja o przyznaniu zwolnienia. The example shows a case where the vacation application was approved.
+![Рассмотренные дела Wakacje składkowe: статус Zwolnienie przyznane и действие Zobacz szczegóły][24]
 
-![Skrzynka odbiorcza: received document Informacja o przyznaniu zwolnienia][46]
+Replies are inside the case under **Odpowiedzi z ZUS**. They may include interim letters and the final **Informacja o przyznaniu zwolnienia**. The FAQ above explains how to download the de minimis certificate. If notifications are enabled, eZUS will also notify you of a new letter by email or SMS.
 
 If you don't pay the voluntary składka chorobowa (the one for sick leave) and apply for the vacation, ZUS may at some point send something like this:
 
@@ -275,11 +262,11 @@ If you don't pay the voluntary składka chorobowa (the one for sick leave) and a
 
     Może Pan wypowiedzieć się o zgromadzonej w Zakładzie dokumentacji w terminie 7 dni od daty doręczenia tego zawiadomienia.
 
-Don't panic — this does not mean a full rejection of the vacation, just a denial of the składka chorobowa compensation. A few days after this, you'll receive the normal documents regarding the aid.
+This letter concerns the składka chorobowa condition. Check the final scope of the exemption in the ZUS reply.
 
 !!! warning "If your application is approved, you need to notify your accountant"
 
-If you handle your own accounting, see the section [Monthly reports during ZUS vacation][8].
+If you handle your own accounting, see the section [Monthly reports during ZUS vacation][25].
 
 ## Monthly Reports During ZUS Vacation
 
@@ -299,75 +286,76 @@ If the entrepreneur has employees, they must submit the following documents for 
 If you use accounting software (Infakt, WFirma, iFirma),
 you can generate the reports using those tools. Otherwise, you can follow the instructions below.
 These instructions are written for a payer on Składki preferencyjne.
-The original version of this guide was developed by [:telegram: Olga Korneva][9].
+The periods and amounts in these pictures are examples: use your own reporting month and check the calculation.
+The original version of this guide was developed by [:telegram: Olga Korneva][3].
 
 ### Report Creator for ZUS Vacation in PUE ZUS
 
-Panel ePłatnik – Kreatory – Obsługa rozliczenia - Dalej.
+In the new **Konto płatnika**, open **ePłatnik** in the left menu ([finding the section][4]). The remaining steps use the previous interface: **Kreatory → Obsługa rozliczenia → Dalej**.
 
-![ePłatnik panel, Kreatory section: Obsługa rozliczenia item][20]
+![ePłatnik panel, Kreatory section: Obsługa rozliczenia item][26]
 
 Nowy komplet rozliczeniowy - Dalej.
 
-![Creator: Nowy komplet rozliczeniowy selected, Dalej button][21]
+![Creator: Nowy komplet rozliczeniowy selected, Dalej button][27]
 
 The date field will be pre-filled; verify the remaining fields and click Dalej.
 
-![Creator: general declaration options with the date pre-filled, Dalej button][22]
+![Creator: general declaration options with the date pre-filled, Dalej button][28]
 
 An informational message will pop up saying that ZUS RCA declarations will be generated — click Zamknij.
 
-![Message about generating ZUS RCA declarations, Zamknij button][23]
+![Message about generating ZUS RCA declarations, Zamknij button][29]
 
 On the Rozliczenie ubezpieczonych panel, click Dane rozliczenia.
 
-![Rozliczenie ubezpieczonych panel: Dane rozliczenia button][24]
+![Rozliczenie ubezpieczonych panel: Dane rozliczenia button][30]
 
 On the Dane rozliczenia panel, select element 057000 and click Edytuj.
 
-![Dane rozliczenia panel: element 057000 selected, Edytuj button][25]
+![Dane rozliczenia panel: element 057000 selected, Edytuj button][31]
 
 On the panel, select the second tab Ubezpieczenie zdrowotne, wypłacone świadczenia.
 
-![Ubezpieczenie zdrowotne, wypłacone świadczenia tab][26]
+![Ubezpieczenie zdrowotne, wypłacone świadczenia tab][32]
 
 Select the appropriate tax form. To select ryczałt, you need to scroll down.
 
-![Ubezpieczenie zdrowotne tab: selecting the tax form][27]
+![Ubezpieczenie zdrowotne tab: selecting the tax form][33]
 
 In addition to the checkbox, for ryczałt you need to enter the income amount for the current calendar year (in the example — for 2024).
 Click Oblicz.
 
-![Income amount field for ryczałt, Oblicz button][28]
+![Income amount field for ryczałt, Oblicz button][34]
 
 An informational message about the calculated base and health insurance contribution based on the provided data will pop up.
 Click Ok.
 
-![Message about the calculated base and health insurance contribution, Ok button][29]
+![Message about the calculated base and health insurance contribution, Ok button][35]
 
 The corresponding fields are filled in automatically. Click Zapisz.
 
-![Automatically filled contribution fields, Zapisz button][30]
+![Automatically filled contribution fields, Zapisz button][36]
 
 Return to the Dane rozliczenia panel and click Dalej.
 
-![Dane rozliczenia panel: Dalej button][31]
+![Dane rozliczenia panel: Dalej button][37]
 
 On the Zestawenie panel, click Dalej.
 
-![Zestawienie panel: Dalej button][32]
+![Zestawienie panel: Dalej button][38]
 
 On the Utworzenie i walidacja dokumentów panel, click Wylicz.
 
-![Utworzenie i walidacja dokumentów panel: Wylicz button][33]
+![Utworzenie i walidacja dokumentów panel: Wylicz button][39]
 
 An informational message will pop up. Click Ok.
 
-![Informational message, Ok button][34]
+![Informational message, Ok button][40]
 
 On the Utworzenie i walidacja dokumentów panel, click Weryfikuj.
 
-![Utworzenie i walidacja dokumentów panel: Weryfikuj button][35]
+![Utworzenie i walidacja dokumentów panel: Weryfikuj button][41]
 
 The declarations will be verified.
 
@@ -381,36 +369,36 @@ element and click Podgląd.
 Two ZUS RCA declarations will be generated within one ZUS RCA element.
 To view both declarations, use the navigation buttons shown in the screenshot.
 
-![ZUS RCA declaration preview: navigation buttons between declarations][36]
+![ZUS RCA declaration preview: navigation buttons between declarations][43]
 
 The social insurance contributions (emerytalne, rentowe, chorobowe, wypadkowe)
 paid by the state will appear in the declaration with code 057400. In the screenshot
 below, these are fields 15, 16, 17, 18.
 
-![ZUS RCA declaration with code 057400: fields 15–18 — state-paid contributions][37]
+![ZUS RCA declaration with code 057400: fields 15–18 — state-paid contributions][44]
 
 The social insurance contributions (emerytalne, rentowe, chorobowe, wypadkowe)
 paid by the entrepreneur will appear in the declaration with code 057000.
 In the screenshot below, these are fields 07, 08, 09, 10.
 
-![ZUS RCA declaration with code 057000: fields 07–10 — entrepreneur-paid contributions][38]
+![ZUS RCA declaration with code 057000: fields 07–10 — entrepreneur-paid contributions][45]
 
 In the declaration with code 057000, the corresponding fields will contain the base and amount of the
 health insurance contribution (składka zdrowotna). Section III.C field 04 — this is the amount the
 insured entrepreneur must pay. The screenshot below shows the amount
 699.11 zł, which may differ depending on your situation.
 
-![ZUS RCA declaration 057000: section III.C, field 04 — składka zdrowotna][39]
+![ZUS RCA declaration 057000: section III.C, field 04 — składka zdrowotna][46]
 
 ### Sending the Declarations
 
 On the Utworzenie i walidacja dokumentów panel, click Wyślij i zakończ.
 
-![Utworzenie i walidacja dokumentów panel: Wyślij i zakończ button][40]
+![Utworzenie i walidacja dokumentów panel: Wyślij i zakończ button][47]
 
 Sign the document using any of the listed methods.
 
-![Document signature method selection window][41]
+![Document signature method selection window][48]
 
 After signing, the document will be sent to ZUS.
 
@@ -422,29 +410,28 @@ knowing about in advance:
 
 1. **Ryczałt payers, watch the annual income limit for the składka zdrowotna rate.** The vacation does not
    reduce your income, and the amounts saved on składki społeczne do not reduce your taxable base —
-   as a result, savings of 300–1,000 zł can turn into an additional składka zdrowotna payment of 3,000–6,000 zł
-   if you cross the threshold.
+   crossing a threshold can therefore result in an additional składka zdrowotna payment in the annual settlement.
 2. **Mały ZUS Plus.** If you pay reduced income-based contributions, the benefit of the vacation is noticeably smaller —
    calculate whether it is worth the bureaucracy.
 3. **Voluntary increased contributions.** If you deliberately pay ZUS more than the minimum for the sake of
-   your future pension, for the vacation month the state only compensates the **minimum** contribution amount.
+   your future pension, the vacation month uses only the **minimum** base. You cannot pay additional
+   contributions on an excess above that base for the same month — see the [ZUS explanation][2].
 4. **Accountants may charge extra** for filling in the RWS application and the non-standard settlement with ZUS
-   for the vacation month (we have seen 50 zł at iFirma and 200 zł at private accountants).
+   for the vacation month. Check the fee with your accountant.
 5. **The effect is delayed.** Your ZUS payment will decrease not in the "vacation" month, but in the following month.
    And a month after that, the income tax due will be slightly higher — the saved składki społeczne
    will not reduce your taxable base.
-6. **Switching from Preferencyjne to Duży ZUS.** You will be exempted from składki społeczne
-   in the minimum amount you were supposed to pay **in the month preceding the month
-   you submit the RWS application**. In practice this means you cannot switch from Składki
-   Preferencyjne to full ZUS (Duży ZUS) and get the exemption in the full
-   Duży ZUS amount in the very first month. Nor in the second month.
+6. **Switching from Preferencyjne to Duży ZUS.** The exemption uses the minimum base applicable
+   to you **for the vacation month**. When changing regimes, check the insurance code and base
+   for that month; see the [ZUS explanation of art. 18d][2].
 
 !!! question "Does the vacation affect applying for a residence card?"
     It has no effect at all. What matters is that the business has no break in activity or irregular income.
 
 ## You Don't Lose Anything
 
-The state will pay your contributions for that month — this has no effect on your pension savings.
+The state finances contributions on the minimum base applicable to you for that month; they count
+towards your future pension. If you normally pay on a higher base, consider the restriction described above.
 Unlike a "pause" (zawieszenie) or sick leave, during ZUS vacation the entrepreneur can
 continue conducting income-generating activity and issuing invoices.
 
@@ -453,51 +440,53 @@ continue conducting income-generating activity and issuing invoices.
 ZUS vacation is a great opportunity to reduce business expenses a bit and make your life easier.
 Just don't forget to carefully review the eligibility criteria and submit your application on time.
 
-More detailed information about the benefits can be found on the official [ZUS website][43].
+More detailed information about the benefits can be found on the official [ZUS website][1].
 
-[1]: images/zus_vacation/rws_01_utworz_nowy.png
-[2]: images/zus_vacation/rws_02_utworz_dokument.png
-[3]: images/zus_vacation/rws_03_typ_wniosek.png
-[4]: images/zus_vacation/rws_09_wybor_pkd.png
-[5]: images/zus_vacation/rws_14_wybor_podpisu.png
-[6]: images/zus_vacation/rws_15_wyslano.png
-[7]: images/zus_vacation/rws_16_dokumenty_wyslane.png
-[8]: zus_vacation.en.md#monthly-reports-during-zus-vacation
-[9]: https://t.me/KorneVa_OK
+[1]: https://www.zus.pl/-/zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus-wakacje-sk%C5%82adkowe
+[2]: https://www.zus.pl/baza-wiedzy/biezace-wyjasnienia-komorek-merytorycznych/wakacje-skladkowe-pytania-i-odpowiedzi
+[3]: https://t.me/KorneVa_OK
+[4]: zus_login.md
+[5]: images/zus_vacation/rws_01_katalog.jpg
+[6]: images/zus_vacation/rws_02_rodzaj.jpg
+[7]: images/zus_vacation/rws_03_dane_platnika.jpg
+[8]: images/zus_vacation/rws_04_okres.jpg
+[9]: images/zus_vacation/rws_05_de_minimis.jpg
 [10]: https://sudop.uokik.gov.pl/search/aidBeneficiary
-[11]: images/zus_vacation/rws2_01_dane_platnika.png
-[12]: images/zus_vacation/rws2_02_okres_zwolnienia.png
-[13]: images/zus_vacation/rws2_03_pomoc_de_minimis.png
-[14]: images/zus_vacation/rws2_04_wielkosc_podmiotu.png
-[15]: images/zus_vacation/rws2_05_powiazania.png
-[16]: images/zus_vacation/rws2_06_pochodzenie_podmiotu.png
-[17]: images/zus_vacation/rws2_07_rolnictwo.png
-[18]: images/zus_vacation/rws2_08_podpisz_wyslij.png
-[19]: images/zus_vacation/rws2_08_2_zalacznik.png
-[20]: images/zus_vacation/rca_01_obsluga_rozliczenia.png
-[21]: images/zus_vacation/rca_02_nowy_komplet.png
-[22]: images/zus_vacation/rca_03_opcje_deklaracji.png
-[23]: images/zus_vacation/rca_04_generowanie.png
-[24]: images/zus_vacation/rca_05_dane_rozliczenia.png
-[25]: images/zus_vacation/rca_06_edytuj_element.png
-[26]: images/zus_vacation/rca_07_ubezpieczenie_zdrowotne.png
-[27]: images/zus_vacation/rca_08_forma_opodatkowania.png
-[28]: images/zus_vacation/rca_09_oblicz.png
-[29]: images/zus_vacation/rca_10_wyliczona_podstawa.png
-[30]: images/zus_vacation/rca_11_zapisz.png
-[31]: images/zus_vacation/rca_12_dalej.png
-[32]: images/zus_vacation/rca_13_zestawienie.png
-[33]: images/zus_vacation/rca_14_wylicz.png
-[34]: images/zus_vacation/rca_15_informacja.png
-[35]: images/zus_vacation/rca_16_weryfikuj.png
-[36]: images/zus_vacation/rca_17_podglad_nawigacja.png
-[37]: images/zus_vacation/rca_18_kod_057400.png
-[38]: images/zus_vacation/rca_19_kod_057000.png
-[39]: images/zus_vacation/rca_20_skladka_zdrowotna.png
-[40]: images/zus_vacation/rca_21_wyslij.png
-[41]: images/zus_vacation/rca_22_wybor_podpisu.png
+[11]: images/zus_vacation/zasw_02_odpowiedzi.jpg
+[12]: images/zus_vacation/zasw_03_zaswiadczenie.jpg
+[13]: images/zus_vacation/rws_06_wielkosc.jpg
+[14]: images/zus_vacation/rws_07_pkd.jpg
+[15]: images/zus_vacation/rws_08_powiazania.jpg
+[16]: images/zus_vacation/rws_09_powstanie.jpg
+[17]: images/zus_vacation/rws_10_dzialalnosc.jpg
+[18]: images/zus_vacation/rws_11_zalaczniki.jpg
+[19]: images/zus_vacation/rws_12_podsumowanie.jpg
+[20]: images/zus_vacation/rws_13_podpis.jpg
+[21]: zus_login.md#sent-applications-and-drafts
+[22]: images/zus_vacation/rws_14_wyslane.jpg
+[23]: images/zus_vacation/rws_15_upp.jpg
+[24]: images/zus_vacation/zasw_01_sprawy.jpg
+[25]: zus_vacation.en.md#monthly-reports-during-zus-vacation
+[26]: images/zus_vacation/rca_01_obsluga_rozliczenia.png
+[27]: images/zus_vacation/rca_02_nowy_komplet.png
+[28]: images/zus_vacation/rca_03_opcje_deklaracji.png
+[29]: images/zus_vacation/rca_04_generowanie.png
+[30]: images/zus_vacation/rca_05_dane_rozliczenia.png
+[31]: images/zus_vacation/rca_06_edytuj_element.png
+[32]: images/zus_vacation/rca_07_ubezpieczenie_zdrowotne.png
+[33]: images/zus_vacation/rca_08_forma_opodatkowania.png
+[34]: images/zus_vacation/rca_09_oblicz.png
+[35]: images/zus_vacation/rca_10_wyliczona_podstawa.png
+[36]: images/zus_vacation/rca_11_zapisz.png
+[37]: images/zus_vacation/rca_12_dalej.png
+[38]: images/zus_vacation/rca_13_zestawienie.png
+[39]: images/zus_vacation/rca_14_wylicz.png
+[40]: images/zus_vacation/rca_15_informacja.png
+[41]: images/zus_vacation/rca_16_weryfikuj.png
 [42]: images/zus_vacation/rca_23_podglad.png
-[43]: https://www.zus.pl/-/wakacje-sk%C5%82adkowe-zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus
-[44]: images/zus_vacation/zasw_01_skrzynka.png
-[45]: images/zus_vacation/zasw_02_pobierz.png
-[46]: images/zus_vacation/zasw_03_informacja.png
+[43]: images/zus_vacation/rca_17_podglad_nawigacja.png
+[44]: images/zus_vacation/rca_18_kod_057400.png
+[45]: images/zus_vacation/rca_19_kod_057000.png
+[46]: images/zus_vacation/rca_20_skladka_zdrowotna.png
+[47]: images/zus_vacation/rca_21_wyslij.png
+[48]: images/zus_vacation/rca_22_wybor_podpisu.png

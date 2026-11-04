@@ -15,9 +15,9 @@ A JDG acts in several roles: as a contribution payer (płatnik) and as an insure
 
 Since 2022, with the introduction of Polski Ład, entrepreneurs are required to submit a ZUS DRA declaration for themselves every month.
 
-1. Go to the ePłatnik tab. (if the tab is missing, you need to activate it following the [guide](https://www.zus.pl/portal/pomoc/index.html?aktywacja_p3atnika.html))
+1. [Choose Konto płatnika for your JDG][73] and open **ePłatnik** in the left menu. If the section is unavailable, activate it using the [guide](https://www.zus.pl/portal/pomoc/index.html?aktywacja_p3atnika.html).
 
-    ![PUE ZUS: ePłatnik tab in the top menu][1]
+    ![Меню нового Płatnik: кнопка ePłatnik для перехода к прежним страховым формам][1]
 
 2. In the **Dokumenty** menu, select **Dodaj dokument**
 
@@ -76,7 +76,7 @@ A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) inste
 1. [Official general instructions][11] in Polish from ZUS
 2. [Instructions for inFakt users][12] in Polish
 
-[1]: images/declarations_zus/01_eplatnik.png
+[1]: images/zus_login/03_eplatnik.jpg
 [2]: images/declarations_zus/02_dodaj_dokument.png
 [3]: images/declarations_zus/03_wybierz_dra.png
 [6]: images/declarations_zus/06_okres_deklaracji.png
@@ -88,3 +88,4 @@ A korekta of ZUS DRA is the same ZUS DRA, just version 2 (correction type) inste
 [10]: images/declarations_zus/10_wyslij.png
 [11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
 [12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA
+[73]: zus_login.md

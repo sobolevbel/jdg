@@ -38,7 +38,11 @@ Each of these steps is described in detail below.
 
 ### Step 1
 
-In the top right corner, select the **ePłatnik** tab, then in the left menu choose **Rejestr ubezpieczonych -> Aktualni ubezpieczeni**.
+In eZUS, [choose Konto płatnika for your JDG][27] and open **ePłatnik** in the left menu.
+
+![Меню нового Płatnik: кнопка ePłatnik для перехода к прежним страховым формам][28]
+
+In the previous interface that opens, select **Rejestr ubezpieczonych → Aktualni ubezpieczeni**.
 
 Click the **Podgląd** button.
 
@@ -217,3 +221,5 @@ See [error collection][22].
 [24]: images/zus_duzy/10_kartoteka_zaktualizowana.png
 [25]: https://pacjent.gov.pl/jak-ubezpieczyc-czlonka-rodziny
 [26]: https://pacjent.gov.pl/internetowe-konto-pacjenta/sprawdz-ubezpieczenie
+[27]: zus_login.md
+[28]: images/zus_login/03_eplatnik.jpg

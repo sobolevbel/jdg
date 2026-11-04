@@ -41,7 +41,11 @@ Each of these steps is described in detail below.
 
 #### Step 1
 
-On the **zus.pl** page, in the **e-Płatnik** tab, open the *Dodaj dokument* window → select a new document of type **ZUS ZWUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
+In eZUS, [choose Konto płatnika for your JDG][32] and open **ePłatnik** in the left menu. The following steps use the previous interface.
+
+![Меню нового Płatnik: кнопка ePłatnik для перехода к прежним страховым формам][33]
+
+In ePłatnik, open the *Dodaj dokument* window → select a new document of type **ZUS ZWUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
 
 ![e-Płatnik: Dodaj dokument window, selecting the ZUS ZWUA document][1]
 
@@ -90,7 +94,7 @@ Don't rush to submit the ZUA application right after the ZWUA — until the manu
 
 #### Step 1
 
-On the **zus.pl** page, in the **e-Płatnik** tab, open the *Dodaj dokument* window → select a new document of type **ZUS ZUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
+[Open ePłatnik][32] and the *Dodaj dokument* window → select a new document of type **ZUS ZUA** → click *Wybierz* → in the dialog that appears, click *Przejdz do kreatora*.
 
 ![e-Płatnik: Dodaj dokument window, selecting the ZUS ZUA document][28]
 
@@ -318,3 +322,5 @@ See [error collection][23].
 [29]: images/zus_obnizone_skladki/16_zua_weryfikacja.png
 [30]: https://pacjent.gov.pl/jak-ubezpieczyc-czlonka-rodziny
 [31]: https://pacjent.gov.pl/internetowe-konto-pacjenta/sprawdz-ubezpieczenie
+[32]: zus_login.md
+[33]: images/zus_login/03_eplatnik.jpg

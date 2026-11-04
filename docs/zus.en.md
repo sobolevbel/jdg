@@ -14,11 +14,11 @@ All entrepreneurs running a JDG in Poland are required to register with the nati
 
 ## Video
 
-[:youtube: Almost everything you wanted to know about ZUS and weren't afraid to ask][30]
+[:youtube: Almost everything you wanted to know about ZUS and weren't afraid to ask][2]
 
 [![Almost everything you wanted to know about ZUS and weren't afraid to ask](https://img.youtube.com/vi/FJVhBu-_nyA/0.jpg)](https://youtu.be/FJVhBu-_nyA "Almost everything you wanted to know about ZUS and weren't afraid to ask")
 
-**Author:** [:telegram: Andrei][31]
+**Author:** [:telegram: Andrei][3]
 
 Video contents:
 
@@ -90,7 +90,7 @@ Since Maksym exceeded the 300,000 PLN threshold for the calendar year, his month
 
 ## ZUS contributions infographic
 
-Visit the website [Składki ZUS (ryczałt)][32] (2026).
+Visit the website [Składki ZUS (ryczałt)][4] (2026).
 
 ## ZUS contribution calculation table
 
@@ -134,9 +134,9 @@ Sick pay and maternity benefit hinge on the voluntary składka chorobowa — it 
 [a dedicated page](zus_chorobowe.md). How pension contributions turn into your
 future pension is covered on the [Pension page](emerytura.md).
 
-For the first 6 months you can take advantage of the "[Ulga na start][2]" relief and not pay social contributions. Accordingly, you will not be able to use social benefits either. After the startup relief expires, you can [switch][20] to the next relief — **Składki preferencyjne** — and use it for 24 months. After 30 months of activity you must [switch][29] to paying full ZUS (**duży ZUS**) — a minimum of 60% of the average salary.
+For the first 6 months you can take advantage of the "[Ulga na start][5]" relief and not pay social contributions. Accordingly, you will not be able to use social benefits either. After the startup relief expires, you can [switch][6] to the next relief — **Składki preferencyjne** — and use it for 24 months. After 30 months of activity you must [switch][7] to paying full ZUS (**duży ZUS**) — a minimum of 60% of the average salary.
 
-More details at [biznes.gov.pl][28] and [e-pity][27]
+More details at [biznes.gov.pl][8] and [e-pity][9]
 
 ## Registration
 
@@ -144,7 +144,7 @@ An entrepreneur is required to register with ZUS within 7 days of registering a 
 
 ## How to find your ZUS payment account
 
-After registering the sole proprietorship, within approximately 2 weeks you should receive a letter (a physical envelope) from ZUS with all account details, etc., and the functionality will appear in your online account at [eskladka.pl][3].
+After registering the sole proprietorship, within approximately 2 weeks you should receive a letter (a physical envelope) from ZUS with all account details, etc., and the functionality will appear in your online account at [eskladka.pl][10].
 
 You can also check accounts on the aforementioned website by entering two identifiers: NIP and REGON (or NIP and PESEL).
 
@@ -157,143 +157,143 @@ Payment should be made via a standard bank transfer to your individual ZUS accou
 ## Certificate of no outstanding ZUS debt
 
 - You can physically go to any ZUS branch (any branch, not necessarily your district's) and obtain all certificates with wet stamps
-- You can do it on the [ZUS portal](https://www.zus.pl/portal/)
+- You can request an electronic certificate in [your eZUS account][11].
+
+The new RWN wizard below was checked in November 2026.
 
 ### Select the RWN application
 
-Go to the [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001) website and type `RWN` into the filter field.
+Sign in to eZUS and [choose Konto płatnika for your JDG][11]. Open [Katalog usług][12] in the left menu and enter `RWN` in **Wyszukaj sprawę**. Expand **Złóż wniosek o zaświadczenie o niezaleganiu w opłacaniu składek (RWN)** and click **Przejdź do usługi**.
 
-![ZUS e-services catalog: filter with the RWN query](images/zus/rwn_05_1_katalog_uslug.jpeg)
+![Каталог eZUS: поиск RWN и кнопка Przejdź do usługi у заявления о незадолженности][13]
 
 ### Verify the form data
 
-You will be redirected to the **ZUS** `wniosek RWN` form. Verify the data in the form.
+In **Dane płatnika**, check the automatically filled identifiers and address. The phone number is optional. Click **Dalej**.
 
-![PUE ZUS: wniosek RWN form — verifying the payer's details][4]
+![Форма RWN: адрес плательщика, необязательный телефон и кнопка Dalej][14]
 
-### Number of certificate copies
+### Attachments { #number-of-certificate-copies }
 
-Select the number of certificate copies and click **Zapisz**.
+In **Załączniki**, add documents with **Kliknij tutaj, aby dodać plik** if needed. An ordinary certificate request can proceed without attachments: click **Dalej**.
 
-![PUE ZUS: RWN form — selecting the number of certificate copies, Zapisz button][5]
+![Форма RWN: шаг Załączniki, загрузка приложений и кнопка Dalej][15]
 
-### Close the document and confirm
+### Reply delivery { #close-the-document-and-confirm }
 
-![PUE ZUS: Dokument RWN został zapisany message, Zamknij button][6]
+In **Sposób odbioru odpowiedzi**, check that **Elektronicznie** is selected and click **Dalej**.
 
-![PUE ZUS: Czy na pewno chcesz zamknąć formularz prompt, Tak button][7]
+![Форма RWN: способ получения Elektronicznie и кнопка Dalej][16]
 
-### Review the document and click **Wyślij**
+### Review the application { #review-the-document-and-click-wyslij }
 
-![PUE ZUS: RWN document preview, Wyślij button][8]
+In **Podsumowanie**, review the application through **Widok danych dokumentu** or download its PDF with **Pobierz**. Then click **Podpisz i wyślij**.
 
-### Sign via Profil Zaufany
+![Сводка RWN: просмотр данных, скачивание PDF и кнопка Podpisz i wyślij][17]
 
-![PUE ZUS: Autoryzacja usługi window — signature method selection, Podpis ePUAP button][9]
+### Sign and send { #sign-via-profil-zaufany }
 
-Click **Ok**
+In **Wybierz metodę podpisu**, select **eZUS** to sign through the current account and click **Podpisz**. If using Profil Zaufany, select **podpisem zaufanym (PZ)** and complete the signature procedure shown.
 
-![PUE ZUS: notice about redirection to ePUAP for signing, OK button][10]
+![Подпись RWN: выбран способ eZUS, выделена кнопка Podpisz][18]
 
 ### Documents sent — wait for confirmation
 
-![PUE ZUS: sending result — liczba wysłanych dokumentów: 1][11]
+After sending, open [**Sprawy płatnika → Według statusu → Wysłane**][19], search for `RWN` and choose **⋯ → Zobacz szczegóły**. The original application’s **Podsumowanie** contains the **UPP (XML)** submission receipt.
+
+If you interrupted the wizard, the draft is in **Robocze**. A draft does not confirm submission.
+
+![Отправленное заявление RWN: меню строки и действие Zobacz szczegóły][20]
 
 ### Retrieve the certificate
 
-Once the letter arrives (1–7 days), log into [ZUS][1].
-In the menu, select `Płatnik` (sometimes it arrives in the `Ogólny` tab).
-On the left, go to **Dokumenty i wiadomości** then **Korespondencja z ZUS**.
-Select the document and confirm receipt via Profil Zaufany.
+Wait for the ZUS reply: the form states a deadline of up to 7 days from receipt of the application. Inside the RWN case, open **Odpowiedzi z ZUS**. For an already received reply, choose **⋯ → Zobacz szczegóły**. A new letter may first require **Odbierz** and confirmation of receipt. The picture shows an already received reply.
 
 !!! warning "If you have an authorized representative (e.g. an accountant)"
-    If the entrepreneur has an authorized representative in ZUS, incoming documents — including the certificate of no outstanding debt (RWN) — **first arrive in the representative's account**, in the Skrzynka odbiorcza section. Until the representative clicks **Odbierz**, the document will not appear in the payer's account. If the representative does nothing, the document only becomes automatically available to the payer after 14 days. So if the certificate "isn't arriving" — first ask your accountant to accept it in their inbox.
+    The new RWN form explicitly says: **Pisma wysyłamy w pierwszej kolejności do pełnomocnika**. If the certificate has not appeared in your account, ask your representative to check their correspondence and receive the ZUS reply.
 
-![PUE ZUS: Korespondencja z ZUS section — list of incoming documents][12]
+![Дело RWN: раздел Odpowiedzi z ZUS и действие Zobacz szczegóły у полученного ответа][21]
 
 ### Download the certificate
 
-After confirmation, the **Szczegóły** option will appear.
+In the reply’s **Podsumowanie**, download the certificate PDF — **ZUS-S-72a.pades.pdf** in this example. Keep the signed PDF as the electronic original. **UPO (XML)** in this section confirms receipt of the letter; the certificate itself is a separate PDF file.
 
-![PUE ZUS: received document, Szczegóły item][13]
-
-Open the document via **Przeglądaj dokument**.
-
-![PUE ZUS: document details, Przeglądaj dokument button][14]
-
-Print via **Drukuj**.
-
-![PUE ZUS: certificate preview, Drukuj button][15]
+![Ответ ZUS по RWN: кнопка скачивания подписанной справки ZUS-S-72a.pades.pdf][22]
 
 ## Health insurance certificate
 
 To confirm your health insurance, you can obtain a certificate with an electronic signature on the [zus.pl](https://www.zus.pl/) portal.
+
+!!! info "Konto indywidualne"
+    From the new Płatnik, [switch to Konto indywidualne][33] through the name menu in the header.
+    The **Ubezpieczony** section used to create this certificate still uses the previous interface.
 
 1. Go to [zus.pl](https://www.zus.pl/portal/obszar-ubezpieczonego.npi#KUB0031)
 2. Select the **Ubezpieczony** section in the site header
 3. Select **Panel Ubezpieczonego** in the side menu
 4. Select the **Zaświadczenia - ubezpieczenia** menu item
 5. Click the **Utwórz nowy** button at the bottom of the page
-   ![PUE ZUS, Zaświadczenia — ubezpieczenia section: Utwórz nowy button][21]
+   ![PUE ZUS, Zaświadczenia — ubezpieczenia section: Utwórz nowy button][23]
 6. Tick the **Ubezpieczenie zdrowotne** checkbox
 7. Tick the **Członkowie rodziny - Wszyscy** checkbox (if the certificate is also needed for family members — in case they do not have their own health insurance)
 8. Be sure to click **Podgląd** to unlock the **Zatwierdź** button
 9. You can review the opened **Podgląd** and close it
 10. Click the **Zatwierdź** button to send the document to ZUS for signing
-    ![Certificate form: Ubezpieczenie zdrowotne and Członkowie rodziny checkboxes, Podgląd and Zatwierdź buttons][22]
+    ![Certificate form: Ubezpieczenie zdrowotne and Członkowie rodziny checkboxes, Podgląd and Zatwierdź buttons][24]
 11. A new row with the status **Oczekuje** will appear in the document list. At this moment automated systems are signing the document with an electronic signature. This process takes from a couple of seconds to a couple of minutes.
 12. Click the **Odśwież** button periodically until the status changes to **Wystawiony**
-    ![Document list: Oczekuje status changes to Wystawiony, Odśwież button][23]
+    ![Document list: Oczekuje status changes to Wystawiony, Odśwież button][25]
 13. Click the **Zapisz jako PDF** button and choose a location on your device to save the PDF file.
-    ![Zapisz jako PDF button to save the signed certificate][24]
+    ![Zapisz jako PDF button to save the signed certificate][26]
 14. As a result, you will have a genuine electronic document from ZUS, signed with a qualified electronic signature. You can send this document via e-Doręczenia and attach it to MOS2 with a clear conscience. In this case, the electronic document is the original, and the matter is settled.
 15. To make sure the PDF is signed, you can go to any electronic signature verification service, for example, the [government document signing website](https://podpis.gov.pl/podpisz-dokument-elektronicznie/)
 16. Click **Dodaj plik**
 17. A **Sprawdź, kto podpisał** button will appear on the attached file
-    ![podpis.gov.pl: Sprawdź, kto podpisał button next to the uploaded PDF][25]
+    ![podpis.gov.pl: Sprawdź, kto podpisał button next to the uploaded PDF][27]
 18. The modal window that opens will show information about the authority that signed the document — **Zakład Ubezpieczeń Społecznych** (ZUS)
-    ![Szczegóły podpisów: document signed by Zakład Ubezpieczeń Społecznych, podpis kwalifikowany][26]
+    ![Szczegóły podpisów: document signed by Zakład Ubezpieczeń Społecznych, podpis kwalifikowany][28]
 19. Attach this document in MOS2 or any other electronic service whenever you need to prove that you or your family members have insurance.
 
 ## Linking ePUAP to your ZUS profile
 
-1. If you have a profil zaufany, go to Panel ogólny -> Ustawienia -> Dane profilu and click Dodaj powiązanie z ePUAP.
-    ![PUE ZUS: Dane profilu, Dodaj powiązanie z ePUAP button][16]
+1. If you have a profil zaufany, [choose Konto indywidualne][33], then open **Ogólny → Ustawienia → Dane profilu** in the previous portal and click **Dodaj powiązanie z ePUAP**.
+    ![PUE ZUS: Dane profilu, Dodaj powiązanie z ePUAP button][29]
 2. You will be redirected to the trusted profile login page — log in and sign with profilem zaufany.
-    ![Profil Zaufany login page: username, password and Zaloguj się button][17]
-    ![Signing the document to link the profile with ePUAP, Podpisz podpisem zaufanym button][18]
+    ![Profil Zaufany login page: username, password and Zaloguj się button][30]
+    ![Signing the document to link the profile with ePUAP, Podpisz podpisem zaufanym button][31]
 3. As a result, your ZUS profile will be linked with profilem zaufanym.
-    ![PUE ZUS: confirmation that the profile is linked with ePUAP][19]
+    ![PUE ZUS: confirmation that the profile is linked with ePUAP][32]
 
 [1]: https://www.zus.pl
-[2]: zus_ulga_na_start.md
-[3]: https://eskladka.pl/Home
-[4]: images/zus/rwn_02_dane_platnika.png
-[5]: images/zus/rwn_02_1_liczba_egzemplarzy.png
-[6]: images/zus/rwn_02_2_zapisano.png
-[7]: images/zus/rwn_02_3_zamknij_formularz.png
-[8]: images/zus/rwn_02_4_wyslij.png
-[9]: images/zus/rwn_02_5_autoryzacja.png
-[10]: images/zus/rwn_02_6_przekierowanie_epuap.png
-[11]: images/zus/rwn_02_7_wyslano.png
-[12]: images/zus/rwn_04_korespondencja.png
-[13]: images/zus/rwn_04_1_szczegoly.png
-[14]: images/zus/rwn_04_2_przegladaj.png
-[15]: images/zus/rwn_04_3_drukuj.png
-[16]: images/zus/epuap_01_dodaj_powiazanie.png
-[17]: images/zus/epuap_02_logowanie_pz.png
-[18]: images/zus/epuap_03_podpisz.png
-[19]: images/zus/epuap_04_potwierdzenie.png
-[20]: zus_obnizone_skladki.md
-[21]: images/zus/ubezpieczenie_01_utworz_nowy.png
-[22]: images/zus/ubezpieczenie_02_zatwierdz.png
-[23]: images/zus/ubezpieczenie_03_wystawiony.png
-[24]: images/zus/ubezpieczenie_04_zapisz_pdf.png
-[25]: images/zus/ubezpieczenie_05_sprawdz_podpis.png
-[26]: images/zus/ubezpieczenie_06_podpis_zus.png
-[27]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
-[28]: https://www.biznes.gov.pl/pl/portal/00286#2
-[29]: zus_duzy.md
-[30]: https://youtu.be/FJVhBu-_nyA
-[31]: https://t.me/justandrei79
-[32]: https://justandrei.github.io/jdg-tools/zus/
+[2]: https://youtu.be/FJVhBu-_nyA
+[3]: https://t.me/justandrei79
+[4]: https://justandrei.github.io/jdg-tools/zus/
+[5]: zus_ulga_na_start.md
+[6]: zus_obnizone_skladki.md
+[7]: zus_duzy.md
+[8]: https://www.biznes.gov.pl/pl/portal/00286#2
+[9]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
+[10]: https://eskladka.pl/Home
+[11]: zus_login.md
+[12]: https://www.zus.pl/ezus/obszar-platnika/katalog-uslug
+[13]: images/zus/rwn_01_katalog.jpg
+[14]: images/zus/rwn_02_dane.jpg
+[15]: images/zus/rwn_03_zalaczniki.jpg
+[16]: images/zus/rwn_04_odbior.jpg
+[17]: images/zus/rwn_05_podsumowanie.jpg
+[18]: images/zus/rwn_06_podpis.jpg
+[19]: zus_login.md#sent-applications-and-drafts
+[20]: images/zus/rwn_07_wyslane.jpg
+[21]: images/zus/rwn_08_odpowiedz.jpg
+[22]: images/zus/rwn_09_zaswiadczenie.jpg
+[23]: images/zus/ubezpieczenie_01_utworz_nowy.png
+[24]: images/zus/ubezpieczenie_02_zatwierdz.png
+[25]: images/zus/ubezpieczenie_03_wystawiony.png
+[26]: images/zus/ubezpieczenie_04_zapisz_pdf.png
+[27]: images/zus/ubezpieczenie_05_sprawdz_podpis.png
+[28]: images/zus/ubezpieczenie_06_podpis_zus.png
+[29]: images/zus/epuap_01_dodaj_powiazanie.png
+[30]: images/zus/epuap_02_logowanie_pz.png
+[31]: images/zus/epuap_03_podpisz.png
+[32]: images/zus/epuap_04_potwierdzenie.png
+[33]: zus_login.md
