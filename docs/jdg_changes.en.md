@@ -37,10 +37,13 @@ the **Zmień dane w CEIDG** application.
 
     ![Выбранный код PKD в разделе добавления][5]
 
-7. Complete the other required screens. Social insurance, the tax office and e-Doręczenia are included even when you only change PKD. Keep the correct existing data. If the e-Doręczenia address is already registered and no administrators are changing, leave the administrator checkboxes empty.
-8. Review the generated application, sign it and send it. Check the submission confirmation and case number.
+7. Complete the required insurance, tax-office and e-Doręczenia screens. Keep the existing details if nothing is changing.
+8. Sign and send the application.
 
-Keep one main PKD code. Additional codes should describe your actual activities; do not add codes “just in case”. You can update them when needed and must report a change within 7 days after starting or stopping the relevant activity.
+You must have one main code. You can list an unlimited number of additional codes,
+but don't add codes "just in case" — the list of codes in CEIDG can be updated
+when you actually need it. If your type of activity has changed, you must add the new
+PKD codes or remove the outdated ones within 7 days of the change.
 
 Do not add VAT-R, income-tax changes or additional ZUS forms solely for a PKD change. The shared address, contact and e-Doręczenia screens are described in [the CEIDG/VAT-UE guide][6].
 

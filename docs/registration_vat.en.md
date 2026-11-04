@@ -109,7 +109,7 @@ From the applicable date, account for VAT and file the required returns; an upda
 
 ### 7.1 The `Zwolnienie usług finansowych` item
 
-**Leave this block empty: do not select either option** under **Zwolnienie usług finansowych** in the ordinary registration scenario described here. This concerns a separate financial-services exemption, not the usual turnover-based exemption.
+Leave both options under **Zwolnienie usług finansowych** unselected.
 
 ![Zwolnienie usług finansowych: оба варианта оставлены пустыми][12]
 
@@ -119,7 +119,7 @@ For the ordinary initial registration without the [cash method][13], choose **Ni
 
 ![Первичная регистрация VAT: Nie для метода kasowa][14]
 
-When updating an existing VAT registration, the choices differ: choose **Bez zmian** if you are keeping your current method. **Rezygnuję z kasowej metody** means an actual change.
+When updating an existing registration without changing the method, choose **Bez zmian**.
 
 ## 9. Gold and taxis
 
@@ -151,13 +151,15 @@ Check the tax office on **Informacje o zgłoszeniu rejestracyjnym podatnika VAT*
 
 ## 13. Confirmation of VAT registration
 
-You may decline the separate paid paper confirmation; registration itself is free.
+You can skip paying for a hard-copy confirmation of VAT registration.
+You’ll probably never need it.
 
 ![Отказ от платного бумажного подтверждения регистрации VAT][19]
 
 ## 14. Oświadczenie
 
-Read **Oświadczenie**. Confirm it only if the statements about the right to use the listed addresses and the absence of business prohibitions are true.
+Next you confirm you’re entitled to use the address you live at
+(e.g. a lease) and that none of the restrictions mentioned in the cited law apply to you.
 
 ![Oświadczenie перед подписанием заявления CEIDG][20]
 
