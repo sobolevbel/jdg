@@ -74,10 +74,15 @@
   </script> <script id=__config type=application/json>{"annotate": null, "base": "../..", "features": ["navigation.top", "navigation.expand", "navigation.footer", "navigation.indexes", "navigation.path", "search.suggest", "search.highlight", "search.share", "content.code.copy", "content.action.edit", "toc.follow"], "search": "../../assets/javascripts/workers/search.a7633da7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script> <script src=../../assets/javascripts/bundle.c21346df.min.js></script> <script src="https://www.googletagmanager.com/gtag/js?id=G-65Z83YVGT1"></script> <script src=../../javascript/extra.js></script> <script src=../../js/open_in_new_tab.js></script> <script src=../../js/open_in_new_tab.js></script> <script id=init-glightbox>document.querySelectorAll('.glightbox').forEach(function(element) {
     try {
         var img = element.querySelector('img');
-        if (img && img.src) {
-            element.setAttribute('href', img.src);
+        if (img) {
+            const imageSrc = img.dataset.src || img.src;
+            if (imageSrc) {
+                element.setAttribute('href', imageSrc);
+            } else {
+                console.log('No img element with src or data-src attribute found');
+            }
         } else {
-            console.log('No img element with src attribute found');
+            console.log('No img element found');
         }
     } catch (error) {
         console.log('Error:', error);
