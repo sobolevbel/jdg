@@ -9,7 +9,7 @@ tags:
 
 ## November 2026
 
-- Updated screenshots for [monthly operations in inFakt][1]: the current invoices, taxes, ZUS, JPK and VAT-UE interface. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
+- Updated screenshots for [monthly operations in inFakt][1]: the current invoices, taxes, ZUS, JPK and VAT-UE interface, with red outlines around the relevant buttons and fields. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
 
 ## October 2026
 
