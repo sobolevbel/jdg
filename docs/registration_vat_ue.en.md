@@ -15,7 +15,7 @@ tags:
 !!! note
     By this point you should already have NIP and REGON. See [the VAT-UE registration requirements][1].
 
-## 0. Getting started { #0-what-vat-ue-registration-is-actually-for }
+## 0. Getting started
 
 On [Biznes.gov.pl][2], choose **Zmień dane w CEIDG** under **Usługi CEIDG**, then click **Rozpocznij**.
 
