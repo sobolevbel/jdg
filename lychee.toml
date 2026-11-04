@@ -20,6 +20,9 @@ accept = ["200..=204"]
 # plus our own absolute links and mkdocs-generated absolute paths, which only
 # resolve on the published site (a PR is checked before it is deployed).
 exclude = [
+  # Current ZUS guidance opens in a browser but resets automated HEAD requests.
+  "^https://www\\.zus\\.pl/-/zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus-wakacje-sk%C5%82adkowe$",
+  "^https://www\\.zus\\.pl/baza-wiedzy/biezace-wyjasnienia-komorek-merytorycznych/wakacje-skladkowe-pytania-i-odpowiedzi$",
   # ZUS Lodz map opens in a browser, but Google rejects requests from CI (403).
   "^https://goo\\.gl/maps/4NgWUKNUF2MVeD47A$",
   "^https://twojajdg\\.pl",

@@ -169,77 +169,76 @@ ZUS состоит из 2 основных частей:
 ## Справка о незадолженности в ZUS
 
 - Можно пойти физически в отделение ZUS (любое, не обязательно вашего района) и получить все справки с мокрыми печатями
-- Можно на [портале ZUS](https://www.zus.pl/portal/)
+- Можно оформить справку электронно в [личном кабинете eZUS][11].
+
+Ниже показан новый мастер RWN, проверенный в ноябре 2026 года.
 
 ### Выбираем внесек RWN
 
-Переходим на сайт [Katalog usług elektronicznych](https://www.zus.pl/portal/obszar-platnika.npi#KUS0001), в окно фильтра вписываем `RWN`.
+Войдите в eZUS и [выберите Konto płatnika своей JDG][11]. В левом меню откройте [Katalog usług][12], введите `RWN` в **Wyszukaj sprawę**. Разверните **Złóż wniosek o zaświadczenie o niezaleganiu w opłacaniu składek (RWN)** и нажмите **Przejdź do usługi**.
 
-![Katalog usług elektronicznych ZUS: фильтр по запросу RWN](images/zus/rwn_05_1_katalog_uslug.jpeg)
+![Каталог eZUS: поиск RWN и кнопка Przejdź do usługi у заявления о незадолженности][13]
 
 ### Проверяем данные в форме
 
-Нас перекидывает в **ZUS** на форму заполнения `wniosek RWN`. Проверяем данные в форме.
+В шаге **Dane płatnika** проверьте автоматически заполненные идентификаторы и адрес. Телефон необязателен. Нажмите **Dalej**.
 
-![PUE ZUS: форма wniosek RWN — проверка данных плательщика][11]
+![Форма RWN: адрес плательщика, необязательный телефон и кнопка Dalej][14]
 
-### Количество экземпляров справки
+### Приложения { #kolichestvo-ekzempliarov-spravki }
 
-Выбираем кол-во экземпляров справки и нажимаем **Zapisz**.
+В шаге **Załączniki** при необходимости добавьте документы кнопкой **Kliknij tutaj, aby dodać plik**. Обычный запрос справки можно продолжить без приложений: нажмите **Dalej**.
 
-![PUE ZUS: форма RWN — выбор количества экземпляров справки, кнопка Zapisz][12]
+![Форма RWN: шаг Załączniki, загрузка приложений и кнопка Dalej][15]
 
-### Закрываем документ и соглашаемся
+### Способ получения ответа { #zakryvaem-dokument-i-soglashaemsia }
 
-![PUE ZUS: сообщение Dokument RWN został zapisany, кнопка Zamknij][13]
+В **Sposób odbioru odpowiedzi** проверьте значение **Elektronicznie** и нажмите **Dalej**.
 
-![PUE ZUS: вопрос Czy na pewno chcesz zamknąć formularz, кнопка Tak][14]
+![Форма RWN: способ получения Elektronicznie и кнопка Dalej][16]
 
-### Проверяем документ и нажимаем **Wyślij**
+### Проверяем заявление { #proveriaem-dokument-i-nazhimaem-wyslij }
 
-![PUE ZUS: просмотр документа RWN, кнопка Wyślij][15]
+В **Podsumowanie** проверьте заявление через **Widok danych dokumentu** или скачайте его PDF кнопкой **Pobierz**. Затем нажмите **Podpisz i wyślij**.
 
-### Подписываем через Profil Zaufany
+![Сводка RWN: просмотр данных, скачивание PDF и кнопка Podpisz i wyślij][17]
 
-![PUE ZUS: окно Autoryzacja usługi — выбор способа подписи, кнопка Podpis ePUAP][16]
+### Подписываем и отправляем { #podpisyvaem-cherez-profil-zaufany }
 
-Нажимаем **Ok**
+В окне **Wybierz metodę podpisu** выберите **eZUS** для подписи через текущий кабинет и нажмите **Podpisz**. Если используете Profil Zaufany, выберите **podpisem zaufanym (PZ)** и завершите предложенную процедуру подписи.
 
-![PUE ZUS: сообщение о перенаправлении на ePUAP для подписания, кнопка OK][17]
+![Подпись RWN: выбран способ eZUS, выделена кнопка Podpisz][18]
 
 ### Документы отправлены, ждем ОК
 
-![PUE ZUS: результат отправки — liczba wysłanych dokumentów: 1][18]
+После отправки откройте [**Sprawy płatnika → Według statusu → Wysłane**][19], найдите `RWN` и выберите **⋯ → Zobacz szczegóły**. В **Podsumowanie** исходного заявления доступно подтверждение подачи **UPP (XML)**.
+
+Если заполнение было прервано, черновик находится в **Robocze**. Наличие черновика ещё не подтверждает отправку.
+
+![Отправленное заявление RWN: меню строки и действие Zobacz szczegóły][20]
 
 ### Получаем справку
 
-После того как дождались письмо (1-7 дней), заходим в [ZUS][1].
-В меню выбираем `Płatnik` (иногда приходит во вкладку `Ogólny`).
-Слева в меню **Dokumenty i wiadomości** **Korespondencja z ZUS**.
-Выбираем документ и подтверждаем получение через Profil Zaufany.
+Дождитесь ответа ZUS: в форме указан срок выдачи до 7 дней со дня получения заявления. Внутри дела RWN откройте **Odpowiedzi z ZUS**. У уже полученного ответа выберите **⋯ → Zobacz szczegóły**. Для нового письма сначала может потребоваться **Odbierz** и подтверждение получения. На фото показан уже полученный ответ.
 
 !!! warning "Если у вас есть уполномоченный (например, бухгалтер)"
-    Если в ZUS у предпринимателя есть уполномоченный, то входящие документы, в том числе справка о незадолженности (RWN), **сначала поступают в аккаунт уполномоченного** — в раздел Skrzynka odbiorcza. Пока уполномоченный не нажмёт **Odbierz**, документ не появится в аккаунте плательщика. Если уполномоченный ничего не делает, документ автоматически становится доступен плательщику только через 14 дней. Так что если справка «не приходит» — сначала попросите бухгалтера принять её в своей скшинке.
+    В новой форме RWN прямо указано: **Pisma wysyłamy w pierwszej kolejności do pełnomocnika**. Если справка не появилась у вас, попросите представителя проверить корреспонденцию и получить ответ ZUS.
 
-![PUE ZUS: раздел Korespondencja z ZUS — список входящих документов][19]
+![Дело RWN: раздел Odpowiedzi z ZUS и действие Zobacz szczegóły у полученного ответа][21]
 
 ### Скачиваем справку
 
-После подтверждения появится пункт **Szczegóły**
+В **Podsumowanie** ответа скачайте PDF справки — в примере это **ZUS-S-72a.pades.pdf**. Сохраняйте полученный подписанный PDF как электронный оригинал. **UPO (XML)** в этом разделе подтверждает получение письма; сама справка находится в отдельном PDF-файле.
 
-![PUE ZUS: полученный документ, пункт Szczegóły][20]
-
-Открываем документ **Przeglądaj dokument**.
-
-![PUE ZUS: детали документа, кнопка Przeglądaj dokument][21]
-
-Печатаем **Drukuj**.
-
-![PUE ZUS: просмотр справки, кнопка Drukuj][22]
+![Ответ ZUS по RWN: кнопка скачивания подписанной справки ZUS-S-72a.pades.pdf][22]
 
 ## Справка о медицинском страховании
 
 Для подтверждения мед.страхования можно получить справку с электронной подписью на портале [zus.pl](https://www.zus.pl/).
+
+!!! info "Konto indywidualne"
+    Из нового Płatnik [переключитесь на Konto indywidualne][33] через меню с именем в шапке.
+    Раздел **Ubezpieczony**, в котором создают эту справку, пока использует прежний интерфейс.
 
 1. Перейдите на сайт [zus.pl](https://www.zus.pl/portal/obszar-ubezpieczonego.npi#KUB0031)
 2. Выберите раздел **Ubezpieczony** в шапке сайта
@@ -269,7 +268,7 @@ ZUS состоит из 2 основных частей:
 
 ## Добавление ePUAP к профилю ZUS
 
-1. Если у вас есть profil zaufany, перейдите к Panel ogólny -> Ustawienia -> Dane profilu и нажмите Dodaj powiązanie z ePUAP.
+1. Если у вас есть profil zaufany, [выберите Konto indywidualne][33], затем в прежнем портале откройте **Ogólny → Ustawienia → Dane profilu** и нажмите **Dodaj powiązanie z ePUAP**.
     ![PUE ZUS: Dane profilu, кнопка Dodaj powiązanie z ePUAP][29]
 2. Вы будете перенаправлены на страницу входа в доверенный профиль, залогиньтесь и подпишите profilem zaufany.
     ![Страница входа Profil Zaufany: логин, пароль и кнопка Zaloguj się][30]
@@ -287,18 +286,18 @@ ZUS состоит из 2 основных частей:
 [8]: https://www.biznes.gov.pl/pl/portal/00286#2
 [9]: https://www.e-pity.pl/kalkulatory-podatkowe/skladki-zus-przedsiebiorcy/
 [10]: https://eskladka.pl/Home
-[11]: images/zus/rwn_02_dane_platnika.png
-[12]: images/zus/rwn_02_1_liczba_egzemplarzy.png
-[13]: images/zus/rwn_02_2_zapisano.png
-[14]: images/zus/rwn_02_3_zamknij_formularz.png
-[15]: images/zus/rwn_02_4_wyslij.png
-[16]: images/zus/rwn_02_5_autoryzacja.png
-[17]: images/zus/rwn_02_6_przekierowanie_epuap.png
-[18]: images/zus/rwn_02_7_wyslano.png
-[19]: images/zus/rwn_04_korespondencja.png
-[20]: images/zus/rwn_04_1_szczegoly.png
-[21]: images/zus/rwn_04_2_przegladaj.png
-[22]: images/zus/rwn_04_3_drukuj.png
+[11]: zus_login.md
+[12]: https://www.zus.pl/ezus/obszar-platnika/katalog-uslug
+[13]: images/zus/rwn_01_katalog.jpg
+[14]: images/zus/rwn_02_dane.jpg
+[15]: images/zus/rwn_03_zalaczniki.jpg
+[16]: images/zus/rwn_04_odbior.jpg
+[17]: images/zus/rwn_05_podsumowanie.jpg
+[18]: images/zus/rwn_06_podpis.jpg
+[19]: zus_login.md#otpravlennye-zaiavleniia-i-chernoviki
+[20]: images/zus/rwn_07_wyslane.jpg
+[21]: images/zus/rwn_08_odpowiedz.jpg
+[22]: images/zus/rwn_09_zaswiadczenie.jpg
 [23]: images/zus/ubezpieczenie_01_utworz_nowy.png
 [24]: images/zus/ubezpieczenie_02_zatwierdz.png
 [25]: images/zus/ubezpieczenie_03_wystawiony.png
@@ -309,3 +308,4 @@ ZUS состоит из 2 основных частей:
 [30]: images/zus/epuap_02_logowanie_pz.png
 [31]: images/zus/epuap_03_podpisz.png
 [32]: images/zus/epuap_04_potwierdzenie.png
+[33]: zus_login.md

@@ -9,6 +9,8 @@ tags:
 
 ## November 2026
 
+- Updated [ZUS vacation (RWS)][3] and the [certificate of no outstanding debt (RWN)][4]: original light screenshots of the new Płatnik, with personal data covered and controls outlined in red. Added [eZUS account navigation][5], corrected entry into ePłatnik and UPP retrieval, and clarified vacation eligibility and de minimis aid.
+
 - Updated screenshots for [monthly operations in inFakt][1]: the current invoices, taxes, ZUS, JPK and VAT-UE interface, with red outlines around the relevant buttons and fields. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
 
 - Updated [initial inFakt setup][2]: new light screenshots with red outlines, current VAT, PIT and ZUS sections, and service, client, bank account and signature forms; clarified the accounting activation terms.
@@ -205,3 +207,6 @@ tags:
 
 [1]: infakt_routine.md
 [2]: infakt_settings.md
+[3]: zus_vacation.md
+[4]: zus.md#certificate-of-no-outstanding-zus-debt
+[5]: zus_login.md

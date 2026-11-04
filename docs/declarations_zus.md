@@ -15,9 +15,9 @@ JDG выступает в нескольких ролях: как платель
 
 С 2022 года в связи с переходом на Polski Ład предприниматели обязаны отправлять декларацию ZUS DRA за себя каждый месяц.
 
-1. Перейти на вкладку ePłatnik. (если вкладка отсутствует - нужно активировать согласно [руководству](https://www.zus.pl/portal/pomoc/index.html?aktywacja_p3atnika.html))
+1. [Выберите Konto płatnika своей JDG][13] и в левом меню откройте **ePłatnik**. Если раздел недоступен, активируйте его по [руководству](https://www.zus.pl/portal/pomoc/index.html?aktywacja_p3atnika.html).
 
-    ![PUE ZUS: вкладка ePłatnik в верхнем меню][1]
+    ![Меню нового Płatnik: кнопка ePłatnik для перехода к прежним страховым формам][1]
 
 2. В меню **Dokumenty** выбрать пункт **Dodaj dokument**
 
@@ -76,7 +76,7 @@ JDG выступает в нескольких ролях: как платель
 1. [общая официальная инструкция][11] на польском от ZUS
 2. [инструкция для пользователей inFakt][12] на польском
 
-[1]: images/declarations_zus/01_eplatnik.png
+[1]: images/zus_login/03_eplatnik.jpg
 [2]: images/declarations_zus/02_dodaj_dokument.png
 [3]: images/declarations_zus/03_wybierz_dra.png
 [4]: images/declarations_zus/06_okres_deklaracji.png
@@ -88,3 +88,4 @@ JDG выступает в нескольких ролях: как платель
 [10]: images/declarations_zus/10_wyslij.png
 [11]: https://www.zus.pl/-/korekta-dokumentow-rozliczeniowych
 [12]: https://pomoc.infakt.pl/hc/pl/articles/115000763504-Jak-skorygowa%C4%87-deklaracj%C4%99-rozliczeniow%C4%85-ZUS-DRA
+[13]: zus_login.md

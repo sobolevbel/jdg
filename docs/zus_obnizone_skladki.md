@@ -41,7 +41,11 @@ tags:
 
 #### Шаг 1
 
-На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZWUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
+В eZUS [выберите Konto płatnika своей JDG][32] и откройте **ePłatnik** в левом меню. Дальше используется прежний интерфейс.
+
+![Меню нового Płatnik: кнопка ePłatnik для перехода к прежним страховым формам][33]
+
+В ePłatnik откройте окно *Dodaj dokument* → выберите новый документ типа **ZUS ZWUA** → нажмите *Wybierz* → в появившемся диалоге нажмите *Przejdz do kreatora*.
 
 ![e-Płatnik: окно Dodaj dokument, выбор документа ZUS ZWUA][4]
 
@@ -89,7 +93,7 @@ ZUS автоматически формирует комплект докуме�
 
 #### Шаг 1
 
-На странице **zus.pl** во вкладке **e-Płatnik** нужно открыть окно *Dodaj dokument* → выбрать новый документ типа **ZUS ZUA** → нажать *Wybierz* → в появившемся диалоге нажать *Przejdz do kreatora*.
+В [ePłatnik][32] откройте окно *Dodaj dokument* → выберите новый документ типа **ZUS ZUA** → нажмите *Wybierz* → в появившемся диалоге нажмите *Przejdz do kreatora*.
 
 ![e-Płatnik: окно Dodaj dokument, выбор документа ZUS ZUA][28]
 
@@ -317,3 +321,5 @@ Ustawienia => Podatki => ZUS
 [29]: images/zus_obnizone_skladki/16_zua_weryfikacja.png
 [30]: https://pacjent.gov.pl/jak-ubezpieczyc-czlonka-rodziny
 [31]: https://pacjent.gov.pl/internetowe-konto-pacjenta/sprawdz-ubezpieczenie
+[32]: zus_login.md
+[33]: images/zus_login/03_eplatnik.jpg

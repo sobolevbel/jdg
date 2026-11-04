@@ -140,19 +140,21 @@ If someone else filed **ZZA**/**ZUA** for you, ask them for the original declara
 
 ### If you use eZUS
 
-To get **Urzędowe Poświadczenie Przedłożenia** (UPP) in eZUS (formerly PUE ZUS):
+For ZUA/ZZA/ZWUA, DRA and RCA declarations submitted through ePłatnik:
 
-1. Go to [eZUS](https://www.zus.pl/) and sign in.
-2. In the main menu open **Dokumenty i wiadomości Korespondencja z ZUS**.
-3. Open **Dokumenty wysłane**.
-4. Find the declaration and click **Szczegóły**.
-5. In the window you can:
-    - View the document,
-    - Export it to disk,
-    - View the submission proof (**Poświadczenie przedłożenia**).
-6. To download the UPP, choose **Pokaż poświadczenie przedłożenia** and click **Eksportuj**.
+1. [Sign in to eZUS and select Konto płatnika][6]. Open **ePłatnik** in the left menu.
+2. In the previous interface, select **Dokumenty → Dokumenty wysłane**.
+3. Select the relevant declaration and click **Podgląd poświadczenia przedłożenia**. The picture uses DRA as an example; for ZUA/ZZA/ZWUA, select your own declaration’s row.
 
-If you can’t find the UPP on eZUS, check your accounting software’s help.
+    ![ePłatnik: выбранная декларация в Dokumenty wysłane и кнопка Podgląd poświadczenia przedłożenia][7]
+
+4. In **Urzędowe Poświadczenie Przedłożenia**, click **Eksportuj** to save the receipt or **Drukuj** for a printed copy.
+
+    ![Окно UPP в ePłatnik: кнопки Drukuj и Eksportuj для печати и сохранения подтверждения][8]
+
+Keep your own copy of the UPP: ePłatnik warns that submitted documents are removed from the account after two years. If a declaration was sent from another program, request its UPP from the sender or find it in that program.
+
+For **RWS/RWN** applications in the new Płatnik, use [**Sprawy płatnika → Według statusu → Wysłane**][9] → the relevant application → **Zobacz szczegóły → Podsumowanie → UPP (XML)**.
 
 ### If you use iFirma
 
@@ -174,3 +176,7 @@ If something goes wrong, check our [error collection][1] first.
 [3]: https://docs.google.com/spreadsheets/d/1UGRsxqBA7DoO3wNmzuvD8TxAsqiIv_jhyw38wQfaH10/edit
 [4]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
 [5]: zus_login.md
+[6]: zus_login.md
+[7]: images/zus_next_level/upp_01_dokumenty_wyslane.jpg
+[8]: images/zus_next_level/upp_02_eksport.jpg
+[9]: zus_login.md#sent-applications-and-drafts

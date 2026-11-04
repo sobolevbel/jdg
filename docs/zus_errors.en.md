@@ -12,7 +12,7 @@ tags:
 
 !!! bug "Login"
     The zus.pl website won't log you into your account! It hangs on Logowanie... or kicks you back to the login page:
-    ![zus.pl: kicked back to the login page after signing in][6]
+    ![Вход в eZUS: поля Login и Hasło, кнопка Zaloguj się и переход к login.gov.pl][6]
 
 Try the following solutions:
 
@@ -107,11 +107,11 @@ If you encounter an error that is not yet documented, or the suggested solutions
         4. Wakacje składkowe (1-month holiday from ZUS contributions);
         5. Duży ZUS — full contributions, no reliefs.
         !!! tip "You can check this as follows"
-            Go to ZUS - Ubezpieczony - and look up your insurance code.
+            [Choose Konto indywidualne][10], open **Ubezpieczony** and look up your insurance code.
     * Did you consent to paying sickness insurance contributions (składka chorobowa)?
 
         !!! tip "You can check this as follows"
-            Go to ZUS - ePłatnik - Dokumenty w ZUS and find your most recent ZUS ZUA. If the ZUS ZUA had the składki chorobowe checkbox ticked (block VIII field 05), it means you signed up for these voluntary additional contributions.
+            [Choose Konto płatnika][10], open **ePłatnik** in the left menu, then **Dokumenty → Dokumenty w ZUS** and find your most recent ZUS ZUA. If the ZUS ZUA had the składki chorobowe checkbox ticked (block VIII field 05), it means you signed up for these voluntary additional contributions.
 
     * (for ryczałt) your annual income falls in the range: up to 60000 zł, from 60000 zł to 300000 zł, above 300000 zł. Specify which year you are answering about, or provide income for both the previous and current year.
     * Share a screenshot of the ZUS settings from the accounting service you use (inFakt, wFirma, iFirma) in the chat.
@@ -124,7 +124,8 @@ If you encounter an error that is not yet documented, or the suggested solutions
 [3]: images/zus_errors/zus_error_69004101.jpg
 [4]: images/zus_errors/zus_error_brak_zgloszenia_z_podanym_kodem.jpg
 [5]: zus_obnizone_skladki.md#wfirma
-[6]: images/zus_errors/zus_logout.jpg
+[6]: images/zus_login/00_logowanie.jpg
 [7]: zus_contact.md
 [8]: https://t.me/JDG_PBH/529911
 [9]: images/zus_errors/uwagi_i_bledy.jpg
+[10]: zus_login.md
