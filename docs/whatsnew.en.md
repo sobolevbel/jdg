@@ -9,7 +9,8 @@ tags:
 
 ## November 2026
 
-- Updated the guides for [JDG registration][1], [Polish VAT][2], [VAT-UE][3] and [CEIDG changes][4] for the current Biznes.gov.pl interface. Added VAT-UE registration for an existing Polish VAT taxpayer: preserving the original reason and date, choosing **Bez zmian** and leaving the financial-services block empty.
+- In the [VAT-UE guide][1], the starting steps are now separate from the explanation of documents requested by the tax office.
+- Updated the guides for [JDG registration][2], [Polish VAT][3], [VAT-UE][1] and [CEIDG changes][4] for the current Biznes.gov.pl interface. Added VAT-UE registration for an existing Polish VAT taxpayer: preserving the original reason and date, choosing **Bez zmian** and leaving the financial-services block empty.
 
 - Updated [ZUS vacation (RWS)][5] and the [certificate of no outstanding debt (RWN)][6]. Added [eZUS account navigation][7], corrected entry into ePłatnik and UPP retrieval, and clarified vacation eligibility and de minimis aid.
 
@@ -207,9 +208,9 @@ tags:
 - ZUS content moved off the taxes page onto a [dedicated ZUS page](zus.md).
 - Link refresh for the [tax calculators table](taxes.md#tax-calculators)
 
-[1]: registration_jdg.md
-[2]: registration_vat.md
-[3]: registration_vat_ue.md
+[1]: registration_vat_ue.md
+[2]: registration_jdg.md
+[3]: registration_vat.md
 [4]: jdg_changes.md
 [5]: zus_vacation.md
 [6]: zus.md#certificate-of-no-outstanding-zus-debt

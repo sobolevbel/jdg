@@ -15,21 +15,17 @@ tags:
 !!! note
     К этому моменту у вас уже должны быть номера NIP и REGON. [Условия регистрации VAT-UE][1].
 
-## 0. Для чего вообще нужна регистрация VAT-UE
+## 0. С чего начать { #0-dlia-chego-voobshche-nuzhna-registratsiia-vat-ue }
 
-Налоговая может запросить документы, подтверждающие право пользования адресом деятельности. Например, приходит письмо:
+На [Biznes.gov.pl][2] в блоке **Usługi CEIDG** выбираем **Zmień dane w CEIDG**, затем нажимаем **Rozpocznij**.
 
-"w związku ze złożeniem do tutejszego Urzędu Skarbowego złożenia druku rejestracyjnego VAT-R, proszę o przestawienie prawa do lokalu w którym jest wykonywana działalność gospodarcza."
-
-В ответ предоставьте подходящие для вашей ситуации документы: например, договор аренды или разрешение собственника. Пример — в [инструкции по регистрации польского VAT][2].
-
-На [Biznes.gov.pl][3] в блоке **Usługi CEIDG** выберите **Zmień dane w CEIDG**, затем **Rozpocznij**. Если появится **Podpowiadanie danych**, выберите свой профиль и нажмите **Dalej**.
+Если появится **Podpowiadanie danych**, выбираем свой профиль и нажимаем **Dalej**.
 
 ## 1. Нас встречает важная информация
 
 Ознакамливаемся и жмём `DALEJ`
 
-![Важная информация перед изменением CEIDG, кнопка Dalej][4]
+![Важная информация перед изменением CEIDG, кнопка Dalej][3]
 
 ## 2. Цель подачи формы
 
@@ -37,17 +33,17 @@ tags:
 
 Это дата изменения данных CEIDG, а не дата регистрации VAT.
 
-![Цель изменения CEIDG и поле Data powstania zmiany][5]
+![Цель изменения CEIDG и поле Data powstania zmiany][4]
 
 ## 3. Выбираем данные, которые нужно изменить
 
 В блоке **Załączniki** отметьте **Podatek VAT: VAT-R**. Страхование, налоговая и e-Doręczenia обязательны; связанные поля адреса и контактов мастер может отметить автоматически.
 
-![Раздел Załączniki: отмечено приложение Podatek VAT: VAT-R][6]
+![Раздел Załączniki: отмечено приложение Podatek VAT: VAT-R][5]
 
 Если вы гражданин страны вне ЕС, следуйте подсказке на этой странице: выберите **Dane osobowe, obywatelstwo**, чтобы указать актуальные данные документа о пребывании.
 
-![Обязательные разделы CEIDG и выбор Dane osobowe, obywatelstwo][7]
+![Обязательные разделы CEIDG и выбор Dane osobowe, obywatelstwo][6]
 
 Не отмечайте несвязанные изменения, например PIT и дополнительные формы ZUS.
 
@@ -55,29 +51,29 @@ tags:
 
 Указываем документ, по которому имеем право вести ИП в Польше, и орган выдачи.
 
-![Данные документа иностранца и выбор органа выдачи][8]
+![Данные документа иностранца и выбор органа выдачи][7]
 
-Подробности о полях документа — в [инструкции регистрации JDG][9].
+Подробности о полях документа — в [инструкции регистрации JDG][8].
 
 ## 5. Адрес проживания
 
 Если надо, то меняем адрес проживания.
 
-![Адрес проживания: выбор адреса и кнопка Dodaj nowy adres][10]
+![Адрес проживания: выбор адреса и кнопка Dodaj nowy adres][9]
 
 ### Контакты и e-Doręczenia
 
 Мастер также может запросить контакты фирмы. Согласие на публикацию задаётся отдельно для каждого контакта; выбирайте **Nie**, если не хотите публиковать указанные данные в CEIDG.
 
-![Контакты фирмы и отдельное согласие на публикацию e-mail][11]
+![Контакты фирмы и отдельное согласие на публикацию e-mail][10]
 
 Если адрес e-Doręczenia уже есть, мастер покажет его и данные владельца. Проверьте их и нажимайте **Dalej**.
 
-![Существующий адрес e-Doręczenia и кнопка Dalej][12]
+![Существующий адрес e-Doręczenia и кнопка Dalej][11]
 
 На **Administratorzy skrzynki e-Doręczeń** оставьте чекбоксы пустыми, если не меняете администраторов.
 
-![Администраторы e-Doręczenia: без изменений, кнопка Dalej][13]
+![Администраторы e-Doręczenia: без изменений, кнопка Dalej][12]
 
 Если адреса ещё нет, пройдите показанные мастером шаги его создания или внесения в реестр.
 
@@ -85,7 +81,7 @@ tags:
 
 Выберите свой текущий вид страхования — обычно **ZUS**.
 
-![Социальное страхование: выбран ZUS][14]
+![Социальное страхование: выбран ZUS][13]
 
 ## 7. Изменение данных ZUS
 
@@ -95,13 +91,13 @@ tags:
 
 Если надо, то можно поменять налоговую.
 
-![Выбор налоговой инспекции перед заполнением VAT-R][15]
+![Выбор налоговой инспекции перед заполнением VAT-R][14]
 
 ## 9. Собственно, цель заявления
 
 Если вы ещё не зарегистрированы как активный или освобождённый плательщик VAT, выбирайте **Rejestracja podatnika VAT**. Если польский VAT или VAT-UE уже регистрировали, выбирайте **Aktualizacja danych podatnika VAT**.
 
-![Цель VAT-R: выбран вариант Aktualizacja danych podatnika VAT][16]
+![Цель VAT-R: выбран вариант Aktualizacja danych podatnika VAT][15]
 
 ## 10. Внутрипольский VAT
 
@@ -109,45 +105,45 @@ tags:
 
 - Если польский VAT не нужен — **Tak**, затем **art. 113 ust. 1 lub 9 ustawy**. Указываем дату начала освобождения.
 - Если польский VAT уже зарегистрирован как **czynny podatnik VAT** — **Nie**.
-- Если одновременно хотите зарегистрировать активный польский VAT, используйте [инструкцию по польскому VAT][17].
+- Если одновременно хотите зарегистрировать активный польский VAT, используйте [инструкцию по польскому VAT][16].
 
-![Освобождение от польского VAT: Tak, art. 113 и дата начала освобождения][18]
+![Освобождение от польского VAT: Tak, art. 113 и дата начала освобождения][17]
 
-Пункт **[art. 113a][19]** — для бизнеса с местом ведения деятельности в другой стране ЕС.
+Пункт **[art. 113a][18]** — для бизнеса с местом ведения деятельности в другой стране ЕС.
 
 ## 11. Идентификационные данные
 
 Нужно указать имя отца и матери. Очень желательно, чтобы латиница совпадала с тем, как у них в документах указано. Просто на всякий случай.
 
-![Идентификационные данные VAT-R: имена родителей][20]
+![Идентификационные данные VAT-R: имена родителей][19]
 
 ### Если польский VAT уже зарегистрирован
 
 На экране **Aktualizacja danych podatnika VAT** ответьте **Nie** на вопрос о смене налоговой, если она остаётся прежней.
 
-![Актуализация VAT-R без смены налогового органа][21]
+![Актуализация VAT-R без смены налогового органа][20]
 
 Далее, на **Obowiązek podatkowy w zakresie podatku od towarów i usług (VAT)**:
 
 1. В **Wybierz tytuł podatkowy** выбираем ту же причину, что при регистрации польского VAT.
 2. В **Data rozpoczęcia tytułu obowiązku podatkowego** указываем ту же дату. Её можно посмотреть в старом VAT-R или уточнить у бухгалтера.
 
-![Прежнее основание польского VAT и дата начала налоговой обязанности][22]
+![Прежнее основание польского VAT и дата начала налоговой обязанности][21]
 
 !!! warning "Финансовые услуги — ничего не выбирать"
     В блоке **Zwolnienie usług finansowych** ничего не выбираем.
 
-![Блок Zwolnienie usług finansowych: оба варианта не отмечены][23]
+![Блок Zwolnienie usług finansowych: оба варианта не отмечены][22]
 
 Для кассового метода, специальных процедур и квартальных деклараций выбираем **Bez zmian**, если ничего в них не меняем.
 
-![Актуализация VAT-R: Bez zmian для метода, процедур и квартальных деклараций][24]
+![Актуализация VAT-R: Bez zmian для метода, процедур и квартальных деклараций][23]
 
 ## 12. Регистрация VAT-UE
 
 Выберите **Chcę zarejestrować się do VAT-UE**. При актуализации VAT-R также может появиться **Jestem zarejestrowanym podatnikiem VAT UE** — этот вариант для тех, у кого VAT-UE уже зарегистрирован.
 
-![VAT-UE: вариант Chcę zarejestrować się do VAT-UE][25]
+![VAT-UE: вариант Chcę zarejestrować się do VAT-UE][24]
 
 ## 13. Регистрация плательщиком VAT UE
 
@@ -158,11 +154,11 @@ tags:
 - для услуг — вариант, где говорится о продаже услуг плательщикам из ЕС, при которой VAT рассчитывает покупатель, или об импорте услуг;
 - вариант о внутрисоюзном приобретении товаров отмечайте, только если такие операции у вас действительно будут.
 
-![VAT-UE при освобождении от польского VAT: отмечены услуги, указана дата][26]
+![VAT-UE при освобождении от польского VAT: отмечены услуги, указана дата][25]
 
 **Если вы уже активный плательщик польского VAT**, вместо этих чекбоксов будет справка об операциях в ЕС и поле даты.
 
-![VAT-UE для активного плательщика польского VAT: поле даты операций][27]
+![VAT-UE для активного плательщика польского VAT: поле даты операций][26]
 
 В **Przewidywana data rozpoczęcia transakcji wewnątrzwspólnotowych** указываем дату начала работы с ЕС. Это не прежняя дата регистрации польского VAT.
 
@@ -170,7 +166,7 @@ tags:
 
 Если появляется **Rodzaj składanych deklaracji VAT**, оставляем прежний тип деклараций и первый отчётный период польского VAT. Добавление VAT-UE их не меняет.
 
-![Тип польской декларации VAT и первый отчётный период][28]
+![Тип польской декларации VAT и первый отчётный период][27]
 
 В рассмотренной выше ветке с освобождением и только услугами этот экран пропускается.
 
@@ -178,19 +174,19 @@ tags:
 
 Если нужно, то можно выбрать другую налоговую и указать контактные данные. Опциональные - но они могут упростить коммуникацию с налоговой.
 
-![Налоговая и необязательные контактные данные в VAT-R][29]
+![Налоговая и необязательные контактные данные в VAT-R][28]
 
 ## 15. Подтверждение регистрации плательщиком VAT
 
 Скорее всего оно вам не надо.
 
-![Отказ от платного подтверждения регистрации VAT][30]
+![Отказ от платного подтверждения регистрации VAT][29]
 
 ## 16. Предупреждение об ответственности
 
 На свой страх и риск соглашаемся с тем, что хотим подать заявление, и ничего криминального в наших начинаниях нет.
 
-![Oświadczenie: заявление о праве на адреса и отсутствии запретов][31]
+![Oświadczenie: заявление о праве на адреса и отсутствии запретов][30]
 
 ## 17. Где можно получить больше инфы
 
@@ -213,9 +209,15 @@ tags:
 
 ## 21. Ускорение регистрации VAT-UE
 
+Налоговая может запросить документы, подтверждающие право пользования адресом деятельности. Например, приходит письмо:
+
+"w związku ze złożeniem do tutejszego Urzędu Skarbowego złożenia druku rejestracyjnego VAT-R, proszę o przestawienie prawa do lokalu w którym jest wykonywana działalność gospodarcza."
+
+В ответ предоставьте подходящие для вашей ситуации документы: например, договор аренды или разрешение собственника. Пример — в [инструкции по регистрации польского VAT][31].
+
 !!! tip
     Этот пункт не обязателен, но может помочь закончить регистрацию немного быстрее.
-    Всё делается аналогично регистрации [внутрипольского VAT][2]
+    Всё делается аналогично регистрации [внутрипольского VAT][31]
 
 ## 22. Итог
 
@@ -226,35 +228,35 @@ tags:
 Также есть [телеграм-бот][33] для отслеживания регистрации.
 
 [1]: https://podatki.gov.pl/podatki-firmowe/vat/informacje-podstawowe
-[2]: registration_vat.md#16-uskorenie-registratsii-vat
-[3]: https://www.biznes.gov.pl/pl
-[4]: images/registration_vat_ue/ceidg_01_wazne.jpg
-[5]: images/registration_vat_ue/ceidg_02_cel.jpg
-[6]: images/registration_vat_ue/ceidg_04_vat_r.jpg
-[7]: images/registration_vat_ue/ceidg_03_dane.jpg
-[8]: images/registration_jdg/08_dane_cudzoziemca.jpg
-[9]: registration_jdg.md
-[10]: images/registration_vat_ue/ceidg_05_adres.jpg
-[11]: images/registration_vat_ue/ceidg_06_kontakty.jpg
-[12]: images/registration_vat_ue/ceidg_07_edoreczenia.jpg
-[13]: images/registration_vat_ue/ceidg_09_administratorzy.jpg
-[14]: images/registration_vat_ue/ceidg_10_zus.jpg
-[15]: images/registration_vat_ue/ceidg_11_urzad.jpg
-[16]: images/registration_vat_ue/vat_01_aktualizacja.jpg
-[17]: registration_vat.md
-[18]: images/registration_vat_ue/ue_01_zwolnienie.jpg
-[19]: https://eli.gov.pl/api/acts/DU/2026/1263/text.html
-[20]: images/registration_vat/03_dane_identyfikacyjne.jpg
-[21]: images/registration_vat_ue/vat_02_urzad.jpg
-[22]: images/registration_vat/05_tytul_data.jpg
-[23]: images/registration_vat/06_uslugi_finansowe.jpg
-[24]: images/registration_vat_ue/vat_04_bez_zmian.jpg
-[25]: images/registration_vat_ue/ue_02_rejestracja.jpg
-[26]: images/registration_vat_ue/ue_03_uslugi.jpg
-[27]: images/registration_vat_ue/ue_04_data.jpg
-[28]: images/registration_vat/10_deklaracje.jpg
-[29]: images/registration_vat/11_urzad.jpg
-[30]: images/registration_vat/12_potwierdzenie.jpg
-[31]: images/registration_vat/13_oswiadczenie.jpg
+[2]: https://www.biznes.gov.pl/pl
+[3]: images/registration_vat_ue/ceidg_01_wazne.jpg
+[4]: images/registration_vat_ue/ceidg_02_cel.jpg
+[5]: images/registration_vat_ue/ceidg_04_vat_r.jpg
+[6]: images/registration_vat_ue/ceidg_03_dane.jpg
+[7]: images/registration_jdg/08_dane_cudzoziemca.jpg
+[8]: registration_jdg.md
+[9]: images/registration_vat_ue/ceidg_05_adres.jpg
+[10]: images/registration_vat_ue/ceidg_06_kontakty.jpg
+[11]: images/registration_vat_ue/ceidg_07_edoreczenia.jpg
+[12]: images/registration_vat_ue/ceidg_09_administratorzy.jpg
+[13]: images/registration_vat_ue/ceidg_10_zus.jpg
+[14]: images/registration_vat_ue/ceidg_11_urzad.jpg
+[15]: images/registration_vat_ue/vat_01_aktualizacja.jpg
+[16]: registration_vat.md
+[17]: images/registration_vat_ue/ue_01_zwolnienie.jpg
+[18]: https://eli.gov.pl/api/acts/DU/2026/1263/text.html
+[19]: images/registration_vat/03_dane_identyfikacyjne.jpg
+[20]: images/registration_vat_ue/vat_02_urzad.jpg
+[21]: images/registration_vat/05_tytul_data.jpg
+[22]: images/registration_vat/06_uslugi_finansowe.jpg
+[23]: images/registration_vat_ue/vat_04_bez_zmian.jpg
+[24]: images/registration_vat_ue/ue_02_rejestracja.jpg
+[25]: images/registration_vat_ue/ue_03_uslugi.jpg
+[26]: images/registration_vat_ue/ue_04_data.jpg
+[27]: images/registration_vat/10_deklaracje.jpg
+[28]: images/registration_vat/11_urzad.jpg
+[29]: images/registration_vat/12_potwierdzenie.jpg
+[30]: images/registration_vat/13_oswiadczenie.jpg
+[31]: registration_vat.md#16-uskorenie-registratsii-vat
 [32]: https://ec.europa.eu/taxation_customs/vies/vatRequest.html
 [33]: https://t.me/vies_vat_checker_bot
