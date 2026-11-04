@@ -18,14 +18,13 @@ tags:
 
 [Link to the portal][3]
 
-- First, click `Logowanie` in the upper-right corner. You will be taken to a page with login options (as shown in the screenshot).
-- Select `Zaloguj się przez Login.gov.pl` and log in using your trusted profile.
+- Open the login page from the portal header. On **Login.gov.pl**, choose **Profil zaufany** or **Bankowość elektroniczna**.
 
-![biznes.gov.pl login page: Zaloguj się przez Login.gov.pl option][4]
+![Login.gov.pl: вход через Profil zaufany или банк][4]
 
-- Click the large blue button `ZAREJESTRUJ FIRMĘ`:
+- In **Usługi CEIDG**, choose **ZAREJESTRUJ FIRMĘ**:
 
-![biznes.gov.pl home page: large blue ZAREJESTRUJ FIRMĘ button][5]
+![Главная Biznes.gov.pl: карточки регистрации JDG и изменения CEIDG][5]
 
 After that, you will be guided through a step-by-step form to register your sole proprietorship.
 
@@ -33,27 +32,27 @@ After that, you will be guided through a step-by-step form to register your sole
 
 ### 1. Welcome screen
 
-![Registration form welcome screen with ROZPOCZNIJ button][6]
+![Начало регистрации JDG: кнопка Rozpocznij][6]
 
-Click `ROZPOCZNIJ`
+Click **Rozpocznij**. If **Podpowiadanie danych** appears, select your own profile; the wizard can use details already provided.
+
+![Выбор профиля для подстановки данных в заявление CEIDG][7]
 
 ### 2. Important information
 
-![Ważne informacje screen with introductory information and DALEJ button][7]
+Read **Ważne informacje**, then click **Dalej**. The set and order of subsequent screens depend on your answers and the selected applications.
 
-Click `DALEJ`
+![Важная информация перед регистрацией JDG, кнопка Dalej][8]
 
 ### 3. Applicant details
 
-This is the `Dane wnioskodawcy` step.
-Remove Polish citizenship and add your own.
-The result should look like the screenshot below.
+On **Dane wnioskodawcy**, select the citizenship option that matches your situation. For a non-Polish citizenship, use **Mam kilka obywatelstw lub inne obywatelstwo niż polskie** and add all your citizenships. Keep Polish citizenship if you actually hold it.
 
-![CEIDG form: Dane wnioskodawcy section, applicant citizenship selection][8]
+![Выбор гражданства заявителя и кнопка добавления гражданства][9]
 
-Next, fill in your personal details: first name, last name, father's name, mother's name, PESEL, place of birth:
+Check your name, surname, parents’ names, PESEL and place of birth. Some fields are supplied automatically from your login details.
 
-![Dane osobowe section: name, surname, parents' names, PESEL, place of birth][9]
+![Личные данные заявителя и обязательные поля CEIDG][10]
 
 And a few more questions:
 
@@ -67,73 +66,50 @@ And a few more questions:
 
 The result should look like this:
 
-![Numery identyfikacyjne section: NIP, foreign tax ID, Wspólność majątkowa][10]
+![Numery identyfikacyjne section: NIP, foreign tax ID, Wspólność majątkowa][11]
 
 Click `DALEJ`
 
 ### 4. Foreigner details
 
-- If you are on a PBH visa, enter the visa number and issue date, leave the consul checkbox selected, click Wyszukaj, and choose the embassy that issued your visa (for example, for Minsk: Ambasada Rzeczypospolitej Polskiej w Republice Białorusi vulica Zmitraka Biaduli 11 :: Mińsk::). Note that the search uses Polish names, so "Minsk" won't return results — you need to type "Mińsk".
-- If you are registering based on a Karta Polaka, enter the card details and the issuing organization accordingly.
-- For Ukrainian citizens this dialog may not appear at all, but if it does, there are two options:
-    - if you have a PESEL UKR: enter your PESEL.
-    - if you don't — indicate that you arrived before the war and upload your passport or another document.
+Enter the number and issue date of the current document confirming your right to run a JDG in Poland. Choose the issuing authority shown in the document. For **Konsul lub Wojewoda**, the wizard provides **Wyszukaj urząd**; search using the Polish name of the authority.
 
-![Dane cudzoziemca section: visa number and issue date, embassy selection][11]
+![Данные документа иностранца: номер, дата и орган выдачи][12]
 
-- Attach scans of your passport and visa/residence card. If you are applying on the basis of a Blue Card, also attach a scan of the decision. Do not rename the documents from the names suggested by the portal, otherwise you will receive the following error in response to your application: Kod błędu: -4
-Komunikat: Wniosek odrzucony przez moduł Weryfikacji Obywatelstwa (the total file size must not exceed 3.5 MB, otherwise you will have problems signing the application).
-- Check the box confirming that you are allowed to operate a sole proprietorship in Poland:
+Attach the documents confirming your applicable basis for running the business. The total attachment size must not exceed **3.5 MB**, as indicated by the portal. For a residence permit, check which decision and document establish your entitlement; do not copy an old visa example if it no longer matches your situation.
 
-![Status cudzoziemca section: document scans and business eligibility checkbox][12]
+Read **Oświadczenie o statusie cudzoziemca** and answer according to your actual status.
 
-Click `DALEJ`
+![Приложение документов и заявление о статусе иностранца][13]
 
 ### 5. Residential address
 
-![Adres zamieszkania step with Dodaj nowy adres button][13]
+Click **Dodaj nowy adres**, enter your actual residential address and save the address dialog with **Zapisz**. The country selector also allows a foreign address when that is where you actually live.
 
-Click `Dodaj nowy adres`
+![Адрес проживания: поля страны, индекса, населённого пункта и улицы][14]
 
-![Dodaj nowy adres dialog: address fields and ZAPISZ button][14]
+Select the saved address and click **Dalej**.
 
-Enter your address and click `ZAPISZ`.
-
-!!! note
-    You can enter a foreign address here if you currently live abroad. You can change it later. It will not affect your business activity in any way.
-
-The result should look like this:
-
-![Adres zamieszkania step with the residential address filled in][15]
-
-Click `DALEJ`
+![Выбор сохранённого адреса проживания в CEIDG][15]
 
 ### 6. Company details
 
-- The full company name must include at least your first and last name in Latin characters. The short name can be anything. For simplicity, it is recommended to use "First Name Last Name" for both the full and short names.
-- The start date of activity can be today or a future date. You can change it later.
-- You also need to specify the planned number of employees including yourself (if you don't plan to hire anyone, enter 1).
-- Additionally, check the box if you plan to employ people with disabilities.
+The full company name must include your first and last name. The short name does not have to include them. Enter the business start date and planned number of people working, including yourself: **1** if you will work alone.
 
-![Dane firmy section: company name, start date, number of employees][16]
+![Полное и краткое название фирмы, дата начала деятельности][16]
 
-- You most likely do not have a REGON number yet.
-- Contact details — these will be visible in the public CEIDG register. The "optional" fields are self-explanatory, and you can decline to publish them in CEIDG.
+Contact-publication consent is separate for e-mail, website, phone and other contact details. Providing an e-mail requires answering the associated publication question; **Nie posiadam adresu e-mail** is for someone who actually has no e-mail. Select **Nie** for each supplied contact you do not want published in CEIDG.
+
+![Контакты фирмы: отдельное согласие на публикацию e-mail][17]
 
 !!! note
-    It is recommended not to publish your contact details (select Nie), otherwise you will be flooded with spam immediately after registration.
-
-![Dane kontaktowe section: contact details for the CEIDG register, Nie selected][17]
-
-Click `DALEJ`
+    Publishing contact details can attract unsolicited messages.
 
 ### 7. Activity codes
 
-Click `Wybierz kod PKD`, find the appropriate code — it will be your primary one. You can add more if needed (but one must always be selected as the primary code).
+Click **Wybierz kod PKD**, search by code or a description of the activity, select the appropriate items and click **Zapisz**. Keep one main code; additional codes should describe activities you actually plan to carry out.
 
-![Kody działalności section: Wybierz kod PKD button and the primary PKD code][18]
-
-Click `DALEJ`
+![Поиск актуальных PKD, выбор кода и кнопка Zapisz][18]
 
 ### 8. Correspondence address
 
@@ -141,7 +117,7 @@ Here you need to provide the recipient and correspondence address. Government ag
 
 Click `Dodaj nowy adres` and the result should look like this:
 
-![Adres do doręczeń step: recipient and correspondence address][19]
+![Адресат и выбор адреса для бумажной корреспонденции][19]
 
 Click `DALEJ`
 
@@ -166,29 +142,33 @@ If not, select `Nie`.
 
 Click `DALEJ`
 
+If the company already has an e-Doręczenia address, the wizard shows the existing address and owner details instead of asking you to create another one. Check the details. On **Administratorzy skrzynki e-Doręczeń**, leave the change checkboxes empty if no administrators are being added or removed.
+
+![Проверка владельца уже существующего адреса e-Doręczenia][24]
+
+![Существующие администраторы e-Doręczenia: изменений нет][25]
+
 ### 9. Business activity address
 
 For IT professionals there is an option: "I do not have a permanent place of business" — select it. You probably don't want to use your rented apartment address here.
 
 If you do have such an address (a real or virtual office), then enter it.
 
-![Miejsca wykonywania działalności step: no permanent place of business option][24]
+![Место ведения деятельности: вариант без постоянного адреса][26]
 
 Click `DALEJ`
 
 ### 10. Choosing an insurance scheme
 
-All entrepreneurs in Poland are required to pay ZUS contributions, so select ZUS and specify the date from which you will start paying (this will most likely match your business start date):
+Choose **ZUS** if this is your applicable insurance institution. If the wizard asks for an insurance start date, use the actual start of your insurance obligation; the date field also appears in the ZUS application itself.
 
-![Ubezpieczenia społeczne step: ZUS selected and contribution start date][25]
-
-Click `DALEJ`
+![Выбор вида страхования: ZUS, KRUS или страхование за границей][27]
 
 ### 11. Tax office
 
 This is filled in automatically based on the address you entered earlier. If you know you belong to a different tax office, you can search for the correct one:
 
-![Urząd skarbowy step: automatically selected tax office][26]
+![Проверка своей налоговой и кнопка Wyszukaj urząd][28]
 
 Click `DALEJ`
 
@@ -196,79 +176,81 @@ Click `DALEJ`
 
 You could stop here, but there is an option to register with ZUS and choose your tax system right away. Let's take advantage of that by selecting the first option:
 
-![Dodatkowe dane step: ZUS registration and tax system option selected][27]
+![Dodatkowe dane step: ZUS registration and tax system option selected][29]
 
 Click `DALEJ`
+
+If these items are presented as a list of sections, select the ZUS and income-tax sections you need. During an update of an existing entry, this list is called **Edycja wpisu w CEIDG**.
 
 ### 13. ZUS registration
 
-Check the box indicating that you want to register and that you are registering only yourself (or select the appropriate options depending on your situation), and choose the ZUS ZZA form:
+For an initial insurance application, choose the appropriate ZUS form. **ZUS ZZA** covers health insurance only, for example when you qualify for **Ulga na start**. **ZUS ZUA** covers social and health insurance. Do not choose a form solely because it is selected in an example.
 
-![Zgłoszenie do ZUS step: registration checkboxes and ZUS ZZA form selection][28]
+![Выбор ZUS ZZA для примера регистрации только в медицинском страховании][30]
 
-Click `DALEJ`
+Check **Dane identyfikacyjne płatnika składek**, then **Dane osoby ubezpieczonej**. The latter includes the birth surname and identity-document details; choose the document type that you actually use.
+
+![Проверка идентификационных данных плательщика ZUS][31]
+
+![Данные застрахованного: фамилия при рождении и тип документа][32]
 
 ### 14. ZUS details
 
-Here you can select the startup relief (ulga na start). Also, indicate if you receive a pension and/or have a disability:
+On **Informacje o obowiązkowym ubezpieczeniu**, enter the date your insurance obligation starts. Choose **Ulga na start - 0540** only if you qualify, and answer the pension and disability-certificate questions according to your own documents.
 
-![Zgłoszenie do ubezpieczenia step: ulga na start, pension and disability options][29]
+![Выбор ulga na start и сведений для кода страхования][33]
 
-You need an occupation code — click the link and search for the appropriate one (for example, Programista Aplikacji):
+Enter the six-digit **Kod wykonywanego zawodu** in its separate field. You can find the occupation code in [the official PSZ directory][34]. This is an occupation code, not a PKD activity code.
 
-![Kod zawodu occupation code search, e.g. Programista Aplikacji][30]
-
-Click `DALEJ`
+![Поле Kod wykonywanego zawodu с примером кода программиста][35]
 
 ### 15. NFZ branch selection
 
 Search for your branch based on your place of residence:
 
-![Oddział NFZ step: choosing an NFZ branch by place of residence][31]
+![Отделение NFZ по месту проживания и кнопка выбора][36]
 
 Click `DALEJ`
 
 ### 16. Registration address (zameldowanie)
 
-This is your registered address. If you do not have a Polish zameldowanie (registration), enter your foreign registered address:
+On **Adres zameldowania na stałe miejsce pobytu**, answer **Podaję adres zameldowania** according to your circumstances. With **Tak**, select or add the actual registration address. The portal allows a foreign registration address if you do not have one in Poland; do not substitute an arbitrary address.
 
-![Adres zameldowania step: registered address][32]
-
-Click `DALEJ`
+![Наличие адреса zameldowania и кнопка добавления адреса][37]
 
 ### 17. Correspondence address
 
 Choose where ZUS paper mail should be delivered. Optionally, provide an email and phone number for contact:
 
-![Dane korespondencyjne step: address for ZUS mail, email and phone][33]
+![Адрес корреспонденции ZUS и необязательные контакты][38]
 
 Click `DALEJ`
 
 ### 18. Taxes
 
-You can choose your [tax system][34] right away or temporarily skip this step.
+You can choose your [tax system][39] right away or temporarily skip this step.
 
 !!! danger "Warning!"
     Only skip the tax system selection if you are absolutely sure you know what you are doing! If you forget to make a selection before paying your first tax, the default will be the general system (Skala podatkowa). You will only be able to change it from the beginning of the next year.
 
-![Podatki step: choose a tax system now or skip the step][35]
+![Podatki step: choose a tax system now or skip the step][40]
 
 Click `DALEJ`
 
 ### 19. Choosing a tax system
 
-Select your [tax system][36]:
+Choose your [income-tax system][39].
 
-![Forma opłacania podatku dochodowego step: tax system options][37]
+![Форма налогообложения: общая система, liniowy или ryczałt][41]
 
-Click `DALEJ`
+Click **Dalej**.
 
 ### 20. Accounting records
 
 - If you chose the ryczałt tax system, you can opt for simplified record-keeping: (Zawiadam o prowadzeniu ksiąg rachunkowych — Nie).
 - Indicate who will handle your accounting: yourself or an accountant. You can change this later.
 
-![Dokumentacja rachunkowa step: who will keep the accounting records][38]
+![Полная бухгалтерия и выбор самостоятельного ведения или biuro rachunkowe][42]
 
 Click `DALEJ`
 
@@ -276,7 +258,7 @@ Click `DALEJ`
 
 Choose the address where your accounting documents will be kept:
 
-![Adres przechowywania dokumentacji step: accounting documents storage address][39]
+![Адрес хранения бухгалтерских документов и кнопка добавления][43]
 
 Click `DALEJ`
 
@@ -289,36 +271,35 @@ Click `DALEJ`
     - You are registered as an active VAT payer (czynny płatnik VAT). For settlements, you will be able to use the split payment mechanism (mechanizm podzielonej płatności (MPP)).
     - A single transaction with another entrepreneur exceeds 15,000 PLN (even if you pay the invoice in installments).
     - Sensitive operations: by law, certain operations are considered "sensitive" and require a business account. The list of such operations can be found in Annex 15 to the VAT Act.
-    More details at [Biznes.gov.pl - MPP](https://www.biznes.gov.pl/pl/portal/00227), [https://t.me/JDG_PBH/9236][40] and [https://t.me/JDG_PBH/18806][41]
+    More details at [Biznes.gov.pl - MPP](https://www.biznes.gov.pl/pl/portal/00227), [https://t.me/JDG_PBH/9236][44] and [https://t.me/JDG_PBH/18806][45]
 
-- If you plan to use only a personal account, you can enter it here.
-- If you plan to open a business account, you don't have one yet.
+If you already have a company account, use **Dodaj rachunek**. You can add an account later if it has not been opened yet.
 
-![Rachunki bankowe step: entering bank accounts][42]
+![Добавление фирменного банковского счёта в CEIDG][46]
 
-Click `DALEJ`
+For an account using IBAN, choose **Tak**, enter the IBAN and select **Waluta rachunku**. A Polish IBAN starts with **PL**. Select the account’s actual currency, then save the dialog.
+
+![Поля номера IBAN и валюты фирменного счёта][47]
 
 ### 23. Power of attorney
 
 You may need a representative who will have power of attorney from you for certain actions. You can add them at this step.
 
-![Pełnomocnictwa step: adding a representative with power of attorney][43]
+![Pełnomocnictwa step: adding a representative with power of attorney][48]
 
 Click `DALEJ`
 
 ### 24. Declaration
 
-A statement about legal responsibility:
+Read **Oświadczenie** and confirm it only if the statements about the right to use the addresses and the absence of business prohibitions are true.
 
-![Oświadczenie step: statement of legal responsibility, DALEJ button][44]
-
-Click `DALEJ`
+![Oświadczenie о праве пользоваться адресами и отсутствии запретов][49]
 
 ### 25. Suspending business activity
 
 You most likely do not want to suspend your activity right away:
 
-![Zawieszenie działalności step: business suspension question][45]
+![Zawieszenie działalności step: business suspension question][50]
 
 Click `DALEJ`
 
@@ -326,7 +307,7 @@ Click `DALEJ`
 
 This section tells you where and from whom you can get more information and assistance, as well as who is responsible for reviewing your application.
 
-![Urząd odbierający wniosek step: information about application processing][46]
+![Urząd odbierający wniosek step: information about application processing][51]
 
 Click `DALEJ`
 
@@ -334,7 +315,7 @@ Click `DALEJ`
 
 This prepares you for the fact that the process is almost over:
 
-![Wniosek gotowy do wysłania step: final summary before sending][47]
+![Wniosek gotowy do wysłania step: final summary before sending][52]
 
 Click `DALEJ`
 
@@ -345,18 +326,18 @@ If you click the XML links, you can download the forms for your records.
 
 Choose to sign with your trusted profile (`PROFIL ZAUFANY` and `BANKOWOŚĆ ELEKTRONICZNA` will most likely lead to the same result — I chose the banking option because I registered my profile through a bank):
 
-![Dokument gotowy do podpisu step: XML links and signing method selection][48]
+![Dokument gotowy do podpisu step: XML links and signing method selection][53]
 
 Next, proceed to signing. Click `Podpisz podpisem zaufanym`:
 
-![Signing page with Podpisz podpisem zaufanym button][49]
+![Signing page with Podpisz podpisem zaufanym button][54]
 
 And finally, you can send the signed documents:
 
-![Sending the signed application to CEIDG][50]
+![Sending the signed application to CEIDG][55]
 
 !!! tip "It is highly recommended to download and double-check your application"
-    - Go to your [konto.biznes.gov.pl account][51]
+    - Go to your [konto.biznes.gov.pl account][56]
     - Select the entry Zarejestruj działalność gospodarczą w CEIDG in your cases
     - Next to 202NNNNN-NNNN-NNNN-wniosek.xml, click Podgląd
     - In particular, make sure the tax system is selected — for example, ryczałt (check section 15. Oświadczenie o formie opłacania podatku dochodowego).
@@ -370,9 +351,9 @@ You will be notified that your application has been accepted and that you should
 
 Your NIP number may be assigned within one to two days. REGON takes longer — it can take up to a week. If there are any errors in the process, you will receive a message asking you to correct them.
 
-You can verify all your company data on [biznes.gov.pl][52]
+You can verify all your company data on [biznes.gov.pl][57]
 
-If something went wrong or you encountered problems, you can write to the [chat on biznes.gov.pl][53] and ask your question.
+If something went wrong or you encountered problems, you can write to the [chat on biznes.gov.pl][58] and ask your question.
 
 !!! success "Registration is only the beginning"
     Invoices, ZUS contributions and declarations await you every month.
@@ -384,53 +365,58 @@ If something went wrong or you encountered problems, you can write to the [chat 
 [1]: pesel.md
 [2]: pz.md
 [3]: https://www.biznes.gov.pl/pl
-[4]: images/registration_jdg/01_login.png
-[5]: images/registration_jdg/02_zarejestruj_firme.png
-[6]: images/registration_jdg/03_rozpocznij.png
-[7]: images/registration_jdg/04_wazne_informacje.png
-[8]: images/registration_jdg/05_dane_wnioskodawcy.png
-[9]: images/registration_jdg/06_dane_osobowe.png
-[10]: images/registration_jdg/07_numery_identyfikacyjne.png
-[11]: images/registration_jdg/08_dane_cudzoziemca.png
-[12]: images/registration_jdg/09_status_cudzoziemca.png
-[13]: images/registration_jdg/10_adres_zamieszkania.png
-[14]: images/registration_jdg/11_dodaj_adres.png
-[15]: images/registration_jdg/12_adres_wypelniony.png
-[16]: images/registration_jdg/13_dane_firmy.png
-[17]: images/registration_jdg/14_dane_kontaktowe.png
-[18]: images/registration_jdg/15_kody_pkd.png
-[19]: images/registration_jdg/16_adres_doreczen.png
+[4]: images/registration_jdg/01_login_gov.jpg
+[5]: images/registration_jdg/02_uslugi_ceidg.jpg
+[6]: images/registration_jdg/03_rozpocznij.jpg
+[7]: images/registration_jdg/profil_01_wybor.jpg
+[8]: images/registration_jdg/04_wazne_informacje.jpg
+[9]: images/registration_jdg/05_dane_wnioskodawcy.jpg
+[10]: images/registration_jdg/06_dane_osobowe.jpg
+[11]: images/registration_jdg/07_numery_identyfikacyjne.png
+[12]: images/registration_jdg/08_dane_cudzoziemca.jpg
+[13]: images/registration_jdg/09_status_cudzoziemca.jpg
+[14]: images/registration_jdg/11_dodaj_adres.jpg
+[15]: images/registration_vat_ue/ceidg_05_adres.jpg
+[16]: images/registration_jdg/13_dane_firmy.jpg
+[17]: images/registration_vat_ue/ceidg_06_kontakty.jpg
+[18]: images/registration_jdg/15_kody_pkd.jpg
+[19]: images/registration_jdg/16_adres_doreczen.jpg
 [20]: https://www.gov.pl/web/e-doreczenia
 [21]: images/registration_jdg/16a_e_doreczenia.png
 [22]: images/registration_jdg/16b_e_doreczenia_email.png
 [23]: images/registration_jdg/16c_administratorzy.png
-[24]: images/registration_jdg/17_miejsca_dzialalnosci.png
-[25]: images/registration_jdg/18_ubezpieczenia_spoleczne.png
-[26]: images/registration_jdg/19_urzad_skarbowy.png
-[27]: images/registration_jdg/20_dodatkowe_dane.png
-[28]: images/registration_jdg/21_zgloszenie_zus.png
-[29]: images/registration_jdg/22_ulga_na_start.png
-[30]: images/registration_jdg/23_kod_zawodu.png
-[31]: images/registration_jdg/24_oddzial_nfz.png
-[32]: images/registration_jdg/25_adres_zameldowania.png
-[33]: images/registration_jdg/26_dane_korespondencyjne.png
-[34]: taxes.md#pit-income-tax
-[35]: images/registration_jdg/27_podatki.png
-[36]: taxes.md#pit-income-tax
-[37]: images/registration_jdg/28_forma_podatku.png
-[38]: images/registration_jdg/29_dokumentacja_rachunkowa.png
-[39]: images/registration_jdg/30_adres_dokumentacji.png
-[40]: https://t.me/JDG_PBH/9236
-[41]: https://t.me/JDG_PBH/18806
-[42]: images/registration_jdg/31_rachunki_bankowe.png
-[43]: images/registration_jdg/32_pelnomocnictwa.png
-[44]: images/registration_jdg/33_oswiadczenie.png
-[45]: images/registration_jdg/34_zawieszenie.png
-[46]: images/registration_jdg/35_urzad_odbierajacy.png
-[47]: images/registration_jdg/36_wniosek_gotowy.png
-[48]: images/registration_jdg/37_wybor_podpisu.png
-[49]: images/registration_jdg/38_podpisz.png
-[50]: images/registration_jdg/39_wyslij.png
-[51]: https://konto.biznes.gov.pl/pl/moje-konto
-[52]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
-[53]: https://www.biznes.gov.pl/pl/portal/03175
+[24]: images/registration_vat_ue/ceidg_08_wlasciciel.jpg
+[25]: images/registration_vat_ue/ceidg_09_administratorzy.jpg
+[26]: images/registration_jdg/17_miejsca_dzialalnosci.jpg
+[27]: images/registration_vat_ue/ceidg_10_zus.jpg
+[28]: images/registration_vat_ue/ceidg_11_urzad.jpg
+[29]: images/registration_jdg/20_dodatkowe_dane.png
+[30]: images/registration_jdg/21_zgloszenie_zus.jpg
+[31]: images/registration_jdg/zus_01_platnik.jpg
+[32]: images/registration_jdg/zus_02_osoba.jpg
+[33]: images/registration_jdg/22_ulga_na_start.jpg
+[34]: https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci/wyszukiwarka-opisow-zawodow
+[35]: images/registration_jdg/23_kod_zawodu.jpg
+[36]: images/registration_jdg/24_oddzial_nfz.jpg
+[37]: images/registration_jdg/25_adres_zameldowania.jpg
+[38]: images/registration_jdg/26_dane_korespondencyjne.jpg
+[39]: taxes.md#pit-income-tax
+[40]: images/registration_jdg/27_podatki.png
+[41]: images/registration_jdg/28_forma_podatku.jpg
+[42]: images/registration_jdg/29_dokumentacja_rachunkowa.jpg
+[43]: images/registration_jdg/30_adres_dokumentacji.jpg
+[44]: https://t.me/JDG_PBH/9236
+[45]: https://t.me/JDG_PBH/18806
+[46]: images/registration_jdg/31_dodaj_rachunek.jpg
+[47]: images/registration_jdg/32_iban.jpg
+[48]: images/registration_jdg/32_pelnomocnictwa.png
+[49]: images/registration_vat/13_oswiadczenie.jpg
+[50]: images/registration_jdg/34_zawieszenie.png
+[51]: images/registration_jdg/35_urzad_odbierajacy.png
+[52]: images/registration_jdg/36_wniosek_gotowy.png
+[53]: images/registration_jdg/37_wybor_podpisu.png
+[54]: images/registration_jdg/38_podpisz.png
+[55]: images/registration_jdg/39_wyslij.png
+[56]: https://konto.biznes.gov.pl/pl/moje-konto
+[57]: https://konto.biznes.gov.pl/pl/moje-konto/moja-firma/dane-firmy
+[58]: https://www.biznes.gov.pl/pl/portal/03175

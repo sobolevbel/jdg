@@ -9,11 +9,13 @@ tags:
 
 ## November 2026
 
-- Updated [ZUS vacation (RWS)][3] and the [certificate of no outstanding debt (RWN)][4]. Added [eZUS account navigation][5], corrected entry into ePłatnik and UPP retrieval, and clarified vacation eligibility and de minimis aid.
+- Updated the guides for [JDG registration][1], [Polish VAT][2], [VAT-UE][3] and [CEIDG changes][4] for the current Biznes.gov.pl interface. Added VAT-UE registration for an existing Polish VAT taxpayer: preserving the original reason and date, choosing **Bez zmian** and leaving the financial-services block empty.
 
-- Updated screenshots for [monthly operations in inFakt][1]: the current invoices, taxes, ZUS, JPK and VAT-UE interface, with red outlines around the relevant buttons and fields. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
+- Updated [ZUS vacation (RWS)][5] and the [certificate of no outstanding debt (RWN)][6]. Added [eZUS account navigation][7], corrected entry into ePłatnik and UPP retrieval, and clarified vacation eligibility and de minimis aid.
 
-- Updated [initial inFakt setup][2]: new light screenshots with red outlines, current VAT, PIT and ZUS sections, and service, client, bank account and signature forms; clarified the accounting activation terms.
+- Updated screenshots for [monthly operations in inFakt][8]: the current invoices, taxes, ZUS, JPK and VAT-UE interface, with red outlines around the relevant buttons and fields. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
+
+- Updated [initial inFakt setup][9]: new light screenshots with red outlines, current VAT, PIT and ZUS sections, and service, client, bank account and signature forms; clarified the accounting activation terms.
 
 ## October 2026
 
@@ -205,8 +207,12 @@ tags:
 - ZUS content moved off the taxes page onto a [dedicated ZUS page](zus.md).
 - Link refresh for the [tax calculators table](taxes.md#tax-calculators)
 
-[1]: infakt_routine.md
-[2]: infakt_settings.md
-[3]: zus_vacation.md
-[4]: zus.md#certificate-of-no-outstanding-zus-debt
-[5]: zus_login.md
+[1]: registration_jdg.md
+[2]: registration_vat.md
+[3]: registration_vat_ue.md
+[4]: jdg_changes.md
+[5]: zus_vacation.md
+[6]: zus.md#certificate-of-no-outstanding-zus-debt
+[7]: zus_login.md
+[8]: infakt_routine.md
+[9]: infakt_settings.md
