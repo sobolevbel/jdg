@@ -20,6 +20,8 @@ accept = ["200..=204"]
 # plus our own absolute links and mkdocs-generated absolute paths, which only
 # resolve on the published site (a PR is checked before it is deployed).
 exclude = [
+  # ZUS Lodz map opens in a browser, but Google rejects requests from CI (403).
+  "^https://goo\\.gl/maps/4NgWUKNUF2MVeD47A$",
   "^https://twojajdg\\.pl",
   "^https://.*\\.infakt\\.pl",
   "^https://.*mazowieckie\\.pl",
