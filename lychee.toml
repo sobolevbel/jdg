@@ -20,6 +20,8 @@ accept = ["200..=204"]
 # plus our own absolute links and mkdocs-generated absolute paths, which only
 # resolve on the published site (a PR is checked before it is deployed).
 exclude = [
+  # This beneficiary page returns intermittent 500/timeouts (HEAD 200 on 2026-11-04).
+  "^https://dzieciom\\.pl/podopieczni/44133$",
   # Current ZUS guidance opens in a browser but resets automated HEAD requests.
   "^https://www\\.zus\\.pl/-/zwolnienie-z-op%C5%82acania-sk%C5%82adek-zus-wakacje-sk%C5%82adkowe$",
   "^https://www\\.zus\\.pl/baza-wiedzy/biezace-wyjasnienia-komorek-merytorycznych/wakacje-skladkowe-pytania-i-odpowiedzi$",
