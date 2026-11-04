@@ -7,6 +7,10 @@ tags:
 
 # Site changelog
 
+## November 2026
+
+- Updated screenshots for [monthly operations in inFakt][1]: the current invoices, taxes, ZUS, JPK and VAT-UE interface. Clarified KSeF actions, ZUS XML downloads and invoice editing; corrected the standard VAT refund deadline to 40 days for periods from February 2026 onwards.
+
 ## October 2026
 
 - Family members on your health insurance: when switching [from Ulga na start to składki preferencyjne](zus_obnizone_skladki.md) and [to duży ZUS](zus_duzy.md), you now deregister and re-register them (ZCNA) instead of deleting the generated ZCNA — the old approach left many family members uninsured in NFZ. Added how to check their insurance in IKP.
@@ -196,3 +200,5 @@ tags:
 - [How to pay ZUS](zus.md#how-to-pay-zus) tip added.
 - ZUS content moved off the taxes page onto a [dedicated ZUS page](zus.md).
 - Link refresh for the [tax calculators table](taxes.md#tax-calculators)
+
+[1]: infakt_routine.md
