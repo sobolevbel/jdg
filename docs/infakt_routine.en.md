@@ -10,15 +10,15 @@ tags:
 # Routine operations for a sole proprietor (monthly) using infakt.pl
 
 This document describes the typical monthly operations for a sole proprietor on ryczałt using infakt.pl.
-The minimum infakt setup is described on the [infakt setup page][3].
+The minimum infakt setup is described on the [infakt setup page][1].
 
-Sign up for infakt using [our referral link][21] and get 100zł cashback.
+Sign up for infakt using [our referral link][2] and get 100zł cashback.
 
 ## Issuing invoices
 
-On the last day of the month (if you have a monthly billing agreement with your client), or upon completion (delivery) of work, you need to generate and issue an invoice to the client. To do this, go to the [Przychody][1] section and click the **Nowa faktura** button.
+On the last day of the month (if you have a monthly billing agreement with your client), or upon completion (delivery) of work, you need to generate and issue an invoice to the client. To do this, go to the [Przychody][3] section and click the **Nowa faktura** button.
 
-![Nowa faktura][2]
+![inFakt: Lista przychodów, кнопка Nowa faktura и вкладка Robocze][4]
 
 You can also do the same from the client list:
 
@@ -35,43 +35,45 @@ In the new invoice, select/adjust the required fields (if not already filled in)
 3. payment method — most likely **Przelew** (bank transfer) and select the account (if you have several). If no account has been added yet, the service will prompt you to add one
 4. service
 5. quantity of the "service" (if hourly — the number of hours worked; if a fixed rate — leave it as 1, since the net amount already equals the rate)
-6. VAT rate (more details on the [VAT page][32])
+6. VAT rate (more details on the [VAT page][5])
 
-![inFakt: new invoice form — client, dates, service, VAT rate][4]
+![inFakt: форма новой фактуры — заказчик, даты, услуга, ставка VAT][6]
 
-Click **Zapisz szkic** to save. The invoice is saved!
+Click **Zapisz szkic** to save a draft. You can find it in the income list under **Robocze**.
 
 !!! warning "Important"
-    At this stage the invoice is not yet included in the tax base calculation for the selected month (while it remains in `SZKIC` status). For the invoice to count, you need to print it or send it to the client.
+    At this stage the invoice is not yet included in the tax base calculation for the selected month (while it remains in `SZKIC` status). For the invoice to count, you need to print it, send it or mark it as paid.
 
-To do this, go to the [invoice list][1], select the invoice, and choose **Pobierz PDF** — you'll also find language options there.
+!!! warning "Invoices through KSeF"
+    When KSeF is connected, the form has a separate **Wyślij do KSeF** button. If the invoice must be issued through KSeF, send it using this button and check that a KSeF number has been assigned. Saving a draft or downloading a PDF does not replace submission to KSeF.
 
-![inFakt: invoice list, Pobierz PDF option with language selection][5]
+To download a PDF, open the invoice from the [invoice list][3] and click **Pobierz PDF**. In the dialog, select the language and click **Pobierz**.
 
-After printing, the invoice status changes to `WYDRUKOWANO` and it starts counting toward the next month's tax and ZUS.
+![inFakt: окно Pobierz w formacie PDF, выбор языка и кнопка Pobierz][7]
+
+After printing, the invoice is included in tax and ZUS calculations. The new income list shows payment status (**Nie zapłacono** / **Zapłacono**) separately: this does not replace checking that the invoice has been issued and submitted to KSeF.
 
 You can also send the invoice directly to the client's email by choosing **Wyślij e-mailem**.
 
 ## Paying taxes
 
 !!! warning "Important"
-    Make sure all invoices have been added and are in `WYDRUKOWANO` or `WYSŁANO` status, and that all exchange rate differences for the reporting period have been entered and accounted for.
+    Make sure all invoices have been added, issued and included in the calculation (rather than left in **Robocze**), and that all exchange rate differences for the reporting period have been entered and accounted for. For KSeF invoices, check that submission succeeded.
 
-You can find your tax payment account number using the [instructions on the taxes page][30].
+You can find your tax payment account number using the [instructions on the taxes page][8].
 Infakt retrieves the account number automatically during setup.
 
 Tax must be paid by the 20th of the month following the reporting month.
-In infakt, under [Księgowość -> Przegląd][6], you can see the amount due for the current month based on the issued invoices and recorded exchange rate differences.
+In infakt, under [Księgowość -> Przegląd][9], you can see the amount due for the current month based on the issued invoices and recorded exchange rate differences.
 
 There are two payment options:
 
 1. Manually — from your banking app.
 2. Via infakt.
 
-The second option is paid — the fee depends on the payment amount (roughly 3–5 PLN for the tax itself).
-However, it's the simplest and most convenient: just click **Opłać z inFakt** and confirm the payment depending on the payment method.
+To pay through infakt, click **Opłać z inFakt** and select a payment method. Before confirming, check the total and any fee on the payment screen: the terms depend on the payment method and connected services.
 
-![inFakt: tax amount due, Opłać z inFakt button][7]
+![inFakt: налог к оплате, кнопка Opłać z inFakt][10]
 
 Manual payment is done through your banking app.
 
@@ -96,7 +98,7 @@ Manual payment is done through your banking app.
     2. specify the payment identifier:
         - `PPE` for income tax
         - `VAT-7` for Polish VAT
-    3. enter your [tax payment account number][30]
+    3. enter your [tax payment account number][8]
     4. enter your NIP
     5. select Okres — Miesiąc and the corresponding year and month the tax is being paid for
     6. enter the payment amount
@@ -108,14 +110,14 @@ It makes sense to pay from the business account, since banks often require accou
 
 When done, mark the tax as paid in infakt.
 
-![PKO: Przelew Podatkowy form — Pozostałe, symbol PPE, tax account, Okres, NIP][8]
+![PKO: Przelew Podatkowy form — Pozostałe, symbol PPE, tax account, Okres, NIP][11]
 
 ## Preparing the ZUS DRA declaration and paying contributions
 
-You can find your ZUS micro-account number at [eskladka.pl][28].
-ZUS setup in inFakt is described in the [ZUS data settings section][29].
+You can find your ZUS micro-account number at [eskladka.pl][12].
+ZUS setup in inFakt is described in the [ZUS data settings section][13].
 
-By the 20th of each month you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. The infakt fee for ZUS payments is slightly lower (1–2 PLN).
+By the 20th of each month you need to pay the ZUS contribution and submit the declaration. As with taxes, the same two payment options are available. Check any fee on the payment screen before confirming.
 
 To pay directly through your banking app, execute a Przelew Krajowy, select the account to pay from (as mentioned above, it makes sense to pay from the business account):
 
@@ -125,34 +127,34 @@ To pay directly through your banking app, execute a Przelew Krajowy, select the 
 
 Enter the amount from the infakt page and complete the payment.
 
-![PKO: ZUS contribution transfer — recipient, micro-account number, Tytuł][9]
+![PKO: ZUS contribution transfer — recipient, micro-account number, Tytuł][14]
 
 When done, mark the contribution as paid.
 
-To generate the ZUS DRA declaration file, navigate to the relevant contribution in the contributions list (`Przejdź do składki`).
+To obtain the ZUS DRA file, go to **Księgowość -> Składki ZUS** and click the relevant month.
 
-![inFakt: ZUS contributions list, Przejdź do składki link][10]
+![inFakt: Składki ZUS, выбор месяца в колонке Okres][15]
 
 1. For record-keeping, it's worth attaching the ZUS payment receipt to the entry in infakt (`Dodaj załącznik`)
-2. Click `Pobierz ZUS DRA` to download the DRA file
+2. Click **Pobierz deklarację ZUS**, then **Pobierz XML**, to download the file for import into ZUS
 
-![inFakt: contribution page — Dodaj załącznik and Pobierz ZUS DRA buttons][11]
+![inFakt: страница складки, Pobierz deklarację ZUS и область добавления вложения][16]
 
 The downloaded file can be imported on the ZUS portal. Alternatively, you can create the same declaration manually, but importing the file is a bit faster.
 
-To import the file, log in to the ZUS portal, go to the [ePłatnik][12] tab under Dokumenty, and select Import KEDU.
+To import the file, log in to the ZUS portal, go to the [ePłatnik][17] tab under Dokumenty, and select Import KEDU.
 
-![ZUS portal, ePłatnik: Dokumenty section, Import KEDU item][13]
+![ZUS portal, ePłatnik: Dokumenty section, Import KEDU item][18]
 
 Review your data, click Dalej. On the next screen don't select anything, click Dalej again until you see the "Wybierz plik..." button. Click it and select the XML declaration file downloaded from infakt.
 
-![ePłatnik, Import KEDU: Wybór dokumentów screen, Dalej button][14]
+![ePłatnik, Import KEDU: Wybór dokumentów screen, Dalej button][19]
 
-![ePłatnik, Import KEDU: Wybierz plik button and the loaded XML file][15]
+![ePłatnik, Import KEDU: Wybierz plik button and the loaded XML file][20]
 
 If a ZIPA declaration appears after the import, uncheck it and click Dalej.
 
-![ePłatnik, Import KEDU: unchecking the ZUS ZIPA declaration][16]
+![ePłatnik, Import KEDU: unchecking the ZUS ZIPA declaration][21]
 
 Now you can click Podgląd to verify that the declaration contains the figures you expect.
 Then click `Weryfikuj`, followed by `Wyślij i zakończ`. Sign the declaration with your profil zaufany and you're done. The document should appear in the `Dokumenty wysłane` folder.
@@ -164,13 +166,13 @@ Then click `Weryfikuj`, followed by `Wyślij i zakończ`. Sign the declaration w
 
 To account for exchange rate differences, you need to know the rate (`K1`) at which the invoice was issued, and the Polish National Bank rate (`K2`) on the last business day preceding the payment receipt date. If the invoice issue date differs from the sale date, use the earlier date for (`K1`). If the currency from the business account is sold later, another rate (`K3`) may arise at the time of the currency sale. It is determined as the actual exchange rate at the time of selling the currency. The actual exchange rate can be determined when exchanging currency for zlotys. If the actual exchange rate `K3` is not known, then — as with receiving payment — it is calculated for the business day preceding the currency exchange date. Transferring foreign currency from the JDG currency account to a personal currency account does not create an exchange rate difference, since withdrawal of these funds is not related to business activity.
 
-🧮 [K2 ≠ K1 Calculator][17] (Transactional exchange rate differences from income)  
+🧮 [K2 ≠ K1 Calculator][22] (Transactional exchange rate differences from income)<br>
 `Kalkulator różnic kursowych - przychody w walucie obcej`
 
-🧮 [K3 ≠ K2 Calculator][35] (Exchange rate differences from own funds in a currency account)  
+🧮 [K3 ≠ K2 Calculator][23] (Exchange rate differences from own funds in a currency account)<br>
 `Kalkulator różnic kursowych od własnych środków walutowych`
 
-🧮 [Calculator][18] (Exchange rate differences from expenses)  
+🧮 [Calculator][24] (Exchange rate differences from expenses)<br>
 `Kalkulator różnic kursowych - koszty podatkowe w walucie obcej`
 
 * In the field marked with an asterisk, enter the actual exchange rate or leave it blank to use the average NBP rate from the previous business day before the transaction date.
@@ -180,12 +182,12 @@ To account for exchange rate differences, you need to know the rate (`K1`) at wh
 
 If you're on a cheaper subscription plan, you can use the following instructions.
 
-To enter an exchange rate difference (`K2` != `K1`, or `K3` != `K2`), you need to add a `Dowód wewnętrzny`. To do this, go to [Przychody -> Faktury][1], and there:
+To enter an exchange rate difference (`K2` != `K1`, or `K3` != `K2`), you need to add a `Dowód wewnętrzny`. To do this, go to [Przychody -> Lista przychodów][3], and there:
 
-1. Click the "hamburger button"
+1. Click **Inne dokumenty** — the three-dot button next to **Nowa faktura**
 2. Select `Dowód wewnętrzny`
 
-![inFakt: invoice list, menu with the Dowód wewnętrzny option][19]
+![inFakt: меню Inne dokumenty, пункт Dowód wewnętrzny][25]
 
 Here you select:
 
@@ -194,7 +196,7 @@ Here you select:
 3. enter the exchange rate difference amount (with a minus sign if it's negative)
 4. optionally, you can add details about the rates you calculated
 
-![inFakt: Dowód wewnętrzny form — Pozostałe przychody, exchange difference amount][20]
+![inFakt: форма Dowód wewnętrzny — Pozostałe przychody, сумма курсовой разницы][26]
 
 Save the changes and the document immediately starts participating in the tax base calculation.
 
@@ -206,37 +208,35 @@ Before submitting, make sure you've entered all expenses you want to deduct VAT 
 
 Now go to the menu księgowość -> Jednolity Plik Kontrolny and select the month you want to submit the declaration for.
 
-![Jednolity Plik Kontrolny — list of declarations][22]
+![Jednolity Plik Kontrolny — список деклараций][27]
 
 Make sure the amount in the declaration matches your expectations.
 
-If you have a VAT overpayment and want to get it refunded to your account, select **Zwrot podatku** from the right-hand menu and then choose the appropriate VAT refund option:
+If you have a VAT overpayment and want to get it refunded to your account, select **Zwrot podatku** from the actions menu on the right (available only when there is an overpayment), then choose the appropriate VAT refund option. The deadlines for 2026 according to the [Ministry of Finance][28] are:
 
 - 25 days if you meet certain conditions, including being a czynny VAT payer for at least a year.
-- 60 days — available if you had sales and purchases with VAT or cross-border sales in the reporting month.
+- 40 days — the standard deadline for reporting periods from February 2026 onwards (replacing the former 60 days).
 - 180 days — if you had no sales with VAT or cross-border sales, but you purchased something for the business.
 - Refund to the VAT account (within 25 days). No additional conditions required. Money from the VAT account can only be spent on taxes and ZUS.
 
-![zwrot VAT na rachunek][24]
+![inFakt: Część deklaracyjna, поля возврата VAT и зачёта в будущие налоги][29]
 
 If you don't want to wait months for a VAT refund, you can credit the VAT against another tax — for example, PIT-28 for ryczałt.
 
 1. Go to the **zwrot podatku** menu
 2. Enter the overpayment amount in the **Kwota do zaliczenia na przyszłe zobowiązania podatkowe** field.
 3. Write in words which tax you want to apply the VAT overpayment to. For example: PIT-28 za kwiecień 2026.
-4. When paying income tax, simply pay less by that amount.
+4. Before reducing your income tax payment, check that the tax office has credited the refund against the intended liability.
 
-Legal basis: [Art. 87][36]
+Legal basis: [Art. 87][30]
 
-![zaliczenie na przyszłe zobowiązania podatkowe][25]
-
-Click zapisz.
+Click **Zapisz** in the refund dialog, then check the selected refund and credit details in **Część deklaracyjna**.
 
 Now you can submit the declaration by clicking **Wyślij do urzędu**.
 
-![wyślij do urzędu][23]
+![wyślij do urzędu][31]
 
-Verify the declaration using your profil zaufany or last year's tax amount.
+Complete the submission authorization. If using authorization data, enter the **income from your PIT for the year before last**, rather than the tax amount.
 
 You'll receive a UPO from the tax office shortly.
 
@@ -244,9 +244,9 @@ You'll receive a UPO from the tax office shortly.
 
 If you're registered in the VAT-UE registry, you are required to submit a VAT-UE declaration for the previous month by the 25th of each month. However, unlike JPK_VAT7, there is no obligation to submit zero VAT-UE declarations if there were no intra-EU transactions in the reporting period.
 
-To submit the VAT-UE declaration, go to księgowość -> [Podatek VAT][31]. Select the desired month, verify that the correct amounts have been pulled into the declaration from your invoices, and submit by clicking **Wyślij do urzędu**.
+To submit the VAT-UE declaration, go to księgowość -> [Podatek VAT][32]. Select the desired month, verify that the correct amounts have been pulled into the declaration from your invoices, and submit by clicking **Wyślij do urzędu**.
 
-![Podatek VAT-UE — list of declarations][26]
+![Podatek VAT-UE — список деклараций][33]
 
 ### "Weryfikacja negatywna" error when submitting
 
@@ -261,7 +261,7 @@ How to fix it:
 1. Find your PIT declaration for the year before last (for ryczałt that's PIT-28) and take the income amount from it (in PIT-28 — field 62).
 2. Enter this amount in inFakt: **Ustawienia -> Księgowość -> Podatek dochodowy -> Przychód w roku N** (N being that year).
 
-    ![Ustawienia — Przychód w roku][27]
+    ![Ustawienia — Przychód w roku][34]
 
 3. Submit the declaration again.
 
@@ -269,48 +269,54 @@ If you had no income in the year before last (or the business didn't exist yet),
 
 ## Editing an invoice
 
-If an error is found after issuing an invoice (e.g. an incorrect invoice amount, whether higher or lower) **and taxes have not yet been paid and the ZUS DRA declaration has not been generated for that month**, there are several ways to fix it:
+Before issuing an invoice in KSeF, you can change its details through **... -> Edytuj**. Drafts are available under **Przychody -> Lista przychodów -> Robocze**. Check and correct the details before submitting with **Wyślij do KSeF**.
 
-1. Delete the issued invoice and create a new one with the correct data. Keep in mind that if you're on infakt's minimum plan, you only get 3 free invoices per month, so watch out for extra entries if you need to add other documents that same month (e.g. exchange rate differences).
-2. Edit the incorrect invoice. From the invoice list (the **Przychody** / **Lista przychodów** tab), go to the invoice page you need to edit, then click the `...` button in the upper right corner and select **Edytuj** ![inFakt: Edytuj button in the invoice menu][33]
+Once KSeF has accepted an invoice, you cannot change it. To correct the price, quantity, VAT or buyer details, open the **...** menu on the right and select **Wystaw korektę** to issue a corrective invoice.
 
-Edit your invoice and click **Zapisz** in the bottom right corner. ![inFakt: Zapisz button][34]
+![inFakt: меню фактуры, пункты Wystaw korektę и Edytuj][35]
 
-After saving, you can verify that the corrected data was recorded properly by checking the corresponding entry in the **Ewidencja przychodów** menu on the **Księgowość** tab and confirming that the amount in the record matches the amount on the invoice.
+After submission to KSeF, **Edytuj** only lets you change available internal inFakt bookkeeping fields, such as the ryczałt rate. This does not change the invoice in KSeF. For an invoice already sent to KSeF, the buyer, price and VAT fields are disabled. Changing only the ryczałt rate does not require resending the invoice to the client or KSeF — see the [inFakt instructions][36].
 
-[1]: https://app.infakt.pl/app/faktury
-[2]: images/infakt_routine/new_fakture.png
-[3]: infakt_settings.md
-[4]: images/infakt_routine/new_fakture_2.png
-[5]: images/infakt_routine/drukuj_fakture.png
-[6]: https://app.infakt.pl/app/ksiegowosc
-[7]: images/infakt_routine/podatek_zryczaltowany.png
-[8]: images/infakt_routine/podatek_zryczaltowany_pko.png
-[9]: images/infakt_routine/zus_pko.png
-[10]: images/infakt_routine/ksiegowosc_przeglad_2.png
-[11]: images/infakt_routine/zus_dra.png
-[12]: https://www.zus.pl/portal/eplMain.npi
-[13]: images/infakt_routine/zus_import_kedu.png
-[14]: images/infakt_routine/zus_import_kedu_1.png
-[15]: images/infakt_routine/zus_import_kedu_2.jpg
-[16]: images/infakt_routine/zus_import_kedu_3.jpg
-[17]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-walutowy-roznic-kursowych-przychody-w-walucie-obcej
-[18]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-walutowy-roznic-kursowych-koszty-podatkowe-w-nbsp-walucie-obcej
-[19]: images/infakt_routine/dowod_wewnetrzny.png
-[20]: images/infakt_routine/dodatnia_ruznica.png
-[21]: https://www.infakt.pl/polecam/sobolevbel
-[22]: images/infakt_routine/jpk_v7_list.png
-[23]: images/infakt_routine/jpk_02_wyslij.jpg
-[24]: images/infakt_routine/jpk_03_zwrot_vat.jpg
-[25]: images/infakt_routine/jpk_04_zaliczenie.png
-[26]: images/infakt_routine/podatek_vat_ue.png
-[27]: images/infakt_settings/ustawienia_przychod_w_roku.png
-[28]: https://eskladka.pl/Home
-[29]: infakt_settings.md#zus-settings
-[30]: taxes.md#how-to-find-your-tax-payment-account
-[31]: https://app.infakt.pl/app/ksiegowosc/podatki/vat
-[32]: taxes.md#vat
-[33]: images/infakt_routine/edit_invoice_button.png
-[34]: images/infakt_routine/save_invoice_button.png
-[35]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
-[36]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-87
+Edit the available fields and click **Zapisz** in the bottom right corner.
+
+![inFakt: кнопка Zapisz в форме редактирования фактуры][37]
+
+After saving, check the entry in **Księgowość -> Ewidencja przychodów**. If tax for the period has already been calculated or paid, check its amount after the change as well.
+
+[1]: infakt_settings.md
+[2]: https://www.infakt.pl/polecam/sobolevbel
+[3]: https://app.infakt.pl/app/faktury
+[4]: images/infakt_routine/01_lista_przychodow.jpg
+[5]: taxes.md#vat
+[6]: images/infakt_routine/02_nowa_faktura.jpg
+[7]: images/infakt_routine/03_pobierz_pdf.jpg
+[8]: taxes.md#how-to-find-your-tax-payment-account
+[9]: https://app.infakt.pl/app/ksiegowosc
+[10]: images/infakt_routine/04_ksiegowosc_oplaty.jpg
+[11]: images/infakt_routine/podatek_zryczaltowany_pko.png
+[12]: https://eskladka.pl/Home
+[13]: infakt_settings.md#zus-settings
+[14]: images/infakt_routine/zus_pko.png
+[15]: images/infakt_routine/05_skladki_zus.jpg
+[16]: images/infakt_routine/06_deklaracja_zus.jpg
+[17]: https://www.zus.pl/portal/eplMain.npi
+[18]: images/infakt_routine/zus_import_kedu.png
+[19]: images/infakt_routine/zus_import_kedu_1.png
+[20]: images/infakt_routine/zus_import_kedu_2.jpg
+[21]: images/infakt_routine/zus_import_kedu_3.jpg
+[22]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-walutowy-roznic-kursowych-przychody-w-walucie-obcej
+[23]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-roznic-kursowych-od-wlasnych-srodkow-walutowych
+[24]: https://kalkulatory.gofin.pl/kalkulatory/kalkulator-walutowy-roznic-kursowych-koszty-podatkowe-w-nbsp-walucie-obcej
+[25]: images/infakt_routine/07_inne_dokumenty.jpg
+[26]: images/infakt_routine/08_dowod_wewnetrzny.jpg
+[27]: images/infakt_routine/09_jpk_v7.jpg
+[28]: https://podatki.gov.pl/podatki-firmowe/vat/poradniki-i-informatory/odliczenie-i-zwrot-podatku-vat
+[29]: images/infakt_routine/10_jpk_zwrot_podatku.jpg
+[30]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-87
+[31]: images/infakt_routine/11_jpk_wysylka.jpg
+[32]: https://app.infakt.pl/app/ksiegowosc/podatki/vat
+[33]: images/infakt_routine/12_vat_ue.jpg
+[34]: images/infakt_routine/13_przychod_autoryzacja.jpg
+[35]: images/infakt_routine/14_menu_faktury.jpg
+[36]: https://pomoc.infakt.pl/hc/pl/articles/39775503848850-Jak-zmieni%C4%87-stawk%C4%99-rycza%C5%82tu-na-wystawionej-fakturze-bez-sk%C5%82adania-korekty
+[37]: images/infakt_routine/15_zapisz_fakture.jpg
