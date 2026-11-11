@@ -58,13 +58,13 @@ Sign in to eZUS and [choose Konto płatnika for your JDG][4]. Open **Katalog us�
 
 Enter `RWS` in **Wyszukaj sprawę**. Expand **Złóż wniosek o zwolnienie z obowiązku opłacenia składek za wskazany miesiąc (RWS)** and click **Przejdź do usługi**. The card may appear under **Wakacje składkowe** or among recently used services.
 
-![Каталог eZUS: поиск RWS, нужная услуга и кнопка Przejdź do usługi][5]
+![eZUS catalogue: RWS search, matching service and Przejdź do usługi button][5]
 
 ### Selecting the Type
 
 Select the document type Wniosek.
 
-![Форма RWS: варианты Wniosek, Uzupełnienie/korekta wniosku и Wycofanie wniosku][6]
+![RWS form: Wniosek, Uzupełnienie/korekta wniosku and Wycofanie wniosku options][6]
 
 The screenshot shows the first of 3 available options:
 
@@ -78,20 +78,20 @@ Click Dalej to proceed to the next screen.
 
 Check the automatically filled NIP, PESEL, first name and surname. These fields cannot be edited in the wizard. The phone number is optional. Click **Dalej**.
 
-![Форма RWS: данные плательщика, необязательный телефон и кнопка Dalej][7]
+![RWS form: payer details, optional phone number and Dalej button][7]
 
 ### Selecting the Indicated Month
 
 In **Treść wniosku**, the month and year are filled automatically: the month after the application. The picture shows **12 / 2026** for an application in November 2026. This step does not offer an arbitrary month selector. Check the period and click **Dalej**.
 
-![Форма RWS: автоматически указанный месяц освобождения и кнопка Dalej][8]
+![RWS form: automatically filled exemption month and Dalej button][8]
 
 ### Declaring the Use of De Minimis Aid
 
 ZUS vacation is de minimis aid. Declare de minimis aid received over the **past three years**, not just the current calendar year.
 The total limit is EUR 300,000 over a rolling three-year period; the remaining allowance must cover the requested exemption. Previous ZUS vacations also count as this aid.
 
-![Форма RWS: полученная помощь de minimis, выбор zaświadczenia и кнопка Dalej][9]
+![RWS form: de minimis aid received, zaświadczenia option and Dalej button][9]
 
 !!! quote
     I declare that:
@@ -129,17 +129,17 @@ _"Where do I get the de minimis aid certificate?"_
 
 In **Sprawy płatnika → Według tematyki**, open **Zobacz więcej → Wakacje składkowe**. Find the processed application with a positive result and choose **⋯ → Zobacz szczegóły**. Under **Odpowiedzi z ZUS**, open the received reply using **⋯ → Zobacz szczegóły**.
 
-![Дело RWS: раздел Odpowiedzi z ZUS и действие Zobacz szczegóły у полученного ответа][11]
+![RWS case: Odpowiedzi z ZUS section and Zobacz szczegóły action for the received reply][11]
 
 In the reply’s **Podsumowanie**, download **Zaświadczenie_rws-r-zasw.pdf**. **Informacja_rws-inf-zwol.pdf**, the information granting the exemption, is available there too.
 
-![Ответ ZUS по RWS: файлы Informacja_rws-inf-zwol.pdf и Zaświadczenie_rws-r-zasw.pdf][12]
+![ZUS reply to RWS: Informacja_rws-inf-zwol.pdf and Zaświadczenie_rws-r-zasw.pdf files][12]
 
 The certificate for the new aid is **in the ZUS reply**. Attachments to the original RWS application contain the documents you submitted, including certificates for earlier vacations.
 
 ### Entrepreneur Categories
 
-![Форма RWS: выбор размера предприятия в разделе Wielkość podmiotu][13]
+![RWS form: selecting the enterprise size under Wielkość podmiotu][13]
 
 Translation of the content with category explanations
 !!! quote "Translation"
@@ -170,13 +170,13 @@ The example selects **Micro entrepreneur**. Choose the category that matches you
 
 In **Klasa działalności**, open the PKD picker with the magnifying-glass button. In **Wybór kodu PKD**, check **Wersja PKD**: classifications **2007** and **2025** are available. Use the classification under which your activity is registered in CEIDG. Find your code, select its row and click **Wybierz**, then **Dalej**.
 
-![Выбор PKD в RWS: поиск кода, выбранная строка 6210B и кнопка Wybierz][14]
+![PKD selection in RWS: code search, selected row 6210B and Wybierz button][14]
 
 The picture illustrates **6210B (62.10.B)** from PKD 2025 — select your own activity code.
 
 ### Relationships with Other Entrepreneurs
 
-![Форма RWS: вопросы о связях с другими предпринимателями и кнопка Dalej][15]
+![RWS form: questions about relationships with other entrepreneurs and Dalej button][15]
 
 !!! quote "Translation"
     Is there a relationship between the entity and other entrepreneurs, consisting of the fact that:
@@ -191,7 +191,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About the Entity's Origin
 
-![Форма RWS: вопросы о возникновении предприятия и кнопка Dalej][16]
+![RWS form: questions about how the enterprise was formed and Dalej button][16]
 
 !!! quote "Translation"
     In the past 3 years, the entity:
@@ -205,7 +205,7 @@ In the example, all categories are marked as negative. If even one answer is TAK
 
 ### Information About Specific Activity Categories
 
-![Форма RWS: вопросы о сельском хозяйстве и рыболовстве, кнопка Dalej][17]
+![RWS form: questions about agriculture and fishing, and Dalej button][17]
 
 !!! quote "Translation"
     Information about business activity conducted by the entity to which de minimis aid is to be granted
@@ -223,37 +223,37 @@ In the example, all categories are marked as negative. Select the options that a
 
 In the separate **Załączniki** step, attach certificates if you selected **korzystałem z pomocy publicznej de minimis → zaświadczenia**. Click **Kliknij tutaj, aby dodać plik**. With that confirmation option selected, the wizard will not let you continue without an attachment.
 
-![Форма RWS: отдельный шаг Załączniki, загрузка файла и кнопка Dalej][18]
+![RWS form: separate Załączniki step, file upload and Dalej button][18]
 
 Click **Dalej**. In **Podsumowanie**, review the application in **Widok danych dokumentu** or download its PDF using **Pobierz**. Then click **Podpisz i wyślij**.
 
-![Сводка RWS: просмотр данных, скачивание PDF и кнопка Podpisz i wyślij][19]
+![RWS summary: data preview, PDF download and Podpisz i wyślij button][19]
 
 **Wybierz metodę podpisu** opens. To sign through the current account, select **eZUS** and click **Podpisz**. **podpisem zaufanym (PZ)**, a qualified signature and e-dowód are also available. The former option name **Podpis profilem PUE** is no longer used.
 
-![Подпись RWS: выбран способ eZUS, выделена кнопка Podpisz][20]
+![Signing RWS: eZUS method selected and Podpisz button highlighted][20]
 
 #### Success Criteria
 
 After sending, open [**Sprawy płatnika → Według statusu → Wysłane**][21], enter `RWS` in the search field and choose **⋯ → Zobacz szczegóły** for your application.
 
-![Отправленные дела: поиск RWS и действие Zobacz szczegóły у заявления][22]
+![Sent cases: RWS search and Zobacz szczegóły action for the application][22]
 
 **Podsumowanie** provides **Urzędowe poświadczenie przedłożenia UPP (XML)** and its **Podgląd**. This confirms submission. Check the ZUS reply separately for the application outcome.
 
-![Детали отправленного RWS: Urzędowe poświadczenie przedłożenia UPP и кнопка Podgląd][23]
+![Sent RWS details: Urzędowe poświadczenie przedłożenia UPP and Podgląd button][23]
 
 ### What's Next
 
 Wait for the reply in eZUS. Find a new application under **Sprawy płatnika → Według statusu → Wysłane**. Processed RWS applications are also available through **Według tematyki → Zobacz więcej → Wakacje składkowe**; a positive result displays **Zwolnienie przyznane**. Open **⋯ → Zobacz szczegóły**.
 
-![Рассмотренные дела Wakacje składkowe: статус Zwolnienie przyznane и действие Zobacz szczegóły][24]
+![Processed Wakacje składkowe cases: Zwolnienie przyznane status and Zobacz szczegóły action][24]
 
 Replies are inside the case under **Odpowiedzi z ZUS**. They may include interim letters and the final **Informacja o przyznaniu zwolnienia**. The FAQ above explains how to download the de minimis certificate. If notifications are enabled, eZUS will also notify you of a new letter by email or SMS.
 
 If you don't pay the voluntary składka chorobowa (the one for sick leave) and apply for the vacation, ZUS may at some point send something like this:
 
-!!!quote "Zawiadomenie"
+!!! quote "Zawiadomenie"
     Zakończyliśmy postępowanie w sprawie ustalenia prawa do zwolnienia z obowiązku opłacenia składek za czerwiec 2025 r., wszczętego na Pana wniosek z 29 maja 2025 r.
 
     W wyniku weryfikacji stwierdziliśmy, że nie spełnia Pan następujących przesłanek ustawowych:
