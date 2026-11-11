@@ -155,9 +155,9 @@ In the *Wybór schematu podlegania* window, select the appropriate insurance aff
     |-|------------|---------|-----------|-----------|-----------|
     |☑| M | M | V | M | M |
 
-    Legend:  
-    M - mandatory contribution  
-    V - voluntary contribution  
+    Legend:<br>
+    M - mandatory contribution<br>
+    V - voluntary contribution
 
 In the *Kod tytułu ubezpieczenia* window, in the left column:
 
@@ -187,7 +187,7 @@ In the dialog that appears, click "OK".
 ![Informacja dialog about the changed insurance scheme, OK button][14]
 
 ??? note "Screenshot translation"
-    **Information**  
+    **Information**<br>
     The insurance type selections you made have caused a change to the previously selected affiliation scheme.
 
 On the step "Zgłoszenie ubezpieczonego » Tytuły ubezpieczeń" select the row you just added with code **057000**.
