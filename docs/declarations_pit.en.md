@@ -65,10 +65,10 @@ A joint PIT with a child can be filed by a parent or guardian raising a child al
 
 !!! info "Useful links"
 
-    📜 Law: [Art. 6 - Podatek dochodowy od osób fizycznych][58].  
-    📚 [Wspólne rozliczenie małżonków][59] - tax office website  
-    📚 [Wspólne rozliczenie małżonków PIT][60] - e-pity  
-    📚 [Osoba samotnie wychowująca dziecko][61] - tax office website  
+    📜 Law: [Art. 6 - Podatek dochodowy od osób fizycznych][58].<br>
+    📚 [Wspólne rozliczenie małżonków][59] - tax office website<br>
+    📚 [Wspólne rozliczenie małżonków PIT][60] - e-pity<br>
+    📚 [Osoba samotnie wychowująca dziecko][61] - tax office website
 
 ## Ways to File PIT
 

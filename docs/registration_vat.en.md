@@ -201,10 +201,10 @@ a bit of detail on your day-to-day work. There’s no strict format, but it’s 
 as `.pdf`, `.docx`, or a scan.
 
 !!! example
-    Imię Nazwisko  
-    ul. Ulica 123/125  
-    00-123 Miasto  
-    NIP: 1234567890  
+    Imię Nazwisko<br>
+    ul. Ulica 123/125<br>
+    00-123 Miasto<br>
+    NIP: 1234567890<br>
     PESEL: 2345678901
 
     **Oświadczenie**

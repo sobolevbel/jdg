@@ -146,7 +146,7 @@ tags:
 
 ![Шаг Dane właściciela adresu do e-Doręczeń: поле e-mail для уведомлений][22]
 
-Шаг "Administratorzy skrzynki e-Doręczeń".  
+Шаг "Administratorzy skrzynki e-Doręczeń".<br>
 Если хотите, чтобы к адресу e-Doręczeń имел доступ другой человек (администратор), добавьте его. У него будут такие же права, как и у собственника. В дальнейшем его можно будет удалить.
 Если нет, выбираем - `Nie`.
 

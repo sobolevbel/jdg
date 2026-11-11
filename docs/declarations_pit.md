@@ -65,10 +65,10 @@ PIT-28 с доходами от аренды является исключени
 
 !!! info "Полезные ссылки"
 
-    📜 Закон: [Art. 6 - Podatek dochodowy od osób fizycznych][2].  
-    📚 [Wspólne rozliczenie małżonków][3] - сайт налоговой  
-    📚 [Wspólne rozliczenie małżonków PIT][4] - e-pity  
-    📚 [Osoba samotnie wychowująca dziecko][5] - сайт налоговой  
+    📜 Закон: [Art. 6 - Podatek dochodowy od osób fizycznych][2].<br>
+    📚 [Wspólne rozliczenie małżonków][3] - сайт налоговой<br>
+    📚 [Wspólne rozliczenie małżonków PIT][4] - e-pity<br>
+    📚 [Osoba samotnie wychowująca dziecko][5] - сайт налоговой
 
 ## Способы подачи PIT
 
