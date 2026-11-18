@@ -85,7 +85,7 @@ On the minimum Duży ZUS in 2026 that is `5,652 × 86.29% × 81.5% ≈ 3,975 zł
 
 If the calculated benefit comes out below 1,000 zł net (for example after Ulga na Start
 or on składki preferencyjne), it is **topped up to 1,000 zł** — the level of the
-świadczenie rodzicielskie ([details at Zielona Linia][4]).
+świadczenie rodzicielskie ([details on Biznes.gov.pl][4]).
 
 While receiving zasiłek macierzyński:
 
@@ -143,7 +143,7 @@ A walkthrough with worked examples is available at [Poradnik Przedsiębiorcy][7]
 [1]: https://poradnikprzedsiebiorcy.pl/-zasilek-macierzynski-a-dzialalnosc-gospodarcza
 [2]: https://lexlege.pl/swiad-pieniez-z/art-48a/
 [3]: https://poradnikprzedsiebiorcy.pl/wskazniki/maksymalna-podstawa-dobrowolnego-ubezpieczenia-chorobowego
-[4]: https://zielonalinia.gov.pl/zasilek-macierzynski-dla-przedsiebiorcy-46386/
+[4]: https://biznes.gov.pl/pl/portal/00289#4
 [5]: https://www.ifirma.pl/blog/spoznienie-z-oplacaniem-skladki-chorobowej-nie-wyklucza-z-ubezpieczenia-chorobowego/
 [6]: https://lexlege.pl/swiad-pieniez-z/art-49/
 [7]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia

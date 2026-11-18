@@ -67,12 +67,11 @@ Exchange rates are taken from the [Narodowy Bank Polski][8] (National Bank of Po
 
 ## Filing the VAT-UE declaration
 
-Filing the VAT-UE e-declaration is done on the tax office website using an [interactive PDF form][9].
+You can file VAT-UE using the [online form on the tax office website][9].
 
-- First, you need to install Adobe Reader and its extension from the [e-Deklaracje plugin page][10].
-- On the same page at the bottom there are instructions. In short: download the PDF form, open it in Adobe Reader with the
-    installed extension, fill out the form, and use the extension's wizard to sign with your personal data and submit.
-- At the end of the wizard there will be a link to download the UPO (confirmation of submission).
+- In the **VAT-UE** section, select **Wypełnij online i podpisz**, complete the form, sign it using authentication data (dane autoryzujące) or a qualified electronic signature, and submit it.
+- Alternatively, select **Wypełnij online w eUrzędzie Skarbowym** and sign in using Profil Zaufany, online banking or mObywatel.
+- After submission, check the declaration's status. Once it reaches **200**, download and save the UPO (confirmation of submission; [Ministry of Finance instructions][10]).
 
 ## What documents to keep
 
@@ -117,8 +116,8 @@ List of documents:
 [6]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
 [7]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
 [8]: https://nbp.pl/en/statistic-and-financial-reporting/rates/archive-table-a-csv-xls/
-[9]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
-[10]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+[9]: https://podatki.gov.pl/podatki-firmowe/vat/formularze-vat#VATUE
+[10]: https://podatki.gov.pl/narzedzia/jak-pobrac-urzedowe-poswiadczenie-odbioru-upo
 [11]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [12]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
 [13]: zus_vacation.md#monthly-reports-during-zus-vacation

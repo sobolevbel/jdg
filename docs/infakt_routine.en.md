@@ -310,7 +310,7 @@ After saving, check the entry in **Księgowość -> Ewidencja przychodów**. If 
 [25]: images/infakt_routine/07_inne_dokumenty.jpg
 [26]: images/infakt_routine/08_dowod_wewnetrzny.jpg
 [27]: images/infakt_routine/09_jpk_v7.jpg
-[28]: https://podatki.gov.pl/podatki-firmowe/vat/poradniki-i-informatory/odliczenie-i-zwrot-podatku-vat
+[28]: https://podatki.gov.pl/poradniki-i-informatory/odliczenie-i-zwrot-podatku-vat
 [29]: images/infakt_routine/10_jpk_zwrot_podatku.jpg
 [30]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-87
 [31]: images/infakt_routine/11_jpk_wysylka.jpg

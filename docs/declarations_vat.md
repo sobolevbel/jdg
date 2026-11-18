@@ -161,4 +161,4 @@ Coming soon...
 [10]: https://pomoc.wfirma.pl/-odczytywanie-faktur-z-telefonu
 [11]: https://pomoc.wfirma.pl/-jak-zaksiegowac-zakup-towarow-od-kontrahenta-z-ue
 [12]: https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/podatek-od-towarow-i-uslug-17086198/art-100
-[13]: https://www.podatki.gov.pl/podatki-firmowe/vat/formularze/#VAT-UE
+[13]: https://podatki.gov.pl/podatki-firmowe/vat/formularze-vat#VATUE

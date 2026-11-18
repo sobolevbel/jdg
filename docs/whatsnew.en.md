@@ -9,6 +9,8 @@ tags:
 
 ## November 2026
 
+- Fixed links to VAT-UE forms and VAT refund rules. Updated the [JDG workflow][11] with the steps for filing VAT-UE online and downloading the UPO.
+- In the [sick leave and maternity benefits guide][10], the link about the maternity benefit top-up now points to official guidance on Biznes.gov.pl.
 - Translated the remaining Russian image descriptions for screen readers in the English [ZUS RWS guide][5] and fixed the quote markup.
 - In the [VAT-UE guide][1], the starting steps are now separate from the explanation of documents requested by the tax office.
 - Updated the guides for [JDG registration][2], [Polish VAT][3], [VAT-UE][1] and [CEIDG changes][4] for the current Biznes.gov.pl interface. Added VAT-UE registration for an existing Polish VAT taxpayer: preserving the original reason and date, choosing **Bez zmian** and leaving the financial-services block empty.
@@ -218,3 +220,5 @@ tags:
 [7]: zus_login.md
 [8]: infakt_routine.md
 [9]: infakt_settings.md
+[10]: zus_chorobowe.md
+[11]: workflow.md

@@ -85,7 +85,7 @@ dobrowolne ubezpieczenie chorobowe. Проще всего это сделать 
 
 Если расчётное пособие получается меньше 1 000 zł netto (например, после Ulgi na Start
 или на składkach preferencyjnych), его **доплачивают до 1 000 zł** — уровня świadczenia
-rodzicielskiego ([подробнее у Zielona Linia][4]).
+rodzicielskiego ([подробнее на Biznes.gov.pl][4]).
 
 Во время получения zasiłku macierzyńskiego:
 
@@ -139,7 +139,7 @@ rodzicielskiego ([подробнее у Zielona Linia][4]).
 [1]: https://poradnikprzedsiebiorcy.pl/-zasilek-macierzynski-a-dzialalnosc-gospodarcza
 [2]: https://lexlege.pl/swiad-pieniez-z/art-48a/
 [3]: https://poradnikprzedsiebiorcy.pl/wskazniki/maksymalna-podstawa-dobrowolnego-ubezpieczenia-chorobowego
-[4]: https://zielonalinia.gov.pl/zasilek-macierzynski-dla-przedsiebiorcy-46386/
+[4]: https://biznes.gov.pl/pl/portal/00289#4
 [5]: https://www.ifirma.pl/blog/spoznienie-z-oplacaniem-skladki-chorobowej-nie-wyklucza-z-ubezpieczenia-chorobowego/
 [6]: https://lexlege.pl/swiad-pieniez-z/art-49/
 [7]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia

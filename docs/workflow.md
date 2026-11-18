@@ -67,12 +67,11 @@ tags:
 
 ## Подача декларации VAT-UE
 
-Подача e-декларации VAT-UE происходит на сайте налоговой с помощью [интерактивной PDF-формы][10]
+Декларацию VAT-UE можно подать через [онлайн-форму на сайте налоговой][10].
 
-- Сперва нужно установить Adobe Reader и расширение к нему со [страницы плагина e-Deklaracje][11].
-- На этой же странице внизу есть инструкция. Вкратце: скачать pdf-ку с формой, открыть в Adobe Reader с установленным
-    расширением, заполнить форму, и через визард расширения подписать личными данными и отправить.
-- В конце визарда будет ссылка на скачивание UPO.
+- В разделе **VAT-UE** выберите **Wypełnij online i podpisz**, заполните форму, подпишите её данными авторизации (dane autoryzujące) или квалифицированной подписью и отправьте.
+- Также можно выбрать **Wypełnij online w eUrzędzie Skarbowym** и войти через Profil Zaufany, банк или mObywatel.
+- После отправки проверьте статус декларации. Когда появится статус **200**, скачайте и сохраните UPO ([инструкция Минфина][11]).
 
 ## Какие документы хранить
 
@@ -118,8 +117,8 @@ tags:
 [7]: https://pomoc.ifirma.pl/pomoc-artykul/transakcyjne-roznice-kursowe-u-ryczaltowca
 [8]: https://www.ifirma.pl/blog/roznice-kursowe-od-srodkow-wlasnych-a-ryczalt.html
 [9]: https://nbp.pl/statystyka-i-sprawozdawczosc/kursy/archiwum-tabela-a-csv-xls/
-[10]: https://www.podatki.gov.pl/vat/e-deklaracje-vat/formularze-vat/#VAT-UE
-[11]: https://podatki-arch.mf.gov.pl/e-deklaracje/wtyczka-do-podpisywania-i-przesylania-danych-xml-z-interaktywnych-formularzy-pdf/
+[10]: https://podatki.gov.pl/podatki-firmowe/vat/formularze-vat#VATUE
+[11]: https://podatki.gov.pl/narzedzia/jak-pobrac-urzedowe-poswiadczenie-odbioru-upo
 [12]: https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/938,pojecie.html
 [13]: https://poradnikprzedsiebiorcy.pl/-ewidencja-srodkow-trwalych
 [14]: zus_vacation.md#ezhemesiachnye-otchety-vo-vremia-zus-kanikul
