@@ -9,6 +9,7 @@ tags:
 
 ## November 2026
 
+- Added confirmed bases and calculations for [2027 ZUS contributions][12], chorobowe cost and pension contribution examples, and IKE/IKZE limits. Pending GUS data and FP/FS rates are marked separately; current 2026 amounts are retained.
 - Fixed links to VAT-UE forms and VAT refund rules. Updated the [JDG workflow][11] with the steps for filing VAT-UE online and downloading the UPO.
 - In the [sick leave and maternity benefits guide][10], the link about the maternity benefit top-up now points to official guidance on Biznes.gov.pl.
 - Translated the remaining Russian image descriptions for screen readers in the English [ZUS RWS guide][5] and fixed the quote markup.
@@ -222,3 +223,4 @@ tags:
 [9]: infakt_settings.md
 [10]: zus_chorobowe.md
 [11]: workflow.md
+[12]: zus.md#what-is-known-about-2027-contributions

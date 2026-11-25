@@ -116,6 +116,34 @@ their price.
 3. **Work longer.** Postponing retirement is the most powerful multiplier:
    more capital and a smaller divisor.
 
+## What is known for 2027
+
+Checked on 25 November 2026. The [minimum wage of 4,950 zł][11] and
+[projected average salary of 10,033 zł][12] give the following pension
+contributions from 1 January 2027 at the current rate of 19.52%:
+
+| Mode | Minimum base for 2027 | Składka emerytalna per month | For 12 full months |
+|---|---|---|---|
+| Składki preferencyjne | 1,485.00 zł | 289.87 zł | 3,478.44 zł |
+| Duży ZUS | 6,019.80 zł | 1,175.06 zł | 14,100.72 zł |
+
+The annual amounts assume 12 full months of contributions at the stated base,
+without indexation. In the 25-year Duży ZUS illustration at 2027 prices, the
+capital would be `1,175.06 × 12 × 25 = 352,518 zł`. The future pension also
+depends on indexation and the life expectancy table at retirement. The payout
+example above remains an illustration at 2026 prices.
+
+The following limits for 2027 have also been published:
+
+- [30-krotność][12]: **300,990 zł** annual base for emerytalne and rentowe contributions;
+- [IKE][13]: **30,099 zł**;
+- [IKZE][14]: **12,039.60 zł**, or **18,059.40 zł** for entrepreneurs.
+
+The minimum pension after indexation from 1 March 2027 still requires an
+official publication. The new GUS life expectancy table for the period from
+1 April 2027 has not yet been published either; the current 2026/27 table
+applies until 31 March 2027. The 2026 amounts and examples remain separate above.
+
 ## What is inherited and what is not
 
 The 19.52% pension contribution is split in two: 12.22 p.p. go to your main ZUS
@@ -156,3 +184,7 @@ A pension earned in Poland is not lost:
 [8]: https://www.zus.pl/o-zus/wspolpraca-miedzynarodowa-zus/umowy-miedzynarodowe-o-zabezpieczeniu-spolecznym
 [9]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001373
 [10]: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000575
+[11]: https://api.sejm.gov.pl/eli/acts/DU/2026/1213/text.pdf
+[12]: https://api.sejm.gov.pl/eli/acts/MP/2026/1098/text.pdf
+[13]: https://api.sejm.gov.pl/eli/acts/MP/2026/1081/text.pdf
+[14]: https://api.sejm.gov.pl/eli/acts/MP/2026/1062/text.pdf

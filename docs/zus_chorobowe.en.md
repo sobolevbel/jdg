@@ -34,6 +34,37 @@ it only exists alongside the mandatory składki społeczne, which are not paid o
 
 Like the other społeczne, składka chorobowa reduces your income tax base.
 
+## Calculations for 2027
+
+Checked on 25 November 2026. From 1 January 2027 the minimum wage will be
+[4,950 zł][8], and the published projected average salary is [10,033 zł][9].
+At the current chorobowe rate of 2.45%, the amounts are:
+
+| Mode | Minimum base for 2027 | Monthly contribution | For 12 full months |
+|---|---|---|---|
+| Składki preferencyjne | 1,485.00 zł | 36.38 zł | 436.56 zł |
+| Duży ZUS | 6,019.80 zł | 147.49 zł | 1,769.88 zł |
+
+The annual cost assumes no breaks or ZUS contribution holidays. The maximum
+chorobowe base for 2027 is `10,033 × 250% = 25,082.50 zł`. The arrears threshold
+that blocks benefits will be 1% of the minimum wage, **49.50 zł**
+(payment is blocked when the debt is **above** this amount).
+
+!!! example "Examples using the 2027 base"
+    If all 12 full months in the assessment period used the minimum Duży ZUS
+    base for 2027, the benefit base would be
+    `6,019.80 × 86.29% ≈ 5,194.49 zł`, sick pay approximately **138.52 zł gross
+    per day**, and maternity benefit at 81.5% roughly **4,234 zł gross for 30 days**.
+    The annual contribution still corresponds to roughly **13 days of sick pay**.
+    This is an illustration: actual benefits depend on the bases in preceding
+    months and do not automatically rise to these amounts in January 2027.
+
+    In the art. 48a example, if all five full months fall in 2027, a declared
+    base of 10,000 zł gives the following before the 13.71% deduction:
+    `6,019.80 + (10,000 − 6,019.80) × 5/12 ≈ 7,678.22 zł`.
+
+The other monetary examples on this page use 2026 figures.
+
 ## How to join
 
 You join with a **ZUS ZUA** application — either when registering your JDG
@@ -147,3 +178,5 @@ A walkthrough with worked examples is available at [Poradnik Przedsiębiorcy][7]
 [5]: https://www.ifirma.pl/blog/spoznienie-z-oplacaniem-skladki-chorobowej-nie-wyklucza-z-ubezpieczenia-chorobowego/
 [6]: https://lexlege.pl/swiad-pieniez-z/art-49/
 [7]: https://poradnikprzedsiebiorcy.pl/-wysokosc-zasilku-macierzynskiego-na-dzialalnosci-gospodarczej-pytania-odpowiedzi-i-wyliczenia
+[8]: https://api.sejm.gov.pl/eli/acts/DU/2026/1213/text.pdf
+[9]: https://api.sejm.gov.pl/eli/acts/MP/2026/1098/text.pdf

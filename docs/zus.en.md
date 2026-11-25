@@ -138,6 +138,55 @@ For the first 6 months you can take advantage of the "[Ulga na start][5]" relief
 
 More details at [biznes.gov.pl][8] and [e-pity][9]
 
+## What is known about 2027 contributions
+
+Checked on **25 November 2026**. The tables and Maksym's example above apply to
+2026. The following amounts are calculated for contributions **from January 2027**:
+
+- the minimum wage of **4,950 zł** was approved by the [Regulation of 14 September
+  2026, Dz.U. item 1213][34]; the Preferencyjne base is `4,950 × 30% = 1,485 zł`;
+- the projected average salary of **10,033 zł** has already been announced for
+  contribution calculations in [M.P. 2026 item 1098][35]; the Duży ZUS base is
+  `10,033 × 60% = 6,019.80 zł`. This base no longer awaits the final budget act.
+
+Calculations use [current ZUS rates][36] and a **1.67%** wypadkowe rate.
+Each contribution is rounded to the nearest grosz before adding the amounts.
+Your total will differ if another wypadkowe rate applies to you.
+
+| Monthly contribution, zł | Preferencyjne 2026 | Preferencyjne 2027 | Duży ZUS 2026 | Duży ZUS 2027 |
+|---|---:|---:|---:|---:|
+| Base | 1,441.80 | 1,485.00 | 5,652.00 | 6,019.80 |
+| Emerytalna, 19.52% | 281.44 | 289.87 | 1,103.27 | 1,175.06 |
+| Rentowa, 8% | 115.34 | 118.80 | 452.16 | 481.58 |
+| Wypadkowa, 1.67% | 24.08 | 24.80 | 94.39 | 100.53 |
+| **Mandatory social contributions excluding FP/FS and health insurance** | **420.86** | **433.47** | **1,649.82** | **1,757.17** |
+| Voluntary chorobowa, 2.45% | 35.32 | 36.38 | 138.47 | 147.49 |
+| Social contributions including chorobowa, excluding FP/FS and health insurance | 456.18 | 469.85 | 1,788.29 | 1,904.66 |
+
+### Amounts that are not yet final
+
+| 2027 amount | What is still needed |
+|---|---|
+| FP and FS under Duży ZUS | The budget sets these rates; the [2027 budget bill][37] has not yet passed. If the combined rate remains 2.45%, the contribution will be 147.49 zł |
+| Duży ZUS including FP/FS, excluding health insurance | At the same 2.45%: 1,904.66 zł without chorobowe or 2,052.15 zł with it. These are conditional calculations pending final FP/FS rates |
+| Health contributions under ryczałt, all three bands | The GUS publication on the average enterprise-sector salary including profit payments for Q4 2026, followed by ZUS tables. The new amounts apply to January–December 2027 |
+| Full ZUS totals under ryczałt and Maksym's annual example | New health contributions and, for Duży ZUS, final FP/FS rates. Adding 2026 health amounts to new social contributions does not give a valid 2027 total |
+
+[ZUS explains that the budget act sets the Fundusz Pracy rate][38].
+Before calculating contributions from April, also check your wypadkowe rate
+for the new insurance year.
+
+!!! info "Minimum health contribution under skala and podatek liniowy"
+    Here, the [contribution year runs from February to January][36]. For
+    **January 2027**, the minimum remains **432.54 zł**. Under current rules,
+    the minimum for **February 2027–January 2028** is `4,950 × 9% = 445.50 zł`.
+    This is a floor: the actual contribution depends on income. This amount
+    does not apply to the three ryczałt bands.
+
+See the separate calculations of [chorobowe costs and benefits][39] and
+[pension contributions and limits][40]. Minimum pensions after the March
+indexation and GUS life-expectancy tables for 2027/28 are still pending.
+
 ## Registration
 
 An entrepreneur is required to register with ZUS within 7 days of registering a JDG. This can be done either during the business registration process or afterwards.
@@ -295,3 +344,10 @@ To confirm your health insurance, you can obtain a certificate with an electroni
 [31]: images/zus/epuap_03_podpisz.png
 [32]: images/zus/epuap_04_potwierdzenie.png
 [33]: zus_login.md
+[34]: https://api.sejm.gov.pl/eli/acts/DU/2026/1213/text.pdf
+[35]: https://api.sejm.gov.pl/eli/acts/MP/2026/1098/text.pdf
+[36]: https://www.zus.pl/pl/firmy/rozliczenia-z-zus/skladki-na-ubezpieczenia
+[37]: https://api.sejm.gov.pl/sejm/term10/processes/3150
+[38]: https://bip.zus.pl/web/guest/pracujacy/fundusze-pozaubezpieczeniowe/fp
+[39]: zus_chorobowe.md
+[40]: emerytura.md
