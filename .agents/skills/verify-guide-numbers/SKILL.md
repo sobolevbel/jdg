@@ -11,10 +11,13 @@ language versions, recompute derived examples, and open a PR with an old→new t
 ## Process
 
 1. **Establish context.** Note today's date. Polish figures update on a schedule:
-   - **January**: minimum wage, prognozowane przeciętne wynagrodzenie → all ZUS
-     bases and contributions, 30-krotność, chorobowe cap, IKE/IKZE limits;
+   - **Before January**: check published regulations and ministerial notices for
+     next year's minimum wage, prognozowane przeciętne wynagrodzenie,
+     30-krotność and IKE/IKZE limits. Their January effective date does not mean
+     publication must wait until January. Derive ZUS bases and the chorobowe cap;
    - **~late January**: GUS announces average enterprise-sector salary for Q4 →
-     składka zdrowotna tiers for ryczałt payers (valid Feb–Jan);
+     składka zdrowotna tiers for ryczałt payers (valid Jan–Dec). The Feb–Jan
+     contribution year applies to skala/liniowy health minima instead;
    - **March 1**: pension/benefit waloryzacja → minimalna emerytura;
    - **April 1**: GUS life-expectancy tables (divisor in the pension formula);
    - ad-hoc: VAT rules (KSeF rollout), tax scale changes.
@@ -38,6 +41,61 @@ language versions, recompute derived examples, and open a PR with an old→new t
 7. **Maintain this registry.** If the guide gained new time-sensitive figures
    (hint: `grep -rn "zł\|злот\|20[0-9][0-9]" docs --include='*.md'`), add rows
    here in the same PR.
+
+For advance updates, retain the current year's tables and examples. Add a
+separate dated section for the next year, distinguishing published inputs,
+calculations under current rates, and amounts awaiting publication. Never mix
+new social contributions with old health contributions into a next-year total.
+Round each monthly contribution to grosz (decimal half-up) before summing;
+annual examples multiply the rounded monthly amount by the paid months.
+If the user asks for a local diff without publication, stop after local checks:
+do not commit, push, or open a PR.
+
+### 2027 preparation — checked 2026-11-25
+
+The 2026 registry below remains the current-year baseline. The following values
+are separate additions in `zus.md`, `zus_chorobowe.md`, `emerytura.md` and their
+English mirrors, not replacements of 2026 amounts.
+
+| Figure | 2026 | 2027 | Status / source |
+|---|---|---|---|
+| Minimum wage | 4 806 zł | 4 950 zł | Published; effective 1 Jan 2027, [DU/2026/1213](https://api.sejm.gov.pl/eli/acts/DU/2026/1213/text.pdf) |
+| Projected average salary for ZUS | 9 420 zł | 10 033 zł | Published, [MP/2026/1098](https://api.sejm.gov.pl/eli/acts/MP/2026/1098/text.pdf); no longer awaiting a budget estimate |
+| Preferencyjne / Duży base | 1 441,80 / 5 652,00 zł | 1 485,00 / 6 019,80 zł | 30% minimum wage / 60% announced projected salary |
+| Emerytalna pref / duży | 281,44 / 1 103,27 zł | 289,87 / 1 175,06 zł | 19.52% |
+| Rentowa pref / duży | 115,34 / 452,16 zł | 118,80 / 481,58 zł | 8% |
+| Wypadkowa pref / duży | 24,08 / 94,39 zł | 24,80 / 100,53 zł | At 1.67%; check the payer's rate, including the insurance year from April |
+| Mandatory social pref / duży, excluding FP/FS and health | 420,86 / 1 649,82 zł | 433,47 / 1 757,17 zł | Sum rounded components; [current ZUS rules](https://www.zus.pl/pl/firmy/rozliczenia-z-zus/skladki-na-ubezpieczenia) |
+| Chorobowa pref / duży | 35,32 / 138,47 zł | 36,38 / 147,49 zł | 2.45%, voluntary |
+| Social with chorobowa pref / duży, excluding FP/FS and health | 456,18 / 1 788,29 zł | 469,85 / 1 904,66 zł | Sum rounded components |
+| Chorobowa for 12 paid months, pref / duży | 423,84 / 1 661,64 zł | 436,56 / 1 769,88 zł | Rounded monthly contribution × 12 |
+| Pension contributions for 12 paid months, pref / duży | 3 377,28 / 13 239,24 zł | 3 478,44 / 14 100,72 zł | Rounded monthly contribution × 12 |
+| Chorobowe monthly base cap | 23 550 zł | 25 082,50 zł | 250% announced projected salary |
+| Annual emerytalne/rentowe cap | 282 600 zł | 300 990 zł | Published, MP/2026/1098 |
+| Benefit-blocking arrears threshold | 48,06 zł | 49,50 zł | 1% minimum wage; arrears must exceed the threshold |
+| Minimum zdrowotna, skala/liniowy | 432,54 zł for Feb 2026–Jan 2027 | 445,50 zł for Feb 2027–Jan 2028 | 9% minimum wage under current rules; Jan 2027 remains 432,54 zł |
+| IKE | 28 260 zł | 30 099 zł | Published, [MP/2026/1081](https://api.sejm.gov.pl/eli/acts/MP/2026/1081/text.pdf) |
+| IKZE standard / JDG | 11 304 / 16 956 zł | 12 039,60 / 18 059,40 zł | Published, [MP/2026/1062](https://api.sejm.gov.pl/eli/acts/MP/2026/1062/text.pdf) |
+
+Still pending as of the check date:
+
+- **FP/FS:** the [2027 budget bill](https://api.sejm.gov.pl/sejm/term10/processes/3150)
+  has not passed. At an unchanged combined 2.45%, FP/FS would be 147,49 zł,
+  and Duży ZUS with FP/FS would be 1 904,66 zł without chorobowa or 2 052,15 zł
+  with it, excluding health. These are conditional, not approved totals.
+- **Ryczałt health:** GUS Q4 2026 enterprise salary including profit payments,
+  then ZUS tables for Jan–Dec 2027. Do not use the projected salary of 10 033 zł.
+  Recompute all combined totals and Maksym's annual example only after this.
+- **Pensions:** March 2027 indexation / minimum pension and the GUS life table
+  effective April 2027. Keep the 2026 pension amount example and divisor.
+
+Derived 2027 examples: Duży benefit base 6 019,80 × 86.29% = 5 194,49 zł;
+sick pay about 138,52 zł/day, maternity about 4 234 zł per 30 days,
+break-even still about 13 days. These assume 12 full months at the new base,
+not an automatic benefit increase in January; actual benefits use insured
+history. The five-month art. 48a example becomes about 7 678 zł before 13.71%.
+The 25-year contribution-only example becomes 352 518 zł, without indexation;
+do not present it as an approved future pension.
 
 ## Registry of time-sensitive figures
 
@@ -68,7 +126,7 @@ the grep targets, not eternal truths.
 | Chorobowe base cap (250% of prognozowane) | 23 550 zł | `zus_chorobowe.md` |
 | 30-krotność annual cap | 282 600 zł | `emerytura.md` |
 
-### Składka zdrowotna (ryczałt tiers) — files: `zus.md` (+ example), `faq.md`
+### Składka zdrowotna (ryczałt tiers) — files: `zus.md` (+ example), `faq.md`, `wfirma_routine.md`
 
 | Figure | 2026 |
 |---|---|
@@ -141,6 +199,9 @@ the grep targets, not eternal truths.
 - `faq.md` and `index.md` (cost table) — the rough ZUS ranges (~500 / ~900–1300 /
   from ~2300 as of 2026) are approximations; update only if they drift far from
   reality, and keep both pages consistent.
+- `wfirma_routine.md` (+ `.en.md`) — the 2026 health contribution of 498,35 zł
+  and its deductible half of 249,18 zł; the first Ulga na Start payment example
+  also uses 498,35 zł. Await GUS before adding a 2027 version.
 - `index.md` — the "Что важно в 2026 году" block (KSeF dates, VAT limit
   240 000 zł, ZUS vacation) is a snapshot of current changes: refresh its
   contents each year and swap in whatever is newly relevant.
